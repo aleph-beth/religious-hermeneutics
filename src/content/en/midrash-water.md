@@ -51,6 +51,8 @@ The analysis unfolds across three levels: the narrative symbolism of water in fo
 
 **Keywords:** Comparative midrash, Semitic etymology, Abrahamic hermeneutics, water symbolism, sharī'a, Torah, halakha, be'er, teaching and law, Semitic linguistics, transreligious exegesis
 
+<a id="s1"></a>
+
 ## 1. Introduction: Water, Law, and Teaching in the Semitic Continuum
 
 In Biblical Hebrew, the verb בֵּאֵר (*be'er*) means "to explain, to clarify." The homonymous noun בְּאֵר (*be'er*) designates a well. This homonymy is not a lexical curiosity: it condenses, in a single triliteral root, the entire epistemology of Semitic traditions. To explain a text is to dig a well; to interpret is to draw water. Water, in these traditions, is never reducible to a natural element. It is a vector of meaning, a place of passage, a metaphor for Revelation — and, above all, the original vocabulary of what modernity calls "the Law."
@@ -85,6 +87,8 @@ To compare is not to relativise. Identifying common structures does not erase th
 
 Our approach rests on three complementary axes: diachronic analysis (evolution of Semitic roots across languages), synchronic analysis (comparison of contemporary usage across different religious traditions), and symbolic analysis (identification of shared metaphorical structures and their theological transformations). This methodology sits within the tradition of comparative Semitic linguistics and the comparative history of religions, privileging a scientific and critical reading as opposed to confessional and apologetic approaches.
 
+<a id="s2"></a>
+
 ## 2. Theoretical Framework: The Midrashic Revolution
 
 ### 2.1. Etymological Definition of Midrash
@@ -109,9 +113,13 @@ Midrash is not reducible to a literary genre but constitutes a multidimensional 
 
 This definition applies to all three Abrahamic traditions, even though only Judaism explicitly uses the term midrash.
 
+<a id="s3"></a>
+
 ## 3. First Level: The Symbolism of Water
 
 Before entering into etymological complexities, it is appropriate to begin with the most accessible element: the visual and narrative symbolism of water in Semitic traditions. This approach provides an intuitive understanding of the theological stakes before deepening their linguistic grounding.
+
+<a id="s3-1"></a>
 
 ### 3.1. The Well as Place of Encounter and Transmission
 
@@ -124,6 +132,8 @@ Genesis 26:18-22 recounts how Isaac re-digs his father Abraham's wells. This app
 #### The Well as Meeting Place for Marriage
 
 The three biblical matriarchs — Rebekah (Genesis 24), Rachel (Genesis 29), and Zipporah (Exodus 2) — meet their future spouse at the well. This recurrence is not coincidental. The well symbolises the depth of relationship, the source of life, and sharing. The well is a threshold between the surface (the apparent world) and the depths (hidden wisdom, true love). To draw water is to bring to the surface what was hidden.
+
+<a id="s3-2"></a>
 
 ### 3.2. The Crossing as Initiatory Passage
 
@@ -141,6 +151,8 @@ Descent into water = symbolic death to sin. Remaining under water = burial with 
 
 In 622, Muhammad and his companions flee Mecca (a hostile desert city) for Medina (Yathrib), an oasis city with access to water. Unlike the two previous models, there is no crossing of a body of water but rather a flight through the desert toward water. The inversion is significant: in the Exodus and Baptism, one crosses water to reach the promised land; in the Hijra, one crosses the desert to reach water. This inversion reveals a different theology: in Islam, water is not the obstacle to overcome but the goal to reach.
 
+<a id="s3-3"></a>
+
 ### 3.3. The Source as Origin and Destination
 
 #### Sharī'a: Path to the Source
@@ -154,6 +166,8 @@ Similarly, the Hebrew word תּוֹרָה (*Torah*), translated as "Law," derive
 > "Just as rain makes plants grow, so the Torah makes those who study it grow."
 > — Sifre Deuteronomy §42
 
+<a id="s3-4"></a>
+
 ### 3.4. Symbolic Synthesis: Three Aquatic Movements
 
 | Tradition | Movement | Dominant Image | Direction | Spiritual Posture |
@@ -164,9 +178,13 @@ Similarly, the Hebrew word תּוֹרָה (*Torah*), translated as "Law," derive
 
 These three movements are not mutually exclusive — they form a spiritual triptych in which each tradition privileges one aspect of a shared quest toward the source of meaning.
 
+<a id="s4"></a>
+
 ## 4. Second Level: Comparative Etymology
 
 Having explored the visible symbolism, we can now descend into linguistic depths to understand how words themselves carry these symbols.
+
+<a id="s4-1"></a>
 
 ### 4.1. The Constellation of the Well: Be'er, Bîrâ, Be'rā
 
@@ -193,6 +211,8 @@ The root B-'-R displays a remarkable distribution across Semitic languages, with
 Syriac ܒܐܪܐ (*be'rā*) develops a luminous connotation: to clarify = to illuminate. In Syriac Christian literature, the well becomes a metaphor for divine revelation that illuminates the darkness of ignorance. Ephrem the Syrian (4th century) develops in his *Hymns on Paradise* the symbolism of Jacob's well as a symbol of baptism, water that illuminates souls.
 
 Arabic بِئْر (*bi'r*), by contrast, remains predominantly in the concrete register. This difference does not indicate semantic poverty but rather a different distribution of symbolism: in Arabic, it is the term شريعة (*sharī'a*) that carries the aquatic metaphor applied to the Law.
+
+<a id="s4-2"></a>
 
 ### 4.2. Sharī'a: From the Path to Water to Teaching
 
@@ -233,6 +253,8 @@ The historical process unfolds in five stages: the original sense (7th century) 
 
 > **Epistemological implication:** There is no pure literal meaning or objective signification for a religious term. All meaning is historically constructed; all reading is already interpretation.
 
+<a id="s4-3"></a>
+
 ### 4.3. Torah: From Rain to Teaching
 
 #### Hebrew Etymology
@@ -266,6 +288,8 @@ Root י-ר-ה (Y-R-H).
 | Common modern translation | "Jewish law" | "Islamic law" | "Applied Jewish law" |
 | What the translation loses | The pedagogy, the irrigation, the rain | The movement, the path, the water | The walking, the dynamism, the body |
 
+<a id="s4-4"></a>
+
 > **Decisive observation:** This table reveals a remarkable philological fact: none of the central terms by which the Abrahamic traditions designate their foundational norm originally means "law" in the modern juridical sense. All three belong to the register of water, path, and teaching. *Torah* is a rain that instructs. *Sharī'a* is a trail leading to the source. *Halakha* is the walk itself. This convergence does not result from an agreement between traditions: it testifies to a common Semitic substrate in which the norm is not conceived as enclosure but as movement, where guidance never separates itself from the image of flowing water and the advancing path.
 
 #### Halakha: The Law as Walking
@@ -276,9 +300,13 @@ The convergence is striking: *halakha* (walking) and *sharī'a* (path to water) 
 
 **Synthetic conclusion:** Water is, in Semitic languages, the ancient way of speaking about what contemporary societies call "the law." But this ancient way of speaking says something that the word "law" no longer says: that the norm is alive, that teaching flows like a spring, that guidance is a path toward what gives life — not a wall that confines. Restoring this aquatic memory is not an antiquarian exercise: it is recovering the original conception of the norm in the Abrahamic traditions, a conception in which teaching, guiding, and legislating are not three separate acts but three inflections of a single movement — that of water seeking its gradient.
 
+<a id="s5"></a>
+
 ## 5. Third Level: Transreligious Midrashic Narratives
 
 Having explored symbolism (level 1) and etymology (level 2), we can now analyse how the narratives themselves function as transreligious midrashim — interpretations that circulate and transform between traditions.
+
+<a id="s5-1"></a>
 
 ### 5.1. Jacob's Well: Three Readings of a Single Narrative
 
@@ -320,6 +348,8 @@ The Quran universalises the well/source symbol:
 
 Muslim midrash does not particularise: all humans come from water; all must return to the source (*sharī'a*). There is no chosen people nor single mediator — only universal divine water.
 
+<a id="s5-2"></a>
+
 ### 5.2. Walking on Water: Transcendence and Faith
 
 #### The Gospel Narrative — Matthew 14:25-27
@@ -345,6 +375,8 @@ In the fourth watch of the night, Jesus goes to the disciples, walking on the se
 
 Peter steps out of the boat and walks on the water, but seeing the wind, he is afraid and begins to sink. Walking on water = living by faith (transcending natural laws); sinking = doubting (returning to the laws of gravity/finitude); the hand of Jesus = grace that saves. Water becomes a test of faith: only absolute trust prevents sinking.
 
+<a id="s5-3"></a>
+
 ### 5.3. The Hijra: Movement Toward the Source
 
 #### Historical Context
@@ -361,7 +393,11 @@ Medina is an oasis, a place where water emerges in the midst of desert. If *shar
 
 The Hijra is not merely a geographical displacement but an ontological rupture — leaving the world of ignorance (*jāhiliyya*) to enter the world of submission to God.
 
+<a id="s6"></a>
+
 ## 6. Midrash as Transreligious Method
+
+<a id="s6-1"></a>
 
 ### 6.1. The Principle of Remez (רֶמֶז) — Allusion
 
@@ -385,6 +421,8 @@ Typology is the method by which the Old Testament is read as prefiguring the New
 
 The Quran itself recognises that it contains ambiguous verses requiring interpretation.
 
+<a id="s6-2"></a>
+
 ### 6.2. The PaRDeS System: Transreligious Convergences
 
 | Level | Judaism | Christianity | Islam | Description |
@@ -395,6 +433,8 @@ The Quran itself recognises that it contains ambiguous verses requiring interpre
 | 4 | סוֹד (*Sod*) | *Sensus anagogicus* | باَطِن (*Bāṭin*) | Mystical sense |
 
 > **Capital observation:** This structural isomorphism is not coincidental. It reveals a common Abrahamic epistemology: the sacred text possesses multiple simultaneous layers of meaning.
+
+<a id="s7"></a>
 
 ## 7. Conclusion: Water as the Ancient Language of Teaching
 
@@ -431,6 +471,8 @@ To which we add, at the conclusion of this study:
 Midrash, in its Jewish, Christian, and Muslim variations, maintains the fluidity of meaning against the temptations of fundamentalist petrification. It is the breathing of Abrahamic thought, its perpetual movement between source and estuary, between ancestral wells and horizons yet to come. By restoring the aquatic memory of the words *Torah*, *sharī'a*, and *halakha*, this study does not engage in etymological nostalgia. It recalls that Abrahamic "Law," in its original conception, was never a monument of stone. It was always a watercourse — a teaching that flows, a path that advances, a rain that makes grow whoever is exposed to it.
 
 Midrashic water reflects not only the text, but also the one who leans over it to drink.
+
+<a id="s8"></a>
 
 ## 8. Bibliography
 
