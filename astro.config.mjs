@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://alephbeth-ai.github.io',
-  base: '/Claude-religious-hermeneutics',
+  site: 'https://aleph-beth.github.io',
+  base: '/religious-hermeneutics',
   output: 'static',
 });
