@@ -1,0 +1,183 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import WaveDecoration from '../../components/WaveDecoration.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const enArticles = await getCollection('en');
+  return enArticles.map(article => ({
+    params: { slug: article.data.pair },
+    props: { pair: article.data.pair },
+  }));
+}
+
+const { pair } = Astro.props;
+
+const enArticles = await getCollection('en');
+const frArticles = await getCollection('fr');
+
+const enArticle = enArticles.find(a => a.data.pair === pair)!;
+const frArticle = frArticles.find(a => a.data.pair === pair)!;
+
+const { Content: EnContent } = await render(enArticle);
+const { Content: FrContent } = await render(frArticle);
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
+
+const categoryLabels: Record<string, { en: string; fr: string }> = {
+  hermeneutics: { en: 'Semitic Hermeneutics', fr: 'Herméneutique sémitique' },
+  philosophy: { en: 'Philosophy & History', fr: 'Philosophie & Histoire' },
+  cultural: { en: 'Cultural Analysis', fr: 'Analyse culturelle' },
+};
+
+const catLabel = categoryLabels[enArticle.data.category] || { en: '', fr: '' };
+---
+
+<BaseLayout title={`${enArticle.data.title} | Living Waters`}>
+  <!-- Article Header -->
+  <section class="article-hero">
+    <div class="container">
+      <nav class="breadcrumb">
+        <a href={base}>
+          <span data-lang="en" class="active">Home</span>
+          <span data-lang="fr">Accueil</span>
+        </a>
+        <span class="breadcrumb-sep">/</span>
+        <a href={`${base}#${enArticle.data.category}`}>
+          <span data-lang="en" class="active">{catLabel.en}</span>
+          <span data-lang="fr">{catLabel.fr}</span>
+        </a>
+      </nav>
+      <h1 class="article-hero-title">
+        <span data-lang="en" class="active">{enArticle.data.title}</span>
+        <span data-lang="fr">{frArticle.data.title}</span>
+      </h1>
+      <p class="article-hero-desc">
+        <span data-lang="en" class="active">{enArticle.data.description}</span>
+        <span data-lang="fr">{frArticle.data.description}</span>
+      </p>
+    </div>
+    <WaveDecoration position="top" color="#E1F5FE" />
+  </section>
+
+  <!-- Article Content -->
+  <article class="article-body container">
+    <div class="content-container">
+      <div data-lang="en" class="active article-content">
+        <EnContent />
+      </div>
+      <div data-lang="fr" class="article-content">
+        <FrContent />
+      </div>
+    </div>
+
+    <!-- Back link -->
+    <div class="content-container back-link-wrapper">
+      <a href={base} class="back-link">
+        <span data-lang="en" class="active">&larr; Back to all articles</span>
+        <span data-lang="fr">&larr; Retour aux articles</span>
+      </a>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .article-hero {
+    background: linear-gradient(170deg, var(--water-deep) 0%, var(--water-mid) 100%);
+    padding: var(--space-2xl) 0 0;
+    position: relative;
+  }
+
+  .article-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 30% 70%, rgba(79, 195, 247, 0.1) 0%, transparent 50%);
+  }
+
+  .article-hero .container {
+    position: relative;
+    z-index: 1;
+    padding-bottom: var(--space-xl);
+  }
+
+  .breadcrumb {
+    font-size: 0.85rem;
+    margin-bottom: var(--space-lg);
+  }
+
+  .breadcrumb a {
+    color: var(--text-on-dark-muted);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--text-on-dark);
+  }
+
+  .breadcrumb-sep {
+    color: rgba(255, 255, 255, 0.3);
+    margin: 0 0.5rem;
+  }
+
+  .article-hero-title {
+    font-size: 2.5rem;
+    color: var(--text-on-dark);
+    margin-bottom: var(--space-md);
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .article-hero-desc {
+    color: var(--text-on-dark-muted);
+    font-size: 1.1rem;
+    font-style: italic;
+    font-family: var(--font-heading);
+  }
+
+  .article-body {
+    padding: var(--space-2xl) var(--space-lg);
+  }
+
+  .article-content {
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    padding: var(--space-2xl);
+    border: 1px solid rgba(179, 229, 252, 0.3);
+    box-shadow: 0 4px 20px rgba(10, 35, 66, 0.06);
+  }
+
+  .back-link-wrapper {
+    margin-top: var(--space-xl);
+    text-align: center;
+  }
+
+  .back-link {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: var(--water-deep);
+    color: var(--text-on-dark);
+    border-radius: 8px;
+    font-weight: 500;
+    transition: background 0.2s, transform 0.2s;
+    text-decoration: none;
+  }
+
+  .back-link:hover {
+    background: var(--water-mid);
+    transform: translateY(-2px);
+    color: var(--text-on-dark);
+  }
+
+  @media (max-width: 768px) {
+    .article-hero-title {
+      font-size: 1.8rem;
+    }
+
+    .article-content {
+      padding: var(--space-lg);
+      border-radius: 12px;
+    }
+  }
+</style>

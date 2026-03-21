@@ -1,0 +1,64 @@
+---
+interface Props {
+  id: string;
+  titleEn: string;
+  titleFr: string;
+  descEn: string;
+  descFr: string;
+  icon: string;
+  articleCount: number;
+}
+
+const { id, titleEn, titleFr, descEn, descFr, icon, articleCount } = Astro.props;
+---
+
+<div class="category-card card" id={id}>
+  <div class="category-icon" set:html={icon}></div>
+  <h2 class="category-title">
+    <span data-lang="en" class="active">{titleEn}</span>
+    <span data-lang="fr">{titleFr}</span>
+  </h2>
+  <p class="category-desc">
+    <span data-lang="en" class="active">{descEn}</span>
+    <span data-lang="fr">{descFr}</span>
+  </p>
+  <div class="category-count">
+    <span data-lang="en" class="active">{articleCount} article{articleCount > 1 ? 's' : ''}</span>
+    <span data-lang="fr">{articleCount} article{articleCount > 1 ? 's' : ''}</span>
+  </div>
+  <slot />
+</div>
+
+<style>
+  .category-card {
+    text-align: center;
+    padding: var(--space-xl) var(--space-lg);
+  }
+
+  .category-icon {
+    font-size: 2.5rem;
+    margin-bottom: var(--space-md);
+  }
+
+  .category-title {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: var(--space-sm);
+  }
+
+  .category-desc {
+    color: var(--text-secondary);
+    font-size: 0.92rem;
+    margin-bottom: var(--space-md);
+  }
+
+  .category-count {
+    display: inline-block;
+    background: var(--water-surface);
+    color: var(--water-mid);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+</style>

@@ -1,0 +1,194 @@
+---
+import LangToggle from './LangToggle.astro';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
+
+const categories = [
+  { id: 'hermeneutics', en: 'Hermeneutics', fr: 'Hermeneutique' },
+  { id: 'philosophy', en: 'Philosophy & History', fr: 'Philosophie & Histoire' },
+  { id: 'cultural', en: 'Cultural Analysis', fr: 'Analyse culturelle' },
+];
+---
+
+<header class="site-header">
+  <div class="header-inner container">
+    <a href={base} class="site-logo">
+      <span class="logo-icon">&#x1F4A7;</span>
+      <span class="logo-text">
+        <span class="logo-title">Living Waters</span>
+        <span class="logo-subtitle">Semitic Hermeneutics</span>
+      </span>
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      {categories.map(cat => (
+        <a href={`${base}#${cat.id}`} class="nav-link">
+          <span data-lang="en" class="active">{cat.en}</span>
+          <span data-lang="fr">{cat.fr}</span>
+        </a>
+      ))}
+    </nav>
+
+    <LangToggle />
+
+    <button class="menu-toggle" id="menu-toggle" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+    {categories.map(cat => (
+      <a href={`${base}#${cat.id}`} class="mobile-nav-link">
+        <span data-lang="en" class="active">{cat.en}</span>
+        <span data-lang="fr">{cat.fr}</span>
+      </a>
+    ))}
+  </nav>
+</header>
+
+<script>
+  document.getElementById('menu-toggle')?.addEventListener('click', () => {
+    document.getElementById('mobile-nav')?.classList.toggle('open');
+    document.getElementById('menu-toggle')?.classList.toggle('open');
+  });
+</script>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: linear-gradient(135deg, var(--water-deep), var(--water-mid));
+    box-shadow: 0 4px 24px rgba(10, 35, 66, 0.3);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+    padding-top: var(--space-md);
+    padding-bottom: var(--space-md);
+  }
+
+  .site-logo {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    color: var(--text-on-dark);
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+
+  .logo-icon {
+    font-size: 1.8rem;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+  }
+
+  .logo-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.2;
+  }
+
+  .logo-title {
+    font-family: var(--font-heading);
+    font-size: 1.35rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+
+  .logo-subtitle {
+    font-size: 0.7rem;
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+  }
+
+  .main-nav {
+    display: flex;
+    gap: var(--space-md);
+    margin-left: auto;
+  }
+
+  .nav-link {
+    color: var(--text-on-dark-muted);
+    font-size: 0.88rem;
+    font-weight: 500;
+    padding: 0.4rem 0.75rem;
+    border-radius: 8px;
+    transition: color 0.2s, background 0.2s;
+    text-decoration: none;
+  }
+
+  .nav-link:hover {
+    color: var(--text-on-dark);
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  .menu-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+  }
+
+  .menu-toggle span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: var(--text-on-dark);
+    border-radius: 2px;
+    transition: transform 0.3s, opacity 0.3s;
+  }
+
+  .menu-toggle.open span:nth-child(1) {
+    transform: rotate(45deg) translate(4px, 4px);
+  }
+
+  .menu-toggle.open span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .menu-toggle.open span:nth-child(3) {
+    transform: rotate(-45deg) translate(4px, -4px);
+  }
+
+  .mobile-nav {
+    display: none;
+    flex-direction: column;
+    padding: 0 var(--space-lg) var(--space-lg);
+    background: var(--water-deep);
+  }
+
+  .mobile-nav.open {
+    display: flex;
+  }
+
+  .mobile-nav-link {
+    color: var(--text-on-dark-muted);
+    padding: var(--space-sm) 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    text-decoration: none;
+    font-size: 0.95rem;
+  }
+
+  .mobile-nav-link:hover {
+    color: var(--text-on-dark);
+  }
+
+  @media (max-width: 768px) {
+    .main-nav {
+      display: none;
+    }
+
+    .menu-toggle {
+      display: flex;
+      margin-left: auto;
+    }
+  }
+</style>

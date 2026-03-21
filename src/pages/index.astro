@@ -1,0 +1,235 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import WaveDecoration from '../components/WaveDecoration.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const enArticles = await getCollection('en');
+const frArticles = await getCollection('fr');
+
+const categories = [
+  {
+    id: 'hermeneutics',
+    titleEn: 'Semitic Hermeneutics',
+    titleFr: 'Herméneutique sémitique',
+    descEn: 'Interpretive traditions, etymology, and textual analysis across Judaism, Christianity, and Islam',
+    descFr: 'Traditions interprétatives, étymologie et analyse textuelle à travers le judaïsme, le christianisme et l\'islam',
+    icon: '\u{1F4DC}',
+  },
+  {
+    id: 'philosophy',
+    titleEn: 'Philosophy & History',
+    titleFr: 'Philosophie & Histoire',
+    descEn: 'Rationalism, secularism, and the political evolution of religious thought',
+    descFr: 'Rationalisme, laïcité et évolution politique de la pensée religieuse',
+    icon: '\u{1F3DB}',
+  },
+  {
+    id: 'cultural',
+    titleEn: 'Cultural Analysis',
+    titleFr: 'Analyse culturelle',
+    descEn: 'Contemporary works examined through the lens of political philosophy',
+    descFr: 'Oeuvres contemporaines analysées à travers le prisme de la philosophie politique',
+    icon: '\u{1F3AC}',
+  },
+];
+
+function getArticlesForCategory(cat: string) {
+  return enArticles
+    .filter(a => a.data.category === cat)
+    .sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
+}
+
+function getFrTitle(pair: string) {
+  const fr = frArticles.find(a => a.data.pair === pair);
+  return fr?.data.title || '';
+}
+
+function getFrDesc(pair: string) {
+  const fr = frArticles.find(a => a.data.pair === pair);
+  return fr?.data.description || '';
+}
+---
+
+<BaseLayout>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content container">
+      <div class="hero-text">
+        <h1 class="hero-title">
+          <span data-lang="en" class="active">Living Waters</span>
+          <span data-lang="fr">Eaux Vives</span>
+        </h1>
+        <p class="hero-subtitle">
+          <span data-lang="en" class="active">Semitic Hermeneutics</span>
+          <span data-lang="fr">Herméneutique sémitique</span>
+        </p>
+        <p class="hero-desc">
+          <span data-lang="en" class="active">
+            Comparative studies exploring the interpretive, philosophical, and cultural currents
+            flowing through Jewish, Christian, and Islamic traditions.
+          </span>
+          <span data-lang="fr">
+            Études comparatives explorant les courants interprétatifs, philosophiques et culturels
+            qui traversent les traditions juive, chrétienne et islamique.
+          </span>
+        </p>
+      </div>
+      <div class="hero-decoration">
+        <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" class="hero-drop">
+          <defs>
+            <linearGradient id="heroGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+              <stop offset="0%" style="stop-color:#4FC3F7;stop-opacity:0.6"/>
+              <stop offset="100%" style="stop-color:#1a5276;stop-opacity:0.8"/>
+            </linearGradient>
+          </defs>
+          <path d="M100 15 C100 15 40 85 40 115 C40 148 66 175 100 175 C134 175 160 148 160 115 C160 85 100 15 100 15Z" fill="url(#heroGrad)"/>
+          <ellipse cx="80" cy="100" rx="15" ry="25" fill="rgba(255,255,255,0.15)" transform="rotate(-15 80 100)"/>
+        </svg>
+      </div>
+    </div>
+    <WaveDecoration position="top" color="#E1F5FE" />
+  </section>
+
+  <!-- Categories -->
+  <section class="categories container">
+    {categories.map(cat => {
+      const articles = getArticlesForCategory(cat.id);
+      return (
+        <div class="category-section" id={cat.id}>
+          <CategoryCard
+            id={`${cat.id}-card`}
+            titleEn={cat.titleEn}
+            titleFr={cat.titleFr}
+            descEn={cat.descEn}
+            descFr={cat.descFr}
+            icon={cat.icon}
+            articleCount={articles.length}
+          />
+          <div class="articles-grid">
+            {articles.map(article => (
+              <ArticleCard
+                slug={article.data.pair}
+                titleEn={article.data.title}
+                titleFr={getFrTitle(article.data.pair)}
+                descEn={article.data.description || ''}
+                descFr={getFrDesc(article.data.pair)}
+              />
+            ))}
+          </div>
+        </div>
+      );
+    })}
+  </section>
+</BaseLayout>
+
+<style>
+  /* Hero */
+  .hero {
+    background: linear-gradient(170deg, var(--water-deep) 0%, var(--water-mid) 50%, #1e6fa0 100%);
+    padding: var(--space-2xl) 0 0;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background:
+      radial-gradient(ellipse at 20% 80%, rgba(79, 195, 247, 0.15) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 20%, rgba(33, 150, 243, 0.1) 0%, transparent 50%);
+    animation: drift 20s ease-in-out infinite;
+  }
+
+  .hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-xl);
+    position: relative;
+    z-index: 1;
+    padding-bottom: var(--space-xl);
+  }
+
+  .hero-text {
+    max-width: 600px;
+  }
+
+  .hero-title {
+    font-size: 3.5rem;
+    color: var(--text-on-dark);
+    margin-bottom: var(--space-sm);
+    text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .hero-subtitle {
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    color: var(--water-light);
+    margin-bottom: var(--space-lg);
+    font-style: italic;
+  }
+
+  .hero-desc {
+    color: var(--text-on-dark-muted);
+    font-size: 1.05rem;
+    line-height: 1.8;
+  }
+
+  .hero-decoration {
+    flex-shrink: 0;
+  }
+
+  .hero-drop {
+    width: 180px;
+    height: 180px;
+    animation: float 6s ease-in-out infinite;
+    filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.3));
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+  }
+
+  /* Categories */
+  .categories {
+    padding: var(--space-2xl) var(--space-lg);
+  }
+
+  .category-section {
+    margin-bottom: var(--space-2xl);
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--space-lg);
+    margin-top: var(--space-lg);
+  }
+
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 2.5rem;
+    }
+
+    .hero-content {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .hero-drop {
+      width: 120px;
+      height: 120px;
+    }
+
+    .articles-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

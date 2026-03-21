@@ -1,0 +1,57 @@
+---
+interface Props {
+  position?: 'top' | 'bottom';
+  color?: string;
+}
+
+const { position = 'top', color = '#E1F5FE' } = Astro.props;
+---
+
+<div class={`wave-decoration wave-${position}`}>
+  <svg viewBox="0 0 2400 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      d="M0,60 C200,120 400,0 600,60 C800,120 1000,0 1200,60 C1400,120 1600,0 1800,60 C2000,120 2200,0 2400,60 L2400,120 L0,120 Z"
+      fill={color}
+      opacity="0.4"
+    />
+    <path
+      d="M0,80 C150,40 350,100 600,80 C850,60 1050,100 1200,80 C1350,60 1550,100 1800,80 C2050,60 2250,100 2400,80 L2400,120 L0,120 Z"
+      fill={color}
+      opacity="0.6"
+    />
+    <path
+      d="M0,95 C300,75 600,110 900,95 C1200,80 1500,110 1800,95 C2100,80 2300,100 2400,95 L2400,120 L0,120 Z"
+      fill={color}
+      opacity="0.8"
+    />
+  </svg>
+</div>
+
+<style>
+  .wave-decoration {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    position: relative;
+  }
+
+  .wave-decoration svg {
+    display: block;
+    width: 200%;
+    height: 80px;
+    animation: wave-slide 15s linear infinite;
+  }
+
+  .wave-bottom {
+    transform: scaleY(-1);
+  }
+
+  @keyframes wave-slide {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  .wave-bottom svg {
+    animation: wave-slide 18s linear infinite;
+  }
+</style>

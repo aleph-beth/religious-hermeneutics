@@ -1,0 +1,101 @@
+---
+---
+
+<button class="lang-toggle" id="lang-toggle" aria-label="Toggle language">
+  <span class="lang-option" data-lang-btn="fr">FR</span>
+  <span class="lang-separator">/</span>
+  <span class="lang-option" data-lang-btn="en">EN</span>
+  <span class="toggle-indicator" id="toggle-indicator"></span>
+</button>
+
+<script>
+  function initLangToggle() {
+    const saved = localStorage.getItem('living-waters-lang');
+    const browserLang = navigator.language.startsWith('fr') ? 'fr' : 'en';
+    const lang = saved || browserLang;
+    setLanguage(lang);
+
+    document.getElementById('lang-toggle')?.addEventListener('click', () => {
+      const current = document.documentElement.getAttribute('data-lang') || 'fr';
+      const next = current === 'fr' ? 'en' : 'fr';
+      setLanguage(next);
+    });
+  }
+
+  function setLanguage(lang: string) {
+    localStorage.setItem('living-waters-lang', lang);
+    document.documentElement.setAttribute('data-lang', lang);
+
+    document.querySelectorAll('[data-lang]').forEach(el => {
+      if (el instanceof HTMLElement && !el.classList.contains('lang-toggle')) {
+        el.classList.toggle('active', el.getAttribute('data-lang') === lang);
+      }
+    });
+
+    document.querySelectorAll('[data-lang-btn]').forEach(btn => {
+      if (btn instanceof HTMLElement) {
+        btn.classList.toggle('active', btn.getAttribute('data-lang-btn') === lang);
+      }
+    });
+
+    const indicator = document.getElementById('toggle-indicator');
+    if (indicator) {
+      indicator.style.transform = lang === 'en' ? 'translateX(100%)' : 'translateX(0)';
+    }
+  }
+
+  document.addEventListener('astro:page-load', initLangToggle);
+  initLangToggle();
+</script>
+
+<style>
+  .lang-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 24px;
+    padding: 0.35rem 0.75rem;
+    cursor: pointer;
+    position: relative;
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-on-dark);
+    transition: background 0.3s;
+  }
+
+  .lang-toggle:hover {
+    background: rgba(255, 255, 255, 0.25);
+  }
+
+  .lang-option {
+    padding: 0.15rem 0.35rem;
+    border-radius: 12px;
+    transition: color 0.3s, opacity 0.3s;
+    opacity: 0.6;
+    z-index: 1;
+  }
+
+  .lang-option.active {
+    opacity: 1;
+    color: var(--water-deep);
+  }
+
+  .lang-separator {
+    opacity: 0.4;
+    z-index: 1;
+  }
+
+  .toggle-indicator {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: calc(50% - 3px);
+    height: calc(100% - 6px);
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+  }
+</style>

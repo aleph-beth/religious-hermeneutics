@@ -1,0 +1,61 @@
+---
+import WaveDecoration from './WaveDecoration.astro';
+---
+
+<WaveDecoration position="bottom" color="#0a2342" />
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <span class="footer-logo">&#x1F4A7;</span>
+      <span>Living Waters &mdash; Semitic Hermeneutics</span>
+    </div>
+    <p class="footer-license">
+      <span data-lang="en" class="active">
+        All content released under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0 1.0 Universal</a> license.
+      </span>
+      <span data-lang="fr">
+        Tout le contenu est publié sous licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" target="_blank" rel="noopener">CC0 1.0 Universel</a>.
+      </span>
+    </p>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background: var(--water-deep);
+    color: var(--text-on-dark-muted);
+    padding: var(--space-xl) 0 var(--space-lg);
+    margin-top: 0;
+  }
+
+  .footer-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-md);
+    text-align: center;
+  }
+
+  .footer-brand {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    color: var(--text-on-dark);
+  }
+
+  .footer-logo {
+    font-size: 1.4rem;
+  }
+
+  .footer-license {
+    font-size: 0.85rem;
+    opacity: 0.8;
+  }
+
+  .footer-license a {
+    color: var(--water-light);
+  }
+</style>

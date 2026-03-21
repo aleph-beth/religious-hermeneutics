@@ -1,0 +1,339 @@
+/* ========================================
+   Living Waters – Immersive Water Theme
+   ======================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  /* Water palette */
+  --water-abyss:    #061826;
+  --water-deep:     #0a2342;
+  --water-mid:      #1a5276;
+  --water-main:     #2196F3;
+  --water-light:    #4FC3F7;
+  --water-surface:  #B3E5FC;
+  --water-foam:     #E1F5FE;
+  --water-white:    #F8FDFF;
+
+  /* Text */
+  --text-primary:   #1a1a2e;
+  --text-secondary: #4a4a6a;
+  --text-on-dark:   #e8f4fd;
+  --text-on-dark-muted: #a0c4e8;
+
+  /* Accents */
+  --accent-gold:    #FFD54F;
+  --accent-coral:   #FF8A65;
+
+  /* Typography */
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 5rem;
+
+  /* Layout */
+  --max-width: 72rem;
+  --content-width: 48rem;
+}
+
+/* ---- Reset ---- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--text-primary);
+  background: var(--water-foam);
+  line-height: 1.7;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ---- Typography ---- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  line-height: 1.25;
+  color: var(--water-deep);
+}
+
+h1 { font-size: 2.75rem; font-weight: 700; margin-bottom: var(--space-lg); }
+h2 { font-size: 2rem; font-weight: 600; margin-top: var(--space-xl); margin-bottom: var(--space-md); }
+h3 { font-size: 1.5rem; font-weight: 600; margin-top: var(--space-lg); margin-bottom: var(--space-sm); }
+h4 { font-size: 1.25rem; font-weight: 600; margin-top: var(--space-md); margin-bottom: var(--space-sm); }
+
+p {
+  margin-bottom: var(--space-md);
+}
+
+a {
+  color: var(--water-main);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--water-light);
+}
+
+blockquote {
+  border-left: 4px solid var(--water-light);
+  padding: var(--space-md) var(--space-lg);
+  margin: var(--space-lg) 0;
+  background: rgba(33, 150, 243, 0.05);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: var(--text-secondary);
+}
+
+code {
+  font-size: 0.9em;
+  background: var(--water-surface);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+pre {
+  background: var(--water-deep);
+  color: var(--text-on-dark);
+  padding: var(--space-lg);
+  border-radius: 12px;
+  overflow-x: auto;
+  margin: var(--space-lg) 0;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--water-light), transparent);
+  margin: var(--space-xl) 0;
+}
+
+/* ---- Tables ---- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--space-lg) 0;
+  font-size: 0.92rem;
+}
+
+thead {
+  background: var(--water-deep);
+  color: var(--text-on-dark);
+}
+
+th {
+  padding: var(--space-sm) var(--space-md);
+  text-align: left;
+  font-weight: 600;
+  font-family: var(--font-heading);
+}
+
+td {
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid var(--water-surface);
+}
+
+tbody tr:hover {
+  background: rgba(33, 150, 243, 0.04);
+}
+
+/* ---- Utility ---- */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-lg);
+}
+
+.content-container {
+  max-width: var(--content-width);
+  margin: 0 auto;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ---- Animated Background ---- */
+.water-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: linear-gradient(
+    180deg,
+    var(--water-foam) 0%,
+    var(--water-white) 30%,
+    var(--water-foam) 60%,
+    var(--water-surface) 100%
+  );
+}
+
+.water-bg::before,
+.water-bg::after {
+  content: '';
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  top: -50%;
+  left: -50%;
+  opacity: 0.03;
+}
+
+.water-bg::before {
+  background: radial-gradient(ellipse at 20% 50%, var(--water-main) 0%, transparent 50%);
+  animation: drift 20s ease-in-out infinite;
+}
+
+.water-bg::after {
+  background: radial-gradient(ellipse at 80% 50%, var(--water-light) 0%, transparent 50%);
+  animation: drift 25s ease-in-out infinite reverse;
+}
+
+@keyframes drift {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(2%, 1%) rotate(1deg); }
+  50% { transform: translate(-1%, 2%) rotate(-1deg); }
+  75% { transform: translate(1%, -1%) rotate(0.5deg); }
+}
+
+/* ---- Wave Animations ---- */
+@keyframes wave-move {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.wave-top, .wave-bottom {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.wave-top svg, .wave-bottom svg {
+  display: block;
+  width: 200%;
+  animation: wave-move 12s linear infinite;
+}
+
+.wave-bottom {
+  transform: rotate(180deg);
+}
+
+/* ---- Card Styles ---- */
+.card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(179, 229, 252, 0.5);
+  border-radius: 16px;
+  padding: var(--space-lg);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(79, 195, 247, 0.08), transparent);
+  transition: left 0.6s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(10, 35, 66, 0.12);
+  border-color: var(--water-light);
+}
+
+.card:hover::before {
+  left: 100%;
+}
+
+/* ---- Ripple Effect ---- */
+.ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.ripple::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(33, 150, 243, 0.15);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s, opacity 0.6s;
+  opacity: 0;
+}
+
+.ripple:hover::after {
+  width: 300px;
+  height: 300px;
+  opacity: 1;
+}
+
+/* ---- Language Toggle ---- */
+[data-lang] {
+  display: none;
+}
+
+[data-lang].active {
+  display: block;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+  html { font-size: 15px; }
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+
+  .container {
+    padding: 0 var(--space-md);
+  }
+
+  table {
+    font-size: 0.82rem;
+  }
+
+  th, td {
+    padding: var(--space-xs) var(--space-sm);
+  }
+}
+
+@media (max-width: 480px) {
+  html { font-size: 14px; }
+  h1 { font-size: 1.75rem; }
+}
