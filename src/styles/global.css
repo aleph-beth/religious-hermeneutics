@@ -39,7 +39,7 @@
 
   /* Layout */
   --max-width: 72rem;
-  --content-width: 48rem;
+  --content-width: 60rem;
 }
 
 /* ---- Reset ---- */
@@ -128,11 +128,18 @@ hr {
 }
 
 /* ---- Tables ---- */
+.article-content table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
   margin: var(--space-lg) 0;
   font-size: 0.92rem;
+  min-width: 600px;
 }
 
 thead {
