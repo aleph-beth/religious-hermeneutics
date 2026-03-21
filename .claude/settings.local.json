@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/grego/Claude-religious-hermeneutics/**)",
+      "Bash(done)",
+      "Bash(npm install:*)",
+      "Bash(cmd.exe /c \"where npm\")",
+      "Bash(cmd.exe /c \"where node\")",
+      "mcp__Windows-MCP__PowerShell",
+      "Bash(cmd.exe /c \"winget install OpenJS.NodeJS.LTS --accept-package-agreements --accept-source-agreements\")",
+      "Bash(powershell.exe -Command \"winget install OpenJS.NodeJS.LTS --accept-package-agreements --accept-source-agreements 2>&1\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Program Files\\\\nodejs'' -ErrorAction SilentlyContinue | Select-Object -First 5; Test-Path ''C:\\\\Program Files\\\\nodejs\\\\node.exe''\")",
+      "Bash(export PATH=\"/c/Program Files/nodejs:$PATH\")",
+      "Bash(npm --version)",
+      "Bash(npm run:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(export PATH=\"/c/Program Files/nodejs:$PATH\" cd /c/Users/grego/Claude-religious-hermeneutics npm run build)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
