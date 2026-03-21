@@ -81,6 +81,34 @@ const catLabel = categoryLabels[enArticle.data.category] || { en: '', fr: '' };
   </article>
 </BaseLayout>
 
+<script>
+  function initTocNav() {
+    document.querySelectorAll('.article-content a[href^="#"]').forEach(link => {
+      link.addEventListener('click', (e) => {
+        const hash = link.getAttribute('href');
+        if (!hash || hash === '#') return;
+        const id = hash.slice(1);
+
+        // Find the anchor inside the currently active content div
+        const activeContent = document.querySelector('.article-content.active');
+        if (!activeContent) return;
+
+        const target = activeContent.querySelector(`#${CSS.escape(id)}`);
+        if (target) {
+          e.preventDefault();
+          const header = document.querySelector('.site-header');
+          const offset = header ? header.getBoundingClientRect().height + 16 : 80;
+          const top = target.getBoundingClientRect().top + window.scrollY - offset;
+          window.scrollTo({ top, behavior: 'smooth' });
+        }
+      });
+    });
+  }
+
+  document.addEventListener('astro:page-load', initTocNav);
+  initTocNav();
+</script>
+
 <style>
   .article-hero {
     background: linear-gradient(170deg, var(--water-deep) 0%, var(--water-mid) 100%);
