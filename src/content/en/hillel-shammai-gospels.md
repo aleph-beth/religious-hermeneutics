@@ -263,6 +263,7 @@ Without Hillel and Shammai, the Gospels have not been understood. With them, the
 
 - Maurice Mergui, *Comprendre les origines du christianisme : de l'eschatologie juive au midrash chrétien*, Objectif Transmission, 2005.
 - Maurice Mergui, *Un étranger sur le toit : les sources midrashiques des évangiles*, Objectif Transmission, 2003.
+- Nanine Charbonnel, *Jésus-Christ, sublime figure de papier*, preface by Thomas Römer, Berg International, 2017.
 
 ### Eschatology
 
