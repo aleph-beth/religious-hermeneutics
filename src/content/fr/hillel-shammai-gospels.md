@@ -263,6 +263,7 @@ Sans Hillel et Shammaï, on n'a pas compris les Évangiles. Avec eux, on a enten
 
 - Maurice Mergui, *Comprendre les origines du christianisme : de l'eschatologie juive au midrash chrétien*, Objectif Transmission, 2005.
 - Maurice Mergui, *Un étranger sur le toit : les sources midrashiques des évangiles*, Objectif Transmission, 2003.
+- Nanine Charbonnel, *Jésus-Christ, sublime figure de papier*, préface de Thomas Römer, Berg International, 2017.
 
 ### Eschatologie
 
