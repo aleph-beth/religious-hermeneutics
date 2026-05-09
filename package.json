@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "astro": "^5.7.10"
+  },
+  "devDependencies": {
+    "remark-custom-heading-id": "^2.0.0"
   }
 }
