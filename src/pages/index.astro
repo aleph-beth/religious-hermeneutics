@@ -28,6 +28,15 @@ const categories = [
   },
 ];
 
+const dossiers: Record<string, { titleEn: string; titleFr: string; descEn: string; descFr: string }> = {
+  'kafir-kippour': {
+    titleEn: 'Dossier — Kafir / Kippur: the root of recovering',
+    titleFr: 'Dossier — Kafir / Kippour : la racine du recouvrement',
+    descEn: 'A common Semitic root, seven poles, three traditions, one modern rupture.',
+    descFr: 'Une racine sémitique commune, sept pôles, trois traditions, une rupture moderne.',
+  },
+};
+
 function getArticlesForCategory(cat: string) {
   return enArticles
     .filter(a => a.data.category === cat)
@@ -36,6 +45,21 @@ function getArticlesForCategory(cat: string) {
 
 function getFrArticle(pair: string) {
   return frArticles.find(a => a.data.pair === pair);
+}
+
+function partitionByDossier(articles: typeof enArticles) {
+  const standalone: typeof enArticles = [];
+  const grouped: Record<string, typeof enArticles> = {};
+  for (const a of articles) {
+    const d = a.data.dossier;
+    if (d) {
+      grouped[d] = grouped[d] || [];
+      grouped[d].push(a);
+    } else {
+      standalone.push(a);
+    }
+  }
+  return { standalone, grouped };
 }
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
@@ -60,33 +84,76 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     {categories.map(cat => {
       const articles = getArticlesForCategory(cat.id);
       if (articles.length === 0) return null;
+      const { standalone, grouped } = partitionByDossier(articles);
       return (
         <div class="category-section" id={cat.id}>
           <h2 class="category-title">
             <span data-lang="en" class="active">{cat.titleEn}</span>
             <span data-lang="fr">{cat.titleFr}</span>
           </h2>
-          <div class="card-grid">
-            {articles.map(article => {
-              const fr = getFrArticle(article.data.pair);
-              return (
-                <a href={`${base}articles/${article.data.pair}/`} class="card">
-                  <h3 class="card-title">
-                    <span data-lang="en" class="active">{article.data.title}</span>
-                    <span data-lang="fr">{fr?.data.title || article.data.title}</span>
-                  </h3>
-                  <p class="card-desc">
-                    <span data-lang="en" class="active">{article.data.description}</span>
-                    <span data-lang="fr">{fr?.data.description || ''}</span>
+
+          {standalone.length > 0 && (
+            <div class="card-grid">
+              {standalone.map(article => {
+                const fr = getFrArticle(article.data.pair);
+                return (
+                  <a href={`${base}articles/${article.data.pair}/`} class="card">
+                    <h3 class="card-title">
+                      <span data-lang="en" class="active">{article.data.title}</span>
+                      <span data-lang="fr">{fr?.data.title || article.data.title}</span>
+                    </h3>
+                    <p class="card-desc">
+                      <span data-lang="en" class="active">{article.data.description}</span>
+                      <span data-lang="fr">{fr?.data.description || ''}</span>
+                    </p>
+                    <span class="card-cta">
+                      <span data-lang="en" class="active">Read →</span>
+                      <span data-lang="fr">Lire →</span>
+                    </span>
+                  </a>
+                );
+              })}
+            </div>
+          )}
+
+          {Object.entries(grouped).map(([dossierId, dossierArticles]) => {
+            const meta = dossiers[dossierId];
+            return (
+              <div class="dossier" id={`dossier-${dossierId}`}>
+                <h3 class="dossier-title">
+                  <span data-lang="en" class="active">{meta?.titleEn || dossierId}</span>
+                  <span data-lang="fr">{meta?.titleFr || dossierId}</span>
+                </h3>
+                {meta && (
+                  <p class="dossier-desc">
+                    <span data-lang="en" class="active">{meta.descEn}</span>
+                    <span data-lang="fr">{meta.descFr}</span>
                   </p>
-                  <span class="card-cta">
-                    <span data-lang="en" class="active">Read →</span>
-                    <span data-lang="fr">Lire →</span>
-                  </span>
-                </a>
-              );
-            })}
-          </div>
+                )}
+                <div class="card-grid">
+                  {dossierArticles.map(article => {
+                    const fr = getFrArticle(article.data.pair);
+                    return (
+                      <a href={`${base}articles/${article.data.pair}/`} class="card">
+                        <h3 class="card-title">
+                          <span data-lang="en" class="active">{article.data.title}</span>
+                          <span data-lang="fr">{fr?.data.title || article.data.title}</span>
+                        </h3>
+                        <p class="card-desc">
+                          <span data-lang="en" class="active">{article.data.description}</span>
+                          <span data-lang="fr">{fr?.data.description || ''}</span>
+                        </p>
+                        <span class="card-cta">
+                          <span data-lang="en" class="active">Read →</span>
+                          <span data-lang="fr">Lire →</span>
+                        </span>
+                      </a>
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })}
         </div>
       );
     })}
@@ -187,6 +254,27 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     text-transform: uppercase;
     letter-spacing: 0.05em;
     margin-top: auto;
+  }
+
+  .dossier {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-md);
+  }
+
+  .dossier-title {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text);
+    margin: 0 0 var(--space-xs) 0;
+  }
+
+  .dossier-desc {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    font-style: italic;
+    margin: 0 0 var(--space-md) 0;
   }
 
   @media (max-width: 768px) {

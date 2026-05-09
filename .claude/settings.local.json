@@ -19,7 +19,10 @@
       "Bash(export PATH=\"/c/Program Files/nodejs:$PATH\" cd /c/Users/grego/Claude-religious-hermeneutics npm run build)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(gh auth *)",
+      "Bash(curl -s http://localhost:4321/religious-hermeneutics/articles/dalet-poor-door/)",
+      "Bash(npx astro *)"
     ]
   }
 }

@@ -7,6 +7,7 @@ const articles = defineCollection({
     lang: z.enum(['en', 'fr']),
     pair: z.string(),
     category: z.enum(['hermeneutics', 'philosophy', 'cultural', 'etymology']),
+    dossier: z.string().optional(),
     description: z.string().optional(),
     order: z.number().optional(),
   }),
