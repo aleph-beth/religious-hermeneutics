@@ -3,8 +3,9 @@ title: "The Charter of Medina: From Pluralistic Alliance to Imperial Orthodoxy"
 lang: en
 pair: charter-of-medina
 category: philosophy
+dossier: charte-medine
 description: "Historical analysis of political and theological transformation"
-order: 3
+order: 3.2
 ---
 
 # The Charter of Medina: from pluralistic alliance to imperial orthodoxy
