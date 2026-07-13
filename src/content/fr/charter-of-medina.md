@@ -3,8 +3,9 @@ title: "La Charte de Médine : de l'alliance plurielle à l'orthodoxie impérial
 lang: fr
 pair: charter-of-medina
 category: philosophy
+dossier: charte-medine
 description: "Analyse historique de la transformation politique et théologique"
-order: 3
+order: 3.2
 ---
 
 # La Charte de Médine : de l’alliance plurielle à l’orthodoxie impériale
