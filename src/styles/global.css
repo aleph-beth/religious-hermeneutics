@@ -1,42 +1,108 @@
 /* ========================================
-   Midrash – Editorial Modern Theme
+   Midrash – Editorial Modern Hermeneutics
    ======================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 
 :root {
-  /* Palette */
-  --bg:           #ffffff;
-  --bg-soft:      #fafafa;
-  --bg-muted:     #f5f5f5;
-  --border:       #e5e5e5;
-  --border-light: #eeeeee;
+  /* Light Editorial Palette (Warm Papyrus / Cream) */
+  --bg:             #fbf9f5;
+  --bg-surface:     #ffffff;
+  --bg-soft:        #f4efe6;
+  --bg-muted:       #eae3d5;
+  --border:         #e2dacd;
+  --border-light:   #eee8dc;
 
-  --text:         #1a1a1a;
-  --text-secondary: #666666;
-  --text-muted:   #999999;
+  --text:           #1c1917;
+  --text-secondary: #57534e;
+  --text-muted:     #78716c;
 
-  --accent:       #1a1a1a;
-  --accent-hover: #444444;
-  --link:         #1a1a1a;
+  --accent:         #991b1b; /* Warm Burgundy Crimson */
+  --accent-soft:    #fef2f2;
+  --accent-hover:   #7f1d1d;
+  --link:           #991b1b;
+
+  /* Category Badges Palette */
+  --cat-hermeneutics-bg: #fef3c7;
+  --cat-hermeneutics-fg: #92400e;
+  --cat-etymology-bg:    #e0f2fe;
+  --cat-etymology-fg:    #075985;
+  --cat-philosophy-bg:   #ffe4e6;
+  --cat-philosophy-fg:   #9f1239;
+  --cat-cultural-bg:     #d1fae5;
+  --cat-cultural-fg:     #065f46;
+  --cat-dossier-bg:      #f3e8ff;
+  --cat-dossier-fg:      #6b21a8;
 
   /* Typography */
-  --font-heading: 'Lora', Georgia, serif;
-  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-heading: 'Newsreader', Georgia, serif;
+  --font-body:    'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono:    'JetBrains Mono', monospace;
 
   /* Spacing */
-  --space-xs: 0.25rem;
-  --space-sm: 0.5rem;
-  --space-md: 1rem;
-  --space-lg: 1.5rem;
-  --space-xl: 3rem;
-  --space-2xl: 5rem;
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs:  0.375rem;
+  --space-sm:  0.5rem;
+  --space-md:  1rem;
+  --space-lg:  1.5rem;
+  --space-xl:  2.5rem;
+  --space-2xl: 4rem;
 
   /* Layout */
-  --max-width: 48rem;
+  --max-width:    52rem;
+  --max-article:  46rem;
+  --header-height: 4rem;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(28, 25, 23, 0.05);
+  --shadow-md: 0 4px 16px rgba(28, 25, 23, 0.08);
+  --shadow-lg: 0 10px 30px rgba(28, 25, 23, 0.12);
+
+  /* Border Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  /* Content Text Size Multiplier */
+  --article-font-scale: 1;
 }
 
-/* ---- Reset ---- */
+/* Dark Theme ("Night Study") */
+[data-theme="dark"] {
+  --bg:             #0f1117;
+  --bg-surface:     #171a23;
+  --bg-soft:        #212532;
+  --bg-muted:       #2c3142;
+  --border:         #2d3345;
+  --border-light:   #232836;
+
+  --text:           #f1f5f9;
+  --text-secondary: #cbd5e1;
+  --text-muted:     #94a3b8;
+
+  --accent:         #f87171;
+  --accent-soft:    #3b181a;
+  --accent-hover:   #fca5a5;
+  --link:           #f87171;
+
+  --cat-hermeneutics-bg: #451a03;
+  --cat-hermeneutics-fg: #fde68a;
+  --cat-etymology-bg:    #0c4a6e;
+  --cat-etymology-fg:    #bae6fd;
+  --cat-philosophy-bg:   #4c0519;
+  --cat-philosophy-fg:   #fecdd3;
+  --cat-cultural-bg:     #022c22;
+  --cat-cultural-fg:     #a7f3d0;
+  --cat-dossier-bg:      #3b0764;
+  --cat-dossier-fg:      #e9d5ff;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* ---- Reset & Defaults ---- */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -46,78 +112,155 @@
 html {
   scroll-behavior: smooth;
   font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 
 body {
   font-family: var(--font-body);
   color: var(--text);
   background: var(--bg);
-  line-height: 1.7;
+  line-height: 1.75;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+main {
+  flex: 1;
 }
 
 /* ---- Typography ---- */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
-  line-height: 1.3;
+  line-height: 1.25;
   color: var(--text);
+  letter-spacing: -0.015em;
 }
 
-h1 { font-size: 2.25rem; font-weight: 700; margin-bottom: var(--space-lg); }
-h2 { font-size: 1.5rem; font-weight: 600; margin-top: var(--space-xl); margin-bottom: var(--space-md); }
-h3 { font-size: 1.25rem; font-weight: 600; margin-top: var(--space-lg); margin-bottom: var(--space-sm); }
-h4 { font-size: 1.1rem; font-weight: 600; margin-top: var(--space-md); margin-bottom: var(--space-sm); }
+h1 { font-size: 2.5rem; font-weight: 700; margin-bottom: var(--space-lg); }
+h2 { font-size: 1.65rem; font-weight: 600; margin-top: var(--space-xl); margin-bottom: var(--space-md); }
+h3 { font-size: 1.3rem; font-weight: 600; margin-top: var(--space-lg); margin-bottom: var(--space-sm); }
+h4 { font-size: 1.125rem; font-weight: 600; margin-top: var(--space-md); margin-bottom: var(--space-xs); }
 
 p {
   margin-bottom: var(--space-md);
+  color: var(--text);
 }
 
 a {
   color: var(--link);
   text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-  transition: opacity 0.2s;
+  text-decoration-color: rgba(153, 27, 27, 0.3);
+  text-underline-offset: 3px;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
 a:hover {
-  opacity: 0.6;
+  text-decoration-color: var(--link);
+}
+
+strong, b {
+  font-weight: 600;
+  color: var(--text);
 }
 
 blockquote {
-  border-left: 3px solid var(--text);
-  padding: var(--space-sm) var(--space-lg);
+  border-left: 3px solid var(--accent);
+  background: var(--bg-soft);
+  padding: var(--space-md) var(--space-lg);
   margin: var(--space-lg) 0;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
   font-style: italic;
-  color: var(--text-secondary);
+  color: var(--text);
+  line-height: 1.65;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 code {
-  font-size: 0.9em;
-  background: var(--bg-muted);
-  padding: 0.15em 0.4em;
-  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  background: var(--bg-soft);
+  color: var(--text);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border-light);
 }
 
 pre {
-  background: var(--text);
-  color: var(--bg);
+  font-family: var(--font-mono);
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  color: var(--text);
   padding: var(--space-lg);
-  border-radius: 6px;
+  border-radius: var(--radius-md);
   overflow-x: auto;
   margin: var(--space-lg) 0;
+  box-shadow: var(--shadow-sm);
 }
 
 pre code {
   background: none;
+  border: none;
   padding: 0;
 }
 
 hr {
   border: none;
   height: 1px;
-  background: var(--border);
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
   margin: var(--space-xl) 0;
+}
+
+/* List Styling */
+.article-content ul, .article-content ol {
+  margin-bottom: var(--space-md);
+  padding-left: var(--space-lg);
+}
+
+.article-content li {
+  margin-bottom: var(--space-2xs);
+}
+
+/* ---- Category Badges ---- */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 9999px;
+  white-space: nowrap;
+}
+
+.badge-hermeneutics {
+  background: var(--cat-hermeneutics-bg);
+  color: var(--cat-hermeneutics-fg);
+}
+.badge-etymology {
+  background: var(--cat-etymology-bg);
+  color: var(--cat-etymology-fg);
+}
+.badge-philosophy {
+  background: var(--cat-philosophy-bg);
+  color: var(--cat-philosophy-fg);
+}
+.badge-cultural {
+  background: var(--cat-cultural-bg);
+  color: var(--cat-cultural-fg);
+}
+.badge-dossier {
+  background: var(--cat-dossier-bg);
+  color: var(--cat-dossier-fg);
 }
 
 /* ---- Tables ---- */
@@ -125,18 +268,22 @@ hr {
   display: block;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
+  margin: var(--space-lg) 0;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: var(--space-lg) 0;
   font-size: 0.9rem;
-  min-width: 600px;
+  background: var(--bg-surface);
 }
 
 thead {
-  border-bottom: 2px solid var(--text);
+  background: var(--bg-soft);
+  border-bottom: 2px solid var(--border);
 }
 
 th {
@@ -146,66 +293,100 @@ th {
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  color: var(--text-muted);
 }
 
 td {
   padding: var(--space-sm) var(--space-md);
   border-bottom: 1px solid var(--border-light);
+  color: var(--text);
 }
 
 tbody tr:hover {
   background: var(--bg-soft);
 }
 
-/* ---- Utility ---- */
+/* ---- Layout & Utilities ---- */
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 0 var(--space-lg);
+  width: 100%;
 }
 
-/* ---- Language Toggle ---- */
+.container-article {
+  max-width: var(--max-article);
+  margin: 0 auto;
+  padding: 0 var(--space-lg);
+  width: 100%;
+}
+
+/* ---- Language Toggle System ---- */
 [data-lang] {
-  display: none;
+  display: none !important;
 }
 
 [data-lang].active {
-  display: block;
+  display: block !important;
 }
 
-/* Inline spans inside headings, links, etc. */
-h1 [data-lang], h2 [data-lang], h3 [data-lang],
+/* Inline language elements */
+h1 [data-lang], h2 [data-lang], h3 [data-lang], h4 [data-lang],
 a [data-lang], p [data-lang], span[data-lang],
-li [data-lang], nav [data-lang] {
-  display: none;
+li [data-lang], nav [data-lang], div[data-lang-inline] {
+  display: none !important;
 }
 
-h1 [data-lang].active, h2 [data-lang].active, h3 [data-lang].active,
+h1 [data-lang].active, h2 [data-lang].active, h3 [data-lang].active, h4 [data-lang].active,
 a [data-lang].active, p [data-lang].active, span[data-lang].active,
-li [data-lang].active, nav [data-lang].active {
-  display: inline;
+li [data-lang].active, nav [data-lang].active, div[data-lang-inline].active {
+  display: inline !important;
 }
 
-/* ---- Responsive ---- */
+div[data-lang-block] {
+  display: none !important;
+}
+
+div[data-lang-block].active {
+  display: block !important;
+}
+
+/* ---- Reading Progress Bar ---- */
+.reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: var(--accent);
+  width: 0%;
+  z-index: 100;
+  transition: width 0.1s ease-out;
+}
+
+/* ---- Scrollbar Customization ---- */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* ---- Responsive Tweaks ---- */
 @media (max-width: 768px) {
   html { font-size: 15px; }
-  h1 { font-size: 1.75rem; }
-  h2 { font-size: 1.3rem; }
+  h1 { font-size: 1.85rem; }
+  h2 { font-size: 1.35rem; }
+  h3 { font-size: 1.15rem; }
 
-  .container {
+  .container, .container-article {
     padding: 0 var(--space-md);
   }
-
-  table {
-    font-size: 0.82rem;
-  }
-
-  th, td {
-    padding: var(--space-xs) var(--space-sm);
-  }
-}
-
-@media (max-width: 480px) {
-  html { font-size: 14px; }
-  h1 { font-size: 1.5rem; }
 }
