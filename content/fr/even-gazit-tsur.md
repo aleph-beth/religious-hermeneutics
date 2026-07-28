@@ -14,12 +14,22 @@ order: 4
 
 1. [Ouverture — Le chantier silencieux](#s1)
 2. [*Even* : la pierre qui passe de main en main](#s2)
-3. [L'interdit de la taille : *gazit* contre *shlemah*](#s3)
-4. [Les pierres qui crient](#s4)
-5. [*Tsur* : le rocher, qui n'est pas un matériau](#s5)
-6. [Conclusion — Le sacré comme retrait de la main](#s6)
-7. [Pour continuer](#s7)
-8. [Repères bibliographiques](#s8)
+3. [Le fils dans la pierre : *av*, *ben* et les *ovnayim*](#s3)
+4. [L'interdit de la taille : *gazit* contre *shlemah*](#s4)
+5. [Le midrash de la paix : le fer qui raccourcit, l'autel qui prolonge](#s5)
+6. [Le shamir : l'outil qui n'est pas un outil](#s6)
+7. [Une architecture en retrait : du parvis à la pierre de fondation](#s7)
+8. [Les pierres qui ont entendu : Josué 24 et le monceau de Galed](#s8)
+9. [Habaquq : la pierre qui crie du mur](#s9)
+10. [Luc 19 : le cri et la ruine](#s10)
+11. [Des pierres, des fils : le calembour araméen](#s11)
+12. [Daniel 2 : la pierre qui n'a pas été taillée par des mains](#s12)
+13. [*Tsur* : le rocher, qui n'est pas un matériau](#s13)
+14. [Le rocher qui enfante : Deutéronome 32 et Isaïe 51](#s14)
+15. [Frapper le rocher, puis lui parler : Horeb et Meriva](#s15)
+16. [Conclusion — Le sacré comme retrait de la main](#s16)
+17. [Pour continuer](#s17)
+18. [Repères bibliographiques](#s18)
 
 ---
 
@@ -43,13 +53,13 @@ C'est aussi, très concrètement, un poids. Dans le monde biblique, on pèse ave
 
 Détail grammatical qui aura son importance : *even* est un mot **féminin**, malgré son pluriel en *-im* qui trompe les débutants. On dit *avanim shlemot*, « des pierres entières », avec un accord féminin.
 
-### Le fils dans la pierre
+---
+
+## 3. Le fils dans la pierre : *av*, *ben* et les *ovnayim* {#s3}
 
 Les lecteurs anciens ne pratiquaient pas la linguistique historique ; ils pratiquaient l'écoute. Et à l'oreille, *even* (א־ב־ן) contient deux mots : **אָב** (*av*), le père, et **בֵּן** (*ben*), le fils. La tradition midrashique a largement exploité cette décomposition : la pierre est le lieu où le père et le fils tiennent ensemble, ce qui fait d'elle l'image même de la transmission.
 
 Est-ce une étymologie ? Non, et il faut le dire clairement : historiquement, *even* n'est pas formé de *av* et *ben*. Mais le procédé n'est pas un accident, et il n'est pas non plus une naïveté. Le texte biblique lui-même joue de ces proximités sonores. Le Psaume 118 fait rimer la pierre et les bâtisseurs — « la *even* qu'ont rejetée les *bonim* (bâtisseurs) est devenue tête d'angle » (Ps 118,22) — et le verbe בנה (*banah*), bâtir, sonne comme *ben*, le fils. Bâtir et engendrer partagent, en hébreu, le même voisinage sonore. Le midrash ne fait qu'aller au bout d'une virtualité déposée dans la langue.
-
-### La pierre qui accouche
 
 Cette parenté entre la pierre et l'enfantement n'est d'ailleurs pas seulement une affaire de sonorités. Le duel **אָבְנַיִם** (*ovnayim*), « les deux pierres », désigne en hébreu biblique le siège d'accouchement — les deux blocs sur lesquels la parturiente prenait appui. Pharaon ordonne aux sages-femmes hébreues de surveiller les naissances « sur les *ovnayim* » (Exode 1,16). Le même mot, chez Jérémie, désigne le tour du potier : le prophète descend chez le potier et le trouve « faisant son ouvrage sur les *ovnayim* » (Jr 18,3).
 
@@ -57,7 +67,7 @@ Un mot féminin qui nomme la machine à faire naître, et que les rabbins décom
 
 ---
 
-## 3. L'interdit de la taille : *gazit* contre *shlemah* {#s3}
+## 4. L'interdit de la taille : *gazit* contre *shlemah* {#s4}
 
 Passons à ce que la Bible interdit. Deux textes, brefs et catégoriques.
 
@@ -69,7 +79,9 @@ Le clivage n'est donc pas entre la pierre et le rocher, mais à l'intérieur mê
 
 La Mishna durcira encore la règle. Pour l'autel, on tire les pierres du sol vierge de la vallée de Beit Kérem, on creuse jusqu'à la roche non travaillée, et si le fer touche une pierre, elle est disqualifiée (traité *Middot* 3,4). Le contact suffit ; il n'est même pas nécessaire que la pierre ait été entamée.
 
-### Le midrash de la paix
+---
+
+## 5. Le midrash de la paix : le fer qui raccourcit, l'autel qui prolonge {#s5}
 
 Pourquoi ? La réponse la plus célèbre est donnée par la Mekhilta de Rabbi Ishmaël, un commentaire ancien de l'Exode, au nom de Rabbi Shimon ben Elazar. Elle ne parle ni d'idolâtrie ni de pureté rituelle, mais de fonctions contradictoires : le fer a été créé pour raccourcir les jours de l'homme — c'est le métal de l'épée —, l'autel pour les prolonger. Il n'est donc pas juste que ce qui raccourcit soit levé sur ce qui prolonge.
 
@@ -77,7 +89,9 @@ Puis vient l'argument *a fortiori*, qui est le sommet du passage : les pierres d
 
 Ce raisonnement mérite d'être médité, parce qu'il inverse ce qu'on attend d'un texte religieux. Le point d'arrivée n'est pas le culte : c'est la conduite entre les hommes. La règle sur les cailloux ne vaut que par ce qu'elle permet de déduire sur les vivants.
 
-### Comment Salomon s'en est tiré
+---
+
+## 6. Le shamir : l'outil qui n'est pas un outil {#s6}
 
 Restait un problème pratique, et les rabbins ne l'ont pas esquivé : si le fer est proscrit, comment Salomon a-t-il pu tailler les blocs monumentaux du Temple ?
 
@@ -85,7 +99,9 @@ La réponse est l'un des midrashim les plus étonnants du Talmud (traités *Guit
 
 Sous le merveilleux, la cohérence est parfaite. Le récit ne dit pas que Salomon a contourné la règle : il dit que le Temple a exigé un outil qui ne soit pas un outil, un tranchant qui ne soit pas du fer, un instrument prélevé sur le monde d'avant les hommes. Là où l'on aurait dû trouver une technique, la tradition installe une créature.
 
-### Une architecture qui recule devant elle-même
+---
+
+## 7. Une architecture en retrait : du parvis à la pierre de fondation {#s7}
 
 Rassemblons. À la périphérie du sanctuaire, la pierre est parfaitement appareillée, et par des artisans étrangers : Hiram de Tyr fournit ouvriers et cèdres. Dans la Maison, la taille est admise mais son bruit est banni. Sur l'autel, la taille est interdite. Et au centre du Saint des Saints, la Mishna (*Yoma* 5,2) rapporte qu'après la disparition de l'Arche il ne restait qu'une pierre affleurant le sol de trois doigts, « depuis les jours des premiers prophètes ».
 
@@ -95,19 +111,19 @@ Autrement dit : la sainteté n'est pas dans la matière. C'est la même pierre p
 
 ---
 
-## 4. Les pierres qui crient {#s4}
+## 8. Les pierres qui ont entendu : Josué 24 et le monceau de Galed {#s8}
 
 Le raisonnement de la Mekhilta reposait sur une prémisse : les pierres de l'autel « ne voient pas, n'entendent pas, ne parlent pas ». C'est ce mutisme qui rendait l'argument efficace — si l'on épargne le fer à ce qui ne sent rien, à combien plus forte raison à ce qui sent.
 
 Or la Bible, ailleurs, dit exactement l'inverse. Il existe tout un dossier des pierres qui entendent, qui témoignent et qui crient. Et c'est ce dossier que les Évangiles vont récupérer.
 
-### La pierre qui a entendu
-
 À la fin du livre de Josué, l'alliance est conclue à Sichem, et Josué dresse une pierre sous le chêne du sanctuaire. Sa formule est frappante : « Voici, cette pierre sera un témoin contre nous, **car elle a entendu** toutes les paroles que YHWH nous a dites » (Jos 24,27). La pierre n'est pas un pense-bête : elle est un témoin de plein exercice, parce qu'elle était là et qu'elle a écouté.
 
 Le procédé est ancien et n'a rien de métaphorique dans son usage juridique. Quand Jacob et Laban concluent leur pacte, ils empilent un monceau de pierres que Jacob nomme *Galed*, « le monceau du témoignage », et le tas est convoqué comme partie prenante : « ce monceau est témoin entre moi et toi » (Gn 31,48). Dans un monde sans archives, le minéral fait office de mémoire — et une mémoire, par définition, peut un jour parler.
 
-### La pierre qui crie du mur
+---
+
+## 9. Habaquq : la pierre qui crie du mur {#s9}
 
 Elle parle chez Habaquq, et dans des conditions très précises. Le prophète adresse une série de malédictions à celui qui s'enrichit par la rapine, et il annonce : « Car la pierre criera de la muraille, et la poutre de la charpente lui répondra » (Ha 2,11). Le verset suivant explique tout : « Malheur à qui bâtit une ville avec le sang, et fonde une cité sur l'injustice » (Ha 2,12).
 
@@ -115,7 +131,9 @@ Les pierres crient donc contre le bâtiment dont elles font partie, parce qu'ell
 
 On mesure ici ce qui se joue derrière l'interdit du fer. Une pierre taillée n'est pas seulement une pierre transformée : c'est une pierre qui a subi, et qui garde trace. L'autel de pierres entières est un autel qui n'a personne contre qui témoigner.
 
-### Luc 19 : le cri et la ruine
+---
+
+## 10. Luc 19 : le cri et la ruine {#s10}
 
 Le mot de Jésus est le point d'aboutissement de cette chaîne. À l'entrée dans Jérusalem, des pharisiens lui demandent de faire taire ses disciples ; il répond : « Je vous le dis, s'ils se taisent, les pierres crieront » (Lc 19,40).
 
@@ -123,7 +141,9 @@ Ce que l'on cite rarement, c'est la suite immédiate. Quelques versets plus loin
 
 L'antithèse avec la Mekhilta est parfaite, et il vaut la peine de la formuler nettement, car les deux traditions travaillent le même matériau dans deux directions opposées. Pour les rabbins, la pierre est protégée **parce qu'**elle est muette. Pour Luc, elle prend la parole **parce que** les hommes se taisent. Dans un cas le silence de la pierre fonde une éthique de la retenue ; dans l'autre, la parole de la pierre est le dernier recours quand la parole humaine est empêchée.
 
-### Des pierres, des fils : le jeu de mots araméen
+---
+
+## 11. Des pierres, des fils : le calembour araméen {#s11}
 
 Reste le passage le plus intéressant pour notre propos, parce qu'il ramène en plein Évangile la paronomase que nous avions rencontrée dans le midrash. Jean le Baptiste apostrophe ceux qui se réclament de leur ascendance : « Ne dites pas en vous-mêmes : nous avons Abraham pour père ; car je vous dis que **de ces pierres** Dieu peut susciter **des fils** à Abraham » (Lc 3,8 ; Mt 3,9).
 
@@ -131,7 +151,9 @@ En grec, la phrase est simplement paradoxale. En araméen, langue vraisemblable 
 
 Il y a plus. Cette phrase répond point par point à Isaïe 51, que nous lirons dans un instant : « regardez au rocher d'où vous avez été taillés… regardez à Abraham votre père ». Isaïe disait la filiation comme une extraction dans la roche ; Jean le Baptiste retourne l'image et affirme que la carrière est toujours ouverte, que Dieu peut en tirer de nouveaux fils, et que la généalogie ne garantit rien. La descendance d'Abraham cesse d'être un héritage pour redevenir une opération.
 
-### La pierre qui n'a pas été taillée par des mains
+---
+
+## 12. Daniel 2 : la pierre qui n'a pas été taillée par des mains {#s12}
 
 Un dernier écho mérite d'être signalé, parce qu'il boucle le thème du fer. Dans le livre de Daniel, Nabuchodonosor rêve d'une statue faite d'or, d'argent, de bronze, de fer et d'argile. Une pierre s'en détache de la montagne **« sans le secours d'aucune main »** (Dn 2,34), frappe la statue aux pieds, pulvérise les métaux — puis grossit jusqu'à devenir une montagne qui remplit toute la terre.
 
@@ -139,7 +161,7 @@ La pierre non ouvrée détruit l'empire des métaux, et redevient roche mère. L
 
 ---
 
-## 5. *Tsur* : le rocher, qui n'est pas un matériau {#s5}
+## 13. *Tsur* : le rocher, qui n'est pas un matériau {#s13}
 
 Avec **צוּר** (*tsur*), on change de catégorie. Le *tsur* n'est pas une pierre plus grosse : c'est la masse rocheuse en place, ce qui n'a jamais été détaché de rien. On peut en extraire une pierre ; on ne peut pas le déplacer. À ses côtés, l'hébreu dispose de **סֶלַע** (*sela*), la falaise, l'escarpement — le mot a donné en grec *Petra*, la cité nabatéenne — et de **חַלָּמִישׁ** (*ḥallamish*), le silex, la roche la plus dure.
 
@@ -149,7 +171,9 @@ Pourquoi ce choix ? Précisément parce que le rocher est inanimé et non fabriq
 
 Détail grammatical, encore : contrairement à ce que l'imaginaire suggère, **le rocher est masculin en hébreu, et la pierre est féminine**. Le massif inengendré est un masculin ; l'objet maniable, un féminin. En arabe, la répartition s'inverse exactement : la *ṣakhra* (صخرة), le roc, est féminine, et le *ḥajar* (حجر), la pierre, masculin. Preuve, s'il en fallait, que le genre grammatical n'est pas une vérité sur les choses.
 
-### Le rocher qui enfante
+---
+
+## 14. Le rocher qui enfante : Deutéronome 32 et Isaïe 51 {#s14}
 
 Et pourtant les poètes bibliques prennent leur propre grammaire à revers. Quelques versets plus loin dans le même chant : « Le Rocher qui t'a engendré, tu l'as négligé, tu as oublié le Dieu qui t'a enfanté dans les douleurs » (Dt 32,18). Le second verbe, מְחֹלְלֶךָ, vient d'une racine qui décrit les contractions de l'accouchement. Le masculin grammatical reçoit le verbe de la parturiente.
 
@@ -157,7 +181,9 @@ Isaïe va plus loin encore, et rend le procédé explicite : « Regardez au roch
 
 C'est le renversement le plus intéressant de tout le dossier. Le féminin, dans cette langue, n'est ni la pierre ni le rocher : c'est **le vide creusé dans le rocher**. Ce qui manque à la masse. On comprend alors pourquoi les lieux saints sémitiques sont si souvent des cavités : la grotte de Makpéla où sont enterrés les patriarches, la fente du rocher où Moïse est placé pour voir passer la gloire (Ex 33,22), la grotte sous le rocher de Jérusalem.
 
-### Le rocher qu'il fallait frapper, puis ne plus frapper
+---
+
+## 15. Frapper le rocher, puis lui parler : Horeb et Meriva {#s15}
 
 Le rocher, enfin, est ce qui donne l'eau. Deux récits presque jumeaux, et c'est leur différence qui compte. À Horeb, Dieu ordonne à Moïse de frapper le rocher, et l'eau jaillit (Ex 17,6). Bien plus tard, à Meriva, l'ordre change : « vous **parlerez** au rocher » (Nb 20,8). Moïse frappe — deux fois — et l'eau vient quand même, mais il ne verra pas la Terre promise.
 
@@ -165,7 +191,7 @@ La faute est diversement expliquée par les commentateurs, et l'ambiguïté du t
 
 ---
 
-## 6. Le sacré comme retrait de la main {#s6}
+## 16. Conclusion — Le sacré comme retrait de la main {#s16}
 
 Trois mots, trois régimes. La pierre que l'on manie, qui pèse et qui bâtit, et dans laquelle la tradition entend le père et le fils. La pierre que l'on refuse de tailler, et dont l'intégrité vaut, selon la Mekhilta, comme leçon sur la paix entre les hommes. Le rocher enfin, que l'on ne façonne pas du tout, et qui devient pour cette raison même un nom de Dieu — un rocher masculin qui enfante, et dont le creux est féminin.
 
@@ -177,7 +203,7 @@ Un lecteur du XVIIe siècle, Spinoza, aurait sans doute reconnu là quelque chos
 
 ---
 
-## 7. Pour continuer {#s7}
+## 17. Pour continuer {#s17}
 
 Quelques questions que cet article laisse ouvertes, et qui valent le détour.
 
@@ -191,7 +217,7 @@ Enfin, une question pour les curieux d'étymologie comparée : si le féminin bi
 
 ---
 
-## 8. Repères bibliographiques {#s8}
+## 18. Repères bibliographiques {#s18}
 
 - **1 Rois 6,7** — le chantier silencieux du Temple ; **Exode 20,25** et **Deutéronome 27,5-6** — l'interdit du fer et des pierres taillées sur l'autel.
 - **Mishna**, traité *Middot* 3,4 (l'extraction des pierres de l'autel et la disqualification par contact du fer) et traité *Yoma* 5,2 (la *even shetiyah*, pierre affleurant de trois doigts au Saint des Saints).
