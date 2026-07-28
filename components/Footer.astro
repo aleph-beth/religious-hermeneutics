@@ -1,0 +1,162 @@
+---
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
+---
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand-section">
+      <div class="footer-logo">
+        <span class="footer-mark">𐤀</span>
+        <span class="footer-title">Midrash</span>
+      </div>
+      <p class="footer-tagline">
+        <span data-lang="en" class="active">Comparative readings across Jewish, Christian, and Islamic traditions. Myth as mechanism, text as structure.</span>
+        <span data-lang="fr">Lectures comparées à travers les traditions juive, chrétienne et islamique. Le mythe comme mécanisme, le texte comme structure.</span>
+      </p>
+    </div>
+
+    <div class="footer-links">
+      <a href={`${base}#hermeneutics`}>
+        <span data-lang="en" class="active">Hermeneutics</span>
+        <span data-lang="fr">Herméneutique</span>
+      </a>
+      <a href={`${base}#etymology`}>
+        <span data-lang="en" class="active">Etymology</span>
+        <span data-lang="fr">Étymologie</span>
+      </a>
+      <a href={`${base}#philosophy`}>
+        <span data-lang="en" class="active">Philosophy</span>
+        <span data-lang="fr">Philosophie</span>
+      </a>
+      <a href={`${base}#dossiers`}>
+        <span data-lang="en" class="active">Dossiers</span>
+        <span data-lang="fr">Dossiers</span>
+      </a>
+    </div>
+
+    <div class="footer-meta">
+      <p class="footer-license">
+        <span data-lang="en" class="active">
+          All content released under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0 1.0 Universal</a> (Public Domain).
+        </span>
+        <span data-lang="fr">
+          Contenu sous licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" target="_blank" rel="noopener">CC0 1.0 Universel</a> (Domaine Public).
+        </span>
+      </p>
+
+      <p class="footer-repo">
+        <a href="https://github.com/aleph-beth/religious-hermeneutics" target="_blank" rel="noopener">
+          <svg class="footer-repo-icon" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          <span data-lang="en" class="active">Source code on GitHub</span>
+          <span data-lang="fr">Code source sur GitHub</span>
+        </a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    border-top: 1px solid var(--border);
+    background: var(--bg-surface);
+    padding: var(--space-2xl) 0 var(--space-xl);
+    margin-top: auto;
+  }
+
+  .footer-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: var(--space-lg);
+  }
+
+  .footer-brand-section {
+    max-width: 32rem;
+  }
+
+  .footer-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-heading);
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: var(--space-2xs);
+  }
+
+  .footer-mark {
+    color: var(--accent);
+  }
+
+  .footer-tagline {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: var(--space-sm) 0;
+    border-top: 1px solid var(--border-light);
+    border-bottom: 1px solid var(--border-light);
+    width: 100%;
+    max-width: 32rem;
+  }
+
+  .footer-links a {
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  .footer-links a:hover {
+    color: var(--accent);
+  }
+
+  .footer-meta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-2xs);
+  }
+
+  .footer-license {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 0;
+  }
+
+  .footer-license a {
+    color: var(--text-secondary);
+  }
+
+  .footer-repo {
+    font-size: 0.8rem;
+    margin: 0;
+  }
+
+  .footer-repo a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    color: var(--text-muted);
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  .footer-repo a:hover {
+    color: var(--text);
+  }
+
+  .footer-repo-icon {
+    flex-shrink: 0;
+  }
+</style>

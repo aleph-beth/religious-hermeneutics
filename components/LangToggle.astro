@@ -1,0 +1,91 @@
+---
+---
+
+<button class="lang-toggle" id="lang-toggle" type="button" aria-label="Changer de langue / Switch language">
+  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="globe-icon">
+    <circle cx="12" cy="12" r="10"></circle>
+    <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
+    <path d="M2 12h20"></path>
+  </svg>
+  <span class="lang-option" data-lang-btn="fr">FR</span>
+  <span class="lang-separator">/</span>
+  <span class="lang-option" data-lang-btn="en">EN</span>
+</button>
+
+<script>
+  function initLangToggle() {
+    const saved = localStorage.getItem('midrash-lang');
+    const browserLang = navigator.language.startsWith('fr') ? 'fr' : 'en';
+    const lang = saved || browserLang;
+    setLanguage(lang);
+
+    document.getElementById('lang-toggle')?.addEventListener('click', () => {
+      const current = document.documentElement.getAttribute('data-lang') || 'fr';
+      const next = current === 'fr' ? 'en' : 'fr';
+      setLanguage(next);
+    });
+  }
+
+  function setLanguage(lang: string) {
+    localStorage.setItem('midrash-lang', lang);
+    document.documentElement.setAttribute('data-lang', lang);
+
+    document.querySelectorAll('[data-lang]').forEach(el => {
+      if (el instanceof HTMLElement && !el.classList.contains('lang-toggle')) {
+        el.classList.toggle('active', el.getAttribute('data-lang') === lang);
+      }
+    });
+
+    document.querySelectorAll('[data-lang-btn]').forEach(btn => {
+      if (btn instanceof HTMLElement) {
+        btn.classList.toggle('active', btn.getAttribute('data-lang-btn') === lang);
+      }
+    });
+  }
+
+  document.addEventListener('astro:page-load', initLangToggle);
+  initLangToggle();
+</script>
+
+<style>
+  .lang-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: var(--bg-soft);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.35rem 0.65rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+    height: 34px;
+  }
+
+  .lang-toggle:hover {
+    border-color: var(--text-secondary);
+    color: var(--text);
+    background: var(--bg-muted);
+  }
+
+  .globe-icon {
+    opacity: 0.7;
+    flex-shrink: 0;
+  }
+
+  .lang-option {
+    transition: color 0.2s, font-weight 0.2s;
+  }
+
+  .lang-option.active {
+    color: var(--text);
+    font-weight: 700;
+  }
+
+  .lang-separator {
+    opacity: 0.35;
+  }
+</style>
