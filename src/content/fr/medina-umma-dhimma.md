@@ -47,7 +47,7 @@ Cette distinction, mise en évidence notamment par les travaux de Fred Donner (*
 * Le *muʾmin* est celui qui **entre dans une relation de confiance garantie** — catégorie comportementale et contractuelle, ouverte à quiconque respecte le pacte.
 * Le *muslim*, à ce stade, qualifie celui qui **remet loyalement** sa personne dans l'alliance — pas encore l'adhérent d'une religion distincte dotée de rites propres et de frontières fixes.
 
-En 622, l'identité religieuse « islamique » est en construction : le mouvement de Muhammad se présente comme un rassemblement de monothéistes fidèles, dans lequel des Juifs peuvent trouver place **sans conversion**. C'est exactement ce que la Charte enregistre : une *umma* définie par la loyauté à l'alliance, non par la confession. L'article [La Charte de Médine : de l'alliance plurielle à l'orthodoxie impériale](/religious-hermeneutics/articles/charter-of-medina/) analyse comment ce lexique ouvert s'est ensuite contracté en catégories exclusives.
+En 622, l'identité religieuse « islamique » est en construction : le mouvement de Muhammad se présente comme un rassemblement de monothéistes fidèles, dans lequel des Juifs peuvent trouver place **sans conversion**. C'est exactement ce que la Charte enregistre : une *umma* définie par la loyauté à l'alliance, non par la confession. L'article [La Charte de Médine : de l'alliance plurielle à l'orthodoxie impériale](../charter-of-medina/) analyse comment ce lexique ouvert s'est ensuite contracté en catégories exclusives.
 
 ## IV. *Umma* et *dhimma* : deux mots miroirs, deux statuts
 
@@ -96,4 +96,4 @@ D'un côté, la Charte de Médine témoigne d'une inclusion **sans équivalent c
 
 De l'autre, cette inclusion repose entièrement sur des clauses déclaratives. Le pacte dit *que* les communautés coexistent ; il ne dit presque rien de *comment* résoudre leurs différends lorsque la confiance se rompt. Qui juge entre un Juif et un croyant ? Selon quelle loi — la Torah, la révélation naissante, la coutume ? Que se passe-t-il quand l'arbitre est aussi partie ?
 
-Ces questions, la Charte ne les tranche pas. C'est ce manquement — l'absence de mécanisme de gestion des conflits intercommunautaires — qui fait l'objet de la [seconde partie de ce dossier](/religious-hermeneutics/articles/medina-conflict-management/), car c'est lui, bien plus que la pluralité elle-même, qui a précipité la fin de l'expérience médinoise.
+Ces questions, la Charte ne les tranche pas. C'est ce manquement — l'absence de mécanisme de gestion des conflits intercommunautaires — qui fait l'objet de la [seconde partie de ce dossier](../medina-conflict-management/), car c'est lui, bien plus que la pluralité elle-même, qui a précipité la fin de l'expérience médinoise.

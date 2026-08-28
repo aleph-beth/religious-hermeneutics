@@ -14,7 +14,7 @@ order: 3.1
 
 ## Introduction
 
-The [first part of this dossier](/religious-hermeneutics/articles/medina-umma-dhimma/) established that the Jews of Medina were members of the *umma* as Jews, with their law and customs guaranteed. Had the Medinan experiment stopped there, it would stand as an almost ideal precedent of plural governance.
+The [first part of this dossier](../medina-umma-dhimma/) established that the Jews of Medina were members of the *umma* as Jews, with their law and customs guaranteed. Had the Medinan experiment stopped there, it would stand as an almost ideal precedent of plural governance.
 
 It did not stop there. Within five years (622–627), the three great Jewish tribes of Medina were expelled or destroyed: the Banū Qaynuqāʿ (624), the Banū Naḍīr (625), the Banū Qurayẓa (627). How could so inclusive a pact fail so fast?
 
@@ -117,4 +117,4 @@ The Medinan failure lets us draw up, in negative, the specification of any plura
 
 The Charter of Medina achieved what almost no ancient text had attempted: declaring that religiously distinct communities form a single political community, each with its own law. It failed on what it left unsaid: how to live through disagreement. Its shortcoming is not a failure of generosity but a failure of engineering — inclusion without procedure, alliance without a court, norms without graduated sanction.
 
-The lesson reaches beyond the seventh century. Any proclaimed coexistence without conflict mechanisms does not abolish conflicts: it defers them to the only instance always available, force. At Medina, between 624 and 627, force delivered its verdict three times — and it is that verdict, not the pact, that classical law went on to codify under the name of *dhimma*. The [third part of this dossier](/religious-hermeneutics/articles/charter-of-medina/) follows that codification to its end: the transformation of the plural alliance into imperial orthodoxy.
+The lesson reaches beyond the seventh century. Any proclaimed coexistence without conflict mechanisms does not abolish conflicts: it defers them to the only instance always available, force. At Medina, between 624 and 627, force delivered its verdict three times — and it is that verdict, not the pact, that classical law went on to codify under the name of *dhimma*. The [third part of this dossier](../charter-of-medina/) follows that codification to its end: the transformation of the plural alliance into imperial orthodoxy.
