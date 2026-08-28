@@ -47,7 +47,7 @@ This distinction, highlighted in particular by Fred Donner's work (*Muhammad and
 * The *muʾmin* is one who **enters a relationship of guaranteed trust** — a behavioral, contractual category, open to anyone who honors the pact.
 * The *muslim*, at this stage, describes one who **loyally commits** himself to the alliance — not yet the adherent of a distinct religion with its own rites and fixed boundaries.
 
-In 622, "Islamic" religious identity was under construction: Muhammad's movement presented itself as a gathering of faithful monotheists, in which Jews could find a place **without conversion**. That is exactly what the Charter records: an *umma* defined by loyalty to the covenant, not by confession. The article [The Charter of Medina: From Pluralistic Alliance to Imperial Orthodoxy](/religious-hermeneutics/articles/charter-of-medina/) analyzes how this open lexicon later contracted into exclusive categories.
+In 622, "Islamic" religious identity was under construction: Muhammad's movement presented itself as a gathering of faithful monotheists, in which Jews could find a place **without conversion**. That is exactly what the Charter records: an *umma* defined by loyalty to the covenant, not by confession. The article [The Charter of Medina: From Pluralistic Alliance to Imperial Orthodoxy](../charter-of-medina/) analyzes how this open lexicon later contracted into exclusive categories.
 
 ## IV. *Umma* and *dhimma*: two mirror words, two statuses
 
@@ -96,4 +96,4 @@ On one side, the Charter of Medina attests an inclusion **without known equivale
 
 On the other side, this inclusion rests entirely on declarative clauses. The pact says *that* the communities coexist; it says almost nothing about *how* to resolve their disputes when trust breaks down. Who judges between a Jew and a believer? Under which law — the Torah, the nascent revelation, custom? What happens when the arbiter is also a party?
 
-These questions the Charter does not settle. That failing — the absence of any mechanism for managing inter-communal conflict — is the subject of the [second part of this dossier](/religious-hermeneutics/articles/medina-conflict-management/), for it is that failing, far more than plurality itself, which precipitated the end of the Medinan experiment.
+These questions the Charter does not settle. That failing — the absence of any mechanism for managing inter-communal conflict — is the subject of the [second part of this dossier](../medina-conflict-management/), for it is that failing, far more than plurality itself, which precipitated the end of the Medinan experiment.

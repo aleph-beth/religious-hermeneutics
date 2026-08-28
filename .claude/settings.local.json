@@ -21,8 +21,12 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(gh auth *)",
+      "PowerShell(gh auth status)",
       "Bash(curl -s http://localhost:4321/religious-hermeneutics/articles/dalet-poor-door/)",
-      "Bash(npx astro *)"
+      "Bash(npx astro *)",
+      "Bash(git checkout *)",
+      "Bash(git fetch *)",
+      "Bash(git stash *)"
     ]
   }
 }

@@ -14,7 +14,7 @@ order: 3.1
 
 ## Introduction
 
-La [première partie de ce dossier](/religious-hermeneutics/articles/medina-umma-dhimma/) a établi que les Juifs de Médine étaient membres de la *umma* en tant que tels, avec leur loi et leurs usages garantis. Si l'expérience médinoise s'était arrêtée là, elle constituerait un précédent presque idéal de gouvernance plurielle.
+La [première partie de ce dossier](../medina-umma-dhimma/) a établi que les Juifs de Médine étaient membres de la *umma* en tant que tels, avec leur loi et leurs usages garantis. Si l'expérience médinoise s'était arrêtée là, elle constituerait un précédent presque idéal de gouvernance plurielle.
 
 Elle ne s'est pas arrêtée là. En cinq ans (622–627), les trois grandes tribus juives de Médine sont expulsées ou détruites : Banū Qaynuqāʿ (624), Banū Naḍīr (625), Banū Qurayẓa (627). Comment un pacte aussi inclusif a-t-il pu échouer aussi vite ?
 
@@ -117,4 +117,4 @@ L'échec médinois permet de formuler en creux le cahier des charges de tout pac
 
 La Charte de Médine réussit ce que presque aucun texte antique n'avait tenté : dire que des communautés religieusement distinctes forment une seule communauté politique, chacune avec sa loi. Elle échoue sur ce qu'elle ne dit pas : comment vivre le désaccord. Son manquement n'est pas un défaut de générosité mais un défaut d'ingénierie — l'inclusion sans procédure, l'alliance sans tribunal, la norme sans sanction graduée.
 
-La leçon dépasse le VIIᵉ siècle. Toute coexistence proclamée sans mécanismes de conflit ne supprime pas les conflits : elle les reporte sur la seule instance toujours disponible, la force. À Médine, entre 624 et 627, la force a rendu trois fois son verdict — et c'est ce verdict, non le pacte, que le droit classique a ensuite codifié sous le nom de *dhimma*. La [troisième partie de ce dossier](/religious-hermeneutics/articles/charter-of-medina/) suit cette codification jusqu'à son terme : la transformation de l'alliance plurielle en orthodoxie impériale.
+La leçon dépasse le VIIᵉ siècle. Toute coexistence proclamée sans mécanismes de conflit ne supprime pas les conflits : elle les reporte sur la seule instance toujours disponible, la force. À Médine, entre 624 et 627, la force a rendu trois fois son verdict — et c'est ce verdict, non le pacte, que le droit classique a ensuite codifié sous le nom de *dhimma*. La [troisième partie de ce dossier](../charter-of-medina/) suit cette codification jusqu'à son terme : la transformation de l'alliance plurielle en orthodoxie impériale.
