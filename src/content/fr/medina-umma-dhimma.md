@@ -5,7 +5,7 @@ pair: medina-umma-dhimma
 category: philosophy
 dossier: charte-medine
 description: "Les tribus juives comme partenaires constitutifs du pacte, avec leur loi et leurs usages — et le glissement lexical de umma à dhimma"
-order: 3
+order: 1
 ---
 
 # Charte de Médine, I — Avant la *dhimma* : les Juifs membres de la *umma*

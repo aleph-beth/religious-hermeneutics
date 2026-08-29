@@ -5,7 +5,7 @@ pair: kpr-kfr-recouvrement
 category: etymology
 dossier: kafir-kippour
 description: "Du bitume akkadien à l'expiation coranique : une matrice sémitique partagée"
-order: 2
+order: 1
 ---
 
 # La racine du recouvrement : K-P-R / K-F-R

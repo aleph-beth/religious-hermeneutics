@@ -5,7 +5,7 @@ pair: medina-umma-dhimma
 category: philosophy
 dossier: charte-medine
 description: "The Jewish tribes as constitutive partners of the pact, with their own law and customs — and the lexical slide from umma to dhimma"
-order: 3
+order: 1
 ---
 
 # The Charter of Medina, I — Before the *dhimma*: Jews as members of the *umma*

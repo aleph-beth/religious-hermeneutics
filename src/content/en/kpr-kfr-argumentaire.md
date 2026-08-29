@@ -5,7 +5,7 @@ pair: kpr-kfr-argumentaire
 category: etymology
 dossier: kafir-kippour
 description: "Seven theses to repluralize the word kāfir, against a modern and minoritarian reduction"
-order: 6
+order: 5
 ---
 
 # The Sower and the Bird

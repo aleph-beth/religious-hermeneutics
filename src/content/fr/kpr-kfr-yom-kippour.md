@@ -5,7 +5,7 @@ pair: kpr-kfr-yom-kippour
 category: etymology
 dossier: kafir-kippour
 description: "Du Veau d'or aux secondes Tables : naissance midrashique du pardon divin"
-order: 7
+order: 6
 ---
 
 # Yom Kippour : la fête du grand pardon

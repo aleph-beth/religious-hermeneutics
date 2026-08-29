@@ -5,7 +5,7 @@ pair: kpr-kfr-voile
 category: etymology
 dossier: kafir-kippour
 description: "The Qur'anic grammar of the veil and the modern capture of a protective gesture"
-order: 5
+order: 4
 ---
 
 # Veil and Recovering: the Qur'anic *Khimār* and the Contemporary *Niqāb*

@@ -5,7 +5,7 @@ pair: medina-conflict-management
 category: philosophy
 dossier: charte-medine
 description: "The Charter's blind spot: no mechanism for resolving conflicts between communities — and the questions any plural pact must ask"
-order: 3.1
+order: 2
 ---
 
 # The Charter of Medina, II — The pact's blind spot: judging without a court

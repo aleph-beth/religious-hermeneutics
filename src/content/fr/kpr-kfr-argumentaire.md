@@ -5,7 +5,7 @@ pair: kpr-kfr-argumentaire
 category: etymology
 dossier: kafir-kippour
 description: "Sept thèses pour repluraliser le mot kāfir, contre une réduction moderne et minoritaire"
-order: 6
+order: 5
 ---
 
 # Le sémeur et l'oiseau
