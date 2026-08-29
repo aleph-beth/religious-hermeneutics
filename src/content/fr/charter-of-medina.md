@@ -5,7 +5,7 @@ pair: charter-of-medina
 category: philosophy
 dossier: charte-medine
 description: "Analyse historique de la transformation politique et théologique"
-order: 3.2
+order: 3
 ---
 
 # La Charte de Médine : de l’alliance plurielle à l’orthodoxie impériale

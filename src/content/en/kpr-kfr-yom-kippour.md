@@ -5,7 +5,7 @@ pair: kpr-kfr-yom-kippour
 category: etymology
 dossier: kafir-kippour
 description: "From the Golden Calf to the second Tablets: the midrashic birth of divine forgiveness"
-order: 7
+order: 6
 ---
 
 # Yom Kippur: the Day of Great Atonement

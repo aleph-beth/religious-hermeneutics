@@ -5,7 +5,7 @@ pair: medina-conflict-management
 category: philosophy
 dossier: charte-medine
 description: "L'angle mort de la Charte : aucun mécanisme de résolution des conflits entre communautés — et les questions qu'un pacte pluriel doit se poser"
-order: 3.1
+order: 2
 ---
 
 # Charte de Médine, II — Le manquement du pacte : juger sans tribunal

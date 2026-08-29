@@ -5,7 +5,7 @@ pair: kpr-kfr-recouvrement
 category: etymology
 dossier: kafir-kippour
 description: "From Akkadian bitumen to Qur'anic atonement: a shared Semitic matrix"
-order: 2
+order: 1
 ---
 
 # The Root of Recovering: K-P-R / K-F-R

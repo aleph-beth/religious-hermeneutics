@@ -5,7 +5,7 @@ pair: kpr-kfr-histoire
 category: etymology
 dossier: kafir-kippour
 description: "From Akkadian bitumen to classical Arabic theology: genealogy of a plural root"
-order: 3
+order: 2
 ---
 
 # A History of Readings: the Root K-P-R across Traditions

@@ -5,7 +5,7 @@ pair: kpr-kfr-takfir
 category: etymology
 dossier: kafir-kippour
 description: "De l'opérateur sémantique à l'instrument d'anathème : généalogie d'une rupture moderne"
-order: 4
+order: 3
 ---
 
 # Le retournement contemporain : la modernité du *takfīr* étendu

@@ -5,7 +5,7 @@ pair: kpr-kfr-voile
 category: etymology
 dossier: kafir-kippour
 description: "La grammaire coranique du voile et la captation moderne d'un geste protecteur"
-order: 5
+order: 4
 ---
 
 # Voile et recouvrement : le *khimār* coranique et le *niqāb* contemporain
