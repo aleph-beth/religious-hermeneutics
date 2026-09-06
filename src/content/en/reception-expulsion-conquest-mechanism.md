@@ -6,13 +6,15 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "The three-phase pattern that structures the Europe-Islam relationship from the 12th to the 20th century"
 order: 2
+date: 2026-08-28
 ---
+
 **Type**: Structural analysis
 **Thesis**: The Europe-Islam relationship between the 12th and 20th centuries follows an invariant three-phase pattern: reception of knowledge -> expulsion of transmitters -> conquest with the tools received.
 
 ---
 
-## Phase 1: Reception (12th-15th centuries)
+## 1. Phase 1: Reception (12th-15th centuries) {#s1}
 
 **Mechanism**: Europe translates, copies, and assimilates Arabo-Andalusian knowledge. The entry points are Toledo (reconquered in 1085), Palermo (Norman Sicily), Montpellier, and Salerno. The translators are predominantly Jewish — trilingual intermediaries (Arabic-Hebrew-Latin) between two worlds at war.
 
@@ -31,7 +33,7 @@ order: 2
 
 **Duration**: ~300 years of systematic transfer.
 
-## Phase 2: Expulsion (1492-1609)
+## 2. Phase 2: Expulsion (1492-1609) {#s2}
 
 **Mechanism**: Once the knowledge is assimilated, Europe expels the communities that transmitted it.
 
@@ -45,7 +47,7 @@ order: 2
 
 **Key point**: The expulsion comes *after* the assimilation. Europe closes the door after emptying the house.
 
-## Phase 3: Conquest (16th-20th centuries)
+## 3. Phase 3: Conquest (16th-20th centuries) {#s3}
 
 **Mechanism**: Europe turns the tools it received against those who forged them.
 
@@ -59,7 +61,7 @@ order: 2
 | Tunisia (1881), Morocco (1912) | Overall technological superiority |
 | Middle East (mandates, 1920) | The full arsenal |
 
-## The structural paradox
+## 4. The structural paradox {#s4}
 
 The reception-expulsion-conquest pattern is not unique to the Europe-Islam relationship — it is a law of knowledge transmission:
 

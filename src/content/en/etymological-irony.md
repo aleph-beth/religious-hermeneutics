@@ -4,15 +4,17 @@ lang: en
 pair: etymological-irony
 category: philosophy
 dossier: cordoue-lumieres
-description: "20+ European technical words of Arabic origin: the linguistic proof of the debt"
+description: "The technical vocabulary of European power, maritime, military, scientific and commercial, is massively of Arabic origin: each word is a fossil trace of the debt."
 order: 3
+date: 2026-08-28
 ---
+
 **Type**: Linguistic analysis
 **Thesis**: The technical vocabulary of European power — maritime, military, scientific, commercial — is massively of Arabic origin. Each word is a fossil trace of Europe's intellectual debt to the Islamic world.
 
 ---
 
-## Navigation and astronomy
+## 1. Navigation and astronomy {#s1}
 
 | European word | Arabic | Transliteration | Original meaning |
 |---------------|--------|-----------------|------------------|
@@ -24,7 +26,7 @@ order: 3
 
 The admiral who calculates the azimuth at the zenith speaks Arabic with every technical word.
 
-## Mathematics and sciences
+## 2. Mathematics and sciences {#s2}
 
 | European word | Arabic | Transliteration | Original meaning |
 |---------------|--------|-----------------|------------------|
@@ -38,7 +40,7 @@ The admiral who calculates the azimuth at the zenith speaks Arabic with every te
 
 All of European chemistry is born from an Arabic vocabulary: alchemy, alcohol, alembic, elixir.
 
-## Commerce and administration
+## 3. Commerce and administration {#s3}
 
 | European word | Arabic | Transliteration | Original meaning |
 |---------------|--------|-----------------|------------------|
@@ -51,7 +53,7 @@ All of European chemistry is born from an Arabic vocabulary: alchemy, alcohol, a
 
 The very infrastructure of European commercial capitalism — customs, tariff, magazine — speaks Arabic.
 
-## Military and technical
+## 4. Military and technical {#s4}
 
 | European word | Arabic | Transliteration | Original meaning |
 |---------------|--------|-----------------|------------------|
@@ -61,7 +63,7 @@ The very infrastructure of European commercial capitalism — customs, tariff, m
 | **Carafe** | gharrafa | *gharrafa* | Container |
 | **Mattress** | matrah | *matrah* | Place where one throws (a cushion) |
 
-## Botany and agriculture
+## 5. Botany and agriculture {#s5}
 
 | European word | Arabic | Transliteration | Original meaning |
 |---------------|--------|-----------------|------------------|
@@ -75,7 +77,7 @@ The very infrastructure of European commercial capitalism — customs, tariff, m
 
 European agriculture itself bears the mark of Al-Andalus: the Arabs introduced irrigation, citrus fruits, cotton, rice, and sugarcane to Iberia.
 
-## The finding
+## 6. The finding {#s6}
 
 Europe speaks Arabic in its admiralties, its laboratories, its customs houses, its arsenals, its markets, and its gardens. This is not a marginal borrowing — it is a substratum. The vocabulary of European power is an Arabic palimpsest overlaid with Latin.
 

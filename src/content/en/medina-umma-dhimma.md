@@ -6,25 +6,22 @@ category: philosophy
 dossier: charte-medine
 description: "The Jewish tribes as constitutive partners of the pact, with their own law and customs — and the lexical slide from umma to dhimma"
 order: 1
+date: 2026-07-13
 ---
 
-# The Charter of Medina, I — Before the *dhimma*: Jews as members of the *umma*
-
-*Gregory L. — July 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 The Charter of Medina (*Ṣaḥīfat al-Madīna*, c. 622) is often described as the first constitutional document in Islamic history. The label is useful only if it does not obscure the essential point: when the text was drafted, there was as yet no institutional "Islam" in the later sense of the word. What the Charter organizes is a **political alliance between distinct communities** — Meccan emigrants, Medinan clans, Jewish tribes — not the integration of minorities into a pre-existing Muslim community.
 
 This first article of the dossier establishes a central fact that later confessional rereadings progressively buried: **the Jews of Medina were members of the *umma* as Jews**, with their rules, their law, and their customs explicitly respected. The status of *dhimmī* — the subordinate "protected person" of classical Islamic law — is a later construction. The passage from the first condition to the second can be read in the vocabulary itself: from *umma* to *dhimma*, two words that sound almost identical to the ear, and that confer statuses that could hardly be more different.
 
-## I. Yathrib before the pact: a plural city where Judaism was structural
+## 2. Yathrib before the pact: a plural city where Judaism was structural {#s2}
 
 At the beginning of the 7th century, Yathrib was not a Muslim city hosting minorities. It was an agricultural oasis structured by five major tribal groups, of which **three were long-established Jewish tribes** — the Banū Qaynuqāʿ, Banū Naḍīr, and Banū Qurayẓa — with their own economic networks (metalwork, date-palm agriculture, trade), their own fortresses, their own law, and their own political memory. The Arab clans, Aws and Khazraj, exhausted by decades of vendetta warfare (culminating in the battle of Buʿāth, c. 617), were themselves religiously composite.
 
 When Muhammad arrived from Mecca with the Muhājirūn, he was received first of all as the **arbiter** (*ḥakam*) of a city in crisis, not as the sovereign of a constituted confessional community. The Charter is the instrument of that arbitration: it belongs to the Semitic genre of the **covenant pact**, in continuity with the biblical *berît* — a framework that regulates plurality without seeking to dissolve it.
 
-## II. What the text says: the Jews *with* the believers, one single *umma*
+## 3. What the text says: the Jews *with* the believers, one single *umma* {#s3}
 
 The text transmitted by Ibn Isḥāq (in Ibn Hishām's recension) contains a series of clauses whose wording is remarkably precise. The most famous:
 
@@ -38,7 +35,7 @@ The clause is then repeated, almost word for word, for the Jews of the Banū al-
 
 To this are added mutual defense ("they help one another against whoever attacks the people of this *ṣaḥīfa*"), shared war expenses ("to the Jews their expenditure, to the Muslims theirs"), and the prohibition of wronging anyone on account of their religion.
 
-## III. *Muʾminūn*, not yet *muslimūn*: a pact of believers
+## 4. *Muʾminūn*, not yet *muslimūn*: a pact of believers {#s4}
 
 The Charter's vocabulary is an archaeological witness. The dominant term for the partners of the pact is not *muslimūn* ("Muslims") but ***muʾminūn*** ("believers," root ʾ-M-N: security, trust, reliability — the same root that gives *amen* and the Hebrew *emunah*).
 
@@ -49,9 +46,9 @@ This distinction, highlighted in particular by Fred Donner's work (*Muhammad and
 
 In 622, "Islamic" religious identity was under construction: Muhammad's movement presented itself as a gathering of faithful monotheists, in which Jews could find a place **without conversion**. That is exactly what the Charter records: an *umma* defined by loyalty to the covenant, not by confession. The article [The Charter of Medina: From Pluralistic Alliance to Imperial Orthodoxy](../charter-of-medina/) analyzes how this open lexicon later contracted into exclusive categories.
 
-## IV. *Umma* and *dhimma*: two mirror words, two statuses
+## 5. *Umma* and *dhimma*: two mirror words, two statuses {#s5}
 
-### IV.1. *Umma*: the community as matrix
+### *Umma*: the community as matrix
 
 The word *umma* belongs to the common Semitic stock, attached to the root ʾ-M-M and to the semantic field of the **mother** (*umm*):
 
@@ -64,7 +61,7 @@ The word *umma* belongs to the common Semitic stock, attached to the root ʾ-M-M
 
 The *umma* is literally the **community-matrix**: that which gathers as a mother gathers. In the Charter it designates a confederation of responsibility — legal and military — which includes the Jewish tribes as a matter of principle.
 
-### IV.2. *Dhimma*: protection under blame
+### *Dhimma*: protection under blame
 
 Classical Islamic law would later designate Jews and Christians as *ahl al-dhimma*, "people of the *dhimma*." The word rests on the root ḏ-M-M, whose primary sense is **to blame** (*dhamma*, "to blame"; *madhmūm*, "blameworthy"). The *dhimma* is the engagement of protection whose violation exposes one to blame: the protected person holds a claim on the protector's honor.
 
@@ -77,7 +74,7 @@ Classical Islamic law would later designate Jews and Christians as *ahl al-dhimm
 
 The near-anagram in sound measures exactly the magnitude of the historical mutation: in vocabulary as in law, an apparently minimal displacement sufficed to move the Jews out of the community and place them beneath it. **Before being *ahl al-dhimma*, the Jews were members of the *umma*** — the Charter itself attests it, and it is this that the later theologization of the vocabulary rendered almost unthinkable.
 
-### IV.3. Chronology of a slide
+### Chronology of a slide
 
 | Stage | Status of the Jews | Framework |
 | --- | --- | --- |
@@ -88,7 +85,7 @@ The near-anagram in sound measures exactly the magnitude of the historical mutat
 
 This table does not describe a moment of moral betrayal, but a **retroactive requalification**: the *umma* contracted into a confessional community, and those who had been members of it without sharing the confession found themselves outside — without ever having moved.
 
-## V. Conclusion: a real inclusion, but without scaffolding
+## 6. Conclusion: a real inclusion, but without scaffolding {#s6}
 
 The finding of this first part is twofold.
 

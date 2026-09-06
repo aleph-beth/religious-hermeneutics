@@ -3,29 +3,10 @@ title: "The Flame and Its Shadow: A Physics of Origin"
 lang: en
 pair: zohar-flame-microgravity
 category: hermeneutics
-description: "A contemporary midrash between the flame of the Zohar and microgravity. A flame in orbit becomes a blue sphere that suffocates in its own gases: origin does not feed, it orients; glory (kavod) is a weight; the wick of the universe is a flaw."
+description: "A flame in orbit becomes a blue sphere that suffocates in its own gases. A midrashic rereading of the Zohar: origin does not feed, it orients."
 order: 7
+date: 2026-09-06
 ---
-
-# The Flame and Its Shadow: A Physics of Origin
-## A contemporary midrash between the flame of the Zohar and microgravity
-
-## Table of Contents
-
-1. [Prologue — Midrash as a dialogue between tradition and modernity](#s1)
-2. [The imagined midrash: two sages, a lamp, and a fruitful error](#s2)
-3. [The Zohar and the double light: a physics of inversion](#s3)
-4. [Gravity as orientation: when the earth gives nothing but orients everything](#s4)
-5. [K-B-D: the root that binds glory and weight](#s5)
-6. [Q-D-M and Q-B-L: the roots of orientation toward the origin](#s6)
-7. [The four terms of the apparatus: wax, wick, field, and air](#s7)
-8. [Adam and the conduit: the soul as passage](#s8)
-9. [Imperfection as condition: why purity is sterile](#s9)
-10. [The enigma of ignition: the burning bush and the flame without transaction](#s10)
-11. [Epilogue — Toward a theology of imperfection](#s11)
-12. [Glossary of Hebrew and Aramaic terms](#s12)
-13. [Bibliographical references](#s13)
-14. [Further reading](#s14)
 
 ---
 

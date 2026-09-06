@@ -4,15 +4,17 @@ lang: fr
 pair: ibn-al-haytham-optics
 category: philosophy
 dossier: cordoue-lumieres
-description: "La méthode expérimentale naît vers 1020 avec Alhazen, six siècles avant Francis Bacon"
+description: "Vers 1020, le Traité d'optique d'Ibn al-Haytham fonde la méthode expérimentale ; traduit en latin, il nourrit Roger Bacon, Kepler et Newton six siècles avant Francis Bacon."
 order: 6
+date: 2026-08-28
 ---
+
 **Type** : Analyse stratégique — transfert scientifique
 **Thèse** : La méthode expérimentale — ce que l'Europe appelle "la science" — ne naît pas avec Galilée ou Bacon. Elle naît avec **Ibn al-Haytham** (Alhazen, 965-1040), dont le *Kitab al-Manazir* (Traité d'optique) est le premier ouvrage à systématiser l'expérimentation contrôlée, la formulation d'hypothèses et la vérification empirique. Traduit en latin sous le titre *De Aspectibus*, il est le texte scientifique le plus influent du Moyen Âge — et la source directe de Roger Bacon, Kepler et Newton.
 
 ---
 
-## Ibn al-Haytham (Alhazen, 965-1040)
+## 1. Ibn al-Haytham (Alhazen, 965-1040) {#s1}
 
 | | Détail |
 |---|---|
@@ -25,9 +27,9 @@ order: 6
 
 Bien qu'Ibn al-Haytham ne soit pas cordouan, il appartient pleinement au système de transmission du savoir islamique vers l'Europe via Tolède et l'Italie — le même canal que les oeuvres cordouanes.
 
-## Les trois révolutions d'Ibn al-Haytham
+## 2. Les trois révolutions d'Ibn al-Haytham {#s2}
 
-### 1. La vision : de l'émission à la réception
+### La vision : de l'émission à la réception
 
 **Avant Ibn al-Haytham** : deux théories s'affrontent depuis l'Antiquité :
 - **Théorie de l'émission** (Euclide, Ptolémée) : l'oeil émet des rayons qui "touchent" les objets
@@ -37,7 +39,7 @@ Bien qu'Ibn al-Haytham ne soit pas cordouan, il appartient pleinement au systèm
 
 Il le prouve par l'expérience de la **chambre noire** (*camera obscura*) : la lumière entrant par un trou dans une pièce sombre projette une image inversée — preuve que la lumière voyage en ligne droite depuis l'objet.
 
-### 2. La méthode expérimentale
+### La méthode expérimentale
 
 C'est la révolution la plus profonde. Ibn al-Haytham établit explicitement une méthode :
 
@@ -57,11 +59,11 @@ Sa formulation dans le *Kitab al-Manazir* :
 
 Ce texte — écrit vers 1020 — est le manifeste de la méthode scientifique moderne, six siècles avant Francis Bacon (*Novum Organum*, 1620).
 
-### 3. La mathématisation du réel
+### La mathématisation du réel
 
 Ibn al-Haytham ne se contente pas d'observer : il **mesure** et **calcule**. Ses expériences d'optique sont accompagnées de démonstrations géométriques rigoureuses. Il applique les mathématiques à la physique de manière systématique — ce que Galilée fera cinq siècles plus tard en mécanique.
 
-## La chaîne de transmission
+## 3. La chaîne de transmission {#s3}
 
 ```
 Ibn al-Haytham (Le Caire, ~1020)
@@ -77,7 +79,7 @@ Ibn al-Haytham (Le Caire, ~1020)
                                         → Newton (1704) : Opticks — synthèse finale
 ```
 
-## Roger Bacon : le passeur
+## 4. Roger Bacon : le passeur {#s4}
 
 Roger Bacon (1214-1294), franciscain d'Oxford, est le principal héritier européen d'Ibn al-Haytham. Dans son *Opus Majus* (1267), il :
 
@@ -88,7 +90,7 @@ Roger Bacon (1214-1294), franciscain d'Oxford, est le principal héritier europ�
 
 L'ironie : Roger Bacon est souvent présenté comme le "père de la méthode expérimentale en Europe" — mais il reconnaît lui-même que sa méthode vient d'Alhazen. L'effacement postérieur de cette reconnaissance est un cas classique d'occultation de la dette.
 
-## L'optique et la perspective : de la science à l'art
+## 5. L'optique et la perspective : de la science à l'art {#s5}
 
 La transmission ne s'arrête pas à la science. L'optique d'Ibn al-Haytham — via Bacon, Witelo et Peckham — fonde la **perspective** de la Renaissance :
 
@@ -101,21 +103,21 @@ La transmission ne s'arrête pas à la science. L'optique d'Ibn al-Haytham — v
 
 **La perspective** — ce que l'Europe considère comme la conquête artistique suprême de la Renaissance — repose sur une théorie optique arabe.
 
-## Le problème d'Alhazen
+## 6. Le problème d'Alhazen {#s6}
 
 Le "problème d'Alhazen" (trouver le point de réflexion sur un miroir sphérique connaissant la position de la source et de l'observateur) est un problème mathématique qui ne sera résolu complètement qu'au XXIe siècle. Il témoigne du niveau de sophistication mathématique d'Ibn al-Haytham — un niveau que l'Europe n'atteindra que plusieurs siècles après.
 
-## L'ironie coloniale
+## 7. L'ironie coloniale {#s7}
 
 Quand les puissances européennes colonisent le monde musulman au XIXe siècle, elles justifient leur domination par leur "supériorité scientifique" — une science fondée sur la méthode expérimentale. Or cette méthode est formulée pour la première fois par un savant musulman.
 
 La science que l'Europe brandit comme preuve de sa supériorité civilisationnelle est elle-même un héritage du monde qu'elle prétend civiliser. Ernest Renan (1883) déclare que "la science est une chose tout européenne" — en effaçant d'un trait la dette envers Alhazen, al-Khwarizmi, al-Biruni et des centaines d'autres.
 
-## La thèse en trois phrases
+## 8. La thèse en trois phrases {#s8}
 
 Ibn al-Haytham invente la méthode expérimentale moderne vers 1020 — six siècles avant que Francis Bacon ne la "redécouvre". Son optique, transmise via Tolède, structure la science et l'art européens de Roger Bacon à Newton, de Ghiberti à Léonard de Vinci. La "Révolution scientifique" européenne n'est pas une genèse : c'est un héritage.
 
-## Référence croisée
+## 9. Référence croisée {#s9}
 
 - Philosophie : [Averroès et Maïmonide — La philosophie de Cordoue comme fondement des Lumières européennes](../averroes-maimonides/)
 - Poudre : La poudre retournée — De Hasan al-Rammah aux canons coloniaux

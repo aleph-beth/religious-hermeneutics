@@ -4,15 +4,17 @@ lang: en
 pair: napoleon-egypt
 category: philosophy
 dossier: cordoue-lumieres
-description: "Bonaparte crushes the heirs of Ain Jalut with the descendants of their own weapons"
+description: "The Egyptian expedition concentrates the colonial irony: Bonaparte conquers the heart of the Islamic world with a science born in Baghdad and guns descended from Arab gunpowder."
 order: 15
+date: 2026-08-28
 ---
+
 **Type**: Case study
 **Thesis**: The Egyptian expedition is the most concentrated instance of colonial irony. Bonaparte conquers the center of the post-Ain Jalut Islamic world with a science rooted in the House of Wisdom and artillery descending from Arab gunpowder.
 
 ---
 
-## The facts
+## 1. The facts {#s1}
 
 **July 21, 1798** — Battle of the Pyramids. The French army (25,000 men, modern artillery) crushes the Mamluks of Murad Bey. The Mamluks charge on horseback and with sabers — exactly as at Ain Jalut, 538 years earlier. But against infantry squares and French cannons, the charge is suicide.
 
@@ -20,7 +22,7 @@ Bonaparte to the troops: *"Soldats, du haut de ces pyramides, quarante siecles v
 
 What he does not say: the cannons firing are descendants of the gunpowder that Hasan al-Rammah had perfected for the ancestors of those very Mamluks.
 
-## The layered ironies
+## 2. The layered ironies {#s2}
 
 ### Irony 1: Gunpowder
 
@@ -38,7 +40,7 @@ Mamluk Egypt is the country that had saved Islam at Ain Jalut. It is the refuge 
 
 Bonaparte presents himself to the Egyptians as a friend of Islam. His Cairo proclamation (in Arabic): *"Au nom de Dieu clement et misericordieux. Il n'y a pas de divinite que Dieu [...] Les Francais sont aussi de sinceres musulmans."* ("In the name of God, the Merciful, the Compassionate. There is no deity but God [...] The French are also sincere Muslims.") He instrumentalizes Islamic rhetoric to conquer a Muslim country with tools derived from the Islamic world.
 
-## The Egyptian expedition as colonial template
+## 3. The Egyptian expedition as colonial template {#s3}
 
 The 1798 expedition inaugurates the European colonial model in the Middle East:
 
@@ -51,13 +53,13 @@ The 1798 expedition inaugurates the European colonial model in the Middle East:
 
 This model would be reproduced in Algeria (1830), Tunisia (1881), Morocco (1912), Palestine and Iraq (mandates 1920).
 
-## The Mamluk paradox
+## 4. The Mamluk paradox {#s4}
 
 The Mamluks of 1798 are living proof of the fossilization thesis: they fight with the same methods as in 1260. Excellent individual horsemen, they have no modern artillery, no line formation, no infantry tactics. They saved Islam but did not modernize it.
 
 Bonaparte sums it up (apocryphal but accurate): *"Chaque Mamelouk etait superieur a chaque Francais ; mais 1 000 Francais battaient 1 500 Mamelouks."* ("Each Mamluk was superior to each Frenchman; but 1,000 Frenchmen defeated 1,500 Mamluks.") This is the difference between individual bravery and systemic organization — between the Middle Ages and modernity.
 
-## Direct consequence: Muhammad Ali and modernization
+## 5. Direct consequence: Muhammad Ali and modernization {#s5}
 
 The defeat of 1798 sends a shockwave through the Islamic world. **Muhammad Ali** (r. 1805-1848), who seizes power in Egypt after the French departure, launches a modernization program on the European model — army, industry, education. This marks the beginning of the *nahda* (Arab renaissance).
 

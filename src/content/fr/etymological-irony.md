@@ -4,15 +4,17 @@ lang: fr
 pair: etymological-irony
 category: philosophy
 dossier: cordoue-lumieres
-description: "20+ mots techniques européens d'origine arabe : la preuve linguistique de la dette"
+description: "Le vocabulaire technique de la puissance européenne, maritime, militaire, scientifique, commerciale, est massivement d'origine arabe : chaque mot est une trace fossile de la dette."
 order: 3
+date: 2026-08-28
 ---
+
 **Type** : Analyse linguistique
 **Thèse** : Le vocabulaire technique de la puissance européenne — maritime, militaire, scientifique, commerciale — est massivement d'origine arabe. Chaque mot est une trace fossile de la dette intellectuelle de l'Europe envers le monde islamique.
 
 ---
 
-## Navigation et astronomie
+## 1. Navigation et astronomie {#s1}
 
 | Mot européen | Arabe | Translittération | Sens originel |
 |-------------|-------|-----------------|---------------|
@@ -24,7 +26,7 @@ order: 3
 
 L'amiral qui calcule l'azimut au zénith parle arabe à chaque mot technique.
 
-## Mathématiques et sciences
+## 2. Mathématiques et sciences {#s2}
 
 | Mot européen | Arabe | Translittération | Sens originel |
 |-------------|-------|-----------------|---------------|
@@ -38,7 +40,7 @@ L'amiral qui calcule l'azimut au zénith parle arabe à chaque mot technique.
 
 Toute la chimie européenne naît d'un vocabulaire arabe : alchimie, alcool, alambic, élixir.
 
-## Commerce et administration
+## 3. Commerce et administration {#s3}
 
 | Mot européen | Arabe | Translittération | Sens originel |
 |-------------|-------|-----------------|---------------|
@@ -51,7 +53,7 @@ Toute la chimie européenne naît d'un vocabulaire arabe : alchimie, alcool, ala
 
 L'infrastructure même du capitalisme commercial européen — douane, tarif, magasin — parle arabe.
 
-## Militaire et technique
+## 4. Militaire et technique {#s4}
 
 | Mot européen | Arabe | Translittération | Sens originel |
 |-------------|-------|-----------------|---------------|
@@ -61,7 +63,7 @@ L'infrastructure même du capitalisme commercial européen — douane, tarif, ma
 | **Carafe** | غرافة | *gharrāfa* | Récipient |
 | **Matelas** | مطرح | *maṭraḥ* | Lieu où l'on jette (un coussin) |
 
-## Botanique et agriculture
+## 5. Botanique et agriculture {#s5}
 
 | Mot européen | Arabe | Translittération | Sens originel |
 |-------------|-------|-----------------|---------------|
@@ -75,7 +77,7 @@ L'infrastructure même du capitalisme commercial européen — douane, tarif, ma
 
 L'agriculture européenne elle-même porte la marque d'Al-Andalus : les Arabes ont introduit l'irrigation, les agrumes, le coton, le riz, la canne à sucre en Ibérie.
 
-## Le constat
+## 6. Le constat {#s6}
 
 L'Europe parle arabe dans ses amirautés, ses laboratoires, ses douanes, ses arsenaux, ses marchés et ses jardins. Ce n'est pas un emprunt marginal — c'est un substrat. Le vocabulaire de la puissance européenne est un palimpseste arabe recouvert de latin.
 

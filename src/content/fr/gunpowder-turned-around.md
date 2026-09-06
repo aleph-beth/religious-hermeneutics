@@ -4,15 +4,17 @@ lang: fr
 pair: gunpowder-turned-around
 category: philosophy
 dossier: cordoue-lumieres
-description: "La poudre chinoise, perfectionnée par les ingénieurs arabes, utilisée par l'Europe pour conquérir le monde musulman"
+description: "La poudre, inventée en Chine, perfectionnée par les ingénieurs arabes et transmise par al-Andalus, revient contre le monde musulman sous forme d'artillerie coloniale."
 order: 14
+date: 2026-08-28
 ---
+
 **Type** : Analyse historique — transfert technologique
 **Thèse** : La poudre, inventée en Chine, perfectionnée par les ingénieurs arabes, transmise à l'Europe via Al-Andalus, est retournée contre le monde musulman sous forme d'artillerie coloniale. L'arme du colonisateur est un héritage du colonisé.
 
 ---
 
-## La chaîne de transmission
+## 1. La chaîne de transmission {#s1}
 
 ```
 Chine (IXe s.) → Mongols (XIIIe s.) → Ingénieurs arabes → Al-Andalus → Europe
@@ -21,7 +23,7 @@ Chine (IXe s.) → Mongols (XIIIe s.) → Ingénieurs arabes → Al-Andalus → 
                      diffusion          (Hasan al-Rammah)    d'entrée    colonial
 ```
 
-## Les étapes clés
+## 2. Les étapes clés {#s2}
 
 | Date | Événement | Acteur |
 |------|-----------|--------|
@@ -38,7 +40,7 @@ Chine (IXe s.) → Mongols (XIIIe s.) → Ingénieurs arabes → Al-Andalus → 
 | 1798 | **Canons français écrasent les Mamelouks** | Napoléon en Égypte |
 | 1830 | Artillerie française prend Alger | Colonisation de l'Algérie |
 
-## Le fait technique décisif
+## 3. Le fait technique décisif {#s3}
 
 La composition médiane des 17 recettes de roquettes de Hasan al-Rammah :
 - **75% nitrate de potassium, 9% soufre, 16% carbone**
@@ -48,7 +50,7 @@ La recette moderne optimale :
 
 Les ingénieurs arabes du XIIIe siècle avaient atteint empiriquement la composition idéale. L'Europe n'a fait que recevoir et industrialiser ce que le monde islamique avait déjà perfectionné.
 
-## Les retournements emblématiques
+## 4. Les retournements emblématiques {#s4}
 
 ### Constantinople (1453)
 Les Ottomans — empire islamique de la poudre — utilisent des canons géants (fondus par l'ingénieur hongrois Orban) pour briser les murailles de Constantinople. Ici, c'est le monde musulman qui utilise la poudre *contre* l'Europe chrétienne. Dernier moment où l'avantage est du côté islamique.
@@ -61,7 +63,7 @@ Napoléon écrase les Mamelouks avec une artillerie perfectionnée. Les Mamelouk
 ### Alger (1830)
 La France prend Alger avec une puissance de feu écrasante. La ville où s'étaient réfugiés les Morisques expulsés d'Espagne (1609) tombe sous les canons descendant de la même poudre que les ingénieurs arabes avaient perfectionnée.
 
-## L'analyse : pourquoi l'Europe industrialise et l'Islam fige
+## 5. L'analyse : pourquoi l'Europe industrialise et l'Islam fige {#s5}
 
 Le monde islamique *invente* (ou perfectionne) la poudre mais ne l'industrialise pas. L'Europe la *reçoit* et la transforme en révolution militaire. Pourquoi ?
 

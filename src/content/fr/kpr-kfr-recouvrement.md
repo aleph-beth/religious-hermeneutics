@@ -4,26 +4,10 @@ lang: fr
 pair: kpr-kfr-recouvrement
 category: etymology
 dossier: kafir-kippour
-description: "Du bitume akkadien à l'expiation coranique : une matrice sémitique partagée"
+description: "Une racine, un geste : recouvrir. Du bitume de l'arche au kofer qui rachète une vie et au kāfir qui enfouit la graine, la matrice sémitique que l'usage moderne a réduite."
 order: 1
+date: 2026-05-09
 ---
-
-# La racine du recouvrement : K-P-R / K-F-R
-## Du bitume akkadien à l'expiation coranique — une matrice sémitique partagée
-
-## Table des matières
-
-1. [Introduction : une racine, sept pôles](#s1)
-2. [Strate matérielle : *kupru* et *kofer*](#s2)
-3. [Strate cultuelle : *kapporet*, *kippur*, sang](#s3)
-4. [Strate agraire : Isaac sème, Lazare moissonne](#s4)
-5. [Strate arabe pré-islamique : *al-kāfir* polysémique](#s5)
-6. [Strate coranique : la triple polarité conservée](#s6)
-7. [Le doublet sémantique : bon et mauvais recouvrement](#s7)
-8. [Christologisation paulinienne : Romains 3, 25](#s8)
-9. [Captation philologique : le sémeur devient renégat](#s9)
-10. [Conclusion : sept pôles à tenir ensemble](#s10)
-11. [Bibliographie](#s11)
 
 ---
 
@@ -39,7 +23,7 @@ Le programme de cet article est de suivre cette racine depuis ses attestations l
 
 ## 2. Strate matérielle : *kupru* et *kofer* {#s2}
 
-### 2.1 Atrahasis et Gilgamesh
+### 1 Atrahasis et Gilgamesh
 
 L'épopée babylonienne d'Atrahasis (recension paléo-babylonienne, c. XVIIIe s. AEC) décrit la construction de l'arche par le héros antédiluvien à l'aide de bitume :
 
@@ -55,7 +39,7 @@ L'épopée de Gilgamesh (recension standard, c. 1200 AEC) reprend exactement la 
 
 Le verbe akkadien *kapāru* (« essuyer, frotter, purifier rituellement ») et le substantif *kupru* (« bitume ») relèvent d'une même racine. Le geste est *technique* avant d'être *moral* : on *applique une couche* pour étanchéifier, pour purifier, pour faire passer.
 
-### 2.2 Genèse 6, 14 : le calfatage hébreu de l'arche
+### 2 Genèse 6, 14 : le calfatage hébreu de l'arche
 
 Le récit hébraïque du Déluge reprend la formule mésopotamienne sans rupture :
 
@@ -65,7 +49,7 @@ Le récit hébraïque du Déluge reprend la formule mésopotamienne sans rupture
 
 La racine apparaît deux fois en un seul verset : verbe (*kafarta*) et substantif (*kofer*). Le cognat akkadien-hébreu est strict ; le récit hébreu reprend la formule mésopotamienne du calfatage rituel de l'arche.
 
-### 2.3 Genèse 11, 3 : Babel et le déplacement lexical
+### 3 Genèse 11, 3 : Babel et le déplacement lexical
 
 À Babel, le même bitume reçoit un autre nom :
 
@@ -79,7 +63,7 @@ Le mot ici n'est pas *kofer* mais *ḥemar* — emprunt araméen-akkadien (akk. 
 
 ## 3. Strate cultuelle : *kapporet*, *kippur*, sang {#s3}
 
-### 3.1 La *kapporet* du Saint des Saints
+### 1 La *kapporet* du Saint des Saints
 
 La grande innovation hébraïque est de faire de *kpr* l'opérateur central du système sacrificiel sacerdotal. Lévitique 1-7, 16, 17 articulent toute la liturgie expiatoire autour du verbe *kipper*. La **kapporet** (Ex 25, 17-22 ; Lv 16, 2) est le couvercle d'or qui surmonte l'Arche d'Alliance, *l'objet le plus saint du Tabernacle*. La Septante (LXX) la traduit par ἱλαστήριον — *« objet propitiatoire »* —, terme que Paul reprendra en Romains 3, 25 pour qualifier le Christ.
 
@@ -91,7 +75,7 @@ Lévitique 16, 14 décrit le rituel central de Yom Kippour :
 
 Le geste est précis : le sang est aspergé *sur* la *kapporet*. Le verbe *kipper* signifie alors *interposer une couche* entre la faute et le regard divin. La théologie sacerdotale postule une *physique du sacré* : la faute laisse une trace matérielle qui contamine le sanctuaire ; il faut un acte qui *recouvre* cette trace.
 
-### 3.2 Lévitique 17, 11 : le sang qui *kapper*
+### 2 Lévitique 17, 11 : le sang qui *kapper*
 
 > כִּי נֶפֶשׁ הַבָּשָׂר בַּדָּם הִוא ; וַאֲנִי נְתַתִּיו לָכֶם עַל־הַמִּזְבֵּחַ **לְכַפֵּר** עַל־נַפְשֹׁתֵיכֶם ; כִּי־הַדָּם הוּא בַּנֶּפֶשׁ יְכַפֵּר.
 >
@@ -99,7 +83,7 @@ Le geste est précis : le sang est aspergé *sur* la *kapporet*. Le verbe *kippe
 
 Le verset est l'un des plus denses de la théologie sacerdotale. Le sang n'agit pas par sa valeur matérielle mais par la vie (*nefesh*) qu'il porte. Le *kpr* est ici le *transfert* d'une vie sur l'autel — interposition d'une vie animale entre la faute humaine et la sainteté divine.
 
-### 3.3 Exode 30, 12 : le *kofer* comme rançon
+### 3 Exode 30, 12 : le *kofer* comme rançon
 
 > וְנָתְנוּ אִישׁ **כֹּפֶר נַפְשׁוֹ** לַיהוָה … וְלֹא־יִהְיֶה בָהֶם נֶגֶף בִּפְקֹד אֹתָם.
 >
@@ -111,7 +95,7 @@ Le même mot — couvercle, expiation, rançon — ramené à un seul geste : *i
 
 ## 4. Strate agraire : Isaac sème, Lazare moissonne {#s4}
 
-### 4.1 Genèse 26, 12 : le centuple
+### 1 Genèse 26, 12 : le centuple
 
 > וַיִּזְרַע יִצְחָק בָּאָרֶץ הַהִוא ; וַיִּמְצָא בַּשָּׁנָה הַהִוא **מֵאָה שְׁעָרִים** ; וַיְבָרֲכֵהוּ יְהוָה.
 >
@@ -119,7 +103,7 @@ Le même mot — couvercle, expiation, rançon — ramené à un seul geste : *i
 
 Le verbe hébreu pour *« semer »* est *zaraʿ*, non *kafar*. Mais le geste agraire — *enfouir la graine pour qu'elle lève* — est sémantiquement parent du *recouvrement* : le sémeur applique une couche de terre sur la graine pour qu'elle germe. C'est un *kpr* agraire en *exécution*, sinon en lexique. Le verset isaaqique pose le motif fondateur du *recouvrement-pour-la-levée*.
 
-### 4.2 Psaume 126 et Osée 10 : sémeurs du salut différé
+### 2 Psaume 126 et Osée 10 : sémeurs du salut différé
 
 > הַזֹּרְעִים בְּדִמְעָה בְּרִנָּה יִקְצֹרוּ ; הָלוֹךְ יֵלֵךְ וּבָכֹה נֹשֵׂא מֶשֶׁךְ־הַזָּרַע ; בֹּא־יָבוֹא בְרִנָּה נֹשֵׂא אֲלֻמֹּתָיו.
 >
@@ -129,7 +113,7 @@ Osée 10, 12 : *« זִרְעוּ לָכֶם לִצְדָקָה »* — *« seme
 
 Le geste agraire devient figure de la bénédiction et du *salut différé*. Il prépare structurellement la parabole synoptique du sémeur et le sens archaïque du *kāfir* arabe.
 
-### 4.3 La parabole synoptique du sémeur (Mt 13, 3-9)
+### 3 La parabole synoptique du sémeur (Mt 13, 3-9)
 
 > ἰδοὺ ἐξῆλθεν ὁ σπείρων τοῦ σπείρειν · καὶ ἐν τῷ σπείρειν αὐτὸν ἃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἐλθόντα τὰ πετεινὰ κατέφαγεν αὐτά … ἄλλα δὲ ἔπεσεν ἐπὶ τὰ πετρώδη … ἄλλα δὲ ἔπεσεν ἐπὶ τὰς ἀκάνθας … ἄλλα δὲ ἔπεσεν ἐπὶ τὴν γῆν τὴν καλὴν, καὶ ἐδίδου καρπόν, ὃ μὲν ἑκατόν, ὃ δὲ ἑξήκοντα, ὃ δὲ τριάκοντα.
 >
@@ -139,7 +123,7 @@ Le centuple (ἑκατόν) cite explicitement Gn 26, 12 (*meʾah sheʿarim*). M
 
 Cette donnée philologique apparemment anodine sera, on le verra dans la dernière section, l'argument-pivot de tout le dossier.
 
-### 4.4 Jean 12, 24 : le grain qui meurt
+### 4 Jean 12, 24 : le grain qui meurt
 
 > ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν ἀποθάνῃ, αὐτὸς μόνος μένει · ἐὰν δὲ ἀποθάνῃ, πολὺν καρπὸν φέρει.
 >
@@ -151,7 +135,7 @@ Déplacement johannique décisif : le Christ n'est plus le sémeur (Mt 13), il e
 
 ## 5. Strate arabe pré-islamique : *al-kāfir* polysémique {#s5}
 
-### 5.1 La poésie des *Muʿallaqāt*
+### 1 La poésie des *Muʿallaqāt*
 
 L'arabe pré-coranique connaît la racine *k-f-r* dans des sens où la péjoration religieuse est absente. Plusieurs occurrences poétiques du VIe siècle attestent ce sens neutre ou positif :
 
@@ -161,7 +145,7 @@ L'arabe pré-coranique connaît la racine *k-f-r* dans des sens où la péjorati
 - *al-kāfir* = la cuirasse, le fourreau — ʿAntara, *Muʿallaqa* ;
 - *al-kāfir* = le semeur (qui enfouit la graine) — sens conservé dans la lexicographie classique et attesté par Q 57, 20 (cf. § 6).
 
-### 5.2 La lexicographie classique
+### 2 La lexicographie classique
 
 Ibn Manẓūr, dans son *Lisān al-ʿArab* (composé à la fin du XIIIe siècle, mais compilation des autorités antérieures), rassemble ces acceptions sous l'entrée *kafara* :
 
@@ -175,7 +159,7 @@ E. W. Lane, dans son *Arabic-English Lexicon* (vol. VII, p. 2620-2622), confirme
 
 ## 6. Strate coranique : la triple polarité conservée {#s6}
 
-### 6.1 Q 57, 20 : le fossile philologique
+### 1 Q 57, 20 : le fossile philologique
 
 > ٱعۡلَمُوٓاْ أَنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبٞ وَلَهۡوٞ … كَمَثَلِ غَيۡثٍ أَعۡجَبَ **ٱلۡكُفَّارَ** نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصۡفَرّٗا ثُمَّ يَكُونُ حُطَٰمٗا.
 >
@@ -183,7 +167,7 @@ E. W. Lane, dans son *Arabic-English Lexicon* (vol. VII, p. 2620-2622), confirme
 
 Tabarī, Zamakhsharī, Rāzī sont unanimes : ici *al-kuffār* = *al-zurrāʿ*, les laboureurs, ceux qui *recouvrent* la graine. Aucun lecteur classique ne s'y est trompé. Cette occurrence est un *fossile* : elle atteste, au cœur même du canon, que le mot peut signifier *paysan*. Elle préserve, dans le texte sacré, la mémoire d'un état antérieur de la racine.
 
-### 6.2 Q 14, 7 : la grande opposition *shukr / kufr*
+### 2 Q 14, 7 : la grande opposition *shukr / kufr*
 
 > لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡ ; وَلَئِن **كَفَرۡتُمۡ** إِنَّ عَذَابِي لَشَدِيدٞ.
 >
@@ -191,7 +175,7 @@ Tabarī, Zamakhsharī, Rāzī sont unanimes : ici *al-kuffār* = *al-zurrāʿ*, 
 
 Le *kufr* est ici l'*ingratitude foncière* — celui qui *recouvre* le bienfait reçu pour ne plus le devoir. Antonyme : le *shākir* qui *manifeste* la reconnaissance. Le couple *shukr/kufr* est la première opposition majeure de la prédication mecquoise. Avant d'être un mot d'anathème, le *kufr* est un défaut anthropologique : oublier le don.
 
-### 6.3 Q 2, 7 : la constellation du recouvrement
+### 3 Q 2, 7 : la constellation du recouvrement
 
 > **خَتَمَ ٱللَّهُ** عَلَىٰ قُلُوبِهِمۡ وَعَلَىٰ سَمۡعِهِمۡ ; وَعَلَىٰٓ أَبۡصَٰرِهِمۡ غِشَٰوَةٞ.
 >
@@ -199,7 +183,7 @@ Le *kufr* est ici l'*ingratitude foncière* — celui qui *recouvre* le bienfait
 
 Le *kufr* est ici associé à toute une constellation lexicale du recouvrement : *khatm* (sceau), *ghishāwa* (voile), *labbasa* (revêtir, Q 2, 42), *katama* (étouffer, Q 2, 42), *ḥijāb* (rideau, Q 17, 45). La grammaire du *kufr* coranique n'est pas celle de la négation logique mais celle de l'*occultation*.
 
-### 6.4 Q 5, 65 : le *takfīr* divin
+### 4 Q 5, 65 : le *takfīr* divin
 
 > وَلَوۡ أَنَّ أَهۡلَ ٱلۡكِتَٰبِ ءَامَنُواْ وَٱتَّقَوۡاْ **لَكَفَّرۡنَا** عَنۡهُمۡ سَيِّـَٔاتِهِمۡ.
 >
@@ -207,7 +191,7 @@ Le *kufr* est ici associé à toute une constellation lexicale du recouvrement :
 
 Verset capital. Ici, le verbe *kaffara* a *Dieu* pour sujet, et il signifie *« effacer en recouvrant »*. Le pôle expiatoire de la racine — *strict équivalent du *kipper* hébraïque* — est donc préservé dans le canon coranique, et explicitement attribué à Dieu. Le *takfīr*, dans le Coran, est un acte *divin et miséricordieux*. Cette donnée sera de la plus haute importance pour la suite du dossier.
 
-### 6.5 Q 5, 89 : la *kaffāra* rituelle
+### 5 Q 5, 89 : la *kaffāra* rituelle
 
 > فَكَفَّـٰرَتُهُۥٓ إِطۡعَامُ عَشَرَةِ مَسَٰكِينَ.
 >
@@ -215,7 +199,7 @@ Verset capital. Ici, le verbe *kaffara* a *Dieu* pour sujet, et il signifie *« 
 
 L'expiation rituelle du serment rompu — *kaffārat al-yamīn* — est l'application juridique du pôle positif de la racine. Le *fiqh* classique consacrera des chapitres entiers aux *kaffārāt* (expiations) : du serment rompu, du meurtre involontaire (Q 4, 92), du *ẓihār* (Q 58, 3-4), de la rupture du jeûne. Toutes fonctionnent sur le modèle du *kpr* hébraïque : interposer un acte (don, jeûne, affranchissement) qui *recouvre* la faute.
 
-### 6.6 Récapitulatif
+### 6 Récapitulatif
 
 La même racine, en arabe coranique, désigne donc *trois gestes simultanés* :
 - le geste humain *négatif* du *kufr* — recouvrir la vérité, le bienfait, le signe ;

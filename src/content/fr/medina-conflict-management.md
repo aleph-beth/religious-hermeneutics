@@ -6,13 +6,10 @@ category: philosophy
 dossier: charte-medine
 description: "L'angle mort de la Charte : aucun mécanisme de résolution des conflits entre communautés — et les questions qu'un pacte pluriel doit se poser"
 order: 2
+date: 2026-07-13
 ---
 
-# Charte de Médine, II — Le manquement du pacte : juger sans tribunal
-
-*Gregory L. — Juillet 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 La [première partie de ce dossier](../medina-umma-dhimma/) a établi que les Juifs de Médine étaient membres de la *umma* en tant que tels, avec leur loi et leurs usages garantis. Si l'expérience médinoise s'était arrêtée là, elle constituerait un précédent presque idéal de gouvernance plurielle.
 
@@ -20,9 +17,9 @@ Elle ne s'est pas arrêtée là. En cinq ans (622–627), les trois grandes trib
 
 La thèse de cet article est que l'échec ne tient pas d'abord à la mauvaise foi des acteurs ni à une incompatibilité des communautés, mais à un **défaut de conception institutionnelle** : la Charte accepte l'autre, mais ne prévoit aucun mécanisme opérant pour gérer les conflits *entre* les communautés qu'elle fédère. L'acceptation sans procédure laisse, en cas de crise, une seule voie ouverte : le rapport de force.
 
-## I. Ce que le pacte prévoit — et ce qu'il ne prévoit pas
+## 2. Ce que le pacte prévoit — et ce qu'il ne prévoit pas {#s2}
 
-### I.1. La clause d'arbitrage : une phrase pour tout tribunal
+### La clause d'arbitrage : une phrase pour tout tribunal
 
 Le texte transmis par Ibn Isḥāq contient bien une clause de règlement des différends :
 
@@ -34,7 +31,7 @@ C'est tout. Une phrase. Comparée à la précision des clauses de solidarité mi
 2. **Selon quelle loi ?** La Charte garantit « aux Juifs leur *dīn*, aux musulmans leur *dīn* » — deux ordres juridiques complets et parallèles. Mais quand un litige traverse la frontière des communautés, quel droit s'applique ? La Torah ? La révélation naissante ? La coutume tribale ? Le texte ne définit aucun **méta-droit** : aucune règle pour trancher les conflits de règles.
 3. **Selon quelle procédure et avec quelles sanctions ?** Aucune gradation n'est prévue entre la fraternité du pacte et sa rupture. Pas d'amende, pas de réparation codifiée, pas de médiation, pas d'exclusion partielle ou temporaire. Le pacte ne connaît que deux états : la loyauté ou la trahison (*ghadr*) — et la trahison fait sortir du pacte tout entier.
 
-### I.2. Le vocabulaire du jugement existe — l'institution manque
+### Le vocabulaire du jugement existe — l'institution manque
 
 L'analyse étymologique confirme ce diagnostic de manière frappante. L'arabe dispose, dès cette époque, de deux racines majeures pour dire le jugement, toutes deux d'un ancien fonds sémitique :
 
@@ -63,11 +60,11 @@ Ici l'évolution va de la **sagesse** (qualité) au **jugement** (acte) puis à 
 
 Le paradoxe est là : **la langue du pacte possède tout le vocabulaire du jugement — *qaḍāʾ*, *ḥukm*, *ḥakam* — mais le pacte ne construit aucune des institutions que ce vocabulaire appelle.** Le verbe est disponible ; le tribunal manque. La Charte nomme l'arbitrage sans l'organiser : ni composition, ni procédure, ni droit applicable, ni voie d'exécution.
 
-### I.3. Une inclusion elle-même ambiguë
+### Une inclusion elle-même ambiguë
 
 Un dernier flou aggrave les précédents : les clauses juives de la Charte nomment « les Juifs des Banū ʿAwf », « les Juifs des Banū al-Najjār », etc. — c'est-à-dire les Juifs rattachés aux clans arabes. **Les trois grandes tribus juives autonomes — Qaynuqāʿ, Naḍīr, Qurayẓa — ne sont pas nommément citées** dans le texte conservé. Étaient-elles couvertes par des annexes perdues, par des pactes séparés, ou implicitement ? Les historiens en débattent (R. B. Serjeant, M. Lecker). Mais l'ambiguïté elle-même est significative : au moment des crises, ni l'appartenance exacte ni les obligations exactes des parties ne pouvaient être établies de manière incontestable. Un pacte dont le périmètre est incertain ne peut pas arbitrer ses marges.
 
-## II. L'épreuve des faits : trois crises, zéro procédure
+## 3. L'épreuve des faits : trois crises, zéro procédure {#s3}
 
 | Conflit | Déclencheur allégué | Traitement | Issue |
 | --- | --- | --- | --- |
@@ -83,7 +80,7 @@ Trois observations structurelles :
 
 Il ne s'agit pas ici de juger les acteurs du VIIᵉ siècle selon des standards modernes, ni de trancher la question — disputée — de la matérialité des trahisons alléguées. Le point est institutionnel : **même en admettant la réalité de chaque trahison, le pacte ne fournissait aucun autre instrument que la guerre pour l'établir et la sanctionner.** Un ordre juridique qui ne peut ni instruire, ni juger, ni proportionner n'a que deux réponses : tolérer ou détruire.
 
-## III. Comparaison : ce que d'autres systèmes ont ajouté
+## 4. Comparaison : ce que d'autres systèmes ont ajouté {#s4}
 
 | Modèle | Inclusion | Mécanisme de gestion des conflits |
 | --- | --- | --- |
@@ -94,7 +91,7 @@ Il ne s'agit pas ici de juger les acteurs du VIIᵉ siècle selon des standards 
 
 Le tableau révèle une tension historique amère : les systèmes ultérieurs ont résolu le problème de la gestion des conflits **en sacrifiant l'égalité** que Médine avait proclamée. La *dhimma* et le millet fournissent un méta-droit — mais un méta-droit de subordination. Le constitutionnalisme moderne fournit égalité *et* mécanismes — mais au prix de l'autonomie normative des communautés, ramenées à des associations privées. **Personne n'a encore pleinement réalisé ce que la Charte promettait : l'égalité des communautés *avec* leurs lois propres *et* des mécanismes équitables entre elles.** La Charte n'est pas seulement un précédent ; c'est une promesse non tenue par l'histoire entière qui l'a suivie.
 
-## IV. Poser les bonnes questions : le plan et les actions
+## 5. Poser les bonnes questions : le plan et les actions {#s5}
 
 L'échec médinois permet de formuler en creux le cahier des charges de tout pacte pluriel. Ce sont les questions que la Charte n'a pas posées — et qu'il faut poser à tout projet de coexistence entre communautés porteuses de normes propres, hier comme aujourd'hui.
 
@@ -113,7 +110,7 @@ L'échec médinois permet de formuler en creux le cahier des charges de tout pac
 8. **Traiter la première crise comme un précédent** : la réponse à Qaynuqāʿ a écrit le script de Naḍīr, qui a écrit celui de Qurayẓa. La première dérogation à la procédure est la dernière fois où l'on a le choix.
 9. **Séparer la loyauté politique de l'appartenance religieuse** : dès que la fidélité au pacte se mesure à la confession, le pacte pluriel est déjà mort — il ne reste qu'à l'enterrer.
 
-## V. Conclusion : l'acceptation ne suffit pas
+## 6. Conclusion : l'acceptation ne suffit pas {#s6}
 
 La Charte de Médine réussit ce que presque aucun texte antique n'avait tenté : dire que des communautés religieusement distinctes forment une seule communauté politique, chacune avec sa loi. Elle échoue sur ce qu'elle ne dit pas : comment vivre le désaccord. Son manquement n'est pas un défaut de générosité mais un défaut d'ingénierie — l'inclusion sans procédure, l'alliance sans tribunal, la norme sans sanction graduée.
 

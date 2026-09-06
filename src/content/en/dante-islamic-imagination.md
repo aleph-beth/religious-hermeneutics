@@ -6,13 +6,15 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "The cosmological structure of the founding work of European literature derives from the Islamic imagination of the Miraj"
 order: 7
+date: 2026-08-28
 ---
+
 **Type**: Strategic analysis — literary transfer
 **Thesis**: Dante's *Divine Comedy* (1320), founding text of European literature, draws from the Islamic imagination of the journey through the afterlife (*Miraj*). The thesis, launched by Miguel Asin Palacios in 1919, was first received as a nationalist scandal then progressively confirmed by the discovery of the *Book of Muhammad's Ladder* in Latin and Castilian translation. The most "European" work of world literature has Arab roots.
 
 ---
 
-## The thesis of Asin Palacios (1919)
+## 1. The thesis of Asin Palacios (1919) {#s1}
 
 ### The book
 
@@ -34,7 +36,7 @@ Miguel Asin Palacios, a Spanish priest and Arabist, publishes in 1919 *La escato
 
 In 1919, the thesis provokes outrage: Italy is in the midst of post-Great War nationalism, and asserting that Dante owes something to the Arabs is perceived as an attack on European identity. The Italian Dante scholars (Gabrieli, Cerulli) reject the thesis — but the contestation will be progressively undermined by the evidence.
 
-## The *Book of Muhammad's Ladder*: the missing proof
+## 2. The *Book of Muhammad's Ladder*: the missing proof {#s2}
 
 ### The discovery
 
@@ -59,7 +61,7 @@ The question remains debated. What is established:
 
 Proof of a direct reading does not exist. But the convergence of evidence is overwhelming.
 
-## Ibn Arabi: the Murcian mystic and the other source
+## 3. Ibn Arabi: the Murcian mystic and the other source {#s3}
 
 ### The *Futuhat al-Makkiyya* and the mystical journey
 
@@ -77,7 +79,7 @@ Ibn Arabi (1165-1240), born in Murcia (Al-Andalus), is the greatest mystic of Is
 
 The most striking parallel: in Ibn Arabi, mystical love passes through a real woman — **Nizam** of Mecca, who inspires the *Tarjuman al-Ashwaq* (The Interpreter of Desires). In Dante, it is **Beatrice** — a real woman become spiritual guide. This structure (real woman -> salvific figure -> access to the divine) has no equivalent in the Latin Christian tradition but is central to Andalusian Sufism.
 
-## The overall argument
+## 4. The overall argument {#s4}
 
 The point is not to prove that Dante "copied" the Miraj. The argument is deeper: **the imaginary of the afterlife** that structures the *Commedia* — the circles, the spheres, the mountain, the light, the guide, the salvific woman — is an imaginary that does not exist in the Latin Christian tradition before contact with Islam.
 
@@ -88,7 +90,7 @@ Before the 13th century, the Christian afterlife consists of:
 
 The complex and systematic structure of the *Commedia* — descending hell, mountain of purgatory, paradise ascending through concentric spheres — has no Christian precedent. It has an Islamic one.
 
-## Current historiographical positioning
+## 5. Current historiographical positioning {#s5}
 
 | Position | Representative | Argument |
 |----------|---------------|----------|
@@ -99,11 +101,11 @@ The complex and systematic structure of the *Commedia* — descending hell, moun
 
 The current consensus leans toward **indirect transmission**: Dante probably did not read the *Kitab al-Miraj* in Arabic, but the text existed in Latin within his intellectual environment, and the Islamic imaginary of the afterlife circulated through multiple channels (Toledo, Sicily, Crusades).
 
-## The thesis in three sentences
+## 6. The thesis in three sentences {#s6}
 
 The *Divine Comedy* — the founding text of European literature, the monument of Italian cultural identity — owes its cosmological structure to the Islamic imagination of the Miraj, transmitted through Toledo and the court of Alfonso X. It is not plagiarism but a fertilization: Dante takes an Islamic seed and makes it the greatest Christian poem. Europe at its most intimate — its literature — is still a daughter of Cordoba.
 
-## Cross-references
+## 7. Cross-references {#s7}
 
 - Troubadours: Ziryab and the troubadours — Andalusian music and poetry in Europe
 - Zohar and mysticism: [The Zohar — The mysticism of Cordoba as matrix of the European Renaissance](../zohar-cordoba-mysticism/)

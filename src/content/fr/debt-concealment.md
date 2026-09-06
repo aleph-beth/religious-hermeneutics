@@ -6,13 +6,15 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "Du XIIIe siècle (Roger Bacon honore l'Islam) au XIXe (Renan réduit l'Islam à un bibliothécaire passif)"
 order: 17
+date: 2026-08-28
 ---
+
 **Type** : Analyse idéologique
 **Thèse** : Entre le XIIIe siècle (où Roger Bacon honore les penseurs islamiques) et le XIXe (où Renan réduit l'Islam à un bibliothécaire passif), l'Europe efface progressivement sa dette intellectuelle envers le monde islamique. Cette occultation accompagne et légitime la colonisation.
 
 ---
 
-## Phase 1 : La reconnaissance (XIIe-XVe siècles)
+## 1. Phase 1 : La reconnaissance (XIIe-XVe siècles) {#s1}
 
 Pendant la période de réception active, les Européens reconnaissent ouvertement leur dette :
 
@@ -26,13 +28,13 @@ Pendant la période de réception active, les Européens reconnaissent ouverteme
 
 À cette époque, la dette est assumée, même si elle est critiquée (Thomas d'Aquin combat l'averroïsme tout en le prenant au sérieux).
 
-## Phase 2 : La Renaissance — le début de l'effacement (XVe-XVIe siècles)
+## 2. Phase 2 : La Renaissance — le début de l'effacement (XVe-XVIe siècles) {#s2}
 
 La Renaissance européenne se construit sur un récit de **retour direct aux Grecs** — court-circuitant la médiation arabe. Le discours devient : "Nous retrouvons Aristote, Platon, Euclide" — comme si l'Europe les avait simplement retrouvés dans un grenier, sans mentionner les trois siècles de traduction arabo-latine qui les avaient rendus accessibles.
 
 Les traductions directes du grec (après la chute de Constantinople en 1453, des érudits grecs fuient vers l'Italie) renforcent cette illusion d'un lien direct Grèce → Europe.
 
-## Phase 3 : Les Lumières — l'ambivalence (XVIIe-XVIIIe siècles)
+## 3. Phase 3 : Les Lumières — l'ambivalence (XVIIe-XVIIIe siècles) {#s3}
 
 Les philosophes des Lumières sont ambivalents :
 
@@ -44,7 +46,7 @@ Les philosophes des Lumières sont ambivalents :
 
 Les Lumières utilisent l'Islam comme miroir critique, mais commencent à construire un récit de supériorité européenne fondée sur la Raison — une Raison présentée comme spécifiquement européenne et grecque.
 
-## Phase 4 : Le XIXe siècle — l'effacement complet
+## 4. Phase 4 : Le XIXe siècle — l'effacement complet {#s4}
 
 ### Ernest Renan (1823-1892)
 
@@ -66,11 +68,11 @@ La médiation arabe disparaît. Averroès, Maïmonide, al-Khwarizmi sont effacé
 
 Ce récit est faux. Le monde islamique n'a pas seulement *conservé* Aristote — il l'a *commenté*, *critiqué*, *développé*, *synthétisé* avec d'autres traditions (persane, indienne, chinoise). Averroès n'est pas un copiste : c'est un philosophe original. Al-Khwarizmi n'a pas "conservé" l'algèbre — il l'a *inventée*.
 
-## Phase 5 : L'orientalisme comme système (XIXe-XXe siècles)
+## 5. Phase 5 : L'orientalisme comme système (XIXe-XXe siècles) {#s5}
 
 Edward Saïd (*L'Orientalisme*, 1978) analyse ce processus : l'Orient est construit par l'Europe comme un objet d'étude, un espace passif, un musée — jamais comme un sujet actif de l'histoire intellectuelle. La *Description de l'Égypte* de Napoléon (1809-1829) est le prototype : l'Europe cartographie, mesure, classifie le monde islamique comme un entomologiste classifie des insectes.
 
-## Le lien entre occultation et colonisation
+## 6. Le lien entre occultation et colonisation {#s6}
 
 L'effacement de la dette n'est pas une simple erreur historiographique — c'est un **geste politique** qui légitime la colonisation :
 
@@ -80,7 +82,7 @@ L'effacement de la dette n'est pas une simple erreur historiographique — c'est
 
 L'occultation de Cordoue est la condition idéologique de la colonisation.
 
-## La correction en cours
+## 7. La correction en cours {#s7}
 
 Le travail de restitution historique — celui de votre projet — s'inscrit dans un mouvement plus large :
 - George Saliba (*Islamic Science and the Making of the European Renaissance*, 2007)

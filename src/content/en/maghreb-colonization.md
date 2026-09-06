@@ -4,15 +4,17 @@ lang: en
 pair: maghreb-colonization
 category: philosophy
 dossier: cordoue-lumieres
-description: "Algeria (1830), Tunisia, Morocco: Europe colonizes the refuge lands of Andalusian exiles"
+description: "In the nineteenth century France colonizes the lands where the Moriscos expelled from Spain had taken refuge, with tools inherited from al-Andalus: Europe's return in arms."
 order: 16
+date: 2026-08-28
 ---
+
 **Type**: Case study
 **Thesis**: The French colonization of the Maghreb is Europe's armed return to the refuge lands of Andalusian exiles. The Moriscos expelled from Spain (1609) had taken refuge in the Maghreb; two centuries later, France colonizes those same lands with tools inherited from Al-Andalus.
 
 ---
 
-## The Andalusian link to the Maghreb
+## 1. The Andalusian link to the Maghreb {#s1}
 
 ### The waves of exile
 
@@ -35,7 +37,7 @@ The Andalusian exiles transformed the cities where they settled:
 
 The colonial Maghreb is a partially Andalusian Maghreb.
 
-## French colonization
+## 2. French colonization {#s2}
 
 ### Algeria (1830-1962)
 
@@ -59,7 +61,7 @@ French protectorate imposed by the Treaty of Bardo. Tunisia — where the Morisc
 
 Franco-Spanish protectorate. Fez, Tetouan, Chefchaouen — cities shaped by Andalusian exiles — come under European control. Spain, which had expelled the Moriscos, returns to colonize the cities where they had taken refuge.
 
-## The double return
+## 3. The double return {#s3}
 
 The colonization of the Maghreb is a **double return**:
 
@@ -67,7 +69,7 @@ The colonization of the Maghreb is a **double return**:
 
 2. **Europe returns with the tools of Al-Andalus**: artillery (Arab gunpowder), navigation (astrolabe), science (inherited via Toledo). The tools of conquest are those of the conquered.
 
-## Andalusian memory in the resistance
+## 4. Andalusian memory in the resistance {#s4}
 
 The memory of Al-Andalus plays a role in Maghrebi resistance movements:
 - The fall of Granada (1492) is a living memorial trauma

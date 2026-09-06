@@ -3,15 +3,14 @@ title: "Maïmonide, le Spinoza manqué du monde islamique ?"
 lang: fr
 pair: maimonides-spinoza
 category: philosophy
-description: "Une comparaison philosophique des approches rationalistes"
+description: "Pourquoi réclamer un Spinoza au monde musulman ? Maïmonide en a tenu la fonction dès le XIIe siècle ; c'est la bifurcation qui a suivi qu'il faut expliquer."
 order: 2
+date: 2026-01-27
 ---
 
-# **Maïmonide, le Spinoza manqué du monde islamique ?**
+## 1. Introduction {#s1}
 
-## **Introduction**
-
-## Pourquoi pas de Spinoza dans le monde musulman ? Une question mal posée et un point aveugle persistant
+## 2. Pourquoi pas de Spinoza dans le monde musulman ? Une question mal posée et un point aveugle persistant {#s2}
 
 Il est devenu courant, dans certains discours intellectuels contemporains, de déplorer l’absence d’un « Spinoza » dans le monde arabe ou musulman. Cette plainte, souvent formulée sur un mode critique ou accusatoire, repose sur l’idée implicite qu’une modernité philosophique comparable à celle de l’Europe aurait dû émerger dans l’islam, et qu’elle aurait échoué à le faire. Une telle attente procède toutefois d’un **anachronisme conceptuel majeur** : elle projette sur un autre monde historique, linguistique et théologico-politique une figure — Baruch Spinoza — qui n’est intelligible qu’au terme d’un long processus interne à l’Europe moderne.
 
@@ -23,15 +22,13 @@ Dès lors, la question pertinente n’est pas : *« Pourquoi le monde islamique 
 
 Cette étude se propose donc de déplacer le débat : il ne s’agit pas de mesurer un manque ou un retard, mais de comprendre **une bifurcation historique**, où le travail philosophique inauguré et porté à un haut degré de cohérence par Maïmonide n’a pas trouvé les conditions politiques et institutionnelles nécessaires pour franchir le seuil que seule la modernité européenne rendra possible.
 
-## **II. Maïmonide et Spinoza : continuité structurelle, divergence politique**
+## 3. Maïmonide et Spinoza : continuité structurelle, divergence politique {#s3}
 
-
-
-### **II.1. Hypothèse directrice**
+### Hypothèse directrice
 
 Comparer Maïmonide (1138–1204) et Spinoza (1632–1677) ne consiste pas à établir une filiation directe, mais à repérer une **homologie structurelle** : deux rationalismes critiques visant à neutraliser l’anthropomorphisme, à réinterpréter la prophétie et à subordonner le religieux à un ordre d’intelligibilité. La divergence essentielle ne porte pas sur les thèses métaphysiques “dures”, mais sur les **conditions politiques de possibilité** d’une autonomisation de la raison.
 
-### **II.2. Tableau comparatif développé (axes, thèses, fonctions, sources)**
+### Tableau comparatif développé (axes, thèses, fonctions, sources)
 
 | Axe | Maïmonide (Guide des égarés) | Spinoza (TTP / Éthique) | Conséquence épistémologique | Condition politico-institutionnelle |
 | ----- | ----- | ----- | ----- | ----- |
@@ -47,13 +44,13 @@ Comparer Maïmonide (1138–1204) et Spinoza (1632–1677) ne consiste pas à é
 
 ---
 
-### **II.3. Discussion (lecture historienne)**
+### Discussion (lecture historienne)
 
-#### **1\) Une continuité structurelle : rationaliser sans abolir le religieux**
+**1) Une continuité structurelle : rationaliser sans abolir le religieux**
 
 Sur les points doctrinaux centraux — anti-anthropomorphisme, intelligibilité du monde, distinction des registres de vérité — Maïmonide accomplit déjà une grande part du geste que la modernité attribuera à Spinoza : **désenchanter la lettre** pour sauver la cohérence du vrai. La différence est que Maïmonide reste dans une stratégie de **réconciliation interne** : la Loi doit demeurer l’architecture commune, car elle est la condition de stabilité éthique et politique.
 
-#### **2\) La divergence politique : le “seuil” moderne**
+**2) La divergence politique : le “seuil” moderne**
 
 Spinoza écrit après une série de transformations institutionnelles qui changent la place du religieux :
 
@@ -64,7 +61,7 @@ Spinoza écrit après une série de transformations institutionnelles qui change
 
 Dans ce nouveau cadre, la critique n’est plus seulement herméneutique : elle devient **juridico-politique**. Spinoza peut donc traiter la religion comme un instrument de gouvernement des affects et défendre l’autonomie de l’État contre les clercs.
 
-#### **3\) Conclusion opératoire**
+**3) Conclusion opératoire**
 
 La thèse peut être formulée ainsi :
 
@@ -73,9 +70,9 @@ La thèse peut être formulée ainsi :
 
 Autrement dit, Maïmonide réalise le travail “pré-spinoziste” (désanthropomorphisation, hiérarchisation des sens, rationalisation de la prophétie et du miracle), **sans pouvoir — ni vouloir — convertir ce travail en théorie de la souveraineté politique**, car les institutions correspondantes n’existent pas encore.
 
-## **III. Les blocages internes du monde islamique majoritaire**
+## 4. Les blocages internes du monde islamique majoritaire {#s4}
 
-### **III.1. L’affaiblissement de la causalité : l’occasionnalisme acharite et la fragilisation du “nécessaire” rationnel**
+### L’affaiblissement de la causalité : l’occasionnalisme acharite et la fragilisation du “nécessaire” rationnel
 
 Dans le sunnisme majoritaire, le tournant décisif n’est pas simplement un anti-intellectualisme, mais une **reconfiguration métaphysique** : la causalité n’est plus une nécessité inscrite dans la nature, elle devient une **habitude** (*ʿāda*) instaurée et reconduite par Dieu. Cette position, solidifiée dans la théologie **acharite**, vise à préserver un principe central : **l’omnipotence divine** et la possibilité des miracles. Le monde est intelligible, mais **non nécessaire** au sens fort : ce que nous appelons “lois naturelles” ne sont que des régularités contingentes, “révocables”. 
 
@@ -98,7 +95,7 @@ Dans le sunnisme majoritaire, le tournant décisif n’est pas simplement un ant
 
 ---
 
-### **III.2. La marginalisation de la lecture symbolique : du *ta’wīl* légitime à la suspicion envers la polysémie**
+### La marginalisation de la lecture symbolique : du *ta’wīl* légitime à la suspicion envers la polysémie
 
 Il faut être précis : le sunnisme n’ignore pas l’interprétation. Il distingue, schématiquement, entre :
 
@@ -129,7 +126,7 @@ Mais la controverse porte sur **l’étendue** et la **légitimité** du *ta’w
 
 ---
 
-### **III.3. La disqualification de la philosophie : de l’outil interne à la suspicion d’extériorité (grecque, élitiste, subversive)**
+### La disqualification de la philosophie : de l’outil interne à la suspicion d’extériorité (grecque, élitiste, subversive)
 
 La philosophie (falsafa) a bel et bien existé **dans** le monde islamique, et à haut niveau. Mais, au sein du sunnisme majoritaire, elle subit un processus de **dé-légitimation** : non parce qu’elle serait “la raison” en général, mais parce qu’elle incarne une raison **spéculative métaphysique** jugée dangereuse lorsqu’elle prétend arbitrer le religieux.
 
@@ -154,11 +151,9 @@ C’est exactement le cœur de la critique anti-falsafa chez al-Ghazālī : la p
  Maïmonide opère une rationalisation interne de la Loi (philosophie comme méthode). Spinoza franchit un seuil supplémentaire : la philosophie devient **instance souveraine** pour juger de la nature, de l’Écriture et du politique.  
  La disqualification de la falsafa dans le sunnisme majoritaire fait que cette souveraineté philosophique est perçue non comme une maturation interne, mais comme une **rupture illégitime**.
 
-## **IV. Contexte historique et épistémologique de la philosophie en islam : avant et après les conquêtes mongoles**
+## 5. Contexte historique et épistémologique de la philosophie en islam : avant et après les conquêtes mongoles {#s5}
 
-### 
-
-### **IV.1. Avant les conquêtes mongoles (VIIIᵉ–XIIᵉ siècles) : un âge de traduction, de synthèse et de tension féconde**
+### Avant les conquêtes mongoles (VIIIᵉ–XIIᵉ siècles) : un âge de traduction, de synthèse et de tension féconde
 
 Entre le VIIIᵉ et le début du XIIIᵉ siècle, le monde islamique constitue l’un des espaces intellectuels les plus dynamiques du monde méditerranéen et proche-oriental. Cet âge, souvent qualifié d’« âge classique » ou d’« âge d’or » de l’islam, est marqué par une intense activité de traduction, d’appropriation et de transformation des héritages antiques.
 
@@ -176,7 +171,7 @@ Cette période est donc caractérisée par une **tension féconde** : la Révél
 
 ---
 
-### **IV.2. Les conquêtes mongoles (XIIIᵉ siècle) : rupture politique, traumatisme civilisationnel et repli normatif**
+### Les conquêtes mongoles (XIIIᵉ siècle) : rupture politique, traumatisme civilisationnel et repli normatif
 
 Les conquêtes mongoles du XIIIᵉ siècle (prise de Bagdad en 1258, effondrement du califat abbasside) constituent une rupture majeure, non seulement politique mais aussi épistémologique. Elles provoquent un choc durable dans les structures intellectuelles du monde islamique.
 
@@ -192,7 +187,7 @@ La philosophie, associée à une élite urbaine et à un ordre ancien effondré,
 
 ---
 
-### **IV.3. Après les conquêtes mongoles (XIVᵉ–XVIIIᵉ siècles) : clôture du champ philosophique et juridification du savoir**
+### Après les conquêtes mongoles (XIVᵉ–XVIIIᵉ siècles) : clôture du champ philosophique et juridification du savoir
 
 Après le choc mongol, le monde islamique entre dans une phase de **recomposition défensive**. Le savoir se réorganise autour de disciplines jugées stabilisatrices : le fiqh (droit), le ḥadīth, la grammaire, et une théologie de plus en plus normative.
 
@@ -208,7 +203,7 @@ Contrairement à l’Europe moderne, où la crise (guerres de religion) conduit 
 
 ---
 
-### **IV.4. Conséquence de longue durée : non un retard, mais une bifurcation historique**
+### Conséquence de longue durée : non un retard, mais une bifurcation historique
 
 Il est essentiel de souligner que cette évolution ne doit pas être interprétée comme un « retard » du monde islamique, mais comme une **bifurcation historique**. À partir du XIIIᵉ siècle, les conditions de possibilité d’une trajectoire de type Maïmonide → Spinoza disparaissent.
 
@@ -220,13 +215,13 @@ Le monde islamique n’a pas « manqué » la philosophie moderne ; il a choisi,
 
 Ce n’est donc pas l’absence de génie ou de ressources intellectuelles qui explique le recul de la philosophie, mais un enchaînement de ruptures historiques dont les conquêtes mongoles constituent le point de bascule décisif.
 
-## **V. Conséquences historiques : une trajectoire interrompue et ses conditions de possibilité**
+## 6. Conséquences historiques : une trajectoire interrompue et ses conditions de possibilité {#s6}
 
 L’analyse des conséquences historiques ne peut se limiter à un constat factuel ou à une narration linéaire du type « déclin de la philosophie ». Une démarche scientifique impose au contraire de **reconstituer les chaînes de transmission, les conditions institutionnelles et les contraintes politiques** qui rendent certaines trajectoires intellectuelles possibles — et en rendent d’autres impossibles. Les trois phénomènes suivants doivent être compris comme des **effets structurels**, non comme des accidents biographiques.
 
 ---
 
-### **V.1. Averroès : de la centralité philosophique à la marginalisation institutionnelle**
+### Averroès : de la centralité philosophique à la marginalisation institutionnelle
 
 Ibn Rushd (Averroès, 1126–1198) représente le point culminant de la *falāsifa* sunnite : défense de la causalité nécessaire, autonomie de la raison démonstrative, hiérarchisation des modes de discours (philosophique, théologique, rhétorique). D’un point de vue strictement doctrinal, son œuvre constitue l’équivalent islamique le plus proche de ce que la modernité européenne reconnaîtra plus tard comme rationalisme.
 
@@ -242,7 +237,7 @@ C’est précisément cette seconde dimension qui fait défaut. Averroès n’es
 
 ---
 
-### **V.2. Maïmonide : une œuvre rendue possible par l’islam, conservée par le judaïsme**
+### Maïmonide : une œuvre rendue possible par l’islam, conservée par le judaïsme
 
 Le cas de Maïmonide (1138–1204) est historiquement décisif pour comprendre les mécanismes de préservation et de transmission. Son œuvre est indissociable du monde islamique médiéval : langue (judéo-arabe), catégories philosophiques (aristotélisme avicennien), débats théologiques (causalité, attributs divins, prophétie). Sans l’islam classique, Maïmonide est historiquement impensable.
 
@@ -256,7 +251,7 @@ Le judaïsme médiéval et moderne peut intégrer Maïmonide comme autorité maj
 
 ---
 
-### **V.3. L’impossibilité structurelle du passage Maïmonide → Spinoza**
+### L’impossibilité structurelle du passage Maïmonide → Spinoza
 
 Le passage de Maïmonide à Spinoza n’est pas une simple continuité doctrinale ; il suppose une **mutation de régime intellectuel et politique**. Une approche historienne impose ici de refuser toute téléologie : Spinoza n’est pas l’« avenir naturel » de Maïmonide. Il est le produit d’un autre monde.
 
@@ -276,7 +271,7 @@ En revanche, l’Europe moderne — notamment via les Provinces-Unies — offre 
 
 ---
 
-### **V.4. Conclusion méthodologique : contre le mythe du “saut” intellectuel**
+### Conclusion méthodologique : contre le mythe du “saut” intellectuel
 
 D’un point de vue scientifique, il est essentiel de rappeler qu’**il n’existe pas de saut direct dans l’histoire des idées**. Les transformations majeures sont toujours médiées par des institutions, des crises, des cadres juridiques et des structures de transmission.
 
@@ -290,9 +285,9 @@ Ainsi :
 
 La conséquence n’est pas que le monde islamique aurait “échoué” là où l’Europe aurait “réussi”, mais que **des trajectoires intellectuelles distinctes ont émergé sous des contraintes différentes**. Comprendre ces contraintes, plutôt que distribuer des jugements de valeur, constitue le cœur de la démarche historienne.
 
-## ***Conclusion — Une ironie historique majeure : bifurcation, transmission et sécularisation***
+## 7. Conclusion — Une ironie historique majeure : bifurcation, transmission et sécularisation {#s7}
 
-### ***1\. Précaution méthodologique : éviter la téléologie rétrospective***
+### Précaution méthodologique : éviter la téléologie rétrospective
 
 *Une conclusion en histoire intellectuelle ne peut consister à distribuer des réussites et des manquements à l’aune d’un critère moderne projeté rétrospectivement. La méthode impose au contraire de distinguer :*
 
@@ -306,7 +301,7 @@ La conséquence n’est pas que le monde islamique aurait “échoué” là où
 
 ---
 
-### ***2\. Le monde islamique : production des conditions, refus fonctionnel des conséquences***
+### Le monde islamique : production des conditions, refus fonctionnel des conséquences
 
 *D’un point de vue strictement historique, le monde islamique médiéval a produit l’ensemble des conditions intellectuelles nécessaires à l’émergence de Maïmonide :*
 
@@ -322,7 +317,7 @@ La conséquence n’est pas que le monde islamique aurait “échoué” là où
 
 ---
 
-### ***3\. L’Europe : héritage médié par le judaïsme diasporique et sécularisation***
+### L’Europe : héritage médié par le judaïsme diasporique et sécularisation
 
 *L’Europe moderne n’hérite pas directement de Maïmonide depuis l’islam, mais **par l’intermédiaire du judaïsme diasporique**, dont la structure institutionnelle joue un rôle décisif. Privé de souveraineté politique confessionnelle, le judaïsme développe des formes de transmission fondées sur l’étude, la controverse interprétative et la pluralité des autorités savantes.*
 
@@ -338,7 +333,7 @@ La conséquence n’est pas que le monde islamique aurait “échoué” là où
 
 ---
 
-### ***4\. Confusion contemporaine : rupture moderne et travail médiéval inachevé***
+### Confusion contemporaine : rupture moderne et travail médiéval inachevé
 
 *Se plaindre aujourd’hui de l’absence d’un Spinoza dans le monde arabe ou musulman revient, méthodologiquement, à **confondre deux temporalités hétérogènes** :*
 
@@ -350,7 +345,7 @@ La conséquence n’est pas que le monde islamique aurait “échoué” là où
 
 ---
 
-### ***5\. Formulation de clôture (stabilisée)***
+### Formulation de clôture (stabilisée)
 
 *On peut donc conclure de manière rigoureusement historienne :*
 
@@ -362,7 +357,7 @@ La conséquence n’est pas que le monde islamique aurait “échoué” là où
 
 ---
 
-### **Bibliographie**
+### Bibliographie
 
 * Maïmonide, *Guide des égarés* (trad. et éd. de référence selon ta bibliographie), passages sur attributs divins, prophétie, finalité de la Loi.  
 * Spinoza, *Traité théologico-politique*, chap. sur prophétie, miracles, interprétation, droit et souveraineté.  

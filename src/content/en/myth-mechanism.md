@@ -3,21 +3,16 @@ title: "Myth as Mechanism"
 lang: en
 pair: myth-mechanism
 category: philosophy
-description: "Against the noise of information, toward an intelligence of deep structures"
+description: "Religion maintains a belief; myth tells a structure. From Cain to Rome, reading myths as mechanisms against the noise of information."
 order: 4
+date: 2026-04-06
 ---
-
-# **Myth as Mechanism**
-
-## Against the noise of information, toward an intelligence of deep structures
-
-*Comparative mythology · Midrash · History of empires*
 
 We live in an age convinced that more information produces more understanding. This conviction is false. What the world lacks is not data, but mechanism. And this mechanism we already have — it lies dormant in the myths we have stopped reading seriously.
 
 ---
 
-# **I. Myth and religion — a fatal confusion**
+## 1. Myth and religion — a fatal confusion {#s1}
 
 There is a fundamental distinction, yet one constantly erased, between myth and religion. Religion, in its dominant forms, is literalist: it demands adherence to the narrative as historical fact, as first-degree truth. Myth, on the other hand, has never claimed literality. It is figurative writing, a compression of truths about the deep mechanics of humanity.
 
@@ -29,7 +24,7 @@ It is in this space that what I call midrash belongs — not as mere rabbinical 
 
 ---
 
-# **II. Cain — the matrix of empire**
+## 2. Cain — the matrix of empire {#s2}
 
 Consider the myth of Cain. After the murder of Abel the shepherd, this farmer condemned to wander founds the first city, naming it after his son. And his lineage produces exactly the three pillars of human civilization:
 
@@ -48,7 +43,7 @@ The Islamic tradition adds a layer of rare density: a crow teaches Cain how to d
 
 ---
 
-# **III. Rome — the boar on the altar**
+## 3. Rome — the boar on the altar {#s3}
 
 The same mechanism runs through Rome. Romulus kills Remus to trace the first furrow of the city. Both sons of Mars — god of war, certainly, but also god of agriculture. Destruction precedes foundation. One must die so the other can build.
 
@@ -60,7 +55,7 @@ This identification of the pig with Rome then flows into Islamic tradition in a 
 
 ---
 
-# **IV. Destroy to re-signify**
+## 4. Destroy to re-signify {#s4}
 
 Antiochus Epiphanes, in 167 BCE, sacrifices a pig on the altar of the Temple — this is the abomination of desolation in the Book of Daniel. Jewish apocalyptic texts then see in Rome the repetition of Antiochus on a larger scale. The empire repeats itself with the same symbol, across centuries, because it fulfills the same function.
 
@@ -70,7 +65,7 @@ This mechanism did not die in antiquity. After Gaza, American teams proposed tur
 
 ---
 
-# **V. Information is noise**
+## 5. Information is noise {#s5}
 
 Let us return to the fundamental question. We live in an obsessively accumulative age: more data, more sources, more fact-checking, more analytical reports. And yet, understanding of the world does not progress. It regresses.
 

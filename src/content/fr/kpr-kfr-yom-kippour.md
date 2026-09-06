@@ -4,27 +4,10 @@ lang: fr
 pair: kpr-kfr-yom-kippour
 category: etymology
 dossier: kafir-kippour
-description: "Du Veau d'or aux secondes Tables : naissance midrashique du pardon divin"
+description: "Le Lévitique prescrit le rite sans le raconter ; la mémoire rabbinique en fait l'anniversaire du premier pardon, du Veau d'or aux secondes Tables, le 10 Tishri."
 order: 6
+date: 2026-05-09
 ---
-
-# Yom Kippour : la fête du grand pardon
-## Du Veau d'or aux secondes Tables — naissance midrashique du pardon divin
-
-## Table des matières
-
-1. [Introduction : une fête née d'une colère](#s1)
-2. [La théophanie première : Exode 19-20 et le don des Tables](#s2)
-3. [La révolte : le Veau d'or (Exode 32)](#s3)
-4. [La colère divine et l'intercession de Moïse](#s4)
-5. [La brisure des premières Tables](#s5)
-6. [Les quarante jours et les secondes Tables](#s6)
-7. [Le 10 Tishri : la date midrashique](#s7)
-8. [Lévitique 16 et la grande liturgie du Yom Kippour](#s8)
-9. [Les midrashim du pardon](#s9)
-10. [Lectures comparatives : Yom Kippour, *kapporet* paulinienne, *takfīr* coranique](#s10)
-11. [Conclusion : le pardon comme grammaire première](#s11)
-12. [Bibliographie](#s12)
 
 ---
 
@@ -52,7 +35,7 @@ Pendant ce temps, le peuple attend. Il attend trop longtemps. *« Lorsque le peu
 
 ## 3. La révolte : le Veau d'or (Exode 32) {#s3}
 
-### 3.1 L'absence comme épreuve
+### 1 L'absence comme épreuve
 
 > וַיַּרְא הָעָם כִּי־בֹשֵׁשׁ מֹשֶׁה לָרֶדֶת מִן־הָהָר ; וַיִּקָּהֵל הָעָם עַל־אַהֲרֹן וַיֹּאמְרוּ אֵלָיו: קוּם עֲשֵׂה־לָנוּ אֱלֹהִים אֲשֶׁר יֵלְכוּ לְפָנֵינוּ ; כִּי־זֶה מֹשֶׁה הָאִישׁ אֲשֶׁר הֶעֱלָנוּ מֵאֶרֶץ מִצְרַיִם **לֹא יָדַעְנוּ מֶה־הָיָה לוֹ**.
 >
@@ -60,13 +43,13 @@ Pendant ce temps, le peuple attend. Il attend trop longtemps. *« Lorsque le peu
 
 L'épreuve est l'épreuve de l'attente. Israël ne supporte pas l'absence du médiateur. La rupture commence par une question apparemment rationnelle (*« nous ne savons pas »*) qui, dans le récit, est en réalité une *décision* : décider que l'absent ne reviendra pas, c'est déjà se construire un substitut.
 
-### 3.2 Aaron et la fabrication
+### 2 Aaron et la fabrication
 
 Aaron, frère de Moïse et grand prêtre désigné, ne résiste pas. Il demande les anneaux d'or des femmes (Ex 32, 2), les fond, et fabrique un veau de métal. Le peuple s'écrie : *« Voici tes dieux, Israël, qui t'ont fait monter du pays d'Égypte ! »* (Ex 32, 4). Le lendemain, Aaron proclame une fête : *« demain sera fête pour YHWH »* (Ex 32, 5).
 
 Le détail est philologiquement décisif : Aaron *ne renie pas YHWH*. Il prétend offrir une *image* de YHWH. C'est-à-dire qu'il transforme l'imageless du Sinaï en idole. La transgression ne porte pas sur le destinataire du culte mais sur sa forme. La grammaire de l'alliance est cassée — non par le rejet, mais par la confusion.
 
-### 3.3 La parole divine à Moïse
+### 3 La parole divine à Moïse
 
 > וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה: לֶךְ־רֵד ; כִּי שִׁחֵת **עַמְּךָ** אֲשֶׁר הֶעֱלֵיתָ מֵאֶרֶץ מִצְרָיִם.
 >
@@ -78,7 +61,7 @@ Le possessif est saisissant : *« ton peuple… que tu as fait monter »*. Dieu,
 
 ## 4. La colère divine et l'intercession de Moïse {#s4}
 
-### 4.1 La menace d'extermination
+### 1 La menace d'extermination
 
 > וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה: רָאִיתִי אֶת־הָעָם הַזֶּה ; וְהִנֵּה עַם־קְשֵׁה־עֹרֶף הוּא ; וְעַתָּה הַנִּיחָה לִּי וְיִחַר־אַפִּי בָהֶם וַאֲכַלֵּם ; **וְאֶעֱשֶׂה אוֹתְךָ לְגוֹי גָּדוֹל**.
 >
@@ -88,7 +71,7 @@ La menace est totale : la destruction du peuple, et la promesse à Moïse de dev
 
 Les rabbins ont saisi le détail. *Talmud Bavli Berakhot* 32a : *« Cela montre que Moïse tenait Dieu comme on tient un homme par son vêtement, et lui disait : Je ne te lâcherai pas tant que tu ne pardonneras. »* Le *« laisse-moi »* divin est l'amorce d'une lutte — celle d'un Dieu qui *veut* être retenu.
 
-### 4.2 L'intercession de Moïse
+### 2 L'intercession de Moïse
 
 > וַיְחַל מֹשֶׁה אֶת־פְּנֵי יְהוָה אֱלֹהָיו ; וַיֹּאמֶר: לָמָה יְהוָה יֶחֱרֶה אַפְּךָ בְּעַמֶּךָ אֲשֶׁר הוֹצֵאתָ מֵאֶרֶץ מִצְרַיִם בְּכֹחַ גָּדוֹל וּבְיָד חֲזָקָה.
 >
@@ -98,7 +81,7 @@ Le retournement est philologiquement exact : Moïse rend à Dieu ce que Dieu lui
 
 L'argument de Moïse comporte trois plans : (a) ne pas humilier Dieu devant les Égyptiens — *« diront-ils que tu les a fait sortir pour les exterminer ? »* (Ex 32, 12) ; (b) se souvenir de l'alliance des pères — *« souviens-toi d'Abraham, d'Isaac et d'Israël »* (Ex 32, 13) ; (c) la promesse de la postérité.
 
-### 4.3 *Vayinaḥem YHWH* : Dieu se repent du mal
+### 3 *Vayinaḥem YHWH* : Dieu se repent du mal
 
 > וַיִּנָּחֶם יְהוָה עַל־הָרָעָה אֲשֶׁר דִּבֶּר לַעֲשׂוֹת לְעַמּוֹ.
 >
@@ -112,7 +95,7 @@ Et ce verset est un verset *narratif fondateur* du Yom Kippour. Il pose, dans l'
 
 ## 5. La brisure des premières Tables {#s5}
 
-### 5.1 Le geste de Moïse
+### 1 Le geste de Moïse
 
 > וַיְהִי כַּאֲשֶׁר קָרַב אֶל־הַמַּחֲנֶה וַיַּרְא אֶת־הָעֵגֶל וּמְחֹלֹת ; וַיִּחַר־אַף מֹשֶׁה ; **וַיַּשְׁלֵךְ מִיָּדָיו אֶת־הַלֻּחֹת וַיְשַׁבֵּר אֹתָם תַּחַת הָהָר**.
 >
@@ -120,7 +103,7 @@ Et ce verset est un verset *narratif fondateur* du Yom Kippour. Il pose, dans l'
 
 Moïse, descendu du Sinaï avec les Tables gravées de la main de Dieu, voit la scène et brise la pierre. Le récit, pris à la lettre, semble présenter un acte de fureur — une analogue colère redoublant celle de Dieu. Mais la lecture rabbinique opère ici un retournement remarquable.
 
-### 5.2 La lecture midrashique : casser pour couvrir
+### 2 La lecture midrashique : casser pour couvrir
 
 *Midrash Tanḥuma Ki-Tissa* 26 et Rashi *ad locum* (sur Ex 32, 19) proposent une lecture inverse :
 
@@ -128,7 +111,7 @@ Moïse, descendu du Sinaï avec les Tables gravées de la main de Dieu, voit la 
 
 La brisure devient un *acte de protection*. Moïse, en cassant les Tables avant qu'elles soient données, *empêche que la faute soit reconnue comme rupture d'une alliance signée*. La grammaire est exacte celle du *kpr* : interposer un objet (ici, le tesson) entre la faute et le jugement. Casser les Tables, c'est en *couvrir* le verdict avant qu'il prenne effet.
 
-### 5.3 Le tesson comme premier *kofer*
+### 3 Le tesson comme premier *kofer*
 
 Cette lecture est philologiquement vertigineuse. Le geste de Moïse, vu superficiellement comme une rupture, est lu midrashiquement comme **le premier acte expiatoire de l'histoire d'Israël**. Avant la *kapporet* du Saint des Saints, avant le sang aspergé, avant le bouc émissaire, il y a *les éclats des Tables au pied de la montagne*. Ces éclats ne disent pas la fin de l'alliance ; ils disent la *protection* de l'alliance.
 
@@ -138,7 +121,7 @@ Et le détail est rabbiniquement précieux : selon *Bava Batra* 14b, les éclats
 
 ## 6. Les quarante jours et les secondes Tables {#s6}
 
-### 6.1 La nouvelle ascension
+### 1 La nouvelle ascension
 
 Après la brisure et le châtiment partiel (Ex 32, 25-29), Moïse remonte au Sinaï pour la seconde fois. Le récit s'ouvre par l'ordre divin :
 
@@ -148,7 +131,7 @@ Après la brisure et le châtiment partiel (Ex 32, 25-29), Moïse remonte au Sin
 
 Une différence philologique décisive : les *premières* Tables étaient *gravées par le doigt de Dieu* (Ex 31, 18) ; les *secondes* sont *taillées par Moïse* avant que Dieu y écrive. Le pardon n'efface pas la rupture : *il y inscrit la trace de la coopération humaine*. L'humain a désormais sa part dans la pierre.
 
-### 6.2 La révélation des treize attributs (Exode 34, 6-7)
+### 2 La révélation des treize attributs (Exode 34, 6-7)
 
 Au matin du nouveau quarante jours, YHWH descend dans la nuée et passe devant Moïse en proclamant :
 
@@ -158,7 +141,7 @@ Au matin du nouveau quarante jours, YHWH descend dans la nuée et passe devant M
 
 Ces versets — les *« treize attributs de miséricorde »* (*shelosh-ʿesreh middot*) — constituent le cœur de la liturgie juive du pardon. Ils sont récités à Yom Kippour, à Selihot, à Roch Hachana, dans toutes les supplications pénitentielles. Ils *définissent* le visage divin du pardon.
 
-### 6.3 *Nośeʾ ʿavon* — porter la faute
+### 3 *Nośeʾ ʿavon* — porter la faute
 
 Le verbe central est *nośeʾ ʿavon*. *Nasaʾ* signifie *« porter, soulever, emporter »*. Dieu ne *fait pas disparaître* la faute par fiat ; il *la porte*. Il la prend sur lui pour qu'elle ne soit plus un poids écrasant pour l'humain.
 
@@ -170,7 +153,7 @@ C'est ce verbe — *nośeʾ* — qui résonnera dans toute la prophétie d'Isra�
 
 ## 7. Le 10 Tishri : la date midrashique {#s7}
 
-### 7.1 La chronologie rabbinique
+### 1 La chronologie rabbinique
 
 La tradition rabbinique a calculé avec précision la chronologie du récit d'Exode 19-34. *Seder Olam Rabba* 6, *Pirqei de Rabbi Eliezer* 46, *Tanḥuma Ki-Tissa* 31 et le *Talmud Bavli* (*Taʿanit* 30b ; *Bava Batra* 121a) convergent sur le calcul suivant :
 
@@ -181,7 +164,7 @@ La tradition rabbinique a calculé avec précision la chronologie du récit d'Ex
 - 1 Eloul : Moïse remonte une troisième fois pour les *secondes* Tables (40 jours, jusqu'au 10 Tishri) ;
 - **10 Tishri** : Moïse redescend avec les secondes Tables et le visage rayonnant — *« Sache que J'ai pardonné »* (selon le midrash).
 
-### 7.2 Pourquoi le 10 Tishri devient Yom Kippour
+### 2 Pourquoi le 10 Tishri devient Yom Kippour
 
 Cette construction chronologique n'est pas une simple curiosité scolaire. Elle pose le 10 Tishri comme **le jour anniversaire du premier pardon de Dieu**. Et c'est *ce* jour, et non un autre, que Lv 16, 29 et Lv 23, 27 prescrivent comme jour de jeûne et d'expiation :
 
@@ -191,7 +174,7 @@ Cette construction chronologique n'est pas une simple curiosité scolaire. Elle 
 
 La coïncidence n'est pas, pour la lecture rabbinique, une coïncidence : c'est l'inscription liturgique d'une date narrative. Chaque 10 Tishri rejoue la descente des secondes Tables. Chaque Yom Kippour est le souvenir d'un Dieu qui a pardonné une première fois. Le rite, prescrit par le Lévitique, *commémore* le récit narré par l'Exode. Les deux livres sont noués par cette date.
 
-### 7.3 La fête comme retour annuel
+### 3 La fête comme retour annuel
 
 Cette articulation transforme Yom Kippour en *fête midrashique* au sens fort : une fête qui n'est pas un cycle naturel ou agricole, mais un *retour annuel sur un événement narratif*. Comme Pessa'h commémore la sortie d'Égypte et Chavouot le don de la Torah, Yom Kippour commémore le pardon de Dieu après le Veau d'or. La fête est mémoire ; et la mémoire opère comme renouveau de l'effacement.
 
@@ -199,13 +182,13 @@ Cette articulation transforme Yom Kippour en *fête midrashique* au sens fort : 
 
 ## 8. Lévitique 16 et la grande liturgie du Yom Kippour {#s8}
 
-### 8.1 Le rituel du Grand Prêtre
+### 1 Le rituel du Grand Prêtre
 
 Lévitique 16 décrit la liturgie expiatoire la plus élaborée de tout le code sacerdotal. Le Grand Prêtre — et lui seul — entre dans le Saint des Saints, *une fois l'an*, le 10 Tishri. Il revêt des habits de lin blanc (et non les habits dorés ordinaires), il s'immerge plusieurs fois dans le *miqveh*, il offre un taureau pour son propre péché, puis deux boucs : l'un pour YHWH, l'autre pour Azazel.
 
 *Mishna Yoma* 3, 4-7 détaille les changements de vêtements et les ablutions. Le rite est conçu comme une descente progressive vers le Saint, puis une remontée. L'année liturgique culmine dans cette unique journée, et cette unique journée culmine dans le moment où le Grand Prêtre franchit le voile.
 
-### 8.2 Les sept aspersions sur la *kapporet*
+### 2 Les sept aspersions sur la *kapporet*
 
 > וְלָקַח מִדַּם הַפָּר וְהִזָּה בְאֶצְבָּעוֹ עַל־פְּנֵי הַכַּפֹּרֶת קֵדְמָה ; וְלִפְנֵי הַכַּפֹּרֶת יַזֶּה שֶׁבַע־פְּעָמִים מִן־הַדָּם בְּאֶצְבָּעוֹ.
 >
@@ -213,7 +196,7 @@ Lévitique 16 décrit la liturgie expiatoire la plus élaborée de tout le code 
 
 Les *sept* aspersions sur la *kapporet* sont au cœur du rite. Le sang n'est pas répandu pour purifier l'humain ; il est aspergé pour *purifier le sanctuaire lui-même*, contaminé par les fautes du peuple (Lv 16, 16). La *physique du sacré* qu'a établie l'article 1 du dossier — la faute laisse une trace matérielle sur le saint — culmine ici dans son rite le plus solennel.
 
-### 8.3 Les deux boucs : YHWH et Azazel
+### 3 Les deux boucs : YHWH et Azazel
 
 > וְנָתַן אַהֲרֹן עַל־שְׁנֵי הַשְּׂעִירִם גֹּרָלוֹת ; גּוֹרָל אֶחָד לַיהוָה ; וְגוֹרָל אֶחָד לַעֲזָאזֵל.
 >
@@ -221,7 +204,7 @@ Les *sept* aspersions sur la *kapporet* sont au cœur du rite. Le sang n'est pas
 
 La double économie est saisissante. Le bouc *« pour YHWH »* est offert sur l'autel ; son sang sert à l'aspersion. Le bouc *« pour Azazel »* est chargé symboliquement des fautes du peuple — le Grand Prêtre pose ses deux mains sur sa tête et confesse — puis il est conduit au désert et précipité depuis une falaise. Le rite mésopotamien d'élimination par transfert (article 2 du dossier, § 2) atteint ici sa version la plus articulée : un bouc pour la verticalité du saint, un bouc pour l'horizontalité du désert. Le pardon mobilise les deux directions.
 
-### 8.4 L'invocation du Nom et la prosternation
+### 4 L'invocation du Nom et la prosternation
 
 *Mishna Yoma* 6, 2 rapporte que, ce jour-là, le Grand Prêtre prononce le Tétragramme à dix reprises — le *seul* jour où le Nom imprononçable est dit en clair, dans le Saint des Saints. Quand le peuple, debout dans la cour, entend le Nom, il se prosterne face contre terre et dit : *« Béni soit le Nom de la gloire de son royaume pour toujours. »* (*Barukh shem kavod malkhuto le-ʿolam vaʿed*).
 
@@ -231,7 +214,7 @@ C'est le seul moment de l'année liturgique où la communauté entière prononce
 
 ## 9. Les midrashim du pardon {#s9}
 
-### 9.1 La *teshuvah* précède la création
+### 1 La *teshuvah* précède la création
 
 > *« Sept choses ont été créées avant la création du monde : la Torah, le Trône, le Temple, les Patriarches, Israël, le Messie, et la teshuvah. »* (*Bereshit Rabba* 1, 4 ; cf. *Pesahim* 54a)
 
@@ -239,25 +222,25 @@ La *teshuvah* (le retournement, le retour) est, dans cette liste, antérieure à
 
 Cette inscription primordiale du pardon dans l'ordre des choses fait de Yom Kippour, lu dans cette grammaire, *la fête de l'origine*. Avant Pessa'h, avant le Sinaï, avant Adam — il y a la *teshuvah*. Yom Kippour rejoue annuellement cette priorité.
 
-### 9.2 Adam, premier *baʿal teshuvah*
+### 2 Adam, premier *baʿal teshuvah*
 
 > *« Adam fit teshuvah »* — *Bereshit Rabba* 21, 6 ; *Pirqei de Rabbi Eliezer* 20.
 
 Le midrash fait d'Adam, après la transgression du jardin, le premier *baʿal teshuvah* (*« maître de retour »*). Il jeûne pendant sept semaines, il prie, et Dieu l'agrée. Le récit du jardin devient ainsi un *prélude* à Yom Kippour : la première faute appelle le premier pardon ; chaque année, Israël rejoue ce drame original. Le pardon n'est pas une innovation rabbinique tardive — il est inscrit dès le récit des origines.
 
-### 9.3 *Yoma* 86b et la *teshuvah* qui transforme
+### 3 *Yoma* 86b et la *teshuvah* qui transforme
 
 > *« Grande est la teshuvah, qui transforme les fautes volontaires en mérites. »* (*Yoma* 86b)
 
 L'aphorisme amoraïque pousse la grammaire à son acmè. La *teshuvah* ne fait pas que *recouvrir* la faute (geste *kpr*) : elle la *transforme*. La faute volontaire (*zadon*) devient, par la dynamique du retour, un *mérite* (*zekhut*). La pierre rejetée devient pierre angulaire ; la blessure devient lieu de force. Cette idée — que la faute, *recouverte par la teshuvah*, devient ressource — est l'une des contributions juives les plus singulières à la grammaire du pardon.
 
-### 9.4 La *teshuvah* monte jusqu'au Trône
+### 4 La *teshuvah* monte jusqu'au Trône
 
 > *« Grande est la teshuvah, car elle monte jusqu'au Trône de gloire. »* (*Yoma* 86a, citant Os 14, 2)
 
 La *teshuvah* est une opération *bidirectionnelle*. L'humain se retourne vers Dieu ; Dieu se laisse *atteindre* par ce retournement. Le pardon n'est pas un geste unilatéral ; il est une *rencontre*. C'est ce que disait déjà *Berakhot* 32a en lisant Ex 32, 14 : Moïse tient Dieu par son vêtement, et Dieu, *parce qu'il veut être tenu*, accepte d'être fléchi.
 
-### 9.5 *Teshuvah* et *kipper* : les deux faces du même mouvement
+### 5 *Teshuvah* et *kipper* : les deux faces du même mouvement
 
 Philologiquement, *teshuvah* et *kipper* opèrent la même structure dans deux directions :
 
@@ -270,13 +253,13 @@ Le rite de Yom Kippour articule rigoureusement les deux. Il n'y a pas de *kpr* s
 
 ## 10. Lectures comparatives : Yom Kippour, *kapporet* paulinienne, *takfīr* coranique {#s10}
 
-### 10.1 Yom Kippour et la *kapporet* paulinienne
+### 1 Yom Kippour et la *kapporet* paulinienne
 
 L'article 1 du dossier (§ 8) a établi que Romains 3, 25 fait du Christ un *hilastērion* — terme par lequel la Septante traduit *kapporet*. Paul opère une *christologisation* du Yom Kippour : le sang du Christ devient ce que le sang du taureau était sur la *kapporet*, mais *« une fois pour toutes »* (Hébreux 9, 12). L'épître aux Hébreux (chapitres 9-10) déploie cette translation en détail : le Christ *grand prêtre* entre dans le sanctuaire céleste, et son propre sang opère le *kpr* définitif.
 
 Pour la grammaire du dossier, cette translation est un *exercice midrashique* sur le rituel de Lv 16. Elle ne nie pas Yom Kippour ; elle le *recompose*. Que cette recomposition soit légitime aux yeux du judaïsme rabbinique est une autre question. Mais la *grammaire mobilisée* — celle du *kpr* sacerdotal — est strictement la même.
 
-### 10.2 Le *takfīr* divin coranique comme parallèle structurel
+### 2 Le *takfīr* divin coranique comme parallèle structurel
 
 Q 5, 65 et Q 8, 29 ont pour sujet *Dieu* et utilisent le verbe *kaffara* dans le sens de *« couvrir, effacer »* :
 
@@ -286,7 +269,7 @@ Q 5, 65 et Q 8, 29 ont pour sujet *Dieu* et utilisent le verbe *kaffara* dans le
 
 Le verbe *lakaffarnā* (*« nous aurions recouvert »*) est philologiquement le *strict équivalent* du *kipper* hébraïque. La grammaire est la même : Dieu interpose un acte (le pardon) entre la faute et le jugement. Le pôle expiatoire de la racine *k-f-r* est explicitement préservé dans le canon coranique, et explicitement attribué à Dieu. La sourate est médinoise, donc tardive ; elle conserve l'écho du *kpr* hébraïque dans son sens originel.
 
-### 10.3 ʿĀshūrāʾ : la trace du 10 Tishri dans la liturgie islamique
+### 3 ʿĀshūrāʾ : la trace du 10 Tishri dans la liturgie islamique
 
 Bukhārī rapporte (*Ṣaḥīḥ*, *Kitāb al-Ṣawm* 69) que le Prophète, à son arrivée à Médine, vit les juifs jeûner le jour de ʿĀshūrāʾ — le dixième jour de Muḥarram, premier mois du calendrier hégirien. Interrogés, ils répondirent que c'était *« le jour où Dieu a sauvé Moïse et noyé Pharaon »*. Le Prophète aurait alors dit : *« Nous sommes plus proches de Moïse qu'eux »*, et il jeûna ce jour, le prescrivant à ses compagnons.
 
@@ -294,7 +277,7 @@ Plusieurs traditions classiques (Ṭabarī, Ibn Kathīr) identifient ce *« dixi
 
 Cette continuité est cohérente avec la thèse générale du dossier : la racine *kpr* a, jusque dans ses extensions arabes les plus tardives, maintenu son pôle expiatoire-positif. C'est l'usage moderne polémique de *kāfir* (article 3 du dossier) qui a oblitéré cette filiation, non le canon coranique lui-même.
 
-### 10.4 Une grammaire commune du pardon comme recouvrement-effacement
+### 4 Une grammaire commune du pardon comme recouvrement-effacement
 
 Yom Kippour, la *kapporet* paulinienne, le *takfīr* divin coranique : trois configurations distinctes d'une *même grammaire*. Dans toutes, Dieu *couvre* la faute pour qu'apparaisse à nouveau le visage humain. Dans toutes, le pardon n'est pas une simple disposition affective mais une *opération* — geste, rite, sacrifice, parole. Dans toutes, le *kpr* est l'opérateur central.
 

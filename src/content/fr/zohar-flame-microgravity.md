@@ -3,29 +3,10 @@ title: "La flamme et son ombre : une physique de l'origine"
 lang: fr
 pair: zohar-flame-microgravity
 category: hermeneutics
-description: "Midrash contemporain entre la flamme du Zohar et la microgravité. Une flamme en orbite devient une sphère bleue qui s'étouffe dans ses propres gaz : l'origine ne nourrit pas, elle oriente ; la gloire (kavod) est un poids ; la mèche de l'univers est un défaut."
+description: "Une flamme en orbite devient une sphère bleue qui s'étouffe dans ses propres gaz. Relecture midrashique du Zohar : l'origine n'alimente pas, elle oriente."
 order: 7
+date: 2026-09-06
 ---
-
-# La flamme et son ombre : une physique de l'origine
-## Midrash contemporain entre la flamme du Zohar et la microgravité
-
-## Table des matières
-
-1. [Prologue — Le Midrash comme dialogue entre tradition et modernité](#s1)
-2. [Le Midrash imaginé : deux sages, une lampe et l'erreur féconde](#s2)
-3. [Le Zohar et la double lumière : une physique de l'inversion](#s3)
-4. [La pesanteur comme orientation : quand la terre ne donne rien mais oriente tout](#s4)
-5. [K-B-D : la racine qui unit la gloire et le poids](#s5)
-6. [Q-D-M et Q-B-L : les racines de l'orientation vers l'origine](#s6)
-7. [Les quatre termes du dispositif : cire, mèche, champ et air](#s7)
-8. [Adam et le conduit : l'âme comme passage](#s8)
-9. [L'imperfection comme condition : pourquoi la pureté est stérile](#s9)
-10. [L'énigme de l'amorce : le buisson ardent et la flamme sans transaction](#s10)
-11. [Épilogue — Vers une théologie de l'imperfection](#s11)
-12. [Glossaire des termes hébreux et araméens](#s12)
-13. [Repères bibliographiques](#s13)
-14. [Pour aller plus loin](#s14)
 
 ---
 

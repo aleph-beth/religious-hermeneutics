@@ -6,6 +6,7 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "Ouverture du dossier : ce que l'Europe des Lumières doit à al-Andalus, et pourquoi elle l'a effacé de son récit"
 order: 1
+date: 2026-08-28
 ---
 
 **Type** : Ouverture de dossier — dix-sept volets
@@ -13,7 +14,7 @@ order: 1
 
 ---
 
-## Le récit standard et ce qu'il omet
+## 1. Le récit standard et ce qu'il omet {#s1}
 
 Le récit scolaire des Lumières tient en une ligne droite : la Grèce invente la raison, Rome la transmet, le Moyen Âge chrétien la met en sommeil, la Renaissance la redécouvre en revenant *aux sources*, et le XVIIIe siècle l'accomplit. Dans ce récit, le monde arabo-musulman n'apparaît qu'en position de dépôt — un coffre-fort ayant conservé les manuscrits grecs jusqu'à ce que l'Europe vienne les reprendre. La formule est de Renan : l'Islam aurait été le bibliothécaire, jamais l'auteur.
 
@@ -25,7 +26,7 @@ Ce récit est faux sur trois points vérifiables.
 
 **Troisième point : la langue elle-même en témoigne.** Algèbre, algorithme, chiffre, zéro, alcool, alcali, alambic, azimut, zénith, nadir, almanach, amiral, arsenal, tarif, douane, magasin, coton, sucre, sirop, safran, luth, guitare — le vocabulaire technique, commercial, scientifique et musical de l'Europe est arabe. Une civilisation qui aurait seulement gardé des livres ne laisse pas ses mots dans les métiers de celle qui la lit.
 
-## Les trois temps du mécanisme
+## 2. Les trois temps du mécanisme {#s2}
 
 Le dossier s'organise autour d'un schéma unique, décliné dans chaque volet : **réception, expulsion, conquête**.
 
@@ -37,44 +38,44 @@ Le dossier s'organise autour d'un schéma unique, décliné dans chaque volet : 
 
 Ce n'est pas une ironie rhétorique. C'est une séquence documentable, dont chaque volet du dossier examine un fil : la philosophie, la mystique, l'optique, la médecine, le papier, l'agriculture, la musique, l'architecture, la navigation, la poudre.
 
-## Plan du dossier
+## 3. Plan du dossier {#s3}
 
-### I. Analyse structurelle
+### Analyse structurelle
 
 - [Le mécanisme réception-expulsion-conquête](../reception-expulsion-conquest-mechanism/) — le schéma en trois temps qui structure la relation Europe-Islam du XIIe au XXe siècle.
 - [L'ironie étymologique — L'Europe parle arabe sans le savoir](../etymological-irony/) — la preuve linguistique de la dette, mot à mot.
 
-### II. Fondements philosophiques et mystiques
+### Fondements philosophiques et mystiques
 
 - [Averroès et Maïmonide — La philosophie de Cordoue comme fondement des Lumières européennes](../averroes-maimonides/) — l'autonomie de la raison, la critique biblique, la laïcité.
 - [Le Zohar — La mystique de Cordoue comme matrice de la Renaissance européenne](../zohar-cordoba-mysticism/) — la Kabbale castillane fissure le monopole exégétique de l'Église.
 - [L'optique d'Ibn al-Haytham — La méthode expérimentale comme héritage islamique](../ibn-al-haytham-optics/) — l'expérience contrôlée, six siècles avant Bacon.
 - [Dante et l'imaginaire islamique — La Divine Comédie fille du Miraj](../dante-islamic-imagination/) — la cosmologie du poème fondateur de la littérature européenne.
 
-### III. Transferts matériels et technologiques
+### Transferts matériels et technologiques
 
 - [La médecine andalouse — D'Al-Zahrawi aux facultés européennes](../andalusian-medicine/) — manuels de chirurgie européens pendant cinq siècles.
 - [Le papier de Xàtiva — De la Chine à Gutenberg par l'Islam](../xativa-paper/) — sans papier andalou, pas d'imprimerie, donc pas de Réforme.
 - [La révolution agricole andalouse — Quand l'Islam nourrit l'Europe](../andalusian-agricultural-revolution/) — irrigation, riz, sucre, coton, safran.
 
-### IV. Transferts culturels
+### Transferts culturels
 
 - [Ziryab et les troubadours — La musique et la poésie andalouses en Europe](../ziryab-troubadours/) — le luth, l'amour courtois, les manières de table.
 - [L'arc brisé de Cordoue — L'architecture islamique et le gothique européen](../pointed-arch-cordoba/) — la Mezquita précède Saint-Denis de trois siècles.
 
-### V. Le retournement
+### Le retournement
 
 - [L'Espagne et le Portugal — Puissances maritimes grâce à Cordoue](../spain-portugal-maritime-powers/) — deux royaumes périphériques deviennent maîtres du monde.
 - [La poudre retournée — De Hasan al-Rammah aux canons coloniaux](../gunpowder-turned-around/) — l'artillerie perfectionnée par les ingénieurs arabes, employée contre eux.
 - [Napoléon en Égypte 1798 — La science cordouane contre les Mamelouks](../napoleon-egypt/) — la campagne d'Égypte comme démonstration du retournement.
 - [La colonisation du Maghreb — Quand l'Andalousie revient en armes](../maghreb-colonization/) — l'Europe colonise les terres d'accueil des exilés andalous.
 
-### VI. Analyse idéologique
+### Analyse idéologique
 
 - [L'occultation de la dette — Comment l'Europe a effacé Cordoue de son récit](../debt-concealment/) — de Roger Bacon, qui rend hommage, à Renan, qui efface.
 - [Décolonisation — Le retour du boomerang](../decolonization-boomerang/) — les colonisés reprennent les outils européens : le même mécanisme, une fois de plus.
 
-## Ce que ce dossier ne soutient pas
+## 4. Ce que ce dossier ne soutient pas {#s4}
 
 L'inversion du récit standard produit facilement un récit inverse, tout aussi faux. Quatre garde-fous.
 
@@ -86,7 +87,7 @@ L'inversion du récit standard produit facilement un récit inverse, tout aussi 
 
 **Al-Andalus n'était pas un paradis.** La *convivencia* est un régime juridique inégalitaire, ponctué de persécutions — les Almohades exilent Averroès comme ils exilent Maïmonide. Le dossier étudie une transmission intellectuelle, pas une utopie perdue.
 
-## Pourquoi cela compte
+## 5. Pourquoi cela compte {#s5}
 
 La dette n'a pas été oubliée par distraction. Elle a été effacée au moment précis où l'Europe entreprenait de coloniser le monde musulman : on ne conquiert pas confortablement une civilisation dont on se sait l'héritier. L'occultation est la condition idéologique de la conquête — c'est l'objet du volet [L'occultation de la dette](../debt-concealment/).
 

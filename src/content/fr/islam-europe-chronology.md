@@ -5,9 +5,10 @@ pair: islam-europe-chronology
 category: philosophy
 description: "De Cordoue a Baghdad — comment croisades, Reconquista et invasions mongoles ont refaconne le monde intellectuel"
 order: 5
+date: 2026-04-15
 ---
 
-## Un double assaut contre la civilisation islamique
+## 1. Un double assaut contre la civilisation islamique {#s1}
 
 Entre 1099 et 1291, le monde islamique subit un mouvement de tenaille sur deux fronts : les Croises a l'Ouest et les Mongols a l'Est. Dans le meme temps, la Reconquista demantelait lentement al-Andalus, le foyer intellectuel le plus brillant de l'Europe medievale. Ces pressions convergentes ont detruit les conditions qui avaient rendu possible le rationalisme islamique — et, paradoxalement, en ont disperse les semences dans l'Europe chretienne.
 
@@ -15,7 +16,7 @@ Cette chronologie retrace les evenements cles, en placant **Cordoue**, **Jerusal
 
 ---
 
-## L'age d'or (VIIIe-XIIe siecles)
+## 2. L'age d'or (VIIIe-XIIe siecles) {#s2}
 
 | Date | Evenement | Signification |
 |------|-----------|---------------|
@@ -29,7 +30,7 @@ Cette chronologie retrace les evenements cles, en placant **Cordoue**, **Jerusal
 
 ---
 
-## Les Croisades et la Reconquista (1096–1291)
+## 3. Les Croisades et la Reconquista (1096–1291) {#s3}
 
 | Date | Evenement | Signification |
 |------|-----------|---------------|
@@ -58,7 +59,7 @@ Cette chronologie retrace les evenements cles, en placant **Cordoue**, **Jerusal
 
 ---
 
-## La tempete mongole (1206–1260)
+## 4. La tempete mongole (1206–1260) {#s4}
 
 | Date | Evenement | Signification |
 |------|-----------|---------------|
@@ -74,7 +75,7 @@ Cette chronologie retrace les evenements cles, en placant **Cordoue**, **Jerusal
 
 ---
 
-## L'apres-Mamelouks (1260–1517)
+## 5. L'apres-Mamelouks (1260–1517) {#s5}
 
 | Date | Evenement | Signification |
 |------|-----------|---------------|
@@ -88,7 +89,7 @@ Cette chronologie retrace les evenements cles, en placant **Cordoue**, **Jerusal
 
 ---
 
-## La bifurcation : ce qui fut sauve, ce qui fut perdu
+## 6. La bifurcation : ce qui fut sauve, ce qui fut perdu {#s6}
 
 Les Mamelouks ont sauve l'existence physique de l'Islam, ses lieux saints et sa continuite institutionnelle. Mais le prix fut le triomphe de l'orthodoxie militaire sur la recherche philosophique.
 

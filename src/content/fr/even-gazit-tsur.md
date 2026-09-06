@@ -5,31 +5,8 @@ pair: even-gazit-tsur
 category: etymology
 description: "Even, gazit, tsur : trois régimes de la pierre, l'interdit du fer sur l'autel, et le sacré comme retrait de la main."
 order: 4
+date: 2026-07-28
 ---
-
-# La pierre, la taille et le rocher
-## Ce que la Bible interdit de faire à un caillou
-
-## Table des matières
-
-1. [Ouverture — Le chantier silencieux](#s1)
-2. [*Even* : la pierre qui passe de main en main](#s2)
-3. [Le fils dans la pierre : *av*, *ben* et les *ovnayim*](#s3)
-4. [L'interdit de la taille : *gazit* contre *shlemah*](#s4)
-5. [Le midrash de la paix : le fer qui raccourcit, l'autel qui prolonge](#s5)
-6. [Le shamir : l'outil qui n'est pas un outil](#s6)
-7. [Une architecture en retrait : du parvis à la pierre de fondation](#s7)
-8. [Les pierres qui ont entendu : Josué 24 et le monceau de Galed](#s8)
-9. [Habaquq : la pierre qui crie du mur](#s9)
-10. [Luc 19 : le cri et la ruine](#s10)
-11. [Des pierres, des fils : le calembour araméen](#s11)
-12. [Daniel 2 : la pierre qui n'a pas été taillée par des mains](#s12)
-13. [*Tsur* : le rocher, qui n'est pas un matériau](#s13)
-14. [Le rocher qui enfante : Deutéronome 32 et Isaïe 51](#s14)
-15. [Frapper le rocher, puis lui parler : Horeb et Meriva](#s15)
-16. [Conclusion — Le sacré comme retrait de la main](#s16)
-17. [Pour continuer](#s17)
-18. [Repères bibliographiques](#s18)
 
 ---
 

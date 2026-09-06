@@ -3,25 +3,10 @@ title: "La Dalet : le pauvre et la porte"
 lang: fr
 pair: dalet-poor-door
 category: etymology
-description: "Une matrice midrashique partagée entre Tanakh, Évangiles et Coran"
+description: "Une seule lettre, la dalet, tient ensemble dal, le pauvre, et delet, la porte : le pauvre est la porte. Une matrice partagée du Tanakh aux Évangiles et au Coran."
 order: 1
+date: 2026-05-09
 ---
-
-# La Dalet : le pauvre et la porte
-## Une matrice midrashique partagée entre Tanakh, Évangiles et Coran
-
-## Table des matières
-
-1. [Introduction : la lettre comme seuil](#s1)
-2. [La racine sémitique *dl-* : philologie comparée](#s2)
-3. [Le Tanakh : pauvreté et seuil noués dès la Bible](#s3)
-4. [La grammatologie rabbinique : la lettre devient porte](#s4)
-5. [Les Évangiles : narrativisation du couple *dal/delet*](#s5)
-6. [Le Coran : *al-ʿaqaba* et le pauvre couvert de poussière](#s6)
-7. [Le soufisme classique : le *faqr* comme porte](#s7)
-8. [Hypothèses de lecture en concurrence](#s8)
-9. [Conclusion : une grammaire commune du seuil](#s9)
-10. [Bibliographie](#s10)
 
 ---
 
@@ -47,7 +32,7 @@ La poésie hébraïque exploite déjà cette résonance. Proverbes 22, 22 lit : 
 
 ## 3. Le Tanakh : pauvreté et seuil noués dès la Bible {#s3}
 
-### 3.1 Lévitique 19, 9-10 : la lisière du champ
+### 1 Lévitique 19, 9-10 : la lisière du champ
 
 > וּבְקֻצְרְכֶם אֶת־קְצִיר אַרְצְכֶם לֹא תְכַלֶּה פְּאַת שָׂדְךָ לִקְצֹר וְלֶקֶט קְצִירְךָ לֹא תְלַקֵּט … לֶעָנִי וְלַגֵּר תַּעֲזֹב אֹתָם
 
@@ -55,7 +40,7 @@ La poésie hébraïque exploite déjà cette résonance. Proverbes 22, 22 lit : 
 
 Le Lévitique inscrit le pauvre dans une topographie : la *péa*, la *lisière*. Le pauvre n'est pas hors du champ, il est à sa limite — au *seuil* du champ. La halakha rabbinique développera ce dispositif : la *péa* est la portion qui doit rester *ouverte* au pauvre. La structure est déjà celle de la porte : un espace qui s'ouvre sur l'autre.
 
-### 3.2 Proverbes 22, 22 : la porte comme tribunal
+### 2 Proverbes 22, 22 : la porte comme tribunal
 
 > אַל־תִּגְזָל־דָּל כִּי דַל־הוּא ; וְאַל־תְּדַכֵּא עָנִי בַשָּׁעַר.
 
@@ -63,7 +48,7 @@ Le Lévitique inscrit le pauvre dans une topographie : la *péa*, la *lisière*.
 
 Le couplage *dal / shaʿar* est explicite. La porte de la cité (*shaʿar*) est, en Israël ancien, le tribunal — c'est là que se règlent les affaires juridiques (Ru 4, 1-12 ; Dt 21, 19 ; 22, 15). Le pauvre y est doublement vulnérable : structurellement faible et physiquement proche du lieu où peut s'exercer l'oppression. Le sage exhorte à ne pas redoubler la faiblesse par l'injustice. La porte, ici, est le lieu où la justice se joue *à la frontière* du pauvre.
 
-### 3.3 Ruth 4 : justice du pauvre à la porte
+### 3 Ruth 4 : justice du pauvre à la porte
 
 > וּבֹעַז עָלָה הַשַּׁעַר וַיֵּשֶׁב שָׁם.
 
@@ -71,7 +56,7 @@ Le couplage *dal / shaʿar* est explicite. La porte de la cité (*shaʿar*) est,
 
 L'épisode est la mise en récit même de Pr 22, 22, mais inversée : à la porte, Boaz ne dépouille pas la pauvre — il la rachète. Ruth la moabite, *dalla* par sa condition de veuve étrangère, devient ancêtre du roi David par la médiation de la porte. La porte est ici le lieu d'une *anabase* du pauvre — élévation de qui était abaissé.
 
-### 3.4 Psaume 113 et Isaïe 58 : la pauvreté comme lieu d'élévation
+### 4 Psaume 113 et Isaïe 58 : la pauvreté comme lieu d'élévation
 
 > מְקִימִי מֵעָפָר דָּל ; מֵאַשְׁפֹּת יָרִים אֶבְיוֹן.
 
@@ -83,7 +68,7 @@ Ce verset condense le schéma : YHWH lui-même est l'opérateur du passage. Isa�
 
 ## 4. La grammatologie rabbinique : la lettre devient porte {#s4}
 
-### 4.1 Talmud Bavli, Shabbat 104a : la guimel court vers la dalet
+### 1 Talmud Bavli, Shabbat 104a : la guimel court vers la dalet
 
 Le passage est aggadique, mais sa portée est systématique. Le Talmud commente l'ordre alphabétique :
 
@@ -95,7 +80,7 @@ Le procédé est ici un *dérash graphique* (*ot-dérash*) : la forme même des 
 
 Plus subtilement, le Talmud poursuit : *« Pourquoi la dalet a-t-elle le visage détourné de la guimel ? Pour qu'il lui donne en secret, afin qu'il n'ait pas honte. »* La dignité du pauvre est inscrite dans la graphie même. On ne donne pas en face — la dalet ne regarde pas la guimel. La règle juridique (donner en cachette pour ne pas humilier) est *lue dans la lettre*.
 
-### 4.2 *Otiyot de Rabbi Akiva* : *« al-tikrei dal ela delet »*
+### 2 *Otiyot de Rabbi Akiva* : *« al-tikrei dal ela delet »*
 
 Le texte, pseudépigraphique mais d'origine géonique (VIIIe-Xe siècle), pousse le procédé jusqu'à sa limite. La dalet pleure devant le Trône d'être seule à porter le sens de la pauvreté. Dieu la console :
 
@@ -105,7 +90,7 @@ L'*al-tikrei* (*« ne lis pas »*) est l'un des procédés classiques de la lect
 
 L'opération produit un **chiasme métaphysique** : celui qui s'abaisse dans ce monde est élevé à la porte du monde-à-venir. La pauvreté n'est plus un état mais une *position d'accès*. Le procédé renverse l'évidence : *le pauvre n'est pas exclu du seuil — il est le seuil*.
 
-### 4.3 *Sefer Yetzirah* 2, 2 : la dalet, lettre double
+### 3 *Sefer Yetzirah* 2, 2 : la dalet, lettre double
 
 Le *Sefer Yetzirah*, dans sa forme reçue (probablement IIIe-VIIIe siècle), classe la dalet parmi les *« sept doubles »* (*shevaʿ kefulot*) — sept lettres porteuses d'une polarité ontologique. Pour la dalet, la polarité est explicitement : *richesse / pauvreté*. La lettre *est* la tension entre ces deux pôles. Elle n'est pas neutre : sa fonction même est d'être le passage entre les deux.
 
@@ -117,7 +102,7 @@ Cette codification spéculative donne au procédé sa charge métaphysique. La d
 
 Les Évangiles sont rédigés en grec dans des milieux où la *Septante* est l'hypotexte massif. Le couple πτωχός (le pauvre) / θύρα (la porte) n'a pas, en grec, l'évidence phonétique du couple hébreu. Mais la *structure* midrashique du pauvre au seuil est transportable sans le jeu graphique. Plusieurs récits évangéliques en sont la mise en œuvre narrative.
 
-### 5.1 Lazare au porche (Luc 16, 19-31)
+### 1 Lazare au porche (Luc 16, 19-31)
 
 > Ἄνθρωπος δέ τις ἦν πλούσιος … πτωχὸς δέ τις ὀνόματι Λάζαρος ἐβέβλητο **πρὸς τὸν πυλῶνα αὐτοῦ** εἱλκωμένος.
 
@@ -125,7 +110,7 @@ Les Évangiles sont rédigés en grec dans des milieux où la *Septante* est l'h
 
 Le détail décisif est topographique : *πρὸς τὸν πυλῶνα* — *« au porche »*. Lazare n'est pas pauvre dans la rue, il est pauvre *au seuil*. Son nom (Λάζαρος = ʾElʿazar, *« Dieu aide »*) cite Ps 41, 2 : *« Heureux qui considère le dal »*. Il est le *dal* archétypal — et il est, littéralement, le *dal* à la *delet*. La parabole prolonge le couplage en eschatologie inversée : Lazare passe au sein d'Abraham (autre figure de seuil — porte du peuple), tandis que le riche reste de l'autre côté d'un *χάσμα*, un abîme infranchissable. La structure rabbinique est intégralement préservée : *celui qui s'abaisse est élevé à la porte du Roi*.
 
-### 5.2 La porte étroite (Matthieu 7, 13-14 ; Luc 13, 24)
+### 2 La porte étroite (Matthieu 7, 13-14 ; Luc 13, 24)
 
 > εἰσέλθατε διὰ τῆς στενῆς πύλης· ὅτι πλατεῖα ἡ πύλη καὶ εὐρύχωρος ἡ ὁδὸς ἡ ἀπάγουσα εἰς τὴν ἀπώλειαν.
 
@@ -133,7 +118,7 @@ Le détail décisif est topographique : *πρὸς τὸν πυλῶνα* — *�
 
 Le mashal de la porte étroite est la formalisation narrative d'un programme : *pour passer la porte, il faut s'amaigrir*. C'est-à-dire devenir *dal* — abaissé, dépouillé, sans largeur de richesse à transporter. Le Christ logionique reformule, dans le langage du Royaume, le schéma rabbinique : *l'accès à Dieu passe par l'amaigrissement*. L'écho avec Mc 10, 25 (*« plus facile à un chameau de passer par le trou d'une aiguille »*) est exact : la porte exige la pauvreté.
 
-### 5.3 Le Christ-porte (Jean 10, 7-9)
+### 3 Le Christ-porte (Jean 10, 7-9)
 
 > ἐγώ εἰμι ἡ θύρα τῶν προβάτων … ἐγώ εἰμι ἡ θύρα· δι' ἐμοῦ ἐάν τις εἰσέλθῃ σωθήσεται.
 
@@ -141,7 +126,7 @@ Le mashal de la porte étroite est la formalisation narrative d'un programme : *
 
 Les *« je suis »* johanniques (*ἐγώ εἰμι*) sont des cristallisations christologiques de figures vétérotestamentaires (le pain, la lumière, le berger, la vigne). Le *« je suis la porte »* est la cristallisation explicite du couple *dal/delet*. Le Christ s'identifie au seuil. Ce mouvement, lu dans la tradition rabbinique, est une opération typique : transformer une figure scripturaire en personnage théologique. Le Logos johannique *est* la porte du Roi — celle promise par les *Otiyot* à celui qui s'abaisse. Boyarin (*Border Lines*, 2004) lit ces formules johanniques comme strictement continues avec la spéculation pharisienne et tannaïtique.
 
-### 5.4 Matthieu 25, 31-46 : le pauvre comme porte du salut
+### 4 Matthieu 25, 31-46 : le pauvre comme porte du salut
 
 > ἐφ' ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων, ἐμοὶ ἐποιήσατε.
 
@@ -149,7 +134,7 @@ Les *« je suis »* johanniques (*ἐγώ εἰμι*) sont des cristallisations 
 
 L'eschatologie matthéenne réalise l'identification que le procédé rabbinique laissait à l'état d'opérateur : *le pauvre est le Christ ; le Christ est le pauvre*. Le passage est, structurellement, l'application maximale de Pr 19, 17 : *« qui fait grâce au dal prête à YHWH »*. Le service du pauvre devient le sas par lequel on accède au Royaume — *le pauvre est porte*. Le Christ ne décrit pas une éthique : il *l'incarne* dans la figure du pauvre rencontré.
 
-### 5.5 Apocalypse 3, 20 : l'inversion radicale
+### 5 Apocalypse 3, 20 : l'inversion radicale
 
 > Ἰδοὺ ἕστηκα ἐπὶ τὴν θύραν καὶ κρούω.
 
@@ -163,7 +148,7 @@ L'image renverse la posture rabbinique. Dans les *Otiyot*, c'est le *dal* qui es
 
 Le Coran connaît le schéma sans en passer par le jeu graphique sur la dalet — l'arabe n'a pas de mot pour *« porte »* construit sur la racine *d-l*. Mais la *structure* — le pauvre comme seuil, le service du pauvre comme passage — est partout. Sa sémantique de la pauvreté (*miskīn*, *faqīr*, *yatīm*, *ibn al-sabīl*) reproduit le vocabulaire biblique (*dal*, *ʿani*, *yatom*, *ger*) avec une fidélité remarquable, attestée par les travaux de Reynolds (2018) et Witztum (2011).
 
-### 6.1 Sourate 90 (al-Balad), versets 11-16 : la passe escarpée
+### 1 Sourate 90 (al-Balad), versets 11-16 : la passe escarpée
 
 > فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ * وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ * فَكُّ رَقَبَةٍ * أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ * يَتِيمٗا ذَا مَقۡرَبَةٍ * أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ.
 
@@ -173,7 +158,7 @@ Le mot clé est *al-ʿaqaba* — *« la passe escarpée »*. Le terme désigne u
 
 L'expression *« couvert de poussière »* (*dhā matraba*) est philologiquement remarquable : *turab* en arabe désigne la poussière, mais elle est aussi associée à la condition humaine en tant qu'*Adam ben turab* (*ʾadām min ʿafar*, Gn 2, 7). Le pauvre coranique est doublement abaissé — par sa pauvreté économique et par sa proximité avec la terre primordiale. Il est le *dal* dans toute sa profondeur sémitique.
 
-### 6.2 Sourate 107 (al-Māʿūn) : religion vraie et soin du pauvre
+### 2 Sourate 107 (al-Māʿūn) : religion vraie et soin du pauvre
 
 > أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ * فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ * وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ.
 
@@ -181,7 +166,7 @@ L'expression *« couvert de poussière »* (*dhā matraba*) est philologiquement
 
 Le verset coranique identifie l'inauthenticité religieuse à l'exclusion du pauvre. Le procédé est strictement parallèle à Mt 25, 31-46 et à Is 58, 6-7 : *la religion vraie passe par la porte du pauvre*. Reynolds (2018) lit la sourate comme un hypotexte direct des polémiques prophétiques antérieures. L'opérateur est intact : *fermer la porte au pauvre, c'est se fermer à Dieu*.
 
-### 6.3 Sourate 18, 77-82 : le mur du pauvre
+### 3 Sourate 18, 77-82 : le mur du pauvre
 
 > فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهۡلَ قَرۡيَةٍ ٱسۡتَطۡعَمَآ أَهۡلَهَا فَأَبَوۡاْ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارٗا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ.
 
@@ -189,7 +174,7 @@ Le verset coranique identifie l'inauthenticité religieuse à l'exclusion du pau
 
 L'épisode du mur, dans la sourate de la Caverne, opère une inversion subtile. Une cité *refuse* l'hospitalité — elle ferme sa porte. Mais al-Khiḍr redresse un *mur* (*jidār*) — qui sera ensuite expliqué comme protection d'un trésor destiné à deux orphelins. Le mur est ici une *porte murée*, un seuil refusé par les hommes mais redressé par Dieu pour préserver les enfants pauvres. L'inversion narrative reprend la grammaire profonde : *là où les hommes ferment la porte au pauvre, Dieu redresse pour lui un mur*.
 
-### 6.4 Les portes du Paradis (Q 39, 73 ; Q 76)
+### 4 Les portes du Paradis (Q 39, 73 ; Q 76)
 
 > وَفُتِحَتۡ أَبۡوَٰبُهَا.
 
@@ -211,25 +196,25 @@ Ibn ʿArabī (m. 1240), dans les *Futūḥāt al-Makkiyya* II, donne la systéma
 
 ## 8. Hypothèses de lecture en concurrence {#s8}
 
-### 8.1 Lecture midrashique forte (Mergui, Boyarin, Vermes)
+### 1 Lecture midrashique forte (Mergui, Boyarin, Vermes)
 
 Pour cette école, le couplage *dal/delet* est l'hypotexte rabbinique direct des Évangiles. Lazare au porche (Lc 16) n'est pas un détail réaliste mais une mise en récit consciente du procédé *al-tikrei*. Les *« je suis »* johanniques sont des constructions midrashiques où le Christ s'identifie tour à tour aux figures de seuil scripturaires (porte, chemin, vigne, pasteur). Mt 25, 31-46 réalise narrativement l'identification que le procédé rabbinique laissait à l'état d'opérateur : le Christ *est* le pauvre, et donc *est* la porte. Le Coran prolonge la même matrice — *al-zakāt*, *al-ʿaqaba*, *miskīn dhā matraba* — sans en passer par le jeu sur la lettre, mais en en gardant la structure profonde. Pour cette école, parler de coïncidence ou de simple éthique partagée est un évitement : il s'agit d'un système herméneutique commun, transmis par les milieux judéo-chrétiens vers les Évangiles puis vers l'Arabie tardo-antique.
 
 Cette position est dominante dans les études comparatives juives et israéliennes ; elle est minoritaire mais croissante dans les études coraniques (Reynolds, Witztum, Neuwirth).
 
-### 8.2 Lecture historico-critique modérée (Wright, Meier, France)
+### 2 Lecture historico-critique modérée (Wright, Meier, France)
 
 Pour cette école, les éléments éthiques (devoir envers le pauvre, identification du Christ aux marginaux) sont juifs et bibliques ; ils n'exigent pas la médiation d'un dérash sur la lettre dalet. Le couplage Lazare-au-porche est suffisamment expliqué par la topographie sociale du Levant antique et par les paraboles d'inversion eschatologique, très fréquentes en littérature de Second Temple (cf. *1 Hénoch* 92-105). La spéculation sur la dalet, dans sa forme reçue, est tardive (géonique) ; on ne peut pas la projeter telle quelle sur le Ier siècle. Le Coran, de la même manière, hérite de l'ensemble du capital éthique judéo-chrétien sans qu'il soit nécessaire de postuler un dérash spécifique sur le couple *dal/delet*.
 
 Cette position est dominante dans l'exégèse historico-critique académique anglo-saxonne et allemande ; elle ne nie pas l'arrière-plan juif mais résiste à la grille midrashique stricte.
 
-### 8.3 Lecture grammatologique-mystique (Ouaknin, Sibony, Sviri)
+### 3 Lecture grammatologique-mystique (Ouaknin, Sibony, Sviri)
 
 Pour cette école, la spéculation sur la dalet n'est pas un ornement tardif mais l'explicitation d'une structure qui travaille la langue hébraïque dès l'origine. Que la fixation textuelle des *Otiyot de Rabbi Akiva* soit géonique ne signifie pas que le procédé soit récent : il est inscrit dans la phonétique et la graphie de la langue. Les Évangiles, écrits en grec mais pensés en milieu sémitique, transposent cette structure dans la *figure* du Christ-porte. Le Coran, sans faire le même geste graphique, réactive la même structure dans un arabe dont les racines (*f-q-r* = vertèbre brisée ; *s-k-n* = être prostré) reconduisent la sémantique de l'abaissement-seuil. Le soufisme explicite ce qui est implicite : le *faqr* est la porte.
 
 Cette position est tenue par l'école française des sciences religieuses (Massignon, Corbin, et leurs héritiers) ; minoritaire dans le monde anglo-saxon mais influente dans les études comparatives.
 
-### 8.4 Niveaux de certitude
+### 4 Niveaux de certitude
 
 | Affirmation | Degré |
 |---|---|

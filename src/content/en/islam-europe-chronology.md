@@ -5,9 +5,10 @@ pair: islam-europe-chronology
 category: philosophy
 description: "From Cordoba to Baghdad — how Crusades, Reconquista, and Mongol invasions reshaped the intellectual world"
 order: 5
+date: 2026-04-15
 ---
 
-## A Double Assault on Islamic Civilization
+## 1. A Double Assault on Islamic Civilization {#s1}
 
 Between 1099 and 1291, the Islamic world faced a pincer movement from two directions: Crusaders from the West and Mongols from the East. At the same time, the Reconquista slowly dismantled al-Andalus, the most brilliant intellectual center of medieval Europe. These converging pressures destroyed the conditions that had made Islamic rationalism possible — and, paradoxically, scattered its seeds into Christian Europe.
 
@@ -15,7 +16,7 @@ This chronology traces the key events, placing **Cordoba**, **Jerusalem**, and *
 
 ---
 
-## The Golden Age (8th–12th centuries)
+## 2. The Golden Age (8th–12th centuries) {#s2}
 
 | Date | Event | Significance |
 |------|-------|-------------|
@@ -29,7 +30,7 @@ This chronology traces the key events, placing **Cordoba**, **Jerusalem**, and *
 
 ---
 
-## The Crusades and the Reconquista (1096–1291)
+## 3. The Crusades and the Reconquista (1096–1291) {#s3}
 
 | Date | Event | Significance |
 |------|-------|-------------|
@@ -58,7 +59,7 @@ This chronology traces the key events, placing **Cordoba**, **Jerusalem**, and *
 
 ---
 
-## The Mongol Storm (1206–1260)
+## 4. The Mongol Storm (1206–1260) {#s4}
 
 | Date | Event | Significance |
 |------|-------|-------------|
@@ -74,7 +75,7 @@ This chronology traces the key events, placing **Cordoba**, **Jerusalem**, and *
 
 ---
 
-## The Mamluk Aftermath (1260–1517)
+## 5. The Mamluk Aftermath (1260–1517) {#s5}
 
 | Date | Event | Significance |
 |------|-------|-------------|
@@ -88,7 +89,7 @@ This chronology traces the key events, placing **Cordoba**, **Jerusalem**, and *
 
 ---
 
-## The Bifurcation: What Was Saved, What Was Lost
+## 6. The Bifurcation: What Was Saved, What Was Lost {#s6}
 
 The Mamluks saved Islam's physical existence, its holy places, and its institutional continuity. But the price was the triumph of military orthodoxy over philosophical inquiry.
 

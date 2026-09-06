@@ -4,15 +4,17 @@ lang: en
 pair: gunpowder-turned-around
 category: philosophy
 dossier: cordoue-lumieres
-description: "Chinese gunpowder, perfected by Arab engineers, used by Europe to conquer the Muslim world"
+description: "Gunpowder, invented in China, perfected by Arab engineers and transmitted through al-Andalus, comes back against the Muslim world as colonial artillery."
 order: 14
+date: 2026-08-28
 ---
+
 **Type**: Historical analysis — technology transfer
 **Thesis**: Gunpowder, invented in China, perfected by Arab engineers, transmitted to Europe via Al-Andalus, was turned against the Muslim world in the form of colonial artillery. The colonizer's weapon is the colonized's legacy.
 
 ---
 
-## The chain of transmission
+## 1. The chain of transmission {#s1}
 
 ```
 China (9th c.) → Mongols (13th c.) → Arab engineers → Al-Andalus → Europe
@@ -21,7 +23,7 @@ China (9th c.) → Mongols (13th c.) → Arab engineers → Al-Andalus → Europ
                      diffusion       (Hasan al-Rammah)      to Europe   reversal
 ```
 
-## Key stages
+## 2. Key stages {#s2}
 
 | Date | Event | Actor |
 |------|-------|-------|
@@ -38,7 +40,7 @@ China (9th c.) → Mongols (13th c.) → Arab engineers → Al-Andalus → Europ
 | 1798 | **French cannons crush the Mamluks** | Napoleon in Egypt |
 | 1830 | French artillery takes Algiers | Colonization of Algeria |
 
-## The decisive technical fact
+## 3. The decisive technical fact {#s3}
 
 The median composition of Hasan al-Rammah's 17 rocket recipes:
 - **75% potassium nitrate, 9% sulfur, 16% carbon**
@@ -48,7 +50,7 @@ The modern optimal recipe:
 
 Arab engineers of the 13th century had empirically reached the ideal composition. Europe merely received and industrialized what the Islamic world had already perfected.
 
-## The emblematic reversals
+## 4. The emblematic reversals {#s4}
 
 ### Constantinople (1453)
 The Ottomans — the Islamic gunpowder empire — used giant cannons (cast by the Hungarian engineer Orban) to breach the walls of Constantinople. Here, the Muslim world uses gunpowder *against* Christian Europe. The last moment when the advantage lies on the Islamic side.
@@ -61,7 +63,7 @@ Napoleon crushes the Mamluks with perfected artillery. The Mamluks — heirs of 
 ### Algiers (1830)
 France takes Algiers with overwhelming firepower. The city where Moriscos expelled from Spain (1609) had taken refuge falls to cannons descending from the same gunpowder that Arab engineers had perfected.
 
-## The analysis: why Europe industrializes and Islam freezes
+## 5. The analysis: why Europe industrializes and Islam freezes {#s5}
 
 The Islamic world *invents* (or perfects) gunpowder but does not industrialize it. Europe *receives* it and transforms it into a military revolution. Why?
 

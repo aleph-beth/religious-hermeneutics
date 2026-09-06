@@ -5,24 +5,8 @@ pair: babel
 category: etymology
 description: "בבל is the consonantal mirror of לבב: read the kernel backwards and you get the tower. On science as a tower of Babel — and its redemption."
 order: 3
+date: 2026-06-17
 ---
-
-# Babel — The Kernel, Technology, and Scientia Dei
-## בבל is the consonantal mirror of לבב — read the kernel backwards and you get the tower
-
-## Table of Contents
-
-1. [Opening — The kernel read backwards](#s1)
-2. [The kernel: *lev / levav / lubb*](#s2)
-3. [The reversal לבב ↔ בבל](#s3)
-4. [The technician's verse (Genesis 11:3)](#s4)
-5. [The white brick: frozen reflection](#s5)
-6. [The genealogical stone: *even* = *av* + *ben*](#s6)
-7. [The bitumen: *ḥ-m-r*, matter without form](#s7)
-8. [The literal irony: bitumen is petroleum](#s8)
-9. [Science as a tower of Babel](#s9)
-10. [Conclusion — The two stories and the third way](#s10)
-11. [Bibliographical references](#s11)
 
 ---
 

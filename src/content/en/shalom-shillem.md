@@ -5,29 +5,8 @@ pair: shalom-shillem
 category: etymology
 description: "Sh-L-M: to be whole, to settle an account, to hand over. Why 'peace' and 'vengeance' are the same word — from the brit shalom of Phinehas to the very name of Islam."
 order: 5
+date: 2026-08-06
 ---
-
-# Shalom: The Broken Letter
-## Why "peace" and "vengeance" are the same word
-
-## Table of Contents
-
-1. [Opening — A deliberately damaged letter](#s1)
-2. [The root Sh-L-M: whole, not peaceful](#s2)
-3. [*Shillem*: to repay, to discharge, to avenge](#s3)
-4. [The *shelamim*: peace as what is left of the sacrifice](#s4)
-5. [*Shalem*: what iron has not touched](#s5)
-6. [A name of God, a word of greeting](#s6)
-7. [Those who bear the name: Absalom and Solomon](#s7)
-8. [Jerusalem: the city of completion](#s8)
-9. [The two Salomes: what the text says, what the culture heard](#s9)
-10. [Shlom-Tsion: the queen whose peace ended in occupation](#s10)
-11. [To transmit and to betray: *ashlem*, *masar*, *tradere*](#s11)
-12. [Arabic: *salima*, *sallama*, *aslama*](#s12)
-13. [A religion named after a gesture: into whose hands?](#s13)
-14. [Conclusion — The fidelity of a damaged letter](#s14)
-15. [Threads left open](#s15)
-16. [Bibliographical references](#s16)
 
 ---
 

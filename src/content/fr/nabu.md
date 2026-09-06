@@ -3,26 +3,10 @@ title: "Nabu, le dieu qui écrit le monde"
 lang: fr
 pair: nabu
 category: etymology
-description: "De la tablette des destins au grand livre du Jugement : enquête sur une racine sémitique"
+description: "Le dieu-scribe de Babylone, le prophète et Nabuchodonosor partagent une racine : proclamer, inscrire. Comment l'écriture, née pour compter l'orge, finit par compter les âmes."
 order: 2
+date: 2026-06-15
 ---
-
-# Nabu, le dieu qui écrit le monde
-## De la tablette des destins au grand livre du Jugement — enquête sur une racine sémitique
-
-## Table des matières
-
-1. [Ouverture — Une racine pour fil conducteur](#s1)
-2. [Le dieu Nabu](#s2)
-3. [La racine *n-b-ʾ* : appeler, nommer, proclamer](#s3)
-4. [Le nabī : la figure du prophète](#s4)
-5. [Le nom du roi : Nabuchodonosor, l'écriture faite pouvoir](#s5)
-6. [Babel : la porte du dieu retournée en confusion](#s6)
-7. [L'écriture née comptable](#s7)
-8. [La religion comme grand livre de comptes](#s8)
-9. [Le calame et la table : « être, c'est être écrit »](#s9)
-10. [Conclusion — Le stylet, du grenier au tribunal](#s10)
-11. [Repères bibliographiques](#s11)
 
 ---
 

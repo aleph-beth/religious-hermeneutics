@@ -6,13 +6,10 @@ category: philosophy
 dossier: charte-medine
 description: "The Charter's blind spot: no mechanism for resolving conflicts between communities — and the questions any plural pact must ask"
 order: 2
+date: 2026-07-13
 ---
 
-# The Charter of Medina, II — The pact's blind spot: judging without a court
-
-*Gregory L. — July 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 The [first part of this dossier](../medina-umma-dhimma/) established that the Jews of Medina were members of the *umma* as Jews, with their law and customs guaranteed. Had the Medinan experiment stopped there, it would stand as an almost ideal precedent of plural governance.
 
@@ -20,9 +17,9 @@ It did not stop there. Within five years (622–627), the three great Jewish tri
 
 The thesis of this article is that the failure is not primarily a matter of bad faith among the actors, nor of any incompatibility between the communities, but of a **defect in institutional design**: the Charter accepts the other, yet provides no working mechanism for managing conflicts *between* the communities it federates. Acceptance without procedure leaves, in a crisis, only one avenue open: force.
 
-## I. What the pact provides — and what it does not
+## 2. What the pact provides — and what it does not {#s2}
 
-### I.1. The arbitration clause: one sentence in place of a court
+### The arbitration clause: one sentence in place of a court
 
 The text transmitted by Ibn Isḥāq does contain a dispute-settlement clause:
 
@@ -34,7 +31,7 @@ That is all. One sentence. Compared with the precision of the clauses on militar
 2. **Under which law?** The Charter guarantees "to the Jews their *dīn*, to the Muslims their *dīn*" — two complete, parallel legal orders. But when a dispute crosses the boundary between communities, which law applies? The Torah? The nascent revelation? Tribal custom? The text defines no **meta-law**: no rule for settling conflicts of rules.
 3. **Under what procedure, and with what sanctions?** No gradation is provided between the brotherhood of the pact and its rupture. No fine, no codified restitution, no mandatory mediation, no partial or temporary exclusion. The pact knows only two states: loyalty or treachery (*ghadr*) — and treachery expels one from the pact entirely.
 
-### I.2. The vocabulary of judgment exists — the institution is missing
+### The vocabulary of judgment exists — the institution is missing
 
 Etymological analysis confirms this diagnosis in a striking way. Arabic possessed, already at this period, two major roots for saying judgment, both from ancient Semitic stock:
 
@@ -63,11 +60,11 @@ Here the evolution runs from **wisdom** (a quality) to **judgment** (an act) and
 
 The paradox lies there: **the language of the pact possesses the entire vocabulary of judgment — *qaḍāʾ*, *ḥukm*, *ḥakam* — but the pact builds none of the institutions that this vocabulary calls for.** The verb is available; the court is missing. The Charter names arbitration without organizing it: no composition, no procedure, no applicable law, no means of enforcement.
 
-### I.3. An inclusion itself ambiguous
+### An inclusion itself ambiguous
 
 One final blur aggravates the others: the Jewish clauses of the Charter name "the Jews of the Banū ʿAwf," "the Jews of the Banū al-Najjār," and so on — that is, the Jews attached to the Arab clans. **The three great autonomous Jewish tribes — Qaynuqāʿ, Naḍīr, Qurayẓa — are not named** in the surviving text. Were they covered by lost annexes, by separate pacts, or implicitly? Historians debate the question (R. B. Serjeant, M. Lecker). But the ambiguity is itself significant: when the crises came, neither the exact membership nor the exact obligations of the parties could be established beyond dispute. A pact whose perimeter is uncertain cannot arbitrate its own margins.
 
-## II. The test of events: three crises, zero procedure
+## 3. The test of events: three crises, zero procedure {#s3}
 
 | Conflict | Alleged trigger | Handling | Outcome |
 | --- | --- | --- | --- |
@@ -83,7 +80,7 @@ Three structural observations:
 
 The point here is not to judge seventh-century actors by modern standards, nor to settle the disputed question of whether the alleged betrayals were real. The point is institutional: **even granting the reality of every betrayal, the pact supplied no instrument other than war to establish and punish it.** A legal order that can neither investigate, nor adjudicate, nor proportion has only two answers: tolerate or destroy.
 
-## III. Comparison: what other systems added
+## 4. Comparison: what other systems added {#s4}
 
 | Model | Inclusion | Conflict-management mechanism |
 | --- | --- | --- |
@@ -94,7 +91,7 @@ The point here is not to judge seventh-century actors by modern standards, nor t
 
 The table reveals a bitter historical tension: the later systems solved the problem of conflict management **by sacrificing the equality** that Medina had proclaimed. The *dhimma* and the millet supply a meta-law — but a meta-law of subordination. Modern constitutionalism supplies equality *and* mechanisms — but at the price of the communities' normative autonomy, reduced to private associations. **No one has yet fully achieved what the Charter promised: the equality of communities *with* their own laws *and* fair mechanisms between them.** The Charter is not merely a precedent; it is a promise that the whole of subsequent history has left unkept.
 
-## IV. Asking the right questions: the plan and the actions
+## 5. Asking the right questions: the plan and the actions {#s5}
 
 The Medinan failure lets us draw up, in negative, the specification of any plural pact. These are the questions the Charter did not ask — and that must be asked of any project of coexistence between communities carrying their own norms, then as now.
 
@@ -113,7 +110,7 @@ The Medinan failure lets us draw up, in negative, the specification of any plura
 8. **Treat the first crisis as a precedent**: the answer given to Qaynuqāʿ wrote the script for Naḍīr, which wrote the script for Qurayẓa. The first derogation from procedure is the last moment at which one still has a choice.
 9. **Separate political loyalty from religious belonging**: the moment fidelity to the pact is measured by confession, the plural pact is already dead — all that remains is to bury it.
 
-## V. Conclusion: acceptance is not enough
+## 6. Conclusion: acceptance is not enough {#s6}
 
 The Charter of Medina achieved what almost no ancient text had attempted: declaring that religiously distinct communities form a single political community, each with its own law. It failed on what it left unsaid: how to live through disagreement. Its shortcoming is not a failure of generosity but a failure of engineering — inclusion without procedure, alliance without a court, norms without graduated sanction.
 

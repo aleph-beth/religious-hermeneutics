@@ -3,26 +3,10 @@ title: "Nabu, the God Who Writes the World"
 lang: en
 pair: nabu
 category: etymology
-description: "From the tablet of destinies to the great ledger of Judgment: an inquiry into a Semitic root"
+description: "Babylon's scribe-god, the prophet and Nebuchadnezzar share one root: to proclaim, to inscribe. How writing, born to count barley, ended up counting souls."
 order: 2
+date: 2026-06-15
 ---
-
-# Nabu, the God Who Writes the World
-## From the tablet of destinies to the great ledger of Judgment — an inquiry into a Semitic root
-
-## Table of Contents
-
-1. [Opening — A root as guiding thread](#s1)
-2. [The god Nabu](#s2)
-3. [The root *n-b-ʾ*: to call, to name, to proclaim](#s3)
-4. [The nabī: the figure of the prophet](#s4)
-5. [The name of the king: Nebuchadnezzar, writing made power](#s5)
-6. [Babel: the gate of the god turned into confusion](#s6)
-7. [Writing born of accounting](#s7)
-8. [Religion as a great ledger of accounts](#s8)
-9. [The reed pen and the tablet: "to be is to be written"](#s9)
-10. [Conclusion — The stylus, from the granary to the tribunal](#s10)
-11. [Bibliographical references](#s11)
 
 ---
 

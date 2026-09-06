@@ -4,26 +4,10 @@ lang: en
 pair: kpr-kfr-argumentaire
 category: etymology
 dossier: kafir-kippour
-description: "Seven theses to repluralize the word kāfir, against a modern and minoritarian reduction"
+description: "Reducing kāfir to 'unbeliever' is a modern, minority rupture: seven philological theses to give the word back the plurality that every tradition preserved."
 order: 5
+date: 2026-05-09
 ---
-
-# The Sower and the Bird
-## An Argument for the Semantic Reopening of the Word *Kāfir*
-
-## Table of Contents
-
-1. [The thesis in one sentence](#s1)
-2. [Position of the problem: the two mirrors](#s2)
-3. [The seven attested poles](#s3)
-4. [The proof from primary sources](#s4)
-5. [The proof from genealogy](#s5)
-6. [The springs of discursive capture](#s6)
-7. [Reading grid for reopening](#s7)
-8. [The comparative coup de théâtre: the *kāfir* is the sower](#s8)
-9. [Synthesis in seven theses](#s9)
-10. [Conclusion: repluralizing the word](#s10)
-11. [Bibliography](#s11)
 
 ---
 
@@ -81,15 +65,15 @@ Article 1 of the dossier established that the root *k-p-r / k-f-r* deploys seven
 
 ## 4. The proof from primary sources {#s4}
 
-### 4.1 Philological argument
+### 1 Philological argument
 
 Any student of Semitic languages familiar with Lane (*Arabic-English Lexicon* VII), Ibn Manẓūr (*Lisān al-ʿArab*), Zabīdī (*Tāj al-ʿArūs*), confirms that poles 3.1, 3.2, 3.3, 3.4 are massively attested in pre-Quranic Arabic and preserved in the classical commentaries. **Exclusively polemical reading of the word does not stand against the lexicography.**
 
-### 4.2 Internal Qur'anic argument
+### 2 Internal Qur'anic argument
 
 The Qur'an itself *preserves* plurality. Divine *takfīr* (Q 5:65; 8:29; 64:9; 4:31) and the *kaffāra* (Q 5:89; 4:92; 58:3-4) are *positive* there. Q 57:20 employs *al-kuffār* in its archaic agricultural sense. **To reduce Qur'anic *kufr* to a single pole is therefore an operation that *contradicts the canonical text itself*.**
 
-### 4.3 Argument from classical *kalām*
+### 3 Argument from classical *kalām*
 
 Al-Ghazālī, in his *Faysal al-tafriqa* (11th c.), writes explicitly:
 
@@ -97,19 +81,19 @@ Al-Ghazālī, in his *Faysal al-tafriqa* (11th c.), writes explicitly:
 
 The majority position of classical Sunnism (Ashʿariyya) and Hanafism (Murjiʾa) is *restraint*. To practise extensive *takfīr* is *in disagreement with the majoritarian Islamic tradition itself*.
 
-### 4.4 Argument from *fiqh*
+### 4 Argument from *fiqh*
 
 Classical *fiqh* rigorously preserves the expiatory pole (the *kaffārāt*) and has never reduced the root to the polemical pole. Every practising Muslim who breaks an oath and redeems it through alms (Q 5:89) performs a *takfīr* — and the word, in his mouth, means *"merciful covering by God,"* not anathema.
 
-### 4.5 Sufi argument
+### 5 Sufi argument
 
 Classical Sufism *inverted* the root. Hallāj, Ibn ʿArabī, Rūmī, ʿAṭṭār consider *true kufr* precisely as sectarianism and extended *takfīr* — the thought that *reduces* God to a single form.
 
-### 4.6 Comparative argument
+### 6 Comparative argument
 
 The Jewish and Christian traditions, which inherit the same root, have massively preserved its positive pole: Yom Kippur remains the summit of the Jewish calendar; the *kapporet* was christologized in Paul; the sower and the grain nourished the evangelical imaginary. A root that, in the sister tradition, is *salvific* cannot, in the Islamic tradition, be *univocally anathematic* — except by performing an explicit rupture.
 
-### 4.7 Partial conclusion
+### 7 Partial conclusion
 
 Across the six arguments, the exclusively polemical use of *kāfir* is:
 - philologically unfounded,
@@ -123,15 +107,15 @@ Across the six arguments, the exclusively polemical use of *kāfir* is:
 
 ## 5. The proof from genealogy {#s5}
 
-### 5.1 Historical argument
+### 1 Historical argument
 
 The contemporary extension of *takfīr* has an identifiable *date*. It begins with post-Ibn Taymiyya radicalization (14th c.), intensifies with Wahhabism (18th c.) and reaches its conceptual inversion point with Mawdūdī and Quṭb (20th c.). **Before Quṭb (and more precisely before *Maʿālim fī al-ṭarīq*, 1964), no major Sunni theologian holds that contemporary Muslim societies live in collective *jāhiliyya*.**
 
-### 5.2 Sociological argument
+### 2 Sociological argument
 
 The *al-Takfīr wa-l-Hijra* movement (1971-1977) is numerically marginal but *ideologically matricial*. Daesh (2014-2019) is the most radical expression of the takfīrī trajectory. None of these movements represents global Islam: they represent a *minoritarian militant fraction*, whose media amplification has distorted external (and sometimes internal) perception.
 
-### 5.3 Doctrinal argument
+### 3 Doctrinal argument
 
 The Amman Declaration (2005) — signed by 552 ulemas from 84 countries, including the heads of the principal Sunni, Shīʿī and Ibāḍī juridical schools — *explicitly condemns* extensive *takfīr*. **Mainstream religious authority of the Muslim world has therefore, collectively, disavowed the takfīrī doctrine.** Dominant contemporary use of *kāfir* in public discourse is therefore not the use of Islam as religious institution, but the use of a militant faction.
 
@@ -171,25 +155,25 @@ The preceding argument allows the proposal of a practical grid, applicable to an
 
 The most striking argument of the entire dossier is doubtless the following — it deserves to be posited as a thesis in its own right.
 
-### 8.1 The synoptic parable of the sower
+### 1 The synoptic parable of the sower
 
 The synoptic parable of the sower (Matt 13:3-23 ǁ Mark 4 ǁ Luke 8) places evil **not in the sowing gesture, but in the figures of non-reception**: the bird that devours the unburied seed, the rock that prevents rooting, the thorn that chokes the shoot. *The sower himself is exempt from any reproach: he sows broadly, without condition.*
 
-### 8.2 The *kāfir*-peasant in pre-Quranic Arabic
+### 2 The *kāfir*-peasant in pre-Quranic Arabic
 
 Yet — a massive and too-ignored philological fact — **the sower is the *kāfir*** in pre-Quranic Arabic. Q 57:20 attests the use within the canon. *Lisān al-ʿArab* confirms it under the entry *kafara*. Lane VII catalogues it. The *kāfir*-peasant is *the friend of the seed*, the one whose gesture *protects* the seed and allows it to rise.
 
-### 8.3 The unexpected consequence
+### 3 The unexpected consequence
 
 Contemporary use of polemical *kāfir* has, by semantic capture, **given the name of the evangelical sower to the bird that devours the seed**. The word that designated *the hand that covers to make live* has been redeployed to designate *the one who covers to make silent*. It is the same material operation (covering), but in two opposed finalities (life / death). Language itself protests: Q 57:20 attests, within the canon, that there is *another* *kāfir*.
 
-### 8.4 Theological implication
+### 4 Theological implication
 
 If one takes the synoptic parable seriously, the *true "evil of the root"* is not in the gesture of covering but in the bird, the rock, the thorn — that is, in *snatching, sealing and choking*. And contemporary takfīrī use, which *snatches* the word from the other, *seals* the heart in the pure community, *chokes* diversity — practises exactly the three gestures that the parable assigns to evil.
 
 **The *takfīrī*, in evangelical grammar, is the bird, the rock and the thorn.** The sower is what he could be if he rediscovered the original sense of his name: a *kāfir*-peasant, friend of the seed, who covers so that it may rise.
 
-### 8.5 The comparative reading at its sharpest
+### 5 The comparative reading at its sharpest
 
 The operation is exactly that which article 1 of the dossier identifies as *philological capture*: the word of *good recovering* has become, in dominant modern usage, the word of *bad recovering*. The sower has become the bird. The hand that saves has become the hand that effaces. **It is the grammar of Cain, who covers Abel's blood with earth — recovering-to-make-disappear, and not recovering-to-make-rise.** The modern takfīrī city reconducts, in this sense, the city founded by Cain (Gen 4:17) on uncovered blood.
 

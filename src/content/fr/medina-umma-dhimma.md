@@ -6,25 +6,22 @@ category: philosophy
 dossier: charte-medine
 description: "Les tribus juives comme partenaires constitutifs du pacte, avec leur loi et leurs usages — et le glissement lexical de umma à dhimma"
 order: 1
+date: 2026-07-13
 ---
 
-# Charte de Médine, I — Avant la *dhimma* : les Juifs membres de la *umma*
-
-*Gregory L. — Juillet 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 La Charte de Médine (*Ṣaḥīfat al-Madīna*, vers 622) est souvent présentée comme le premier document constitutionnel de l'histoire islamique. Cette qualification, pour être utile, ne doit pas masquer l'essentiel : au moment où le texte est rédigé, il n'existe pas encore d'« islam » institutionnel au sens ultérieur du terme. Ce que la Charte organise, c'est une **alliance politique entre communautés distinctes** — émigrés mecquois, clans médinois, tribus juives — et non l'intégration de minorités dans une communauté musulmane préexistante.
 
 Ce premier article du dossier établit un fait central, que les relectures confessionnelles ultérieures ont progressivement recouvert : **les Juifs de Médine étaient membres de la *umma* en tant que tels**, avec leurs règles, leur loi et leurs usages explicitement respectés. Le statut de *dhimmī* — le « protégé » subordonné du droit islamique classique — est une construction postérieure. Le passage du premier état au second se lit jusque dans le vocabulaire : de *umma* à *dhimma*, deux mots que presque tout rapproche à l'oreille, et que presque tout sépare dans le statut qu'ils confèrent.
 
-## I. Yathrib avant le pacte : une cité plurielle où le judaïsme est structurel
+## 2. Yathrib avant le pacte : une cité plurielle où le judaïsme est structurel {#s2}
 
 Au début du VIIᵉ siècle, Yathrib n'est pas une ville musulmane qui accueillerait des minorités. C'est une oasis agricole structurée par cinq grands ensembles tribaux, dont **trois tribus juives établies de longue date** — Banū Qaynuqāʿ, Banū Naḍīr, Banū Qurayẓa — disposant de leurs réseaux économiques (orfèvrerie, agriculture des palmeraies, commerce), de leurs forteresses, de leur droit et de leur mémoire politique propre. Les clans arabes, Aws et Khazraj, épuisés par des décennies de guerres de vengeance (dont la bataille de Buʿāth, vers 617), sont eux-mêmes religieusement composites.
 
 Lorsque Muhammad arrive de La Mecque avec les Muhājirūn, il est accueilli d'abord comme **arbitre** (*ḥakam*) d'une cité en crise, non comme souverain d'une communauté confessionnelle constituée. La Charte est l'instrument de cet arbitrage : elle relève du genre sémitique du **pacte d'alliance**, dans la continuité de la *berît* biblique — un cadre qui régule la pluralité sans chercher à la dissoudre.
 
-## II. Ce que dit le texte : les Juifs *avec* les croyants, une seule *umma*
+## 3. Ce que dit le texte : les Juifs *avec* les croyants, une seule *umma* {#s3}
 
 Le texte transmis par Ibn Isḥāq (dans la recension d'Ibn Hishām) contient une série de clauses dont la formulation est remarquablement précise. La plus célèbre :
 
@@ -38,7 +35,7 @@ La clause est ensuite répétée, quasi mot pour mot, pour les Juifs des Banū a
 
 À cela s'ajoutent la défense mutuelle (« ils s'entraident contre quiconque attaque les gens de cette *ṣaḥīfa* »), le partage des charges de guerre (« aux Juifs leur dépense, aux musulmans la leur »), et l'interdiction de léser quiconque pour sa religion.
 
-## III. *Muʾminūn*, pas encore *muslimūn* : un pacte de croyants
+## 4. *Muʾminūn*, pas encore *muslimūn* : un pacte de croyants {#s4}
 
 Le vocabulaire de la Charte est un témoin archéologique. Le terme dominant pour désigner les partenaires du pacte n'est pas *muslimūn* (« musulmans ») mais ***muʾminūn*** (« croyants », racine ʾ-M-N : sécurité, confiance, fiabilité — la même qui donne *amen* et l'hébreu *emounah*).
 
@@ -49,9 +46,9 @@ Cette distinction, mise en évidence notamment par les travaux de Fred Donner (*
 
 En 622, l'identité religieuse « islamique » est en construction : le mouvement de Muhammad se présente comme un rassemblement de monothéistes fidèles, dans lequel des Juifs peuvent trouver place **sans conversion**. C'est exactement ce que la Charte enregistre : une *umma* définie par la loyauté à l'alliance, non par la confession. L'article [La Charte de Médine : de l'alliance plurielle à l'orthodoxie impériale](../charter-of-medina/) analyse comment ce lexique ouvert s'est ensuite contracté en catégories exclusives.
 
-## IV. *Umma* et *dhimma* : deux mots miroirs, deux statuts
+## 5. *Umma* et *dhimma* : deux mots miroirs, deux statuts {#s5}
 
-### IV.1. *Umma* : la communauté-matrice
+### *Umma* : la communauté-matrice
 
 Le mot *umma* appartient au fonds sémitique commun, rattaché à la racine ʾ-M-M et au champ de la **mère** (*umm*) :
 
@@ -64,7 +61,7 @@ Le mot *umma* appartient au fonds sémitique commun, rattaché à la racine ʾ-M
 
 La *umma* est littéralement la **communauté-matrice** : ce qui rassemble comme une mère rassemble. Dans la Charte, elle désigne une confédération de responsabilité — juridique et militaire — qui inclut les tribus juives par principe.
 
-### IV.2. *Dhimma* : la protection sous blâme
+### *Dhimma* : la protection sous blâme
 
 Le droit islamique classique désignera plus tard les Juifs et les chrétiens comme *ahl al-dhimma*, « gens de la *dhimma* ». Le mot repose sur la racine ḏ-M-M, dont le sens premier est **blâmer** (*dhamma*, « blâmer » ; *madhmūm*, « blâmable »). La *dhimma* est l'engagement de protection dont la violation expose au blâme : le protégé détient une créance sur l'honneur du protecteur.
 
@@ -77,7 +74,7 @@ Le droit islamique classique désignera plus tard les Juifs et les chrétiens co
 
 Le quasi-anagramme phonétique mesure exactement l'ampleur de la mutation historique : il a suffi, dans le vocabulaire comme dans le droit, d'un déplacement minime en apparence pour faire sortir les Juifs de la communauté et les placer sous elle. **Avant d'être *ahl al-dhimma*, les Juifs furent membres de la *umma*** — c'est la Charte elle-même qui l'atteste, et c'est ce que la théologisation ultérieure du vocabulaire a rendu presque impensable.
 
-### IV.3. Chronologie d'un glissement
+### Chronologie d'un glissement
 
 | Étape | Statut des Juifs | Cadre |
 | --- | --- | --- |
@@ -88,7 +85,7 @@ Le quasi-anagramme phonétique mesure exactement l'ampleur de la mutation histor
 
 Ce tableau ne décrit pas une trahison morale ponctuelle, mais une **requalification rétroactive** : la *umma* s'est resserrée en communauté confessionnelle, et ceux qui en étaient membres sans partager la confession se sont retrouvés dehors — sans jamais avoir bougé.
 
-## V. Conclusion : une inclusion réelle, mais sans armature
+## 6. Conclusion : une inclusion réelle, mais sans armature {#s6}
 
 Le constat de cette première partie est double.
 

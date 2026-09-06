@@ -3,16 +3,12 @@ title: "Les juifs de Médine avaient-ils reconnu Jésus comme prophète ?"
 lang: fr
 pair: jews-medina-isa
 category: hermeneutics
-description: "Perméabilité judéo-chrétienne et logique prophétique coranique"
+description: "Si les juifs de Médine attendaient un prophète après Israël, la logique coranique implique qu'ils avaient reconnu Jésus : une perméabilité judéo-chrétienne oubliée."
 order: 4
+date: 2026-04-07
 ---
 
-# Les juifs de Médine avaient-ils reconnu Jésus comme prophète ?
-## Perméabilité judéo-chrétienne et logique prophétique coranique
-
-*Gregory L. — Avril 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 Une croyance largement répandue dans la tradition islamique affirme que les juifs de Médine savaient, avant même la venue de Muhammad, qu'un prophète surgirait d'Arabie.
 Les sources de la Sīra et des hadiths rapportent que ces communautés juives possédaient dans leurs Écritures des indications sur cette venue imminente.
@@ -21,7 +17,7 @@ Cette affirmation, souvent prise pour acquise dans l'apologétique musulmane, m�
 
 Le présent article explore cette hypothèse en trois temps. D'abord, la tension logique interne au récit coranique. Ensuite, le contexte historique de la perméabilité entre communautés juives et chrétiennes dans l'Antiquité tardive. Enfin, les implications théologiques de cette lecture pour la compréhension de l'environnement religieux dans lequel le Coran a émergé.
 
-## I. La tension logique du récit coranique
+## 2. La tension logique du récit coranique {#s2}
 
 ### L'attente d'un prophète arabe
 
@@ -41,7 +37,7 @@ La résolution de ce paradoxe est la suivante : si ces juifs attendaient effecti
 
 Ce raisonnement, conduit strictement à l'intérieur de la logique coranique, suggère que les « juifs » dont parle le Coran n'étaient pas des juifs rabbiniques au sens classique du terme, mais des communautés dont la théologie englobait ʿĪsā — ce que l'histoire des religions appelle des judéo-chrétiens.
 
-## II. La perméabilité judéo-chrétienne dans l'Antiquité tardive
+## 3. La perméabilité judéo-chrétienne dans l'Antiquité tardive {#s3}
 
 ### Des frontières tardives et progressives
 
@@ -63,19 +59,19 @@ Le Hedjaz du VIIᵉ siècle était éloigné des grands centres de normalisation
 
 Plusieurs chercheurs ont avancé l'hypothèse que l'environnement religieux de Muhammad était fortement marqué par un judéo-christianisme résiduel. Hans-Joachim Schoeps, dès 1949, a relevé les parallèles frappants entre la christologie coranique et celle des Ébionites. Shlomo Pines a approfondi cette piste en 1966. Plus récemment, Édouard-Marie Gallez a proposé une thèse ambitieuse selon laquelle le mouvement proto-islamique serait issu d'un courant judéo-nazaréen.
 
-## III. Implications théologiques
+## 4. Implications théologiques {#s4}
 
 ### Un christianisme sans Trinité dans le Coran
 
 L'hypothèse judéo-chrétienne éclaire un trait remarquable du texte coranique : le Coran semble connaître un christianisme sans la Trinité nicéenne, sans l'incarnation, sans la rédemption par la croix. Sa polémique anti-chrétienne ne vise pas la théologie sophistiquée des conciles œcuméniques, mais une christologie « haute » formulée de manière simplifiée, comme on pourrait la trouver dans un milieu populaire éloigné des débats patristiques.
 
-Quand le Coran réfute l'idée que Dieu « aurait pris un fils », quand il présente la Trinité comme « Dieu, Jésus et Marie » (Coran 5:116), il ne dialogue pas avec Athanase ou Augustin. Il répond à des interlocuteurs locaux dont la théologie ressemble davantage à celle des communautés judéo-chrétiennes qu'au christianisme chalcédonien.
+Quand le Coran réfute l'idée que Dieu « aurait pris un fils », quand il présente la Trinité comme « Dieu, Jésus et Marie » (Coran 5,116), il ne dialogue pas avec Athanase ou Augustin. Il répond à des interlocuteurs locaux dont la théologie ressemble davantage à celle des communautés judéo-chrétiennes qu'au christianisme chalcédonien.
 
 ### Le Coran comme témoin d'un monde disparu
 
 Si cette lecture est correcte, le Coran constitue paradoxalement l'un des derniers témoignages d'un monde religieux que les orthodoxies ont effacé : celui d'une zone de contact où les catégories « juif », « chrétien » et « hanīf » se chevauchaient. Le texte coranique, en polémiquant contre des positions qui ne correspondent ni au judaïsme rabbinique ni au christianisme impérial, préserve la trace négative de communautés intermédiaires qui ont autrement disparu de l'histoire.
 
-La sourate al-Baqara elle-même témoigne de cette complexité : elle distingue « ceux qui croient », « ceux qui pratiquent le judaïsme », « les chrétiens » et « les sabéens » (Coran 2:62), suggérant un paysage religieux bien plus fragmenté que la dichotomie juifs/chrétiens ne le laisse penser.
+La sourate al-Baqara elle-même témoigne de cette complexité : elle distingue « ceux qui croient », « ceux qui pratiquent le judaïsme », « les chrétiens » et « les sabéens » (Coran 2,62), suggérant un paysage religieux bien plus fragmenté que la dichotomie juifs/chrétiens ne le laisse penser.
 
 ### Une lecture intra-islamique féconde
 
@@ -91,13 +87,13 @@ Cette hypothèse expliquerait aussi pourquoi le Coran ne polémique jamais contr
 
 Si cette lecture est correcte, certains des premiers compagnons du Prophète — ces figures que la tradition présente simplement comme des « croyants » — pourraient avoir été, avant l'islam, des judéo-chrétiens dont l'identité religieuse antérieure a été absorbée et effacée par la catégorie englobante de *muslim*. L'islam naissant n'aurait pas seulement dialogué avec le judéo-christianisme — il en aurait, en partie, hérité.
 
-## Conclusion
+## 5. Conclusion {#s5}
 
 L'attente d'un prophète arabe par les juifs de Médine, telle que la tradition islamique la rapporte, implique logiquement que ces communautés avaient intégré ʿĪsā dans leur vision prophétique. Cette conclusion, tirée de l'intérieur du cadre coranique, converge avec les recherches historiques sur le judéo-christianisme de l'Antiquité tardive.
 
 Elle invite à repenser les « juifs » du Coran non comme des représentants du judaïsme rabbinique, mais comme les derniers témoins d'un continuum religieux où la frontière entre juif et chrétien n'avait pas encore été tracée. Le Coran, dans cette perspective, n'émerge pas d'un désert théologique, mais d'un carrefour où les traditions abrahamiques se mêlaient encore — et où la question de la succession prophétique était, précisément, ouverte.
 
-## Bibliographie indicative
+## 6. Bibliographie indicative {#s6}
 
 - Boyarin Daniel, *Border Lines: The Partition of Judaeo-Christianity*, University of Pennsylvania Press, 2004.
 - Gallez Édouard-Marie, *Le Messie et son prophète : aux origines de l'islam*, 2 vol., Éd. de Paris, 2005.

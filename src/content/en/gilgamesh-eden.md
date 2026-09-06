@@ -5,27 +5,11 @@ pair: gilgamesh-eden
 category: hermeneutics
 description: "Two narratives, Babylonian and Hebrew, in which eternity is always carried by a deceiving voice, and death — counted time — founds the very possibility of justice."
 order: 6
+date: 2026-07-02
 ---
-
-# The Lie of Eternity, the Justice of Death
-## Gilgamesh and the Garden of Eden
 
 > "When the gods created mankind, for mankind they established death; life they kept in their own hands."
 > — Šiduri to Gilgamesh, Old Babylonian version of the epic (the so-called Meissner tablet, Sippar, ca. 18th century BCE)
-
-## Table of Contents
-
-1. [Opening — A Hypothesis about Two Narratives](#s1)
-2. [Šiduri's Words — and Their Echo in Qohelet](#s2)
-3. [Gilgamesh: Sleep, the Plant, the Serpent](#s3)
-4. [The Return to Uruk: the Walls and *kittu u mīšaru*](#s4)
-5. [Evening before Morning: the Hebrew Calendar of Revelation](#s5)
-6. [The Serpent of Eden: the Lie Concerns Eternity](#s6)
-7. [*Naḥash*: Divination, Bronze, Polysemy](#s7)
-8. [The Serpent's Moult: Cyclical Time versus Counted Time](#s8)
-9. [Checking the Sources — What the Parallel Says, and What It Does Not](#s9)
-10. [Conclusion — Finitude as the Condition of Justice](#s10)
-11. [Bibliographical References](#s11)
 
 ---
 
