@@ -36,6 +36,7 @@ Le déploiement sur GitHub Pages se fait automatiquement à chaque fusion dans `
 
 | Date | FR | EN | Catégorie |
 |---|---|---|---|
+| 2026-09-06 | [Falsafa et Califat : une chronologie parallèle de la pensée arabe](https://aleph-beth.github.io/religious-hermeneutics/articles/falsafa-caliphate/) | [Falsafa and Caliphate: A Parallel Chronology of Arab Thought](https://aleph-beth.github.io/religious-hermeneutics/articles/falsafa-caliphate/) | Philosophie & Histoire |
 | 2026-09-06 | [La flamme et son ombre : une physique de l'origine](https://aleph-beth.github.io/religious-hermeneutics/articles/zohar-flame-microgravity/) | [The Flame and Its Shadow: A Physics of Origin](https://aleph-beth.github.io/religious-hermeneutics/articles/zohar-flame-microgravity/) | Herméneutique |
 | 2026-08-06 | [Shalom : la lettre cassée](https://aleph-beth.github.io/religious-hermeneutics/articles/shalom-shillem/) | [Shalom: The Broken Letter](https://aleph-beth.github.io/religious-hermeneutics/articles/shalom-shillem/) | Étymologie |
 | 2026-07-28 | [La pierre, la taille et le rocher](https://aleph-beth.github.io/religious-hermeneutics/articles/even-gazit-tsur/) | [The Stone, the Hewing, and the Rock](https://aleph-beth.github.io/religious-hermeneutics/articles/even-gazit-tsur/) | Étymologie |
