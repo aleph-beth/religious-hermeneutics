@@ -5,31 +5,8 @@ pair: even-gazit-tsur
 category: etymology
 description: "Even, gazit, tsur: three regimes of stone, the ban on iron at the altar, and the sacred as a withdrawal of the hand."
 order: 4
+date: 2026-07-28
 ---
-
-# The Stone, the Hewing, and the Rock
-## What the Bible forbids doing to a pebble
-
-## Table of Contents
-
-1. [Opening — The silent building site](#s1)
-2. [*Even*: the stone that passes from hand to hand](#s2)
-3. [The son inside the stone: *av*, *ben*, and the *ovnayim*](#s3)
-4. [The ban on hewing: *gazit* against *shlemah*](#s4)
-5. [The midrash of peace: iron that shortens, the altar that lengthens](#s5)
-6. [The shamir: the tool that is not a tool](#s6)
-7. [An architecture in retreat: from the forecourt to the foundation stone](#s7)
-8. [The stones that have heard: Joshua 24 and the heap of Galed](#s8)
-9. [Habakkuk: the stone that cries out from the wall](#s9)
-10. [Luke 19: the cry and the ruin](#s10)
-11. [Stones and sons: the Aramaic pun](#s11)
-12. [Daniel 2: the stone not cut by hands](#s12)
-13. [*Tsur*: the rock, which is not a material](#s13)
-14. [The rock that gives birth: Deuteronomy 32 and Isaiah 51](#s14)
-15. [Striking the rock, then speaking to it: Horeb and Meribah](#s15)
-16. [Conclusion — The sacred as a withdrawal of the hand](#s16)
-17. [Threads left open](#s17)
-18. [Bibliographical references](#s18)
 
 ---
 

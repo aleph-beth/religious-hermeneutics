@@ -6,13 +6,15 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "From the 13th century (Roger Bacon honors Islam) to the 19th (Renan reduces Islam to a passive librarian)"
 order: 17
+date: 2026-08-28
 ---
+
 **Type**: Ideological analysis
 **Thesis**: Between the 13th century (when Roger Bacon honors Islamic thinkers) and the 19th (when Renan reduces Islam to a passive librarian), Europe progressively erases its intellectual debt to the Islamic world. This concealment accompanies and legitimizes colonization.
 
 ---
 
-## Phase 1: Acknowledgment (12th-15th centuries)
+## 1. Phase 1: Acknowledgment (12th-15th centuries) {#s1}
 
 During the period of active reception, Europeans openly acknowledge their debt:
 
@@ -26,13 +28,13 @@ During the period of active reception, Europeans openly acknowledge their debt:
 
 At this time, the debt is assumed, even if it is critiqued (Thomas Aquinas combats Averroism while taking it seriously).
 
-## Phase 2: The Renaissance — the beginning of erasure (15th-16th centuries)
+## 2. Phase 2: The Renaissance — the beginning of erasure (15th-16th centuries) {#s2}
 
 The European Renaissance constructs itself on a narrative of **direct return to the Greeks** — bypassing Arab mediation. The discourse becomes: "We are rediscovering Aristotle, Plato, Euclid" — as if Europe had simply found them in an attic, without mentioning the three centuries of Arab-Latin translation that had made them accessible.
 
 Direct translations from Greek (after the fall of Constantinople in 1453, Greek scholars flee to Italy) reinforce this illusion of a direct link from Greece to Europe.
 
-## Phase 3: The Enlightenment — ambivalence (17th-18th centuries)
+## 3. Phase 3: The Enlightenment — ambivalence (17th-18th centuries) {#s3}
 
 The Enlightenment philosophers are ambivalent:
 
@@ -44,7 +46,7 @@ The Enlightenment philosophers are ambivalent:
 
 The Enlightenment uses Islam as a critical mirror, but begins to construct a narrative of European superiority founded on Reason — a Reason presented as specifically European and Greek.
 
-## Phase 4: The 19th century — complete erasure
+## 4. Phase 4: The 19th century — complete erasure {#s4}
 
 ### Ernest Renan (1823-1892)
 
@@ -66,11 +68,11 @@ Arab mediation disappears. Averroes, Maimonides, al-Khwarizmi are erased from th
 
 This narrative is false. The Islamic world did not merely *preserve* Aristotle — it *commented on*, *criticized*, *developed*, and *synthesized* him with other traditions (Persian, Indian, Chinese). Averroes is not a copyist: he is an original philosopher. Al-Khwarizmi did not "preserve" algebra — he *invented* it.
 
-## Phase 5: Orientalism as a system (19th-20th centuries)
+## 5. Phase 5: Orientalism as a system (19th-20th centuries) {#s5}
 
 Edward Said (*Orientalism*, 1978) analyzes this process: the Orient is constructed by Europe as an object of study, a passive space, a museum — never as an active subject of intellectual history. Napoleon's *Description de l'Egypte* (1809-1829) is the prototype: Europe maps, measures, and classifies the Islamic world as an entomologist classifies insects.
 
-## The link between concealment and colonization
+## 6. The link between concealment and colonization {#s6}
 
 The erasure of the debt is not a simple historiographic error — it is a **political act** that legitimizes colonization:
 
@@ -80,7 +82,7 @@ The erasure of the debt is not a simple historiographic error — it is a **poli
 
 The concealment of Cordoba is the ideological precondition of colonization.
 
-## The ongoing correction
+## 7. The ongoing correction {#s7}
 
 The work of historical restitution — the work of your project — is part of a broader movement:
 - George Saliba (*Islamic Science and the Making of the European Renaissance*, 2007)

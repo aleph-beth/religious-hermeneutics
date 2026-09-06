@@ -4,28 +4,10 @@ lang: fr
 pair: kpr-kfr-histoire
 category: etymology
 dossier: kafir-kippour
-description: "Du bitume akkadien à la théologie arabe classique : généalogie d'une racine plurielle"
+description: "Couche par couche, de l'akkadien au XVIIIe siècle, comment chaque tradition a reçu et redéployé la racine K-P-R sans jamais la réduire à un seul de ses pôles."
 order: 2
+date: 2026-05-09
 ---
-
-# Une histoire des lectures : la racine K-P-R à travers les traditions
-## Du bitume akkadien à la théologie arabe classique — généalogie d'une racine plurielle
-
-## Table des matières
-
-1. [Introduction : lire couche par couche](#s1)
-2. [Strate proto-sémitique et akkadienne](#s2)
-3. [Strate hébraïque biblique](#s3)
-4. [Strate hébraïque rabbinique](#s4)
-5. [Strate néotestamentaire et patristique](#s5)
-6. [Strate arabe pré-islamique](#s6)
-7. [Strate coranique](#s7)
-8. [Strate du *kalām* classique](#s8)
-9. [Strate de la *falsafa*](#s9)
-10. [Strate du soufisme](#s10)
-11. [Strate du *fiqh* classique](#s11)
-12. [Bilan diachronique](#s12)
-13. [Bibliographie](#s13)
 
 ---
 
@@ -41,15 +23,15 @@ Cette donnée est cruciale pour comprendre la rupture moderne, dont l'article 3 
 
 ## 2. Strate proto-sémitique et akkadienne (IIIe-Ier millénaires AEC) {#s2}
 
-### 2.1 Le geste matériel
+### 1 Le geste matériel
 
 En akkadien, la racine *k-p-r* déploie deux verbes liés : *kapāru* (*« essuyer, frotter, purifier rituellement »*) et le substantif *kupru* (*« bitume »*). Les deux sont attestés dès l'akkadien ancien. La pratique est concrète : on enduit, on essuie, on fait disparaître par recouvrement. Le geste est *technique* avant d'être *moral*.
 
-### 2.2 Le geste rituel
+### 2 Le geste rituel
 
 Dès le milieu du IIe millénaire, les textes mésopotamiens attestent un usage rituel de *kapāru* : la *kuppuru*-cérémonie est un rite d'élimination des impuretés par *frottement* et *transfert* sur un substitut animal qu'on jette ensuite hors de la cité (cf. Wright, *The Disposal of Impurity*, 1987). Ce rite mésopotamien est l'antécédent direct du rite hébraïque du bouc émissaire de Lv 16 : on *kapper* sur la tête du bouc *Azaʾzel* et on l'envoie au désert. Le geste rituel hébraïque hérite donc d'un *ritus* mésopotamien plus ancien, avec sa sémantique d'effacement-par-transfert.
 
-### 2.3 Le geste anthropologique
+### 3 Le geste anthropologique
 
 Sur tous les fronts — calfatage de l'arche, expiation rituelle, purification du temple — le geste *kpr* mésopotamien est *positif* : il sauve, il purifie, il fait passer. Aucun pôle péjoratif (*« nier, refuser »*) n'est attesté en akkadien. Cette absence est significative : la racine, à son origine documentée, est un *outil de salut*, pas un mot d'anathème. Le pôle polémique, quand il apparaîtra, sera donc une *spécialisation tardive et localisée*, non une donnée native.
 
@@ -57,23 +39,23 @@ Sur tous les fronts — calfatage de l'arche, expiation rituelle, purification d
 
 ## 3. Strate hébraïque biblique (XIIe-IIIe s. AEC) {#s3}
 
-### 3.1 Le geste matériel demeure
+### 1 Le geste matériel demeure
 
 Genèse 6, 14 reprend l'akkadien sans rupture : *« kafarta otah ba-kofer »*. Le bitume sauve l'arche.
 
-### 3.2 Le geste rituel central
+### 2 Le geste rituel central
 
 La grande innovation hébraïque est de faire de *kpr* l'opérateur central du système sacrificiel sacerdotal. Lévitique 1-7, 16, 17 articulent toute la liturgie expiatoire autour du verbe *kipper*. Le sang versé sur l'autel ou aspergé sur la *kapporet* (Lv 16, 14) accomplit le *kpr*. Le système suppose une *physique du sacré* : la faute laisse une trace matérielle qui contamine le sanctuaire ; il faut une couche (le sang, le couvercle d'or) qui *interpose* entre la trace et le regard divin.
 
-### 3.3 Le sens de rançon
+### 3 Le sens de rançon
 
 Exode 21, 30 ; 30, 12 ; Nombres 35, 31-32 — le *kofer* est la rançon, ce qu'on paie pour qu'une vie ne soit pas réclamée. Le *kpr* juridique partage la même grammaire : interposer un substitut.
 
-### 3.4 L'absence quasi totale du sens « renier »
+### 4 L'absence quasi totale du sens « renier »
 
 En hébreu biblique, le pôle « nier » est marginal. Les rares occurrences (Job 31, 28 ; Proverbes 30, 9 ?) sont contestées philologiquement. **La racine en hébreu biblique est *quasi univoque positive*** : elle dit le geste salvateur, expiatoire, juridique, technique. Cette donnée est essentielle : la grande matrice sémitique du *kpr* est, à son origine biblique, *un mot de salut*.
 
-### 3.5 Le geste agraire
+### 5 Le geste agraire
 
 Bien que le verbe *kpr* hébreu ne s'emploie pas pour le semis, le geste agraire de *recouvrir la graine* est sémantiquement proche et culturellement central : Gn 26, 12 (Isaac semeur béni), Ps 126 (« qui sème dans les larmes »), Os 10, 12. Il prépare l'évangile du sémeur et le *kāfir*-paysan de Q 57, 20.
 
@@ -81,29 +63,29 @@ Bien que le verbe *kpr* hébreu ne s'emploie pas pour le semis, le geste agraire
 
 ## 4. Strate hébraïque rabbinique (Ier-Xe s. EC) {#s4}
 
-### 4.1 La centralité de Yom Kippour
+### 1 La centralité de Yom Kippour
 
 Après la destruction du Temple en 70 EC, le système expiatoire matériel disparaît, mais la racine *kpr* devient *plus* centrale, non moins. Le traité *Mishna Yoma* (c. 200 EC) consacre cinq de ses huit chapitres au rituel de *Yom ha-Kippurim*. L'idée tannaïtique forte : *« la mort et le Yom Kippour expient (mekapprim) avec le repentir »* (Mishna Yoma 8, 8). Le *kipper* devient l'opérateur central de la sotériologie juive.
 
-### 4.2 *Sifra Aḥarei Mot*
+### 2 *Sifra Aḥarei Mot*
 
 Ce commentaire halakhique tannaïtique sur Lévitique 16 articule explicitement la triade *teshuvah / yom ha-kippurim / yissurim* (repentir / Yom Kippour / souffrances) comme structure du *kpr* post-Temple. La sotériologie rabbinique pose le *kpr* comme un dispositif tripartite : l'effacement de la faute requiert le repentir de l'homme, le don d'un temps liturgique, et l'épreuve.
 
-### 4.3 Talmud Bavli, Yoma 35b-87b
+### 3 Talmud Bavli, Yoma 35b-87b
 
 Le développement amoraïque sur le *kpr* est immense. L'aphorisme de R. Yehouda ha-Nasi (Yoma 85b) est emblématique : *« Yom Kippour expie [mekapper] les fautes entre l'homme et Dieu, mais pas celles entre l'homme et son prochain, jusqu'à ce qu'il l'apaise. »* **Le *kpr* est limité par la justice horizontale ; il n'est jamais un sceau magique.** Cette limitation, fondamentale, est l'un des plus puissants garde-fous éthiques de la tradition rabbinique : aucun rite n'efface la faute commise contre un autre humain sans la réparation envers cet humain.
 
-### 4.4 L'émergence tardive du sens « renier »
+### 4 L'émergence tardive du sens « renier »
 
 Sanhédrin 99a introduit la catégorie du *kofer ba-ʿiqqar* (*« qui nie le principe »*) — c'est le sens péjoratif de la racine, mais il apparaît tardivement et reste marginal dans la halakha. Il ne désigne pas un musulman ou un chrétien (le terme s'applique d'abord à des juifs hérétiques) et il ne fonde aucune procédure d'anathème étendu : le *kofer ba-ʿiqqar* perd son rang de *garant talmudique*, mais reste un humain à respecter dans son intégrité. L'hébreu rabbinique préserve donc une distinction essentielle : *kofer* peut désigner une position théologique problématique, sans légitimer pour autant la violence contre la personne.
 
-### 4.5 Lectures midrashiques
+### 5 Lectures midrashiques
 
 *Pirqei de Rabbi Eliezer* 23 (recension géonique, IXe siècle) explicite la lecture midrashique du *kofer* de Noé comme préfiguration de la rédemption d'Israël. Le bitume devient figure de la Torah qui *protège* la communauté de la submersion.
 
 *Bereshit Rabba* 31, 8 propose une lecture paradoxale : *« Pourquoi le bitume ? Parce que la génération de Noé devait être lavée comme on lave la poix dans l'eau. »* Le *kofer* est ici lu comme partition entre dedans et dehors : il *protège* l'arche pour permettre la *destruction* extérieure. Recouvrement comme tri.
 
-### 4.6 Le mot et la lettre
+### 6 Le mot et la lettre
 
 La spéculation sur la lettre *kaf* (כ) — palme ouverte, paume qui *recouvre* — apparaît dans les *Otiyot de Rabbi Akiva* et dans le *Zohar* (II, 152a). Le *kaf* est la lettre de la *kapporet* et de la prière (paumes ouvertes vers le haut). Le geste de bénédiction sacerdotale (*Birkat Kohanim*) est lui-même une opération *kpr*.
 
@@ -111,21 +93,21 @@ La spéculation sur la lettre *kaf* (כ) — palme ouverte, paume qui *recouvre*
 
 ## 5. Strate néotestamentaire et patristique (Ier-Ve s. EC) {#s5}
 
-### 5.1 La translation paulinienne décisive
+### 1 La translation paulinienne décisive
 
 Romains 3, 25 : *« ὃν προέθετο ὁ θεὸς ἱλαστήριον »* — *« que Dieu a destiné comme propitiatoire (*hilastērion*) »*. Le mot ἱλαστήριον est *exactement* la traduction LXX de *kapporet*. Paul opère donc une *translation christologique* du *kapporet* sur le corps du Christ. Le sang du Christ devient ce que le sang du taureau et du bouc faisaient sur la *kapporet* : le geste *kpr* central, mais désormais accompli une fois pour toutes.
 
 Hébreux 9, 5-12 redouble cette translation : le sanctuaire céleste, le sang offert, l'expiation accomplie. *Hilastērion* y revient explicitement (9, 5).
 
-### 5.2 Synoptiques et johannique
+### 2 Synoptiques et johannique
 
 Comme l'article 1 l'a établi, le geste agraire du recouvrement-pour-la-levée est christologisé en Jean 12, 24 ; le sémeur de la parabole synoptique reprend Gn 26, 12 ; Joseph d'Arimathie opère le *kpr* du tombeau-sillon. La sotériologie johannique fait du Christ *la graine* qui doit être enfouie pour porter du fruit.
 
-### 5.3 Pères grecs
+### 3 Pères grecs
 
 Irénée (*Adversus Haereses* III, 18-19), Athanase (*De Incarnatione*), Cyrille d'Alexandrie (*Glaphyra in Levit.*) développent la lecture typologique : *le *kapporet* préfigure le Christ-propitiatoire*. La tradition latine (Tertullien, *Adv. Marc.* IV ; Augustin, *De civ. Dei* X) reprend le motif. Origène, dans ses *Homélies sur le Lévitique* IX, lit Lv 16 comme *« sacrement caché du salut »* (*sacramentum reconditum*) — le *kpr* hébraïque comme « voile » sous lequel se laisse pressentir le Christ. Procédé typologique parfaitement rabbinique dans sa structure.
 
-### 5.4 Éphrem le Syrien
+### 4 Éphrem le Syrien
 
 Éphrem (IVe s.), dans ses *Memre* sur la Pâque et ses *Hymnes sur la Crucifixion*, est un médiateur clé entre la lecture juive et la lecture chrétienne du *kpr*. Il fonctionne en syriaque, où la racine *kpr* conserve les pôles *« expier »* (*kappar*) et *« nier »* (*kpar*). Le syriaque est par ailleurs la langue de transmission probable vers l'Arabie tardo-antique (Witztum 2011, *Syriac Milieu*).
 
@@ -147,23 +129,23 @@ L'article 1 a déjà établi le sens neutre-positif dominant de la racine *k-f-r
 
 ## 7. Strate coranique (610-650 EC) {#s7}
 
-### 7.1 Mecque ancienne : le couple *shukr / kufr*
+### 1 Mecque ancienne : le couple *shukr / kufr*
 
 À la Mecque ancienne, la racine garde sa polarité originelle. Le couple décisif est *shukr / kufr* (Q 14, 7 ; 27, 40 ; 76, 3). Le *kāfir* est l'*ingrat*, celui qui *recouvre* le bienfait reçu. C'est encore proche de l'usage pré-islamique : le *kufr* est un défaut anthropologique, pas une catégorie ontologique.
 
-### 7.2 Mecque moyenne et tardive : élargissement du champ
+### 2 Mecque moyenne et tardive : élargissement du champ
 
 Le *kufr* s'étend à *kufr bi-l-āyāt* (couvrir les signes, Q 6, 27 ; 6, 33), *kufr bi-l-ākhira* (nier l'au-delà), *kufr bi-l-rabb* (nier le Seigneur). La constellation *khatm / ghishāwa / labbasa / katama* se cristallise (Q 2, 7 ; 2, 42).
 
-### 7.3 Médine : la polémique politique
+### 3 Médine : la polémique politique
 
 Les *kuffār* deviennent les Mecquois opposés, les juifs et chrétiens qui refusent la prophétie, les hypocrites (*munāfiqūn*). C'est ici que l'usage devient massif et polémique. Mais — fait crucial — *même à Médine, le pôle expiatoire est conservé et amplifié* : Q 5, 65 ; 8, 29 ; 64, 9 ; 4, 31 emploient *yukaffir* pour dire que *Dieu* couvre les péchés.
 
-### 7.4 La survivance philologique : Q 57, 20
+### 4 La survivance philologique : Q 57, 20
 
 Au beau milieu d'une sourate médinoise tardive (al-Ḥadīd), le Coran utilise *al-kuffār* dans son sens archaïque agricole. Tabarī, Zamakhsharī, Rāzī sont unanimes : ici *al-kuffār* = *al-zurrāʿ*. Aucun lecteur classique ne s'y est trompé. Cette occurrence atteste que, dans le cadre conceptuel coranique lui-même, le mot peut encore signifier le paysan-recouvreur.
 
-### 7.5 Conclusion sur la strate coranique
+### 5 Conclusion sur la strate coranique
 
 Le Coran *opère* la polarisation polémique mais ne l'achève pas. Il préserve la dialectique sémitique : *kufr* humain négatif, *takfīr* divin positif, *kāfir* archaïque agricole. Le mot reste *triple* dans le canon. **C'est l'usage *post-coranique* qui réduira ce triple à un seul pôle.**
 
@@ -173,19 +155,19 @@ Le Coran *opère* la polarisation polémique mais ne l'achève pas. Il préserve
 
 Le statut théologique du *kāfir* devient l'enjeu central des premières controverses islamiques. Quatre positions principales se constituent.
 
-### 8.1 Khārijites (à partir de la *fitna* de 656)
+### 1 Khārijites (à partir de la *fitna* de 656)
 
 Position extrémiste : tout musulman qui commet un grand péché (*kabīra*) est *kāfir* et donc à exclure de la communauté. Le *takfīr* est *facile et étendu*. Les Khārijites pratiquent l'anathème inter-musulman et la guerre civile. **Position numériquement minoritaire mais matrice de tous les retours ultérieurs au *takfīr* étendu.**
 
-### 8.2 Murjiʾa (fin du Ier siècle hégire)
+### 2 Murjiʾa (fin du Ier siècle hégire)
 
 Position opposée : seul Dieu juge ; on *suspend* (*irjāʾ*) le jugement sur les pécheurs musulmans ; tant qu'on professe la *shahāda*, on est *muʾmin*. Le *takfīr* est *quasi impossible*. Position dominante chez les premiers fuqahāʾ de Kufa et de Médine, héritée par l'école hanafite. **La Murjiʾa est la grande gardienne de la retenue théologique.**
 
-### 8.3 Muʿtazila (IXe s., Bagdad et Bassora)
+### 3 Muʿtazila (IXe s., Bagdad et Bassora)
 
 Position médiane : le grand pécheur est *fāsiq* (transgresseur) — ni *muʾmin* ni *kāfir* —, dans une *manzila bayna al-manzilatayn* (*« position entre les deux positions »*). Le *takfīr* est strictement balisé. La *raison* (*ʿaql*) prime dans l'établissement du statut. Influence déterminante sur l'école shīʿite imamite et zaydite.
 
-### 8.4 Ahl al-Sunna et l'Ashʿariyya
+### 4 Ahl al-Sunna et l'Ashʿariyya
 
 À partir d'Ashʿarī (m. 935), position de synthèse : la foi est principalement *taṣdīq* (assentiment intérieur) et *iqrār* (confession verbale) ; les œuvres en sont la conséquence mais non la condition stricte. Le *kufr* est *l'absence de taṣdīq*, non le simple manquement éthique. **Le *takfīr* est donc difficile à établir et doit être évité.** Cette position devient majoritaire dans le sunnisme classique.
 
@@ -195,7 +177,7 @@ Ghazālī (m. 1111), dans son *Faysal al-tafriqa bayna al-īmān wa-l-zandaqa*, 
 
 Cette règle de retenue, articulée à partir d'un hadith prophétique (*« Quiconque déclare kāfir un musulman, et l'accusation est fausse, l'accusation retombe sur lui »*), est l'un des principes structurants du sunnisme classique. Elle fait de l'accusation de *kufr* contre un musulman un *risque théologique pour l'accusateur lui-même*.
 
-### 8.5 Conclusion sur le *kalām*
+### 5 Conclusion sur le *kalām*
 
 La théologie sunnite et shīʿite classiques sont *quasi unanimes* sur la difficulté du *takfīr*. Le maximalisme khārijite est explicitement rejeté. L'attitude dominante est la *réticence* : le *kufr* est une catégorie réelle mais *réservée* à des cas extrêmes et bien établis. **Le *takfīr* extensif est l'exception ; la retenue est la règle.**
 
@@ -203,19 +185,19 @@ La théologie sunnite et shīʿite classiques sont *quasi unanimes* sur la diffi
 
 ## 9. Strate de la *falsafa* (IXe-XIIe s.) {#s9}
 
-### 9.1 Avicenne
+### 1 Avicenne
 
 Ibn Sīnā (m. 1037), dans son *Shifāʾ* et son *Najāt*, distingue trois niveaux de discours sur Dieu : démonstratif (philosophie), dialectique (théologie), rhétorique-imaginatif (prophétie pour les masses). Le *kufr* devient une catégorie *relative* à un niveau de discours : ce qui est *kufr* dans un registre peut être *vérité* dans un autre. Position délicate, qui nourrit l'accusation de *« taʾwīl »* (interprétation allégorique infinie).
 
-### 9.2 Averroès
+### 2 Averroès
 
 Ibn Rushd (m. 1198), dans son *Faṣl al-Maqāl*, défend explicitement que *le philosophe lecteur du Coran allégoriquement n'est pas *kāfir**, parce qu'il se conforme à un *autre* régime de vérité, également islamique. L'accusation de *kufr* contre la philosophie (lancée par Ghazālī dans le *Tahāfut al-falāsifa*) est récusée. Averroès est lui-même accusé de *kufr* à la fin de sa vie et exilé. Son *Tahāfut al-tahāfut* est une défense systématique : *le philosophe est mu'min selon une grammaire plus profonde du tasdīq*.
 
-### 9.3 Maïmonide
+### 3 Maïmonide
 
 Mūsā ibn Maymūn (m. 1204), dans son *Guide des Égarés* I, 50 et III, 27-28, opère pour le judaïsme la même opération qu'Averroès pour l'islam : *le philosophe lecteur de la Torah allégoriquement n'est pas *kofer**. Il distingue *opinions vraies* (philosophiquement démontrées) et *opinions nécessaires* (politiquement utiles aux masses).
 
-### 9.4 Ce que cela montre
+### 4 Ce que cela montre
 
 La *falsafa* élabore une lecture *plurielle* de la racine. Elle refuse d'absolutiser le *takfīr*. Pour les philosophes, le *kufr* théologique brut est une catégorie *populaire*, qui ne dit pas la profondeur de la foi. La position est délicate, parfois elle-même accusée de *kufr*, mais elle persiste comme courant minoritaire mais influent dans le monde islamique médiéval.
 
@@ -223,19 +205,19 @@ La *falsafa* élabore une lecture *plurielle* de la racine. Elle refuse d'absolu
 
 ## 10. Strate du soufisme (IXe-XVIIIe s.) {#s10}
 
-### 10.1 Le retournement mystique
+### 1 Le retournement mystique
 
 Le soufisme classique opère un déplacement remarquable : il prend au sérieux la dialectique sémitique du recouvrement et la met *au service de la foi*, non contre elle.
 
-### 10.2 Junayd al-Baghdādī
+### 2 Junayd al-Baghdādī
 
 Junayd (m. 910) distingue *al-kāfir* théologique (qui couvre la vérité par ignorance) et le *kāfir* mystique (qui *couvre* l'ego pour faire transparaître Dieu). Dans certains *Rasāʾil*, le soufi est paradoxalement *kāfir* aux yeux du monde parce qu'il a *couvert* sa propre individualité. Inversion mystique du sens.
 
-### 10.3 al-Ḥallāj
+### 3 al-Ḥallāj
 
 Ḥusayn ibn Manṣūr al-Ḥallāj (m. 922) est célèbre pour son *« anā al-Ḥaqq »* (*« je suis la Vérité »*), proclamation pour laquelle il fut exécuté pour *kufr*. Mais ses propres écrits (*Kitāb al-Ṭawāsīn*) opèrent une lecture vertigineuse où *Iblīs* (Satan) est paradoxalement le plus grand *muwaḥḥid* (unitaire) parce qu'il refuse de prosterner devant Adam (Q 2, 34) — refus qu'il interprète comme fidélité à l'unicité absolue de Dieu. Lecture qui retourne le *kufr* en *īmān* radical. Massignon, *La Passion de Hallāj* (1922, rééd. 1975), reste la référence.
 
-### 10.4 Ibn ʿArabī
+### 4 Ibn ʿArabī
 
 Muḥyī al-Dīn Ibn ʿArabī (m. 1240), dans ses *Futūḥāt Makkiyya* II, 65 et son *Fuṣūṣ al-Ḥikam*, élabore la doctrine du *taʿdād al-ʿuqūd* :
 
@@ -243,11 +225,11 @@ Muḥyī al-Dīn Ibn ʿArabī (m. 1240), dans ses *Futūḥāt Makkiyya* II, 65 
 
 Le *kāfir* total, dans cette grammaire, est celui qui *réduit* Dieu à une seule forme — geste qui *recouvre* la transcendance divine. **Inversion : le *takfīr* extensif est lui-même un *kufr*.**
 
-### 10.5 Rūmī
+### 5 Rūmī
 
 Jalāl al-Dīn Rūmī (m. 1273), dans son *Mathnawī* III, 4719-4724, propose un célèbre passage sur le berger et Moïse : Moïse réprimande un berger qui parle à Dieu en termes naïfs (*« Tu es mes pieds, mes mains, je laverai tes vêtements »*) ; Dieu rabroue Moïse : *« tu as séparé un de mes serviteurs de moi »*. La diversité des voies n'est pas *kufr* ; le *vrai kufr* est le sectarisme qui prétend posséder Dieu.
 
-### 10.6 Ibn Taymiyya — le tournant inverse
+### 6 Ibn Taymiyya — le tournant inverse
 
 Ibn Taymiyya (m. 1328) marque le tournant qui sera analysé en détail dans l'article 3. C'est lui qui réintroduit avec vigueur le *takfīr* étendu, contre Ibn ʿArabī et le soufisme spéculatif, et qui pose les bases doctrinales que reprendra le wahhabisme du XVIIIe siècle. **La rupture est interne à la tradition islamique elle-même.** Le présent article s'arrête à son seuil.
 

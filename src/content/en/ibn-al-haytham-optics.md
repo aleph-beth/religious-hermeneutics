@@ -4,15 +4,17 @@ lang: en
 pair: ibn-al-haytham-optics
 category: philosophy
 dossier: cordoue-lumieres
-description: "The experimental method is born around 1020 with Alhazen, six centuries before Francis Bacon"
+description: "Around 1020, Ibn al-Haytham's Book of Optics founds the experimental method; translated into Latin, it feeds Roger Bacon, Kepler and Newton six centuries before Francis Bacon."
 order: 6
+date: 2026-08-28
 ---
+
 **Type**: Strategic analysis — scientific transfer
 **Thesis**: The experimental method — what Europe calls "science" — is not born with Galileo or Bacon. It is born with **Ibn al-Haytham** (Alhazen, 965-1040), whose *Kitab al-Manazir* (Book of Optics) is the first work to systematize controlled experimentation, hypothesis formulation, and empirical verification. Translated into Latin under the title *De Aspectibus*, it is the most influential scientific text of the Middle Ages — and the direct source of Roger Bacon, Kepler, and Newton.
 
 ---
 
-## Ibn al-Haytham (Alhazen, 965-1040)
+## 1. Ibn al-Haytham (Alhazen, 965-1040) {#s1}
 
 | | Detail |
 |---|---|
@@ -25,9 +27,9 @@ order: 6
 
 Although Ibn al-Haytham is not from Cordoba, he fully belongs to the system of Islamic knowledge transmission to Europe via Toledo and Italy — the same channel as the Cordoban works.
 
-## The three revolutions of Ibn al-Haytham
+## 2. The three revolutions of Ibn al-Haytham {#s2}
 
-### 1. Vision: from emission to reception
+### Vision: from emission to reception
 
 **Before Ibn al-Haytham**: two theories had been in conflict since antiquity:
 - **Emission theory** (Euclid, Ptolemy): the eye emits rays that "touch" objects
@@ -37,7 +39,7 @@ Although Ibn al-Haytham is not from Cordoba, he fully belongs to the system of I
 
 He proves it through the experiment of the **camera obscura** (*camera obscura*): light entering through a hole in a dark room projects an inverted image — proof that light travels in straight lines from the object.
 
-### 2. The experimental method
+### The experimental method
 
 This is the deepest revolution. Ibn al-Haytham explicitly establishes a method:
 
@@ -57,11 +59,11 @@ His formulation in the *Kitab al-Manazir*:
 
 This text — written around 1020 — is the manifesto of the modern scientific method, six centuries before Francis Bacon (*Novum Organum*, 1620).
 
-### 3. The mathematization of reality
+### The mathematization of reality
 
 Ibn al-Haytham does not merely observe: he **measures** and **calculates**. His optical experiments are accompanied by rigorous geometric demonstrations. He systematically applies mathematics to physics — what Galileo will do five centuries later in mechanics.
 
-## The chain of transmission
+## 3. The chain of transmission {#s3}
 
 ```
 Ibn al-Haytham (Cairo, ~1020)
@@ -77,7 +79,7 @@ Ibn al-Haytham (Cairo, ~1020)
                                         -> Newton (1704): Opticks — final synthesis
 ```
 
-## Roger Bacon: the intermediary
+## 4. Roger Bacon: the intermediary {#s4}
 
 Roger Bacon (1214-1294), Franciscan friar at Oxford, is the principal European heir of Ibn al-Haytham. In his *Opus Majus* (1267), he:
 
@@ -88,7 +90,7 @@ Roger Bacon (1214-1294), Franciscan friar at Oxford, is the principal European h
 
 The irony: Roger Bacon is often presented as the "father of the experimental method in Europe" — but he himself acknowledges that his method comes from Alhazen. The later erasure of this acknowledgment is a classic case of debt concealment.
 
-## Optics and perspective: from science to art
+## 5. Optics and perspective: from science to art {#s5}
 
 The transmission does not stop at science. The optics of Ibn al-Haytham — via Bacon, Witelo, and Peckham — founds the **perspective** of the Renaissance:
 
@@ -101,21 +103,21 @@ The transmission does not stop at science. The optics of Ibn al-Haytham — via 
 
 **Perspective** — what Europe considers the supreme artistic conquest of the Renaissance — rests on an Arab optical theory.
 
-## Alhazen's problem
+## 6. Alhazen's problem {#s6}
 
 "Alhazen's problem" (finding the point of reflection on a spherical mirror given the positions of the source and observer) is a mathematical problem that would not be completely solved until the 21st century. It testifies to the level of mathematical sophistication of Ibn al-Haytham — a level that Europe would not reach until several centuries later.
 
-## The colonial irony
+## 7. The colonial irony {#s7}
 
 When European powers colonize the Muslim world in the 19th century, they justify their domination by their "scientific superiority" — a science founded on the experimental method. Yet this method is first formulated by a Muslim scholar.
 
 The science that Europe brandishes as proof of its civilizational superiority is itself a heritage of the world it claims to civilize. Ernest Renan (1883) declares that "science is an entirely European thing" — erasing in one stroke the debt to Alhazen, al-Khwarizmi, al-Biruni, and hundreds of others.
 
-## The thesis in three sentences
+## 8. The thesis in three sentences {#s8}
 
 Ibn al-Haytham invents the modern experimental method around 1020 — six centuries before Francis Bacon "rediscovers" it. His optics, transmitted via Toledo, structures European science and art from Roger Bacon to Newton, from Ghiberti to Leonardo da Vinci. The European "Scientific Revolution" is not a genesis: it is an inheritance.
 
-## Cross-references
+## 9. Cross-references {#s9}
 
 - Philosophy: [Averroes and Maimonides — The philosophy of Cordoba as the foundation of the European Enlightenment](../averroes-maimonides/)
 - Gunpowder: Gunpowder turned against its makers — From Hasan al-Rammah to colonial cannons

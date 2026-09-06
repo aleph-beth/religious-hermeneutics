@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { dossiers, categoryBadges, readingTime } from '../../data/dossiers';
 
 export async function getStaticPaths() {
   const enArticles = await getCollection('en');
@@ -15,37 +16,44 @@ const { pair } = Astro.props;
 const enArticles = await getCollection('en');
 const frArticles = await getCollection('fr');
 
-// Sort by order or pair
-const sortedEnArticles = [...enArticles].sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
-
-const currentIndex = sortedEnArticles.findIndex(a => a.data.pair === pair);
-const prevEn = currentIndex > 0 ? sortedEnArticles[currentIndex - 1] : null;
-const nextEn = currentIndex < sortedEnArticles.length - 1 ? sortedEnArticles[currentIndex + 1] : null;
-
-const prevFr = prevEn ? frArticles.find(a => a.data.pair === prevEn.data.pair) : null;
-const nextFr = nextEn ? frArticles.find(a => a.data.pair === nextEn.data.pair) : null;
-
 const enArticle = enArticles.find(a => a.data.pair === pair)!;
 const frArticle = frArticles.find(a => a.data.pair === pair)!;
+const frOf = (a: typeof enArticle) => frArticles.find(f => f.data.pair === a.data.pair);
 
+// ---- Navigation context: inside a dossier, or among standalone essays of the same category
+const dossierId = enArticle.data.dossier;
+const dossierMeta = dossierId ? dossiers[dossierId] : null;
+
+const siblings = dossierId
+  ? enArticles
+      .filter(a => a.data.dossier === dossierId)
+      .sort((a, b) => (a.data.order || 0) - (b.data.order || 0))
+  : enArticles
+      .filter(a => !a.data.dossier && a.data.category === enArticle.data.category)
+      .sort((a, b) => (a.data.date || '').localeCompare(b.data.date || ''));
+
+const position = siblings.findIndex(a => a.data.pair === pair);
+const prevEn = position > 0 ? siblings[position - 1] : null;
+const nextEn = position >= 0 && position < siblings.length - 1 ? siblings[position + 1] : null;
+const prevFr = prevEn ? frOf(prevEn) : null;
+const nextFr = nextEn ? frOf(nextEn) : null;
+
+// ---- Rendering and table of contents (H2 only)
 const { Content: EnContent, headings: enHeadings } = await render(enArticle);
 const { Content: FrContent, headings: frHeadings } = await render(frArticle);
+const enToc = enHeadings.filter(h => h.depth === 2);
+const frToc = frHeadings.filter(h => h.depth === 2);
 
-function getReadingTime(bodyText: string): number {
-  if (!bodyText) return 5;
-  const wordCount = bodyText.replace(/<[^>]*>/g, '').trim().split(/\s+/).length;
-  return Math.max(2, Math.ceil(wordCount / 220));
+const readingTimeEn = readingTime(enArticle.body);
+const readingTimeFr = readingTime(frArticle.body);
+
+function formatDate(iso: string | undefined, locale: string) {
+  if (!iso) return '';
+  const [y, m] = iso.split('-').map(Number);
+  return new Intl.DateTimeFormat(locale, { month: 'long', year: 'numeric' }).format(new Date(y, m - 1, 1));
 }
-
-const readingTimeEn = getReadingTime(enArticle.body || '');
-const readingTimeFr = getReadingTime(frArticle.body || '');
-
-const categoryBadges: Record<string, { labelEn: string; labelFr: string; badgeClass: string }> = {
-  hermeneutics: { labelEn: 'Hermeneutics', labelFr: 'Herméneutique', badgeClass: 'badge-hermeneutics' },
-  etymology: { labelEn: 'Etymology', labelFr: 'Étymologie', badgeClass: 'badge-etymology' },
-  philosophy: { labelEn: 'Philosophy & History', labelFr: 'Philosophie & Histoire', badgeClass: 'badge-philosophy' },
-  cultural: { labelEn: 'Cultural Analysis', labelFr: 'Analyse culturelle', badgeClass: 'badge-cultural' },
-};
+const dateEn = formatDate(enArticle.data.date, 'en-GB');
+const dateFr = formatDate(enArticle.data.date, 'fr-FR');
 
 const catInfo = categoryBadges[enArticle.data.category] || { labelEn: 'Essay', labelFr: 'Essai', badgeClass: 'badge-hermeneutics' };
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
@@ -55,21 +63,28 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
   <div class="article-layout container-article">
     <!-- Top Reading Toolbar -->
     <nav class="reading-toolbar">
-      <a href={base} class="back-home-btn">
+      <a href={dossierId ? `${base}dossiers/${dossierId}/` : base} class="back-home-btn">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-        <span data-lang="en" class="active">All essays</span>
-        <span data-lang="fr">Tous les essais</span>
+        {dossierId ? (
+          <>
+            <span data-lang="en" class="active">Back to the dossier</span>
+            <span data-lang="fr">Retour au dossier</span>
+          </>
+        ) : (
+          <>
+            <span data-lang="en" class="active">All essays</span>
+            <span data-lang="fr">Tous les essais</span>
+          </>
+        )}
       </a>
 
       <div class="toolbar-actions">
-        <!-- Reading Font Size Controls -->
         <div class="font-scaler">
           <button type="button" id="font-decrease" class="scale-btn" aria-label="Réduire la taille du texte">A-</button>
           <span id="font-scale-indicator" class="scale-indicator">100%</span>
           <button type="button" id="font-increase" class="scale-btn" aria-label="Agrandir la taille du texte">A+</button>
         </div>
 
-        <!-- Share / Copy Link -->
         <button type="button" id="share-btn" class="share-btn" aria-label="Copier le lien">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
           <span id="share-text" data-lang="en" class="active">Copy link</span>
@@ -78,7 +93,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       </div>
     </nav>
 
-    <!-- Main Article Header -->
+    <!-- Article Header -->
     <header class="article-header">
       <div class="header-meta-row">
         <span class={`badge ${catInfo.badgeClass}`}>
@@ -86,18 +101,34 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
           <span data-lang="fr">{catInfo.labelFr}</span>
         </span>
 
-        {enArticle.data.dossier && (
-          <span class="badge badge-dossier">
-            <span data-lang="en" class="active">Dossier</span>
-            <span data-lang="fr">Dossier</span>
-          </span>
+        {dossierId && dossierMeta && (
+          <a href={`${base}dossiers/${dossierId}/`} class="badge badge-dossier badge-link">
+            <span data-lang="en" class="active">Dossier · Part {position + 1} of {siblings.length}</span>
+            <span data-lang="fr">Dossier · Volet {position + 1} sur {siblings.length}</span>
+          </a>
         )}
 
         <span class="meta-item">
           ⏱ <span data-lang="en" class="active">{readingTimeEn} min read</span>
           <span data-lang="fr">{readingTimeFr} min de lecture</span>
         </span>
+
+        {dateEn && (
+          <span class="meta-item">
+            <span data-lang="en" class="active">{dateEn}</span>
+            <span data-lang="fr">{dateFr}</span>
+          </span>
+        )}
       </div>
+
+      {dossierId && dossierMeta && (
+        <p class="dossier-context">
+          <a href={`${base}dossiers/${dossierId}/`}>
+            <span data-lang="en" class="active">{dossierMeta.titleEn}</span>
+            <span data-lang="fr">{dossierMeta.titleFr}</span>
+          </a>
+        </p>
+      )}
 
       <h1 class="article-title">
         <span data-lang="en" class="active">{enArticle.data.title}</span>
@@ -110,9 +141,30 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       </p>
     </header>
 
-    <!-- Article Content Grid with Table of Contents -->
+    <!-- Body grid: table of contents + text -->
     <div class="article-body-grid">
-      <!-- Article Main Body -->
+      <aside class="article-toc-aside">
+        <details class="article-toc" id="article-toc" open>
+          <summary>
+            <span data-lang="en" class="active">Contents</span>
+            <span data-lang="fr">Sommaire</span>
+            <span class="toc-count">{enToc.length}</span>
+          </summary>
+          <nav aria-label="Table of contents">
+            <ol data-lang="en" class="active toc-list">
+              {enToc.map(h => (
+                <li><a href={`#${h.slug}`} data-target={h.slug}>{h.text}</a></li>
+              ))}
+            </ol>
+            <ol data-lang="fr" class="toc-list">
+              {frToc.map(h => (
+                <li><a href={`#${h.slug}`} data-target={h.slug}>{h.text}</a></li>
+              ))}
+            </ol>
+          </nav>
+        </details>
+      </aside>
+
       <main class="article-main" id="article-main-body">
         <div data-lang="en" class="active article-content">
           <EnContent />
@@ -123,14 +175,14 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       </main>
     </div>
 
-    <!-- Article Pagination Navigation Footer -->
+    <!-- Pagination -->
     <footer class="article-footer-nav">
       <div class="pagination-grid">
         {prevEn ? (
           <a href={`${base}articles/${prevEn.data.pair}/`} class="pagination-card prev-card">
             <span class="pagination-label">
-              ← <span data-lang="en" class="active">Previous essay</span>
-              <span data-lang="fr">Essai précédent</span>
+              ← <span data-lang="en" class="active">{dossierId ? 'Previous part' : 'Previous essay'}</span>
+              <span data-lang="fr">{dossierId ? 'Volet précédent' : 'Essai précédent'}</span>
             </span>
             <span class="pagination-title">
               <span data-lang="en" class="active">{prevEn.data.title}</span>
@@ -142,8 +194,8 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         {nextEn ? (
           <a href={`${base}articles/${nextEn.data.pair}/`} class="pagination-card next-card">
             <span class="pagination-label">
-              <span data-lang="en" class="active">Next essay</span>
-              <span data-lang="fr">Essai suivant</span> →
+              <span data-lang="en" class="active">{dossierId ? 'Next part' : 'Next essay'}</span>
+              <span data-lang="fr">{dossierId ? 'Volet suivant' : 'Essai suivant'}</span> →
             </span>
             <span class="pagination-title">
               <span data-lang="en" class="active">{nextEn.data.title}</span>
@@ -166,77 +218,96 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
 
 <script>
   function initArticlePage() {
-    // Smooth scrolling for TOC and anchor links
-    document.querySelectorAll('.article-content a[href^="#"]').forEach(link => {
+    const header = document.querySelector('.site-header');
+    const headerOffset = () => (header ? header.getBoundingClientRect().height + 24 : 80);
+
+    // Anchor links (table of contents and in-text) scroll within the active language block
+    document.querySelectorAll('.article-toc a[href^="#"], .article-content a[href^="#"]').forEach(link => {
       link.addEventListener('click', (e) => {
         const hash = link.getAttribute('href');
         if (!hash || hash === '#') return;
         const id = hash.slice(1);
-
         const activeContent = document.querySelector('.article-content.active');
         if (!activeContent) return;
-
         const target = activeContent.querySelector(`#${CSS.escape(id)}`);
         if (target) {
           e.preventDefault();
-          const header = document.querySelector('.site-header');
-          const offset = header ? header.getBoundingClientRect().height + 24 : 80;
-          const top = target.getBoundingClientRect().top + window.scrollY - offset;
+          const top = target.getBoundingClientRect().top + window.scrollY - headerOffset();
           window.scrollTo({ top, behavior: 'smooth' });
+          history.replaceState(null, '', hash);
         }
       });
     });
 
-    // Font Resizer Logic
-    const root = document.documentElement;
+    // Highlight the current section in the table of contents
+    const tocLinks = Array.from(document.querySelectorAll('.article-toc a[data-target]')) as HTMLAnchorElement[];
+    let observer: IntersectionObserver | null = null;
+
+    function observeActiveContent() {
+      observer?.disconnect();
+      const activeContent = document.querySelector('.article-content.active');
+      if (!activeContent || tocLinks.length === 0) return;
+      const sections = Array.from(activeContent.querySelectorAll('h2[id]')) as HTMLElement[];
+      if (sections.length === 0) return;
+
+      const setActive = (id: string) => {
+        tocLinks.forEach(a => a.classList.toggle('active', a.dataset.target === id));
+      };
+
+      observer = new IntersectionObserver(entries => {
+        const visible = entries.filter(en => en.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (visible.length > 0) {
+          setActive((visible[0].target as HTMLElement).id);
+        }
+      }, { rootMargin: `-${headerOffset()}px 0px -60% 0px`, threshold: 0 });
+
+      sections.forEach(s => observer!.observe(s));
+      setActive(sections[0].id);
+    }
+
+    observeActiveContent();
+    document.getElementById('lang-toggle')?.addEventListener('click', () => setTimeout(observeActiveContent, 50));
+
+    // Collapse the table of contents by default on narrow screens
+    const toc = document.getElementById('article-toc') as HTMLDetailsElement | null;
+    if (toc && window.matchMedia('(max-width: 1099px)').matches) {
+      toc.open = false;
+    }
+
+    // Font scaler
     const fontDecrease = document.getElementById('font-decrease');
     const fontIncrease = document.getElementById('font-increase');
     const scaleIndicator = document.getElementById('font-scale-indicator');
-
     let currentScale = parseFloat(localStorage.getItem('midrash-font-scale') || '1.0');
     updateFontScale(currentScale);
 
     fontDecrease?.addEventListener('click', () => {
-      if (currentScale > 0.85) {
-        currentScale -= 0.1;
-        updateFontScale(currentScale);
-      }
+      if (currentScale > 0.85) updateFontScale(currentScale - 0.1);
     });
-
     fontIncrease?.addEventListener('click', () => {
-      if (currentScale < 1.35) {
-        currentScale += 0.1;
-        updateFontScale(currentScale);
-      }
+      if (currentScale < 1.35) updateFontScale(currentScale + 0.1);
     });
 
     function updateFontScale(scale: number) {
       currentScale = Math.round(scale * 10) / 10;
       localStorage.setItem('midrash-font-scale', currentScale.toString());
       if (scaleIndicator) scaleIndicator.textContent = `${Math.round(currentScale * 100)}%`;
-
-      const contents = document.querySelectorAll('.article-content');
-      contents.forEach(c => {
+      document.querySelectorAll('.article-content').forEach(c => {
         (c as HTMLElement).style.fontSize = `${currentScale}rem`;
       });
     }
 
-    // Share / Copy Link Button
+    // Copy link
     const shareBtn = document.getElementById('share-btn');
     shareBtn?.addEventListener('click', async () => {
       try {
         await navigator.clipboard.writeText(window.location.href);
-        const lang = document.documentElement.getAttribute('data-lang') || 'fr';
-        const msg = lang === 'fr' ? 'Lien copié !' : 'Link copied!';
-        const originalFr = document.getElementById('share-text-fr')?.textContent;
-        const originalEn = document.getElementById('share-text')?.textContent;
-
         const frEl = document.getElementById('share-text-fr');
         const enEl = document.getElementById('share-text');
-
+        const originalFr = frEl?.textContent;
+        const originalEn = enEl?.textContent;
         if (frEl) frEl.textContent = 'Lien copié ✓';
         if (enEl) enEl.textContent = 'Copied ✓';
-
         setTimeout(() => {
           if (frEl && originalFr) frEl.textContent = originalFr;
           if (enEl && originalEn) enEl.textContent = originalEn;
@@ -246,9 +317,8 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       }
     });
 
-    // Back to top button
-    const backTopBtn = document.getElementById('back-top-btn');
-    backTopBtn?.addEventListener('click', () => {
+    // Back to top
+    document.getElementById('back-top-btn')?.addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   }
@@ -284,10 +354,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     text-decoration: none;
     transition: color 0.2s ease;
   }
-
-  .back-home-btn:hover {
-    color: var(--accent);
-  }
+  .back-home-btn:hover { color: var(--accent); }
 
   .toolbar-actions {
     display: flex;
@@ -295,7 +362,6 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     gap: 0.85rem;
   }
 
-  /* Font Scaler */
   .font-scaler {
     display: inline-flex;
     align-items: center;
@@ -316,11 +382,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     border-radius: 4px;
     transition: color 0.15s ease, background 0.15s ease;
   }
-
-  .scale-btn:hover {
-    color: var(--text);
-    background: var(--bg-muted);
-  }
+  .scale-btn:hover { color: var(--text); background: var(--bg-muted); }
 
   .scale-indicator {
     padding: 0 0.35rem;
@@ -344,11 +406,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     cursor: pointer;
     transition: all 0.2s ease;
   }
-
-  .share-btn:hover {
-    border-color: var(--text-secondary);
-    color: var(--text);
-  }
+  .share-btn:hover { border-color: var(--text-secondary); color: var(--text); }
 
   /* Article Header */
   .article-header {
@@ -371,6 +429,18 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     font-weight: 500;
   }
 
+  .badge-link { text-decoration: none; }
+  .badge-link:hover { filter: brightness(0.95); }
+
+  .dossier-context {
+    margin: 0 0 var(--space-sm);
+    font-size: 0.9rem;
+    font-family: var(--font-heading);
+    font-style: italic;
+  }
+  .dossier-context a { color: var(--text-secondary); text-decoration: none; }
+  .dossier-context a:hover { color: var(--accent); }
+
   .article-title {
     font-size: 2.5rem;
     font-weight: 700;
@@ -388,26 +458,119 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     margin: 0;
   }
 
+  /* Body grid */
+  .article-body-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+  }
+
+  .article-toc {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: var(--space-sm) var(--space-md);
+    font-size: 0.86rem;
+  }
+
+  .article-toc summary {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    list-style: none;
+    padding: 0.35rem 0;
+  }
+  .article-toc summary::-webkit-details-marker { display: none; }
+  .article-toc summary::after {
+    content: '';
+    margin-left: auto;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(45deg);
+    transition: transform 0.2s ease;
+  }
+  .article-toc[open] summary::after { transform: rotate(-135deg); }
+
+  .toc-count {
+    background: var(--bg-soft);
+    border-radius: 9999px;
+    padding: 0 0.5rem;
+    font-size: 0.7rem;
+  }
+
+  .toc-list {
+    list-style: none;
+    margin: var(--space-xs) 0 var(--space-xs);
+    padding: 0;
+  }
+  .toc-list li { margin: 0; }
+  .toc-list a {
+    display: block;
+    padding: 0.3rem 0.5rem;
+    border-left: 2px solid transparent;
+    color: var(--text-secondary);
+    text-decoration: none;
+    line-height: 1.4;
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+  }
+  .toc-list a:hover { color: var(--text); background: var(--bg-soft); }
+  .toc-list a.active { color: var(--accent); border-left-color: var(--accent); font-weight: 600; }
+
+  /* Wide screens: sticky sidebar on the right of the text */
+  @media (min-width: 1100px) {
+    .article-layout {
+      max-width: calc(var(--max-article) + 16rem + var(--space-xl));
+    }
+    .reading-toolbar,
+    .article-header,
+    .article-footer-nav {
+      max-width: var(--max-article);
+    }
+    .article-body-grid {
+      grid-template-columns: minmax(0, 1fr) 16rem;
+      gap: var(--space-xl);
+      align-items: start;
+    }
+    .article-toc-aside {
+      order: 2;
+      position: sticky;
+      top: calc(var(--header-height) + var(--space-md));
+      max-height: calc(100vh - var(--header-height) - var(--space-xl));
+      overflow-y: auto;
+    }
+    .article-main { order: 1; min-width: 0; }
+    .article-toc summary { pointer-events: none; }
+    .article-toc summary::after { display: none; }
+  }
+
   /* Article Content */
   .article-content {
     line-height: 1.8;
     color: var(--text);
     transition: font-size 0.2s ease;
   }
-
   .article-content p {
     margin-bottom: var(--space-lg);
     font-size: 1.05rem;
   }
-
   .article-content h2 {
     font-size: 1.6rem;
     padding-top: var(--space-md);
     border-top: 1px solid var(--border-light);
+    scroll-margin-top: calc(var(--header-height) + var(--space-md));
   }
-
   .article-content h3 {
     font-size: 1.25rem;
+    scroll-margin-top: calc(var(--header-height) + var(--space-md));
   }
 
   /* Pagination Footer */
@@ -435,16 +598,12 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     transition: all 0.2s ease;
     box-shadow: var(--shadow-sm);
   }
-
   .pagination-card:hover {
     border-color: var(--accent);
     transform: translateY(-2px);
     box-shadow: var(--shadow-md);
   }
-
-  .next-card {
-    text-align: right;
-  }
+  .next-card { text-align: right; }
 
   .pagination-label {
     font-size: 0.78rem;
@@ -463,10 +622,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     line-height: 1.35;
   }
 
-  .back-top-wrapper {
-    display: flex;
-    justify-content: center;
-  }
+  .back-top-wrapper { display: flex; justify-content: center; }
 
   .back-top-btn {
     display: inline-flex;
@@ -483,21 +639,11 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
     cursor: pointer;
     transition: all 0.2s ease;
   }
-
-  .back-top-btn:hover {
-    background: var(--bg-muted);
-    color: var(--text);
-  }
+  .back-top-btn:hover { background: var(--bg-muted); color: var(--text); }
 
   @media (max-width: 640px) {
-    .article-title {
-      font-size: 1.85rem;
-    }
-    .pagination-grid {
-      grid-template-columns: 1fr;
-    }
-    .next-card {
-      text-align: left;
-    }
+    .article-title { font-size: 1.85rem; }
+    .pagination-grid { grid-template-columns: 1fr; }
+    .next-card { text-align: left; }
   }
 </style>

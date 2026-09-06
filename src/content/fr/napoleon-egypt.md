@@ -4,15 +4,17 @@ lang: fr
 pair: napoleon-egypt
 category: philosophy
 dossier: cordoue-lumieres
-description: "Bonaparte écrase les héritiers d'Aïn Jalout avec les descendants de leurs propres armes"
+description: "L'expédition d'Égypte concentre l'ironie coloniale : Bonaparte conquiert le centre du monde islamique avec une science issue de Bagdad et une artillerie née de la poudre arabe."
 order: 15
+date: 2026-08-28
 ---
+
 **Type** : Étude de cas
 **Thèse** : L'expédition d'Égypte est le cas le plus concentré de l'ironie coloniale. Bonaparte conquiert le centre du monde islamique post-Aïn Jalout avec une science dont les racines sont dans la Maison de la Sagesse et l'artillerie descendant de la poudre arabe.
 
 ---
 
-## Les faits
+## 1. Les faits {#s1}
 
 **21 juillet 1798** — Bataille des Pyramides. L'armée française (25 000 hommes, artillerie moderne) écrase les Mamelouks de Mourad Bey. Les Mamelouks chargent à cheval et au sabre — exactement comme à Aïn Jalout, 538 ans plus tôt. Mais face aux carrés d'infanterie et aux canons français, la charge est un suicide.
 
@@ -20,7 +22,7 @@ Bonaparte aux troupes : *"Soldats, du haut de ces pyramides, quarante siècles v
 
 Ce qu'il ne dit pas : les canons qui tirent sont les descendants de la poudre qu'Hasan al-Rammah avait perfectionnée pour les ancêtres de ces mêmes Mamelouks.
 
-## L'empilement des ironies
+## 2. L'empilement des ironies {#s2}
 
 ### Ironie 1 : La poudre
 
@@ -38,7 +40,7 @@ L'Égypte mamelouke est le pays qui avait sauvé l'Islam à Aïn Jalout. C'est l
 
 Bonaparte se présente aux Égyptiens comme un ami de l'Islam. Sa proclamation du Caire (en arabe) : *"Au nom de Dieu clément et miséricordieux. Il n'y a pas de divinité que Dieu [...] Les Français sont aussi de sincères musulmans."* Il instrumentalise la rhétorique islamique pour conquérir un pays musulman avec des outils issus du monde islamique.
 
-## L'expédition d'Égypte comme matrice coloniale
+## 3. L'expédition d'Égypte comme matrice coloniale {#s3}
 
 L'expédition de 1798 inaugure le modèle colonial européen au Moyen-Orient :
 
@@ -51,13 +53,13 @@ L'expédition de 1798 inaugure le modèle colonial européen au Moyen-Orient :
 
 Ce modèle sera reproduit en Algérie (1830), en Tunisie (1881), au Maroc (1912), en Palestine et en Irak (mandats 1920).
 
-## Le paradoxe mamelouk
+## 4. Le paradoxe mamelouk {#s4}
 
 Les Mamelouks de 1798 sont la preuve vivante de la thèse de la fossilisation : ils combattent avec les mêmes méthodes qu'en 1260. Excellents cavaliers individuels, ils n'ont pas d'artillerie moderne, pas de formation en ligne, pas de tactique d'infanterie. Ils ont sauvé l'Islam mais ne l'ont pas modernisé.
 
 Bonaparte le résume (apocryphe mais juste) : *"Chaque Mamelouk était supérieur à chaque Français ; mais 1 000 Français battaient 1 500 Mamelouks."* C'est la différence entre la bravoure individuelle et l'organisation systémique — entre le Moyen Âge et la modernité.
 
-## Conséquence directe : Muhammad Ali et la modernisation
+## 5. Conséquence directe : Muhammad Ali et la modernisation {#s5}
 
 La défaite de 1798 provoque un choc dans le monde islamique. **Muhammad Ali** (r. 1805-1848), qui prend le pouvoir en Égypte après le départ des Français, lance un programme de modernisation sur le modèle européen — armée, industrie, éducation. C'est le début de la *nahda* (renaissance arabe).
 

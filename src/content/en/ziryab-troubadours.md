@@ -4,15 +4,17 @@ lang: en
 pair: ziryab-troubadours
 category: philosophy
 dossier: cordoue-lumieres
-description: "The lute, courtly love, table service: Europe's refined culture is an inheritance from Cordoba"
+description: "Courtly love, the lute and the lyric song were born in Cordoba: Ziryab's refinements and the Andalusian muwashshah migrate to Provence and become the troubadours' art."
 order: 11
+date: 2026-08-28
 ---
+
 **Type**: Strategic analysis — cultural transfer
 **Thesis**: Courtly love, the lute, lyric song — the foundations of refined European culture — were born in Cordoba. Ziryab (9th century) transformed the material civilization of Al-Andalus, and Andalusian poetic forms (*muwashshah*, *zajal*) migrated to Provence, becoming the poetry of the troubadours. The culture that Europe considers its essence — the art of love, music, refinement — is an Arab inheritance it has forgotten.
 
 ---
 
-## Ziryab: the man who civilized Cordoba (789-857)
+## 1. Ziryab: the man who civilized Cordoba (789-857) {#s1}
 
 ### The arrival
 
@@ -31,7 +33,7 @@ Abu l-Hasan Ali ibn Nafi', nicknamed **Ziryab** ("blackbird," for his voice and 
 
 Ziryab did not merely transform music — he transformed **the art of living**. He made Cordoba the capital of Western refinement, rivaling Baghdad and Constantinople.
 
-## The oud -> the lute: a lexical and musical lineage
+## 2. The oud -> the lute: a lexical and musical lineage {#s2}
 
 ```
 Oud ('ud, "wood") — Baghdad/Cordoba
@@ -50,7 +52,7 @@ Other instruments of Andalusian/Arab origin:
 - **Drum**: from *tunbur*
 - **Naker** -> kettledrums: from *naqqara*
 
-## From the muwashshah to the troubadours: the poetic lineage thesis
+## 3. From the muwashshah to the troubadours: the poetic lineage thesis {#s3}
 
 ### Andalusian poetic forms
 
@@ -82,7 +84,7 @@ These forms break radically with classical Arabic poetry (the monolithic *qasida
 
 Medievalists (Dronke, Boase) argue that courtly love may have independent sources (Ovid, Latin poetry, feudal culture). The debate remains open, but the chronological precedence and geographic proximity weigh heavily.
 
-## From courtly love to the European novel
+## 4. From courtly love to the European novel {#s4}
 
 If the lineage holds, the consequences are dizzying:
 
@@ -99,6 +101,6 @@ Ishq 'udhri (Arab poetry)
 
 Love as the central literary subject of Europe — from Tristan and Isolde to Romeo and Juliet — would be an Arabo-Andalusian inheritance.
 
-## The colonial irony
+## 5. The colonial irony {#s5}
 
 When the French colonized the Maghreb, they brought a "superior culture" whose musical foundations (the lute), poetic foundations (courtly love), and gastronomic foundations (table service) were inheritances from the very world they were colonizing. The "civilizing mission" carried, unknowingly, a civilization that Ziryab had invented a thousand years earlier in Cordoba.

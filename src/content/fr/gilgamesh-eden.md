@@ -5,27 +5,11 @@ pair: gilgamesh-eden
 category: hermeneutics
 description: "Deux récits, babylonien et hébraïque, où l'éternité est toujours portée par une voix qui trompe et où la mort, temps compté, fonde la possibilité de la justice."
 order: 6
+date: 2026-07-02
 ---
-
-# Le mensonge de l'éternité, la justice de la mort
-## Gilgamesh et le jardin d'Éden
 
 > « Quand les dieux créèrent l'humanité, ils fixèrent pour elle la mort ; la vie, ils l'ont retenue entre leurs propres mains. »
 > — parole de Šiduri à Gilgamesh, version paléo-babylonienne de l'épopée (tablette dite de Meissner, Sippar, ca. XVIIIᵉ s. av. n. è.)
-
-## Table des matières
-
-1. [Ouverture — Une hypothèse sur deux récits](#s1)
-2. [La parole de Šiduri — et son écho dans Qohélet](#s2)
-3. [Gilgamesh : le sommeil, la plante, le serpent](#s3)
-4. [Le retour à Uruk : les murailles et le *kittu u mīšaru*](#s4)
-5. [Le soir avant le matin : le calendrier hébraïque de la révélation](#s5)
-6. [Le serpent d'Éden : le mensonge porte sur l'éternité](#s6)
-7. [*Naḥash* : divination, bronze, polysémie](#s7)
-8. [La mue du serpent : temps cyclique contre temps compté](#s8)
-9. [Contrôle des sources — ce que le parallèle dit, et ce qu'il ne dit pas](#s9)
-10. [Conclusion — La finitude comme condition de la justice](#s10)
-11. [Repères bibliographiques](#s11)
 
 ---
 

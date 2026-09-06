@@ -3,12 +3,10 @@ title: "Dieu, rationalité et médiation"
 lang: fr
 pair: who-is-god
 category: hermeneutics
-description: "Une comparaison épistémologique des traditions"
+description: "Six axes, de l'ontologie divine au mode d'interprétation, pour comparer les structures de pensée des traditions religieuses et philosophiques sans les hiérarchiser."
 order: 3
+date: 2026-01-28
 ---
-
-# Dieu, rationalité et médiation : une comparaison épistémologique des traditions
-
 
 | Courant / Tradition                 | Ontologie (Dieu)                   | Causalité | Volonté divine | Rapport au monde  | Loi        | Interprétation |
 | ----------------------------------- | ---------------------------------- | --------- | -------------- | ----------------- | ---------- | -------------- |
@@ -33,12 +31,12 @@ order: 3
 | **Bouddhisme (theravāda)**          | ❌ (pas de Dieu)                    | ✅         | ❌              | Monde conditionné | ◐ (Dharma) | ◐              |
 | **Bouddhisme mahāyāna**             | ❌ (vacuité)                        | ◐         | ❌              | Interdépendance   | ◐          | ✅              |
 
-## Légende du tableau
+## 1. Légende du tableau {#s1}
 
 Ce tableau propose une analyse comparative non confessionnelle des grandes traditions religieuses, philosophiques et spirituelles à partir de six dimensions conceptuelles distinctes.
 Il ne vise ni à évaluer la vérité des croyances ni à hiérarchiser les traditions, mais à mettre en évidence leurs structures de pensée.
 
-## Définition des colonnes
+## 2. Définition des colonnes {#s2}
 
 Ontologie (Dieu) :
 Manière dont le divin est pensé : être personnel, principe impersonnel, structure symbolique ou absence de Dieu.
@@ -58,7 +56,7 @@ Existence d’une médiation normative (juridique, morale ou symbolique) entre l
 Interprétation :
 Rôle reconnu à l’exégèse, au débat et à la pluralité contrôlée des sens dans la compréhension des textes et des doctrines.
 
-## Convention des symboles
+## 3. Convention des symboles {#s3}
 
 ✅ : dimension pleinement assumée
 
@@ -66,7 +64,7 @@ Rôle reconnu à l’exégèse, au débat et à la pluralité contrôlée des se
 
 ❌ : dimension absente ou explicitement rejetée
 
-## Note méthodologique
+## 4. Note méthodologique {#s4}
 
 L’usage du terme Dieu dans ce tableau est fonctionnel et non substantiel.
 Il sert de point d’entrée comparatif, y compris pour des traditions où la notion de Dieu est absente ou radicalement redéfinie (cas du bouddhisme ou de certaines philosophies).

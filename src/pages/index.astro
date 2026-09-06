@@ -1,112 +1,46 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { dossiers, categories, readingTime } from '../data/dossiers';
 
 const enArticles = await getCollection('en');
 const frArticles = await getCollection('fr');
-
-const categories = [
-  {
-    id: 'hermeneutics',
-    titleEn: 'Hermeneutics',
-    titleFr: 'Herméneutique',
-    descEn: 'Structural & text-critical readings of foundational scriptures.',
-    descFr: 'Lectures structurelles et critiques des écrits fondateurs.',
-    badgeClass: 'badge-hermeneutics'
-  },
-  {
-    id: 'etymology',
-    titleEn: 'Etymology',
-    titleFr: 'Étymologie',
-    descEn: 'Root analysis across Semitic languages and philosophical concepts.',
-    descFr: 'Analyse des racines des langues sémitiques et concepts philosophiques.',
-    badgeClass: 'badge-etymology'
-  },
-  {
-    id: 'philosophy',
-    titleEn: 'Philosophy & History',
-    titleFr: 'Philosophie & Histoire',
-    descEn: 'Maimonides, Spinoza, Averroes, Farabi, and secularity.',
-    descFr: 'Maïmonide, Spinoza, Averroès, Farabi et la laïcité.',
-    badgeClass: 'badge-philosophy'
-  },
-  {
-    id: 'cultural',
-    titleEn: 'Cultural Analysis',
-    titleFr: 'Analyse culturelle',
-    descEn: 'Contemporary mythologies, narrative mechanics, and symbols.',
-    descFr: 'Mythologies contemporaines, mécanismes narratifs et symboles.',
-    badgeClass: 'badge-cultural'
-  },
-];
-
-const dossiers: Record<string, { titleEn: string; titleFr: string; descEn: string; descFr: string; icon: string }> = {
-  'kafir-kippour': {
-    titleEn: 'Dossier — Kafir / Kippur: the root of recovering',
-    titleFr: 'Dossier — Kafir / Kippour : la racine du recouvrement',
-    descEn: 'A common Semitic root (K-P-R / K-F-R), seven poles, three traditions, one modern rupture.',
-    descFr: 'Une racine sémitique commune (K-P-R / K-F-R), sept pôles, trois traditions, une rupture moderne.',
-    icon: '🌱'
-  },
-  'charte-medine': {
-    titleEn: 'Dossier — The Charter of Medina: the plural pact',
-    titleFr: 'Dossier — La Charte de Médine : le pacte pluriel',
-    descEn: 'One pact, a plural umma including the Jewish tribes — and the mechanism of conflict resolution.',
-    descFr: 'Un pacte, une umma plurielle incluant les tribus juives — et les mécanismes de résolution de conflits.',
-    icon: '📜'
-  },
-  'cordoue-lumieres': {
-    titleEn: 'Dossier — Cordoba and the Enlightenment: what Europe owes the Arab world',
-    titleFr: 'Dossier — Cordoue et les Lumières : ce que l\'Europe doit au monde arabe',
-    descEn: 'Reception, expulsion, conquest: how al-Andalus built European modernity — philosophy, optics, medicine, paper, music — and was erased from its account.',
-    descFr: 'Réception, expulsion, conquête : comment al-Andalus a bâti la modernité européenne — philosophie, optique, médecine, papier, musique — avant d\'être effacée de son récit.',
-    icon: '🕌'
-  },
-};
-
-function getArticlesForCategory(cat: string) {
-  return enArticles
-    .filter(a => a.data.category === cat)
-    .sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
-}
-
-function getFrArticle(pair: string) {
-  return frArticles.find(a => a.data.pair === pair);
-}
-
-function getReadingTime(bodyText: string): number {
-  if (!bodyText) return 4;
-  const wordCount = bodyText.replace(/<[^>]*>/g, '').trim().split(/\s+/).length;
-  return Math.max(2, Math.ceil(wordCount / 220));
-}
-
-function partitionByDossier(articles: typeof enArticles) {
-  const standalone: typeof enArticles = [];
-  const grouped: Record<string, typeof enArticles> = {};
-  for (const a of articles) {
-    const d = a.data.dossier;
-    if (d) {
-      grouped[d] = grouped[d] || [];
-      grouped[d].push(a);
-    } else {
-      standalone.push(a);
-    }
-  }
-  return { standalone, grouped };
-}
+const frOf = (pair: string) => frArticles.find(a => a.data.pair === pair);
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
 const totalArticlesCount = enArticles.length;
+
+// Standalone essays per category, newest first
+function standaloneFor(cat: string) {
+  return enArticles
+    .filter(a => a.data.category === cat && !a.data.dossier)
+    .sort((a, b) => (b.data.date || '').localeCompare(a.data.date || ''));
+}
+
+// One card per dossier, with its parts in order
+const dossierCards = Object.entries(dossiers).map(([id, meta]) => {
+  const parts = enArticles
+    .filter(a => a.data.dossier === id)
+    .sort((a, b) => (a.data.order || 0) - (b.data.order || 0));
+  const category = categories.find(c => c.id === parts[0]?.data.category);
+  const latest = parts.reduce((d, a) => ((a.data.date || '') > d ? a.data.date || '' : d), '');
+  const searchable = [
+    meta.titleEn, meta.titleFr, meta.descEn, meta.descFr,
+    ...parts.flatMap(a => [a.data.title, a.data.description || '', frOf(a.data.pair)?.data.title || '', frOf(a.data.pair)?.data.description || '']),
+  ].join(' ').toLowerCase();
+  const minutesEn = parts.reduce((s, a) => s + readingTime(a.body), 0);
+  const minutesFr = parts.reduce((s, a) => s + readingTime(frOf(a.data.pair)?.body), 0);
+  return { id, meta, parts, category, latest, searchable, minutesEn, minutesFr };
+}).sort((a, b) => b.latest.localeCompare(a.latest));
 ---
 
 <BaseLayout title="Midrash – Herméneutique comparée & Philosophie">
-  <!-- Hero Section -->
   <section class="hero container">
     <div class="hero-content">
       <div class="hero-badge-pill">
         <span class="pulse-dot"></span>
-        <span data-lang="en" class="active">{totalArticlesCount} Comparative Essays · Dual EN/FR</span>
-        <span data-lang="fr">{totalArticlesCount} Essais comparatifs · Édition FR/EN</span>
+        <span data-lang="en" class="active">{totalArticlesCount} essays · {dossierCards.length} dossiers · EN/FR</span>
+        <span data-lang="fr">{totalArticlesCount} essais · {dossierCards.length} dossiers · FR/EN</span>
       </div>
 
       <h1 class="hero-title">
@@ -125,28 +59,26 @@ const totalArticlesCount = enArticles.length;
         </span>
       </p>
 
-      <!-- Search & Quick Filter Bar -->
       <div class="search-box-wrapper">
         <div class="search-input-group">
           <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <circle cx="11" cy="11" r="8"></circle>
             <path d="m21 21-4.3-4.3"></path>
           </svg>
-          <input 
-            type="text" 
-            id="article-search" 
-            class="search-input" 
-            placeholder="Rechercher un article, une racine, un concept (ex: Spinoza, Kafir, Médine...)" 
+          <input
+            type="text"
+            id="article-search"
+            class="search-input"
+            placeholder="Rechercher un article, une racine, un concept (ex : Spinoza, Kafir, Médine…)"
             aria-label="Rechercher des articles"
           />
           <button type="button" id="search-clear" class="search-clear-btn" aria-label="Effacer" style="display:none;">✕</button>
         </div>
 
-        <!-- Filter Category Tabs -->
         <div class="filter-tabs" id="filter-tabs">
           <button type="button" class="filter-tab active" data-filter="all">
-            <span data-lang="en" class="active">All ({totalArticlesCount})</span>
-            <span data-lang="fr">Tous ({totalArticlesCount})</span>
+            <span data-lang="en" class="active">All</span>
+            <span data-lang="fr">Tout</span>
           </button>
           <button type="button" class="filter-tab" data-filter="dossiers">
             <span data-lang="en" class="active">Dossiers</span>
@@ -163,57 +95,72 @@ const totalArticlesCount = enArticles.length;
     </div>
   </section>
 
-  <!-- Featured Dossiers Highlight Banner -->
-  <section class="dossiers-banner container" id="dossiers">
-    <div class="section-header">
-      <h2 class="section-title">
-        <span data-lang="en" class="active">Featured Deep-Dive Dossiers</span>
-        <span data-lang="fr">Dossiers Thématiques Approfondis</span>
-      </h2>
-      <p class="section-subtitle">
-        <span data-lang="en" class="active">Multi-part investigations into core etymological and historical axes.</span>
-        <span data-lang="fr">Enquêtes en plusieurs volets sur des axes étymologiques et historiques majeurs.</span>
-      </p>
-    </div>
-
-    <div class="dossier-grid">
-      {Object.entries(dossiers).map(([dossierId, meta]) => {
-        const dossierArticles = enArticles.filter(a => a.data.dossier === dossierId);
-        return (
-          <div class="dossier-card" data-dossier-card={dossierId}>
-            <div class="dossier-card-header">
-              <span class="dossier-icon">{meta.icon}</span>
-              <span class="badge badge-dossier">
-                <span data-lang="en" class="active">{dossierArticles.length} parts</span>
-                <span data-lang="fr">{dossierArticles.length} volets</span>
-              </span>
-            </div>
-            <h3 class="dossier-card-title">
-              <span data-lang="en" class="active">{meta.titleEn}</span>
-              <span data-lang="fr">{meta.titleFr}</span>
-            </h3>
-            <p class="dossier-card-desc">
-              <span data-lang="en" class="active">{meta.descEn}</span>
-              <span data-lang="fr">{meta.descFr}</span>
-            </p>
-            <a href={`#dossier-${dossierId}`} class="dossier-card-link">
-              <span data-lang="en" class="active">Explore dossier ↓</span>
-              <span data-lang="fr">Explorer le dossier ↓</span>
-            </a>
-          </div>
-        );
-      })}
-    </div>
-  </section>
-
-  <!-- Articles List Section -->
   <section class="articles container" id="articles-section">
-    <div id="search-status" class="search-status" style="display:none;"></div>
+    <!-- Dossiers: one card each -->
+    <div class="category-section" id="dossiers" data-category="dossiers">
+      <div class="category-header">
+        <div class="category-title-group">
+          <span class="badge badge-dossier">
+            <span data-lang="en" class="active">Dossiers</span>
+            <span data-lang="fr">Dossiers</span>
+          </span>
+          <span class="category-count">{dossierCards.length}</span>
+        </div>
+        <p class="category-desc">
+          <span data-lang="en" class="active">Multi-part investigations, to be read in order.</span>
+          <span data-lang="fr">Enquêtes en plusieurs volets, à lire dans l'ordre.</span>
+        </p>
+      </div>
 
+      <div class="card-grid">
+        {dossierCards.map(d => (
+          <article class="article-card dossier-card-item" data-searchable={d.searchable} data-category="dossiers">
+            <a href={`${base}dossiers/${d.id}/`} class="card-inner">
+              <div class="card-meta">
+                <span class="badge badge-dossier">
+                  <span data-lang="en" class="active">{d.parts.length} parts</span>
+                  <span data-lang="fr">{d.parts.length} volets</span>
+                </span>
+                {d.category && (
+                  <span class={`badge ${d.category.badgeClass}`}>
+                    <span data-lang="en" class="active">{d.category.titleEn}</span>
+                    <span data-lang="fr">{d.category.titleFr}</span>
+                  </span>
+                )}
+                <span class="reading-time">
+                  ⏱ <span data-lang="en" class="active">{d.minutesEn} min</span>
+                  <span data-lang="fr">{d.minutesFr} min</span>
+                </span>
+              </div>
+
+              <h3 class="card-title">
+                <span class="card-icon" aria-hidden="true">{d.meta.icon}</span>
+                <span data-lang="en" class="active">{d.meta.titleEn}</span>
+                <span data-lang="fr">{d.meta.titleFr}</span>
+              </h3>
+
+              <p class="card-desc">
+                <span data-lang="en" class="active">{d.meta.descEn}</span>
+                <span data-lang="fr">{d.meta.descFr}</span>
+              </p>
+
+              <div class="card-footer">
+                <span class="card-cta">
+                  <span data-lang="en" class="active">Open the dossier</span>
+                  <span data-lang="fr">Ouvrir le dossier</span>
+                  <svg class="cta-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </span>
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
+    </div>
+
+    <!-- Standalone essays by category -->
     {categories.map(cat => {
-      const articles = getArticlesForCategory(cat.id);
+      const articles = standaloneFor(cat.id);
       if (articles.length === 0) return null;
-      const { standalone, grouped } = partitionByDossier(articles);
       return (
         <div class="category-section" id={cat.id} data-category={cat.id}>
           <div class="category-header">
@@ -222,7 +169,7 @@ const totalArticlesCount = enArticles.length;
                 <span data-lang="en" class="active">{cat.titleEn}</span>
                 <span data-lang="fr">{cat.titleFr}</span>
               </span>
-              <span class="category-count">{articles.length} articles</span>
+              <span class="category-count">{articles.length}</span>
             </div>
             <p class="category-desc">
               <span data-lang="en" class="active">{cat.descEn}</span>
@@ -230,137 +177,50 @@ const totalArticlesCount = enArticles.length;
             </p>
           </div>
 
-          <!-- Standalone Articles Grid -->
-          {standalone.length > 0 && (
-            <div class="card-grid">
-              {standalone.map(article => {
-                const fr = getFrArticle(article.data.pair);
-                const readingTimeEn = getReadingTime(article.body || '');
-                const readingTimeFr = getReadingTime(fr?.body || '');
-                const searchKeywords = `${article.data.title} ${fr?.data.title || ''} ${article.data.description || ''} ${fr?.data.description || ''}`.toLowerCase();
+          <div class="card-grid">
+            {articles.map(article => {
+              const fr = frOf(article.data.pair);
+              const searchKeywords = `${article.data.title} ${fr?.data.title || ''} ${article.data.description || ''} ${fr?.data.description || ''}`.toLowerCase();
+              return (
+                <article class="article-card" data-searchable={searchKeywords} data-category={cat.id}>
+                  <a href={`${base}articles/${article.data.pair}/`} class="card-inner">
+                    <div class="card-meta">
+                      <span class={`badge ${cat.badgeClass}`}>
+                        <span data-lang="en" class="active">{cat.titleEn}</span>
+                        <span data-lang="fr">{cat.titleFr}</span>
+                      </span>
+                      <span class="reading-time">
+                        ⏱ <span data-lang="en" class="active">{readingTime(article.body)} min read</span>
+                        <span data-lang="fr">{readingTime(fr?.body)} min de lecture</span>
+                      </span>
+                    </div>
 
-                return (
-                  <article 
-                    class="article-card" 
-                    data-searchable={searchKeywords}
-                    data-category={cat.id}
-                  >
-                    <a href={`${base}articles/${article.data.pair}/`} class="card-inner">
-                      <div class="card-meta">
-                        <span class={`badge ${cat.badgeClass}`}>
-                          <span data-lang="en" class="active">{cat.titleEn}</span>
-                          <span data-lang="fr">{cat.titleFr}</span>
-                        </span>
-                        <span class="reading-time">
-                          ⏱ <span data-lang="en" class="active">{readingTimeEn} min read</span>
-                          <span data-lang="fr">{readingTimeFr} min de lecture</span>
-                        </span>
-                      </div>
-
-                      <h3 class="card-title">
-                        <span data-lang="en" class="active">{article.data.title}</span>
-                        <span data-lang="fr">{fr?.data.title || article.data.title}</span>
-                      </h3>
-
-                      <p class="card-desc">
-                        <span data-lang="en" class="active">{article.data.description}</span>
-                        <span data-lang="fr">{fr?.data.description || ''}</span>
-                      </p>
-
-                      <div class="card-footer">
-                        <span class="card-cta">
-                          <span data-lang="en" class="active">Read article</span>
-                          <span data-lang="fr">Lire l'article</span>
-                          <svg class="cta-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                        </span>
-                      </div>
-                    </a>
-                  </article>
-                );
-              })}
-            </div>
-          )}
-
-          <!-- Grouped Dossiers inside Categories -->
-          {Object.entries(grouped).map(([dossierId, dossierArticles]) => {
-            const meta = dossiers[dossierId];
-            return (
-              <div class="dossier-wrapper" id={`dossier-${dossierId}`} data-dossier={dossierId} data-category={cat.id}>
-                <div class="dossier-header-bar">
-                  <div class="dossier-title-row">
-                    <span class="dossier-tag-pill">
-                      <span data-lang="en" class="active">Dossier Collection</span>
-                      <span data-lang="fr">Dossier Thématique</span>
-                    </span>
-                    <h3 class="dossier-inline-title">
-                      <span data-lang="en" class="active">{meta?.titleEn || dossierId}</span>
-                      <span data-lang="fr">{meta?.titleFr || dossierId}</span>
+                    <h3 class="card-title">
+                      <span data-lang="en" class="active">{article.data.title}</span>
+                      <span data-lang="fr">{fr?.data.title || article.data.title}</span>
                     </h3>
-                  </div>
-                  {meta && (
-                    <p class="dossier-inline-desc">
-                      <span data-lang="en" class="active">{meta.descEn}</span>
-                      <span data-lang="fr">{meta.descFr}</span>
+
+                    <p class="card-desc">
+                      <span data-lang="en" class="active">{article.data.description}</span>
+                      <span data-lang="fr">{fr?.data.description || ''}</span>
                     </p>
-                  )}
-                </div>
 
-                <div class="card-grid">
-                  {dossierArticles.map(article => {
-                    const fr = getFrArticle(article.data.pair);
-                    const readingTimeEn = getReadingTime(article.body || '');
-                    const readingTimeFr = getReadingTime(fr?.body || '');
-                    const searchKeywords = `${article.data.title} ${fr?.data.title || ''} ${article.data.description || ''} ${fr?.data.description || ''}`.toLowerCase();
-
-                    return (
-                      <article 
-                        class="article-card dossier-card-item" 
-                        data-searchable={searchKeywords}
-                        data-category={cat.id}
-                        data-dossier={dossierId}
-                      >
-                        <a href={`${base}articles/${article.data.pair}/`} class="card-inner">
-                          <div class="card-meta">
-                            <span class="badge badge-dossier">
-                              <span data-lang="en" class="active">Volet {article.data.order || 1}</span>
-                              <span data-lang="fr">Volet {article.data.order || 1}</span>
-                            </span>
-                            <span class="reading-time">
-                              ⏱ <span data-lang="en" class="active">{readingTimeEn} min read</span>
-                              <span data-lang="fr">{readingTimeFr} min de lecture</span>
-                            </span>
-                          </div>
-
-                          <h3 class="card-title">
-                            <span data-lang="en" class="active">{article.data.title}</span>
-                            <span data-lang="fr">{fr?.data.title || article.data.title}</span>
-                          </h3>
-
-                          <p class="card-desc">
-                            <span data-lang="en" class="active">{article.data.description}</span>
-                            <span data-lang="fr">{fr?.data.description || ''}</span>
-                          </p>
-
-                          <div class="card-footer">
-                            <span class="card-cta">
-                              <span data-lang="en" class="active">Read volet</span>
-                              <span data-lang="fr">Lire ce volet</span>
-                              <svg class="cta-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                            </span>
-                          </div>
-                        </a>
-                      </article>
-                    );
-                  })}
-                </div>
-              </div>
-            );
-          })}
+                    <div class="card-footer">
+                      <span class="card-cta">
+                        <span data-lang="en" class="active">Read the essay</span>
+                        <span data-lang="fr">Lire l'essai</span>
+                        <svg class="cta-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                      </span>
+                    </div>
+                  </a>
+                </article>
+              );
+            })}
+          </div>
         </div>
       );
     })}
 
-    <!-- Empty search result state -->
     <div id="empty-search" class="empty-search-box" style="display:none;">
       <div class="empty-search-icon">🔍</div>
       <h3>
@@ -368,8 +228,8 @@ const totalArticlesCount = enArticles.length;
         <span data-lang="fr">Aucun essai trouvé</span>
       </h3>
       <p>
-        <span data-lang="en" class="active">Try adjusting your search term or category filter.</span>
-        <span data-lang="fr">Essayez de modifier votre recherche ou le filtre de catégorie.</span>
+        <span data-lang="en" class="active">Try another search term or category filter.</span>
+        <span data-lang="fr">Essayez un autre terme ou un autre filtre.</span>
       </p>
       <button type="button" id="reset-search-btn" class="reset-search-btn">
         <span data-lang="en" class="active">Reset search</span>
@@ -384,112 +244,60 @@ const totalArticlesCount = enArticles.length;
     const searchInput = document.getElementById('article-search') as HTMLInputElement | null;
     const clearBtn = document.getElementById('search-clear');
     const filterTabs = document.querySelectorAll('.filter-tab');
-    const articleCards = document.querySelectorAll('.article-card');
-    const categorySections = document.querySelectorAll('.category-section');
-    const dossierWrappers = document.querySelectorAll('.dossier-wrapper');
+    const cards = document.querySelectorAll('.article-card');
+    const sections = document.querySelectorAll('.category-section');
     const emptyState = document.getElementById('empty-search');
     const resetBtn = document.getElementById('reset-search-btn');
-    const dossiersBanner = document.getElementById('dossiers');
 
     let currentFilter = 'all';
     let searchQuery = '';
 
-    function filterArticles() {
+    function apply() {
       let visibleCount = 0;
-
-      articleCards.forEach(card => {
-        const searchable = card.getAttribute('data-searchable') || '';
-        const cat = card.getAttribute('data-category') || '';
-        const isDossier = card.classList.contains('dossier-card-item');
-
+      cards.forEach(card => {
+        const el = card as HTMLElement;
+        const searchable = el.getAttribute('data-searchable') || '';
+        const cat = el.getAttribute('data-category') || '';
         const matchesQuery = !searchQuery || searchable.includes(searchQuery);
-        let matchesFilter = false;
-
-        if (currentFilter === 'all') {
-          matchesFilter = true;
-        } else if (currentFilter === 'dossiers') {
-          matchesFilter = isDossier;
-        } else {
-          matchesFilter = cat === currentFilter;
-        }
-
-        if (matchesQuery && matchesFilter) {
-          (card as HTMLElement).style.display = 'block';
-          visibleCount++;
-        } else {
-          (card as HTMLElement).style.display = 'none';
-        }
+        const matchesFilter = currentFilter === 'all' || cat === currentFilter;
+        const show = matchesQuery && matchesFilter;
+        el.hidden = !show;
+        if (show) visibleCount++;
       });
-
-      // Update category section visibility
-      categorySections.forEach(sec => {
-        const visibleCardsInSec = sec.querySelectorAll('.article-card[style*="display: block"]');
-        if (visibleCardsInSec.length > 0) {
-          (sec as HTMLElement).style.display = 'block';
-        } else {
-          (sec as HTMLElement).style.display = 'none';
-        }
+      sections.forEach(sec => {
+        const el = sec as HTMLElement;
+        el.hidden = el.querySelectorAll('.article-card:not([hidden])').length === 0;
       });
-
-      // Update dossier wrappers visibility
-      dossierWrappers.forEach(wrap => {
-        const visibleCardsInDossier = wrap.querySelectorAll('.article-card[style*="display: block"]');
-        if (visibleCardsInDossier.length > 0) {
-          (wrap as HTMLElement).style.display = 'block';
-        } else {
-          (wrap as HTMLElement).style.display = 'none';
-        }
-      });
-
-      // Hide featured dossiers banner if filtering by specific category or actively searching
-      if (dossiersBanner) {
-        if (searchQuery || (currentFilter !== 'all' && currentFilter !== 'dossiers')) {
-          dossiersBanner.style.display = 'none';
-        } else {
-          dossiersBanner.style.display = 'block';
-        }
-      }
-
-      // Empty state handler
-      if (emptyState) {
-        emptyState.style.display = visibleCount === 0 ? 'block' : 'none';
-      }
-
-      // Clear button visibility
-      if (clearBtn) {
-        clearBtn.style.display = searchQuery ? 'inline-flex' : 'none';
-      }
+      if (emptyState) emptyState.style.display = visibleCount === 0 ? 'block' : 'none';
+      if (clearBtn) clearBtn.style.display = searchQuery ? 'inline-flex' : 'none';
     }
 
     searchInput?.addEventListener('input', (e) => {
       searchQuery = (e.target as HTMLInputElement).value.toLowerCase().trim();
-      filterArticles();
+      apply();
     });
 
     clearBtn?.addEventListener('click', () => {
       if (searchInput) searchInput.value = '';
       searchQuery = '';
-      filterArticles();
+      apply();
     });
 
     resetBtn?.addEventListener('click', () => {
       if (searchInput) searchInput.value = '';
       searchQuery = '';
       currentFilter = 'all';
-
       filterTabs.forEach(t => t.classList.remove('active'));
       document.querySelector('.filter-tab[data-filter="all"]')?.classList.add('active');
-
-      filterArticles();
+      apply();
     });
 
     filterTabs.forEach(tab => {
       tab.addEventListener('click', () => {
         filterTabs.forEach(t => t.classList.remove('active'));
         tab.classList.add('active');
-
         currentFilter = tab.getAttribute('data-filter') || 'all';
-        filterArticles();
+        apply();
       });
     });
   }
@@ -499,15 +307,12 @@ const totalArticlesCount = enArticles.length;
 </script>
 
 <style>
-  /* Hero Section */
   .hero {
     padding-top: var(--space-2xl);
     padding-bottom: var(--space-xl);
   }
 
-  .hero-content {
-    max-width: 44rem;
-  }
+  .hero-content { max-width: 44rem; }
 
   .hero-badge-pill {
     display: inline-flex;
@@ -538,9 +343,6 @@ const totalArticlesCount = enArticles.length;
     margin-bottom: var(--space-md);
     letter-spacing: -0.03em;
     line-height: 1.15;
-    background: linear-gradient(135deg, var(--text) 30%, var(--text-secondary));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
 
   .hero-desc {
@@ -552,7 +354,6 @@ const totalArticlesCount = enArticles.length;
     font-style: italic;
   }
 
-  /* Search & Filter Bar */
   .search-box-wrapper {
     display: flex;
     flex-direction: column;
@@ -586,7 +387,6 @@ const totalArticlesCount = enArticles.length;
     box-shadow: var(--shadow-sm);
     transition: all 0.2s ease;
   }
-
   .search-input:focus {
     outline: none;
     border-color: var(--accent);
@@ -599,13 +399,9 @@ const totalArticlesCount = enArticles.length;
     background: none;
     border: none;
     color: var(--text-muted);
-    font-size: 0.9rem;
     cursor: pointer;
+    font-size: 0.9rem;
     padding: 0.25rem;
-  }
-
-  .search-clear-btn:hover {
-    color: var(--text);
   }
 
   .filter-tabs {
@@ -615,132 +411,41 @@ const totalArticlesCount = enArticles.length;
   }
 
   .filter-tab {
-    padding: 0.4rem 0.85rem;
+    padding: 0.4rem 0.9rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 9999px;
     font-family: var(--font-body);
-    font-size: 0.82rem;
+    font-size: 0.8rem;
     font-weight: 500;
     color: var(--text-secondary);
-    background: var(--bg-soft);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-sm);
     cursor: pointer;
     transition: all 0.2s ease;
   }
-
-  .filter-tab:hover {
-    color: var(--text);
-    border-color: var(--text-secondary);
-  }
-
+  .filter-tab:hover { border-color: var(--text-secondary); color: var(--text); }
   .filter-tab.active {
     background: var(--text);
-    color: var(--bg);
     border-color: var(--text);
-    font-weight: 600;
+    color: var(--bg);
   }
 
-  /* Featured Dossiers Banner */
-  .dossiers-banner {
-    padding-top: var(--space-xl);
-    padding-bottom: var(--space-xl);
-    margin-bottom: var(--space-lg);
-  }
+  .articles { padding-bottom: var(--space-2xl); }
 
-  .section-header {
-    margin-bottom: var(--space-lg);
-  }
-
-  .section-title {
-    font-size: 1.45rem;
-    margin-top: 0;
-    margin-bottom: var(--space-3xs);
-  }
-
-  .section-subtitle {
-    font-size: 0.9rem;
-    color: var(--text-muted);
-    margin: 0;
-  }
-
-  .dossier-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
-    gap: var(--space-lg);
-  }
-
-  .dossier-card {
-    background: var(--bg-surface);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--cat-dossier-fg);
-    border-radius: var(--radius-md);
-    padding: var(--space-lg);
-    box-shadow: var(--shadow-sm);
-    display: flex;
-    flex-direction: column;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  .dossier-card:hover {
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
-  }
-
-  .dossier-card-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: var(--space-sm);
-  }
-
-  .dossier-icon {
-    font-size: 1.5rem;
-  }
-
-  .dossier-card-title {
-    font-size: 1.15rem;
-    margin-top: 0;
-    margin-bottom: var(--space-xs);
-  }
-
-  .dossier-card-desc {
-    font-size: 0.88rem;
-    color: var(--text-secondary);
-    line-height: 1.6;
-    margin-bottom: var(--space-md);
-    flex-grow: 1;
-  }
-
-  .dossier-card-link {
-    font-size: 0.82rem;
-    font-weight: 600;
-    color: var(--accent);
-    text-decoration: none;
-  }
-
-  .dossier-card-link:hover {
-    text-decoration: underline;
-  }
-
-  /* Articles Section & Grid */
-  .articles {
-    padding-bottom: var(--space-2xl);
-  }
-
-  .category-section {
-    margin-bottom: var(--space-2xl);
-  }
+  .category-section { margin-bottom: var(--space-2xl); }
 
   .category-header {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
     margin-bottom: var(--space-lg);
-    padding-bottom: var(--space-sm);
-    border-bottom: 1px solid var(--border-light);
+    padding-bottom: var(--space-md);
+    border-bottom: 1px solid var(--border);
   }
 
   .category-title-group {
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    margin-bottom: var(--space-3xs);
   }
 
   .category-count {
@@ -750,74 +455,71 @@ const totalArticlesCount = enArticles.length;
   }
 
   .category-desc {
-    font-size: 0.88rem;
-    color: var(--text-secondary);
     margin: 0;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
   }
 
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
     gap: var(--space-lg);
   }
 
   .article-card {
-    display: flex;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
   }
+  .article-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+  }
+  .dossier-card-item { border-left: 3px solid var(--cat-dossier-fg); }
 
   .card-inner {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    height: 100%;
     padding: var(--space-lg);
-    background: var(--bg-surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-md);
     text-decoration: none;
     color: inherit;
-    box-shadow: var(--shadow-sm);
-    transition: all 0.25s ease;
-  }
-
-  .article-card:hover .card-inner {
-    border-color: var(--accent);
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-md);
   }
 
   .card-meta {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
     gap: 0.5rem;
-    margin-bottom: var(--space-sm);
+    margin-bottom: var(--space-md);
   }
 
   .reading-time {
     font-size: 0.75rem;
     color: var(--text-muted);
+    font-weight: 500;
+    margin-left: auto;
   }
 
   .card-title {
-    font-size: 1.125rem;
-    font-weight: 600;
-    color: var(--text);
-    margin: 0 0 var(--space-xs) 0;
-    line-height: 1.35;
+    font-size: 1.2rem;
+    line-height: 1.3;
+    margin-bottom: var(--space-sm);
   }
+  .card-icon { margin-right: 0.4rem; }
 
   .card-desc {
-    font-size: 0.88rem;
+    font-size: 0.92rem;
     color: var(--text-secondary);
-    line-height: 1.55;
-    margin: 0 0 var(--space-md) 0;
+    line-height: 1.6;
+    margin-bottom: var(--space-md);
     flex-grow: 1;
   }
 
-  .card-footer {
-    margin-top: auto;
-    padding-top: var(--space-xs);
-  }
+  .card-footer { margin-top: auto; }
 
   .card-cta {
     display: inline-flex;
@@ -826,88 +528,32 @@ const totalArticlesCount = enArticles.length;
     font-size: 0.82rem;
     font-weight: 600;
     color: var(--accent);
-    transition: gap 0.2s ease;
   }
+  .cta-arrow { transition: transform 0.2s ease; }
+  .article-card:hover .cta-arrow { transform: translateX(3px); }
 
-  .article-card:hover .cta-arrow {
-    transform: translateX(3px);
-  }
-
-  .cta-arrow {
-    transition: transform 0.2s ease;
-  }
-
-  /* Dossier Inner Section */
-  .dossier-wrapper {
-    margin-top: var(--space-xl);
-    padding: var(--space-lg);
-    background: var(--bg-soft);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-  }
-
-  .dossier-header-bar {
-    margin-bottom: var(--space-lg);
-  }
-
-  .dossier-tag-pill {
-    font-size: 0.72rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--cat-dossier-fg);
-  }
-
-  .dossier-inline-title {
-    font-size: 1.2rem;
-    margin-top: var(--space-3xs);
-    margin-bottom: var(--space-2xs);
-  }
-
-  .dossier-inline-desc {
-    font-size: 0.88rem;
-    color: var(--text-secondary);
-    margin: 0;
-    font-style: italic;
-  }
-
-  /* Empty Search State */
   .empty-search-box {
     text-align: center;
     padding: var(--space-2xl) var(--space-lg);
-    background: var(--bg-surface);
-    border: 1px dashed var(--border);
-    border-radius: var(--radius-lg);
-    margin-top: var(--space-lg);
+    color: var(--text-secondary);
   }
-
-  .empty-search-icon {
-    font-size: 2.5rem;
-    margin-bottom: var(--space-sm);
-  }
+  .empty-search-icon { font-size: 2rem; margin-bottom: var(--space-md); }
 
   .reset-search-btn {
     margin-top: var(--space-md);
-    padding: 0.5rem 1.25rem;
-    background: var(--accent);
-    color: white;
+    padding: 0.5rem 1.1rem;
+    background: var(--text);
+    color: var(--bg);
     border: none;
-    border-radius: var(--radius-sm);
+    border-radius: 9999px;
+    font-family: var(--font-body);
+    font-size: 0.85rem;
     font-weight: 600;
     cursor: pointer;
-    transition: opacity 0.2s ease;
-  }
-
-  .reset-search-btn:hover {
-    opacity: 0.9;
   }
 
   @media (max-width: 640px) {
-    .hero-title {
-      font-size: 2.15rem;
-    }
-    .card-grid {
-      grid-template-columns: 1fr;
-    }
+    .hero-title { font-size: 2rem; }
+    .card-grid { grid-template-columns: 1fr; }
   }
 </style>

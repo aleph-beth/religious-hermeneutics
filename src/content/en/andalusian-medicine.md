@@ -6,15 +6,17 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "Al-Zahrawi invents systematic surgery, Ibn Zuhr founds experimental clinical medicine — European textbooks for five centuries"
 order: 8
+date: 2026-08-28
 ---
+
 **Type**: Strategic analysis — medical transfer
 **Thesis**: Modern European medicine is a daughter of Cordoba. Al-Zahrawi (Abulcasis) invents systematic surgery, Ibn Zuhr (Avenzoar) founds experimental clinical medicine, Maimonides synthesizes Greco-Arabic knowledge. Their texts, translated in Toledo, become the required textbooks of European universities for five centuries — then Europe erases their names.
 
 ---
 
-## The three giants of Cordovan medicine
+## 1. The three giants of Cordovan medicine {#s1}
 
-### 1. Al-Zahrawi (Abulcasis, 936-1013) — The father of surgery
+### Al-Zahrawi (Abulcasis, 936-1013) — The father of surgery
 
 | | Detail |
 |---|---|
@@ -34,7 +36,7 @@ The thirtieth volume of the *Tasrif*, devoted to surgery, is a revolution. Al-Za
 
 **European lifespan of the text**: the *Tasrif* was used as a textbook at Salerno, Montpellier, Bologna and Paris from the 12th to the 17th century — **five hundred years**.
 
-### 2. Ibn Zuhr (Avenzoar, 1094-1162) — The experimental clinician
+### Ibn Zuhr (Avenzoar, 1094-1162) — The experimental clinician
 
 | | Detail |
 |---|---|
@@ -51,13 +53,13 @@ The thirtieth volume of the *Tasrif*, devoted to surgery, is a revolution. Al-Za
 
 The **Ibn Zuhr (practice) + Averroes (theory)** tandem prefigures the modern division between clinical medicine and theoretical medicine.
 
-### 3. Maimonides the physician (1138-1204) — The Greco-Arabo-Jewish synthesis
+### Maimonides the physician (1138-1204) — The Greco-Arabo-Jewish synthesis
 
 Maimonides, beyond his philosophical work, was the personal physician to the court of Saladin in Cairo. His medical treatises — written in Arabic — cover asthma, hemorrhoids, poisons, dietetics, and above all mental health.
 
 His *Treatise on Asthma* is the first text to note the psychosomatic component of the disease. His *Medical Aphorisms* (1,500 aphorisms organized in 25 chapters) circulated throughout Latin Europe.
 
-## The chain of transmission
+## 2. The chain of transmission {#s2}
 
 ```
 Galen/Hippocrates (Greece)
@@ -74,7 +76,7 @@ Galen/Hippocrates (Greece)
                             -> Modern European medicine
 ```
 
-## The lexical legacy
+## 3. The lexical legacy {#s3}
 
 | European term | Arabic origin | Meaning |
 |---------------|--------------|---------|
@@ -85,7 +87,7 @@ Galen/Hippocrates (Greece)
 | **Cotton** | *qutn* | Used by Al-Zahrawi as a dressing |
 | **Mattress** | *matrah* | Hospital bed |
 
-## The mechanism of occultation
+## 4. The mechanism of occultation {#s4}
 
 | Phase | Period | Process |
 |-------|--------|---------|
@@ -95,6 +97,6 @@ Galen/Hippocrates (Greece)
 | **Occultation** | 18th-19th c. | The history of medicine begins with Hippocrates and resumes at the Renaissance — the Islamic millennium is a "black hole" |
 | **Rediscovery** | 20th c. | Contemporary historiography (Pormann, Savage-Smith) restores the lineage |
 
-## The colonial irony
+## 5. The colonial irony {#s5}
 
 When French military doctors landed in Algeria in 1830, they brought a medicine descended from Al-Zahrawi to "civilize" the descendants of Al-Zahrawi. Colonial medicine — an instrument of legitimation for the civilizing project — is itself a legacy of the very world it claimed to civilize.

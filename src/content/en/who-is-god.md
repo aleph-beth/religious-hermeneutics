@@ -3,12 +3,10 @@ title: "God, Rationality, and Mediation"
 lang: en
 pair: who-is-god
 category: hermeneutics
-description: "An epistemological comparison of traditions"
+description: "Six axes, from the ontology of God to the mode of interpretation, to compare the thought structures of religious and philosophical traditions without ranking them."
 order: 3
+date: 2026-01-28
 ---
-
-# God, rationality, and mediation: an epistemological comparison of traditions
-
 
 | Current / Tradition | Ontology (God) | Causality | Divine will | Relationship to the world | Law | Interpretation |
 | ---------------------------------- | ---------------------------------- | --------- | -------------- | ----------------- | --------- | -------------- |
@@ -33,12 +31,12 @@ order: 3
 | **Buddhism (Theravāda)** | ❌ (no God) | ✅ | ❌ | Conditioned world | ◐ (Dharma) | ◐ |
 | **Mahāyāna Buddhism** | ❌ (emptiness) | ◐ | ❌ | Interdependence | ◐ | ✅ |
 
-## Table legend
+## 1. Table legend {#s1}
 
 This table offers a non-denominational comparative analysis of the major religious, philosophical, and spiritual traditions based on six distinct conceptual dimensions.
 It does not aim to evaluate the truth of beliefs or to rank traditions, but rather to highlight their thought structures.
 
-## Definition of columns
+## 2. Definition of columns {#s2}
 
 Ontology (God):
 The way in which the divine is conceived: a personal being, an impersonal principle, a symbolic structure, or the absence of God.
@@ -58,7 +56,7 @@ Existence of normative mediation (legal, moral, or symbolic) between the divine,
 Interpretation:
 Role recognized for exegesis, debate, and controlled plurality of meanings in the understanding of texts and doctrines.
 
-## Symbol convention
+## 3. Symbol convention {#s3}
 
 ✅: fully assumed dimension
 
@@ -66,7 +64,7 @@ Role recognized for exegesis, debate, and controlled plurality of meanings in th
 
 ❌: absent or explicitly rejected dimension
 
-## Methodological note
+## 4. Methodological note {#s4}
 
 The use of the term God in this table is functional and not substantive.
 It serves as a comparative entry point, including for traditions where the concept of God is absent or radically redefined (as in Buddhism or certain philosophies).

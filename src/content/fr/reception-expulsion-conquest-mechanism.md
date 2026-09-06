@@ -4,15 +4,17 @@ lang: fr
 pair: reception-expulsion-conquest-mechanism
 category: philosophy
 dossier: cordoue-lumieres
-description: "Le schéma en trois temps qui structure la relation Europe-Islam du XIIe au XXe siècle"
+description: "Du XIIe au XXe siècle, la relation Europe-Islam suit un schéma invariant en trois temps : réception du savoir, expulsion des transmetteurs, conquête avec les outils reçus."
 order: 2
+date: 2026-08-28
 ---
+
 **Type** : Analyse structurelle
 **Thèse** : La relation Europe-Islam entre le XIIe et le XXe siècle suit un schéma invariant en trois phases : réception du savoir → expulsion des transmetteurs → conquête avec les outils reçus.
 
 ---
 
-## Phase 1 : Réception (XIIe-XVe siècles)
+## 1. Phase 1 : Réception (XIIe-XVe siècles) {#s1}
 
 **Mécanisme** : L'Europe traduit, copie et assimile le savoir arabo-andalou. Les portes d'entrée sont Tolède (reconquise en 1085), Palerme (Sicile normande), Montpellier et Salerne. Les traducteurs sont majoritairement juifs — intermédiaires trilingues (arabe-hébreu-latin) entre deux mondes en guerre.
 
@@ -31,7 +33,7 @@ order: 2
 
 **Durée** : ~300 ans de transfert systématique.
 
-## Phase 2 : Expulsion (1492-1609)
+## 2. Phase 2 : Expulsion (1492-1609) {#s2}
 
 **Mécanisme** : Une fois le savoir assimilé, l'Europe expulse les communautés qui l'ont transmis.
 
@@ -45,7 +47,7 @@ order: 2
 
 **Point clé** : L'expulsion est *postérieure* à l'assimilation. L'Europe ferme la porte après avoir vidé la maison.
 
-## Phase 3 : Conquête (XVIe-XXe siècles)
+## 3. Phase 3 : Conquête (XVIe-XXe siècles) {#s3}
 
 **Mécanisme** : L'Europe retourne les outils reçus contre ceux qui les ont forgés.
 
@@ -59,7 +61,7 @@ order: 2
 | Tunisie (1881), Maroc (1912) | Supériorité technologique globale |
 | Moyen-Orient (mandats 1920) | Toute la panoplie |
 
-## Le paradoxe structurel
+## 4. Le paradoxe structurel {#s4}
 
 Le schéma réception-expulsion-conquête n'est pas propre à la relation Europe-Islam — c'est une loi de la transmission du savoir :
 

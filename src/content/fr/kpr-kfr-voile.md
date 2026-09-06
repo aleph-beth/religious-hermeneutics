@@ -4,12 +4,10 @@ lang: fr
 pair: kpr-kfr-voile
 category: etymology
 dossier: kafir-kippour
-description: "La grammaire coranique du voile et la captation moderne d'un geste protecteur"
+description: "Le khimār coranique est un geste de protection et de dignité ; le niqāb contemporain en est la captation. Une lecture philologique et théologique du voile."
 order: 4
+date: 2026-05-09
 ---
-
-# Voile et recouvrement : le *khimār* coranique et le *niqāb* contemporain
-## La grammaire coranique du voile et la captation moderne d'un geste protecteur
 
 > **Note méthodologique liminaire.** Cet article traite d'un sujet politiquement sensible. Quatre précautions sont à maintenir constamment :
 >
@@ -20,19 +18,6 @@ order: 4
 > 3. Reconnaître la pluralité des positions : la lecture phénoménologique de Saba Mahmood reste une voix importante, qui interdit de réduire les femmes voilées à des passives.
 >
 > 4. Récuser les instrumentalisations islamophobes qui utiliseraient la critique du voile facial pour stigmatiser les musulmans en bloc. Le miroir entre rigorisme et islamophobie *figerait à nouveau le mot*.
-
-## Table des matières
-
-1. [Introduction : deux thèses corrélées](#s1)
-2. [Les versets-clés et leur lecture philologique](#s2)
-3. [La constellation arabe du recouvrement](#s3)
-4. [Position des écoles juridiques classiques](#s4)
-5. [Le tournant rigoriste : généalogie du voile facial obligatoire](#s5)
-6. [Le théorème central : le *niqāb* inverse la grammaire coranique](#s6)
-7. [Trajectoire parallèle au *takfīr* étendu](#s7)
-8. [Lectures concurrentes](#s8)
-9. [Conclusion : une critique interne au Coran](#s9)
-10. [Bibliographie](#s10)
 
 ---
 
@@ -50,7 +35,7 @@ L'enjeu est philologique, théologique et historique. Il ne s'agit pas de juger 
 
 ## 2. Les versets-clés et leur lecture philologique {#s2}
 
-### 2.1 Le verset du *khimār* — Q 24, 30-31
+### 1 Le verset du *khimār* — Q 24, 30-31
 
 > **قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَٰرِهِمْ** وَيَحْفَظُوا فُرُوجَهُمْ … وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ **وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ**.
 >
@@ -62,7 +47,7 @@ La précision du *« sauf ce qui en paraît »* (*illā mā ẓahara minhā*) es
 
 Une remarque structurelle est ici décisive : le verset s'ouvre sur l'injonction faite *aux hommes* de baisser leurs regards (*« qul li-l-muʾminīn »*). La prescription de pudeur est *réciproque*. Elle ne porte pas seulement sur le corps féminin mais sur le regard masculin. C'est l'éthique commune de la *ghaḍḍ al-baṣar* — la modestie du regard partagée.
 
-### 2.2 Le verset du *jilbāb* — Q 33, 59
+### 2 Le verset du *jilbāb* — Q 33, 59
 
 > يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلۡمُؤۡمِنِينَ يُدۡنِينَ عَلَيۡهِنَّ مِن جَلَٰبِيبِهِنَّ ۚ **ذَٰلِكَ أَدۡنَىٰٓ أَن يُعۡرَفۡنَ فَلَا يُؤۡذَيۡنَ**.
 >
@@ -72,7 +57,7 @@ Une remarque structurelle est ici décisive : le verset s'ouvre sur l'injonction
 
 **Le *jilbāb* est un *marqueur d'identification*, pas un dispositif d'invisibilisation.** Voilà pourquoi, structurellement, il appartient à l'économie du *bon recouvrement* — comme l'armure (*kāfir*) qui *signale* le guerrier, comme la lumière qui *manifeste*. Couvrir, ici, c'est *rendre identifiable*, non *effacer*.
 
-### 2.3 Le verset du *ḥijāb*-rideau — Q 33, 53
+### 3 Le verset du *ḥijāb*-rideau — Q 33, 53
 
 > وَإِذَا سَأَلۡتُمُوهُنَّ مَتَٰعٗا فَسۡـَٔلُوهُنَّ **مِن وَرَآءِ حِجَابٖ**.
 >
@@ -82,7 +67,7 @@ Une remarque structurelle est ici décisive : le verset s'ouvre sur l'injonction
 
 Fatima Mernissi, dans *Le Voile et l'élite masculine* (1991), a montré, sur la base des textes mêmes, que **l'extension du mot *ḥijāb* à un voile vestimentaire général pour toutes les femmes musulmanes est une *abusive métonymie* qui efface la différence entre rideau de chambre et vêtement public**. C'est pourtant cette extension métonymique qui structure le vocabulaire contemporain du voile (*« mettre le hijab »*).
 
-### 2.4 La pudeur générale — Q 33, 32-33
+### 4 La pudeur générale — Q 33, 32-33
 
 > يَٰنِسَآءَ ٱلنَّبِيِّ لَسۡتُنَّ كَأَحَدٖ مِّنَ ٱلنِّسَآءِ … وَقَرۡنَ فِي بُيُوتِكُنَّ.
 >
@@ -90,7 +75,7 @@ Fatima Mernissi, dans *Le Voile et l'élite masculine* (1991), a montré, sur la
 
 **Lecture philologique précise.** Verset *spécifique* aux épouses du Prophète, qui établit pour elles un statut particulier (*« vous n'êtes pas comme les autres femmes »*). L'extension de cette prescription à toutes les musulmanes est, là encore, le résultat d'une opération exégétique tardive, contestée par la théologie féministe musulmane.
 
-### 2.5 Lien interne au Coran : *kufr* et imagerie textile
+### 5 Lien interne au Coran : *kufr* et imagerie textile
 
 Le Coran lui-même articule *kufr* et imagerie textile-architecturale, comme l'article 1 du dossier l'a établi :
 
@@ -124,13 +109,13 @@ L'arabe coranique déploie autour de l'idée de couverture une *famille* de raci
 
 ## 4. Position des écoles juridiques classiques {#s4}
 
-### 4.1 La *ʿawra* féminine
+### 1 La *ʿawra* féminine
 
 Position majoritaire des trois grandes écoles sunnites (ḥanafī, mālikī, shāfiʿī) : la *ʿawra* (zone du corps à couvrir) de la femme libre exclut le visage et les mains, qui peuvent rester découverts en public. Position minoritaire (certaines lectures hanbalites) : la *ʿawra* inclut le visage et les mains. **L'école hanbalite elle-même est divisée et la position « visage couvert » devient dominante seulement *tardivement* dans certains milieux.**
 
 Pour les références : Ibn Rushd, *Bidāyat al-Mujtahid*, qui résume les positions ; Ibn Qudāma, *Mughnī*. La *Bidāyat al-Mujtahid* d'Ibn Rushd est particulièrement précieuse parce qu'elle organise systématiquement les divergences inter-écoles : elle confirme le caractère *non univoque* de la jurisprudence classique sur la question.
 
-### 4.2 La pluralité régionale pré-moderne
+### 2 La pluralité régionale pré-moderne
 
 Le port effectif du voile a été *régionalement très divers* dans le monde musulman pré-moderne. Voile de tête en milieu urbain méditerranéen et perse ; tête nue ou voile léger chez les nomades, les paysannes, les femmes de classes populaires ; pratiques particulières dans les sociétés sub-sahariennes, indonésiennes, chinoises ou indiennes. **La standardisation contemporaine du voile est un phénomène moderne**, comme l'a documenté Leila Ahmed dans *A Quiet Revolution* (2011).
 
@@ -138,23 +123,23 @@ Le port effectif du voile a été *régionalement très divers* dans le monde mu
 
 ## 5. Le tournant rigoriste : généalogie du voile facial obligatoire {#s5}
 
-### 5.1 Ibn Taymiyya (XIVe s.)
+### 1 Ibn Taymiyya (XIVe s.)
 
 Ibn Taymiyya (m. 1328) durcit la position hanbalite et tend à étendre la *ʿawra* au visage. Ibn al-Qayyim al-Jawziyya prolonge le courant. Le tournant néo-hanbalite est ici parallèle à celui qu'on a vu sur le *takfīr* (article 3 § 2).
 
-### 5.2 Le wahhabisme (XVIIIe s.)
+### 2 Le wahhabisme (XVIIIe s.)
 
 Ibn ʿAbd al-Wahhāb (m. 1792) impose le voile facial dans les territoires sous contrôle saoudien. L'extension à l'ensemble de l'Arabie péninsulaire est un fait du XXe siècle (unification saoudienne 1932). Avant cela, même en Arabie, le voile facial n'était nullement universel.
 
-### 5.3 Le réveil islamique (1970-2020)
+### 3 Le réveil islamique (1970-2020)
 
 Le « réveil islamique » (*ṣaḥwa*) post-1970 généralise le *ḥijāb* (voile de tête) dans des sociétés musulmanes où il avait reculé sous l'effet des modernismes nationaux (Égypte de Nasser, Iran du Shah, Tunisie de Bourguiba, Turquie kémaliste). Le *niqāb* se diffuse par les réseaux salafistes et déobandis à partir des années 1980-1990, particulièrement après l'argent saoudien injecté dans la prédication mondiale.
 
-### 5.4 Imposition étatique
+### 4 Imposition étatique
 
 L'imposition d'État du voile (Iran 1979-, Afghanistan taliban 1996-2001 et 2021-, Arabie saoudite jusqu'à la réforme partielle de 2018) marque le point culminant. Les protestations iraniennes de 2022-2023 (« Femme, vie, liberté »), où des femmes ôtent leur voile en public, sont *philologiquement* intéressantes : elles refusent d'être *non reconnues* — c'est-à-dire qu'elles refusent l'inversion contemporaine du *yuʿrafna* coranique. Leur geste est, en un sens, *plus proche du Coran* que l'imposition gouvernementale.
 
-### 5.5 Datation de la trajectoire
+### 5 Datation de la trajectoire
 
 | Étape | Date | Acteur clé | Effet |
 |---|---|---|---|
@@ -170,7 +155,7 @@ L'imposition d'État du voile (Iran 1979-, Afghanistan taliban 1996-2001 et 2021
 
 ## 6. Le théorème central : le *niqāb* inverse la grammaire coranique {#s6}
 
-### 6.1 La double inversion
+### 1 La double inversion
 
 Le voile facial contemporain (*niqāb*, *burqaʿ*) **inverse philologiquement** la grammaire coranique du voile. Cette inversion s'opère à *deux niveaux* :
 
@@ -186,7 +171,7 @@ Le voile facial contemporain (*niqāb*, *burqaʿ*) **inverse philologiquement** 
 - Là où le Coran reproche au *kāfir* d'avoir le regard couvert, le voile facial couvre le visage de la croyante.
 - **La structure du voile facial moderne reproduit, sur le corps de la croyante, le geste que le Coran reproche au mécréant.**
 
-### 6.2 Le théorème
+### 2 Le théorème
 
 On peut formuler le théorème en une phrase :
 
@@ -196,7 +181,7 @@ On peut formuler le théorème en une phrase :
 
 Cette inversion philologique est *l'une des opérations les plus saisissantes* de la modernité religieuse islamique radicale. Elle n'est pas perçue comme telle, parce que la mémoire de la racine *k-f-r* a été appauvrie (cf. article 3) ; mais elle est, structurellement, manifeste pour qui mobilise la philologie comparée.
 
-### 6.3 Articulation interne avec les sœurs sémitiques
+### 3 Articulation interne avec les sœurs sémitiques
 
 Le *kapporet* hébraïque (Lv 16) — couvercle d'or qui *recouvre* l'Arche d'Alliance — est posé pour *protéger* la rencontre du saint et de l'humain ; il ne s'agit jamais d'effacer l'humain. Le *parokhet* du Temple de Jérusalem sépare le Saint des Saints du sanctuaire ordinaire, mais il ne s'agit pas non plus d'effacer le visage du grand prêtre. La déchirure de ce *parokhet* à la mort du Christ (Mt 27, 51 ; Mc 15, 38 ; Lc 23, 45) est chez les Synoptiques *une ouverture*, pas une fermeture. **Toute la tradition sémitique du voile cultuel est protectrice, jamais occultatrice.** Le voile facial moderne est, en ce sens, *exorbitant* à la grammaire sémitique partagée.
 
@@ -220,27 +205,27 @@ L'article 3 du dossier a démontré que le *takfīr* extensif est une innovation
 
 ## 8. Lectures concurrentes {#s8}
 
-### 8.1 Lecture féministe-musulmane (Mernissi, Lamrabet, Wadud, Barlas, Hassan, Ahmed)
+### 1 Lecture féministe-musulmane (Mernissi, Lamrabet, Wadud, Barlas, Hassan, Ahmed)
 
 Le voile coranique est une prescription de modestie inscrite dans des conditions historiques précises (Médine, VIIe siècle, harcèlement urbain des femmes), modulée par un horizon éthique général (la pudeur réciproque des hommes et des femmes, soulignée par Q 24, 30 *avant* Q 24, 31). Le *khimār* et le *jilbāb* sont des dispositifs de *signalement* et de *protection*, non d'occultation. Le voile facial est une innovation tardive, hétérogène à la grammaire coranique elle-même, diffusée par les courants rigoristes modernes. **La position féministe musulmane récuse donc le *niqāb* et le *burqaʿ* *au nom du Coran lui-même*, sans avoir besoin d'arguments externes.** Position dominante dans la théologie musulmane progressiste contemporaine, particulièrement au Maghreb, en Indonésie et dans les diasporas occidentales.
 
-### 8.2 Lecture phénoménologique-pieuse (Mahmood, Bullock)
+### 2 Lecture phénoménologique-pieuse (Mahmood, Bullock)
 
 Saba Mahmood (*Politics of Piety*, 2005), à partir d'une enquête ethnographique dans le mouvement pieux égyptien, défend la pratique du voile (y compris le *niqāb* dans certains cas) comme **forme d'*agency* religieuse féminine**, irréductible à la grille libérale de l'émancipation. Pour elle, juger le voile comme *« occultation »* est encore un geste colonial-libéral qui méconnaît la temporalité religieuse propre du sujet pieux. Cette position est philosophiquement importante (héritière de Foucault et Talal Asad) ; elle ne *défend* pas le voile facial mais *résiste à sa critique externe*. Position dominante dans l'anthropologie post-coloniale. Elle ne contredit pas la lecture féministe-musulmane sur le terrain philologique mais la décale au plan des pratiques effectives.
 
-### 8.3 Lecture critique-radicale (El Saadawi, Chebel)
+### 3 Lecture critique-radicale (El Saadawi, Chebel)
 
 Nawal El Saadawi (*The Hidden Face of Eve*, 1980) et Malek Chebel défendent une critique frontale : le voile, dans toutes ses formes, est l'expression d'un patriarcat qu'il faut combattre. Cette position ne distingue pas finement *khimār* / *niqāb* et tend à rejeter en bloc. Position minoritaire mais influente dans les milieux laïcs maghrébins et égyptiens. Elle a contribué au discours public mais est récusée par la majorité des théologiennes féministes musulmanes qui jugent qu'on peut *défendre la modestie coranique* tout en *récusant le voile facial moderne*.
 
-### 8.4 Lecture conservatrice-traditionnelle
+### 4 Lecture conservatrice-traditionnelle
 
 Position des écoles juridiques classiques, qui maintient la *pluralité* (visage et mains visibles selon ḥanafī, mālikī, shāfiʿī ; visage couvert pour certaines lectures ḥanbalī minoritaires), et qui historiquement a *coexisté pacifiquement* avec des pratiques sociales très diverses selon les régions du monde musulman. Cette position pré-moderne n'est plus présente que dans les courants traditionnels (Azhar, Zaytuna, Qarawiyyīn, Deobandi modéré) et a été marginalisée par le réveil salafiste.
 
-### 8.5 Lecture salafiste-rigoriste contemporaine
+### 5 Lecture salafiste-rigoriste contemporaine
 
 Position issue d'Ibn Taymiyya et radicalisée par le wahhabisme : la *ʿawra* de la femme inclut *tout son corps, visage et mains compris*. Le *niqāb* est obligatoire. Position **doctrinalement minoritaire** dans l'histoire islamique mais **discursivement hégémonique** dans certaines sphères contemporaines (Arabie saoudite jusqu'à 2018, courants salafistes mondiaux, jihadisme).
 
-### 8.6 Niveaux de certitude
+### 6 Niveaux de certitude
 
 | Affirmation | Degré |
 |---|---|

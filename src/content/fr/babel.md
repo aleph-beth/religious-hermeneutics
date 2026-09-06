@@ -5,24 +5,8 @@ pair: babel
 category: etymology
 description: "בבל est le miroir consonantique de לבב : le noyau lu à l'envers donne la tour. La science comme tour de Babel — et son rachat."
 order: 3
+date: 2026-06-17
 ---
-
-# Babel — Le noyau, la technique et la scientia Dei
-## בבל est le miroir consonantique de לבב — le noyau lu à l'envers donne la tour
-
-## Table des matières
-
-1. [Ouverture — Le noyau lu à rebours](#s1)
-2. [Le noyau : *lev / levav / lubb*](#s2)
-3. [Le renversement לבב ↔ בבל](#s3)
-4. [Le verset technicien (Genèse 11,3)](#s4)
-5. [La brique blanche : la réflexion gelée](#s5)
-6. [La pierre généalogique : *even* = *av* + *ben*](#s6)
-7. [Le bitume : *ḥ-m-r*, la matière sans forme](#s7)
-8. [L'ironie littérale : le bitume est le pétrole](#s8)
-9. [La science comme tour de Babel](#s9)
-10. [Conclusion — Les deux étages et la troisième voie](#s10)
-11. [Repères bibliographiques](#s11)
 
 ---
 

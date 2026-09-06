@@ -6,17 +6,19 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "Irrigation, riz, sucre, coton, safran : la révolution verte islamique transforme le paysage et l'économie de l'Europe"
 order: 10
+date: 2026-08-28
 ---
+
 **Type** : Analyse stratégique — transfert agronomique
 **Thèse** : L'Espagne et le Portugal ne sont pas seulement héritiers de la science nautique et de la philosophie de Cordoue — ils héritent aussi d'une **révolution agricole** qui transforme le paysage, l'alimentation et l'économie de l'Europe méridionale. Les cultures, les techniques d'irrigation et les savoirs agronomiques andalous sont le socle invisible de la prospérité ibérique puis européenne.
 
 ---
 
-## La "Révolution verte" islamique (Andrew Watson, 1974)
+## 1. La "Révolution verte" islamique (Andrew Watson, 1974) {#s1}
 
 L'historien Andrew Watson identifie une véritable révolution agricole dans le monde islamique médiéval, dont Al-Andalus est l'épicentre occidental. Cette révolution repose sur trois piliers :
 
-### 1. L'introduction de nouvelles cultures
+### L'introduction de nouvelles cultures
 
 Les Arabes transportent des plantes depuis l'Inde, la Perse et l'Afrique de l'Est vers la Méditerranée occidentale. Al-Andalus devient le laboratoire de cette acclimatation :
 
@@ -34,7 +36,7 @@ Les Arabes transportent des plantes depuis l'Inde, la Perse et l'Afrique de l'Es
 | **Abricot** | Chine/Perse | *albaricoque* < *al-barquq* | Arboriculture méditerranéenne |
 | **Pastèque** | Afrique | *sandía* (de l'arabe *sindiyya*) | Alimentation estivale |
 
-### 2. L'irrigation systématique
+### L'irrigation systématique
 
 Al-Andalus transforme les systèmes d'irrigation romains hérités en un réseau sophistiqué :
 
@@ -49,7 +51,7 @@ Al-Andalus transforme les systèmes d'irrigation romains hérités en un réseau
 
 Le **Tribunal de las Aguas** de Valence, qui siège chaque jeudi devant la cathédrale depuis le Xe siècle, est une institution juridique directement héritée du droit de l'eau islamique. Il est inscrit au patrimoine immatériel de l'UNESCO.
 
-### 3. L'agronomie comme science
+### L'agronomie comme science
 
 Al-Andalus produit les premiers traités d'agronomie systématique d'Europe occidentale :
 
@@ -62,7 +64,7 @@ Al-Andalus produit les premiers traités d'agronomie systématique d'Europe occi
 
 Le *Kitab al-Filaha* d'Ibn al-'Awwam ne sera traduit en espagnol qu'en **1802** — sept siècles après sa rédaction. Pendant tout ce temps, ses techniques étaient pratiquées sans que leur source soit reconnue.
 
-## Le paradoxe colonial : la canne à sucre
+## 2. Le paradoxe colonial : la canne à sucre {#s2}
 
 La chaîne de la canne à sucre est l'exemple le plus frappant du mécanisme réception-expulsion-conquête appliqué à l'agriculture :
 
@@ -80,7 +82,7 @@ Inde (culture de la canne)
 
 Le sucre — le produit qui justifie la traite négrière et l'esclavage de plantation — est un savoir agronomique islamique, transmis par Al-Andalus, retourné comme instrument de domination coloniale.
 
-## Le paysage espagnol comme mémoire
+## 3. Le paysage espagnol comme mémoire {#s3}
 
 L'Espagne actuelle est un palimpseste agricole andalou :
 
@@ -93,7 +95,7 @@ L'Espagne actuelle est un palimpseste agricole andalou :
 
 Les touristes qui admirent le "paysage méditerranéen espagnol" contemplent un paysage arabe.
 
-## Bilan : ce que l'agriculture andalouse change en Europe
+## 4. Bilan : ce que l'agriculture andalouse change en Europe {#s4}
 
 | Avant Al-Andalus | Après Al-Andalus |
 |-------------------|-----------------|

@@ -3,16 +3,12 @@ title: "Laïcité et Islam : le malentendu mutazilite"
 lang: fr
 pair: laicite-mutazilisme
 category: philosophy
-description: "Pourquoi la laïcité est possible pour le mutazilisme et impossible pour le sunnisme"
+description: "Le mutazilisme partage le socle épistémologique de la laïcité ; le sunnisme orthodoxe s'est construit contre lui. Pourquoi l'argument mutazilite se retourne."
 order: 5
+date: 2026-04-11
 ---
 
-# Laïcité et Islam : le malentendu mutazilite
-## Pourquoi la laïcité est possible pour le mutazilisme et impossible pour le sunnisme
-
-*Gregory L. — Avril 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 Dans le débat contemporain sur la compatibilité entre islam et laïcité, un argument revient avec insistance : le Mutazilisme, courant rationaliste de l'islam médiéval, aurait démontré que l'islam et la raison — et donc la laïcité — sont compatibles. On invoque cette tradition pour réfuter l'essentialisation de l'islam comme bloc homogène et irraisonnable.
 
@@ -22,9 +18,9 @@ La thèse que nous défendons est la suivante : le Mutazilisme est effectivement
 
 ---
 
-## I. Le Mutazilisme : une révolution théologique avortée
+## 2. Le Mutazilisme : une révolution théologique avortée {#s2}
 
-### 1.1 La naissance d'une théologie de la raison
+### 1 La naissance d'une théologie de la raison
 
 Né à Bassora au VIIIe siècle sous l'impulsion de Wāṣil ibn ʿAṭāʾ et ʿAmr ibn ʿUbayd, le Mutazilisme constitue l'un des courants théologiques les plus audacieux de l'histoire islamique. Son apogée correspond au califat abbasside de Maʾmūn (813–833), qui en fit la doctrine officielle de l'État.
 
@@ -37,7 +33,7 @@ Ses thèses centrales sont révolutionnaires dans le contexte islamique :
 
 Ces positions sont les conditions épistémologiques nécessaires à toute forme de laïcisation : une raison autonome, un texte historicisable, une conscience individuelle réelle, et une loi séparable du divin.
 
-### 1.2 La Miḥna : le retournement de 848
+### 2 La Miḥna : le retournement de 848
 
 Ce qui rend le destin du Mutazilisme tragique, c'est qu'il fut renversé par son propre excès de pouvoir. La Miḥna (833–848), l'inquisition mutazilite imposée par Maʾmūn, contraignait les juristes à professer que le Coran est créé. Aḥmad ibn Ḥanbal, qui refusa jusqu'à la torture, devint le héros populaire de la résistance.
 
@@ -45,7 +41,7 @@ Sous le calife Mutawakkil en 848, le renversement est total et définitif. Le Mu
 
 Le Mutazilisme ne sera plus jamais une force dominante dans l'islam sunnite. Il survivra, marginalement, dans l'islam chiite zaydite du Yémen — branche que l'orthodoxie sunnite considère également comme déviante.
 
-### 1.3 1258 : Bagdad brûle, le Mutazilisme est enterré définitivement
+### 3 1258 : Bagdad brûle, le Mutazilisme est enterré définitivement
 
 Si 848 marque la défaite institutionnelle du Mutazilisme, la destruction de Bagdad par les Mongols en 1258 en constitue le tombeau définitif. La capitale abbasside était le cœur vivant de la *falsafa* arabe — ces traducteurs et philosophes qui avaient absorbé l'héritage hellénistique pour le fondre dans la pensée islamique.
 
@@ -53,9 +49,9 @@ Après 1258, l'islam est en deuil de sa propre capacité spéculative. Le *taql�
 
 ---
 
-## II. Le Sunnisme : une architecture construite contre la laïcité
+## 3. Le Sunnisme : une architecture construite contre la laïcité {#s3}
 
-### 2.1 L'Ashʿarisme : une réponse systématique au rationalisme
+### 1 L'Ashʿarisme : une réponse systématique au rationalisme
 
 La théologie ashʿarite, formulée par Abū al-Ḥasan al-Ashʿarī (873–935), n'est pas simplement une alternative au Mutazilisme. Elle en est la négation systématique, construite point par point en réponse à ses thèses :
 
@@ -64,13 +60,13 @@ La théologie ashʿarite, formulée par Abū al-Ḥasan al-Ashʿarī (873–935)
 - **Le libre arbitre est réduit** : le concept de *kasb* (acquisition) maintient une responsabilité formelle humaine, mais sans véritable autonomie causale.
 - **Les attributs divins sont réels** : formule *bilā kayfa* — sans demander comment. La révélation est acceptée telle quelle, sans spéculation rationnelle.
 
-### 2.2 Le Wahhabisme : la radicalisation de l'anti-mutazilisme
+### 2 Le Wahhabisme : la radicalisation de l'anti-mutazilisme
 
 Si l'Ashʿarisme est la réponse médiévale au Mutazilisme, le Wahhabisme fondé par Muḥammad ibn ʿAbd al-Wahhāb au XVIIIe siècle en est la radicalisation moderne. Exporté mondialement depuis les années 1970 grâce aux pétrodollars saoudiens, il représente aujourd'hui le courant le plus influent de l'islam sunnite mondial.
 
 Sa position vis-à-vis de la raison est sans équivoque : la philosophie (*falsafa*) est une *bidʿa* — une innovation blâmable, prohibée. Le Mutazilisme, dans cette perspective, n'est pas seulement une erreur théologique. C'est une hérésie. Le Wahhabisme est ainsi, littéralement, l'exact opposé théologique du Mutazilisme.
 
-### 2.3 La Umma contre l'individu
+### 3 La Umma contre l'individu
 
 La laïcité, telle qu'elle fut pensée par les républicains de 1905, repose sur la primauté de la conscience individuelle sur l'appartenance communautaire. C'est précisément l'inverse de la structure sunnite. Dans l'orthodoxie sunnite, l'appartenance à la *Umma* — la communauté des croyants — est constitutive de l'identité.
 
@@ -78,15 +74,15 @@ L'apostasie (*ridda*) est juridiquement sanctionnée non pas parce qu'elle offen
 
 ---
 
-## III. Le malentendu épistémologique
+## 4. Le malentendu épistémologique {#s4}
 
-### 3.1 La potentialité contre la réalité
+### 1 La potentialité contre la réalité
 
 L'argument mutazilite, tel qu'il est mobilisé dans le débat contemporain, confond deux registres : ce que l'islam a pu produire intellectuellement dans certaines conditions historiques, et ce que l'islam institutionnel sunnite produit comme rapport à la raison, à la loi et à l'État aujourd'hui.
 
 Dire que l'islam mutazilite a contribué à la naissance de l'humanisme européen est historiquement exact. Mais cela ne dit rien sur la compatibilité de l'islam sunnite majoritaire contemporain avec la laïcité, pour la raison simple que le Sunnisme s'est construit précisément pour éliminer ce qui rendait le Mutazilisme fructueux.
 
-### 3.2 L'argument du passé glorieux sélectif
+### 2 L'argument du passé glorieux sélectif
 
 Invoquer le Mutazilisme pour démontrer la compatibilité de l'islam avec la laïcité revient à choisir la tradition minoritaire vaincue pour représenter « l'islam », en ignorant que la tradition victorieuse a précisément éliminé la première. C'est une forme d'*argumentum ad potentiam* : on invoque ce qu'une chose aurait pu être pour justifier ce qu'elle est.
 
@@ -94,7 +90,7 @@ L'analogie chrétienne éclaire la faiblesse de la démarche : si quelqu'un voul
 
 Invoquer le Mutazilisme pour démontrer la compatibilité de l'islam avec la laïcité, c'est prouver involontairement que cette compatibilité existe — mais dans une tradition minoritaire, vaincue, et institutionnellement absente de l'islam sunnite contemporain.
 
-### 3.3 La révolution théologique nécessaire
+### 3 La révolution théologique nécessaire
 
 Ce que le débat contemporain n'énonce jamais explicitement est la condition nécessaire à la thèse de la compatibilité : elle est possible, mais à la condition d'accepter une révolution théologique équivalente à celle que le christianisme a mis quatre siècles à accomplir — de la Réforme à Vatican II.
 
@@ -102,7 +98,7 @@ Cette révolution ne peut pas venir de l'extérieur par voie législative ou adm
 
 ---
 
-## Conclusion : deux islams, une épistémologie incompatible
+## 5. Conclusion : deux islams, une épistémologie incompatible {#s5}
 
 La conclusion de cette analyse n'est ni un jugement sur les croyants, ni un appel à l'essentialisation de l'islam. Elle est d'ordre strictement épistémologique et historique.
 
@@ -114,7 +110,7 @@ Le Mutazilisme est le tombeau dans lequel le Sunnisme a enterré la possibilité
 
 Nommer cette réalité sans complaisance n'est pas de l'islamophobie. C'est la condition d'un débat intellectuellement honnête sur les conditions théologiques, historiques et institutionnelles d'une possible réforme de l'islam sunnite — qui viendra, si elle vient, de l'intérieur de ses propres traditions.
 
-## Bibliographie sélective
+## 6. Bibliographie sélective {#s6}
 
 - Gimaret, Daniel. *La doctrine d'al-Ashʿarī*. Paris : Cerf, 1990.
 - Hourani, George F. *Islamic Rationalism: The Ethics of ʿAbd al-Jabbār*. Oxford : Clarendon Press, 1971.

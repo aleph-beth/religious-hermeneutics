@@ -4,15 +4,17 @@ lang: fr
 pair: maghreb-colonization
 category: philosophy
 dossier: cordoue-lumieres
-description: "Algérie (1830), Tunisie, Maroc : l'Europe colonise les terres d'accueil des exilés andalous"
+description: "La France colonise au XIXe siècle les terres où s'étaient réfugiés les Morisques expulsés d'Espagne, avec des outils hérités d'al-Andalus : le retour en armes de l'Europe."
 order: 16
+date: 2026-08-28
 ---
+
 **Type** : Étude de cas
 **Thèse** : La colonisation française du Maghreb est le retour en armes de l'Europe sur les terres d'accueil des exilés andalous. Les Morisques expulsés d'Espagne (1609) s'étaient réfugiés au Maghreb ; deux siècles plus tard, la France colonise ces mêmes terres avec les outils hérités d'Al-Andalus.
 
 ---
 
-## Le lien andalou du Maghreb
+## 1. Le lien andalou du Maghreb {#s1}
 
 ### Les vagues d'exil
 
@@ -35,7 +37,7 @@ Les exilés andalous transforment les villes où ils s'installent :
 
 Le Maghreb colonial est un Maghreb partiellement andalou.
 
-## La colonisation française
+## 2. La colonisation française {#s2}
 
 ### Algérie (1830-1962)
 
@@ -59,7 +61,7 @@ Protectorat français imposé par le traité du Bardo. La Tunisie — où les Mo
 
 Protectorat franco-espagnol. Fès, Tétouan, Chefchaouen — villes façonnées par les exilés andalous — passent sous contrôle européen. L'Espagne, qui avait expulsé les Morisques, revient coloniser les villes où ils s'étaient réfugiés.
 
-## Le double retour
+## 3. Le double retour {#s3}
 
 La colonisation du Maghreb est un **double retour** :
 
@@ -67,7 +69,7 @@ La colonisation du Maghreb est un **double retour** :
 
 2. **L'Europe revient avec les outils d'Al-Andalus** : artillerie (poudre arabe), navigation (astrolabe), science (héritée via Tolède). Les outils de la conquête sont ceux du conquis.
 
-## La mémoire andalouse dans la résistance
+## 4. La mémoire andalouse dans la résistance {#s4}
 
 La mémoire d'Al-Andalus joue un rôle dans les mouvements de résistance maghrébins :
 - La chute de Grenade (1492) est un traumatisme mémoriel vivant

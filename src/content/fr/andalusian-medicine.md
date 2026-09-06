@@ -6,15 +6,17 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "Al-Zahrawi invente la chirurgie systématique, Ibn Zuhr fonde la clinique expérimentale — manuels européens pendant cinq siècles"
 order: 8
+date: 2026-08-28
 ---
+
 **Type** : Analyse stratégique — transfert médical
 **Thèse** : La médecine européenne moderne est fille de Cordoue. Al-Zahrawi (Abulcasis) invente la chirurgie systématique, Ibn Zuhr (Avenzoar) fonde la médecine clinique expérimentale, Maïmonide synthétise le savoir gréco-arabe. Leurs textes, traduits à Tolède, deviennent les manuels obligatoires des universités européennes pendant cinq siècles — puis l'Europe efface leur nom.
 
 ---
 
-## Les trois géants de la médecine cordouane
+## 1. Les trois géants de la médecine cordouane {#s1}
 
-### 1. Al-Zahrawi (Abulcasis, 936-1013) — Le père de la chirurgie
+### Al-Zahrawi (Abulcasis, 936-1013) — Le père de la chirurgie
 
 | | Détail |
 |---|---|
@@ -34,7 +36,7 @@ Le trentième volume du *Tasrif*, consacré à la chirurgie, est une révolution
 
 **Durée de vie européenne du texte** : le *Tasrif* est utilisé comme manuel à Salerne, Montpellier, Bologne et Paris du XIIe au XVIIe siècle — **cinq cents ans**.
 
-### 2. Ibn Zuhr (Avenzoar, 1094-1162) — Le clinicien expérimental
+### Ibn Zuhr (Avenzoar, 1094-1162) — Le clinicien expérimental
 
 | | Détail |
 |---|---|
@@ -51,13 +53,13 @@ Le trentième volume du *Tasrif*, consacré à la chirurgie, est une révolution
 
 Le tandem **Ibn Zuhr (pratique) + Averroès (théorie)** préfigure la division moderne entre médecine clinique et médecine théorique.
 
-### 3. Maïmonide médecin (1138-1204) — La synthèse gréco-arabo-juive
+### Maïmonide médecin (1138-1204) — La synthèse gréco-arabo-juive
 
 Maïmonide, au-delà de son oeuvre philosophique, est médecin personnel de la cour de Saladin au Caire. Ses traités médicaux — écrits en arabe — couvrent l'asthme, les hémorroïdes, les poisons, la diététique, et surtout la santé mentale.
 
 Son *Traité sur l'asthme* est le premier texte à noter la composante psychosomatique de la maladie. Ses *Aphorismes médicaux* (1 500 aphorismes organisés en 25 chapitres) circulent dans toute l'Europe latine.
 
-## La chaîne de transmission
+## 2. La chaîne de transmission {#s2}
 
 ```
 Galien/Hippocrate (Grèce)
@@ -74,7 +76,7 @@ Galien/Hippocrate (Grèce)
                             → Médecine moderne européenne
 ```
 
-## L'héritage lexical
+## 3. L'héritage lexical {#s3}
 
 | Terme européen | Origine arabe | Signification |
 |---------------|--------------|---------------|
@@ -85,7 +87,7 @@ Galien/Hippocrate (Grèce)
 | **Coton** | *qutn* | Utilisé par Al-Zahrawi comme pansement |
 | **Matelas** | *matrah* | Lit d'hôpital |
 
-## Le mécanisme d'occultation
+## 4. Le mécanisme d'occultation {#s4}
 
 | Phase | Période | Processus |
 |-------|---------|-----------|
@@ -95,6 +97,6 @@ Galien/Hippocrate (Grèce)
 | **Occultation** | XVIIIe-XIXe s. | L'histoire de la médecine commence à Hippocrate et reprend à la Renaissance — le millénaire islamique est un "trou noir" |
 | **Redécouverte** | XXe s. | Historiographie contemporaine (Pormann, Savage-Smith) rétablit la filiation |
 
-## L'ironie coloniale
+## 5. L'ironie coloniale {#s5}
 
 Quand les médecins militaires français débarquent en Algérie en 1830, ils apportent une médecine qui descend d'Al-Zahrawi pour "civiliser" les descendants d'Al-Zahrawi. La médecine coloniale — instrument de légitimation du projet civilisateur — est elle-même un héritage du monde qu'elle prétend civiliser.

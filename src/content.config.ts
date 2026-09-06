@@ -10,6 +10,7 @@ const articles = defineCollection({
     dossier: z.string().optional(),
     description: z.string().optional(),
     order: z.number().optional(),
+    date: z.union([z.string(), z.date()]).transform(d => (d instanceof Date ? d.toISOString().slice(0, 10) : d)).optional(),
   }),
 });
 

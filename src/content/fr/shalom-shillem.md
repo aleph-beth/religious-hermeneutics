@@ -5,29 +5,8 @@ pair: shalom-shillem
 category: etymology
 description: "Sh-L-M : être entier, solder un compte, livrer. Pourquoi « paix » et « vengeance » sont le même mot — de la brit shalom de Pinḥas au nom même de l'islam."
 order: 5
+date: 2026-08-06
 ---
-
-# Shalom : la lettre cassée
-## Pourquoi « paix » et « vengeance » sont le même mot
-
-## Table des matières
-
-1. [Ouverture — Une lettre volontairement abîmée](#s1)
-2. [La racine Sh-L-M : entier, non pas paisible](#s2)
-3. [*Shillem* : rembourser, s'acquitter, se venger](#s3)
-4. [Les *shelamim* : la paix comme reste du sacrifice](#s4)
-5. [*Shalem* : ce que le fer n'a pas entamé](#s5)
-6. [Un nom de Dieu, un mot de salut](#s6)
-7. [Ceux qui portent le nom : Absalom et Salomon](#s7)
-8. [Jérusalem : la ville de l'achèvement](#s8)
-9. [Les deux Salomé : ce que le texte dit, ce que la culture a entendu](#s9)
-10. [Shlom-Tsion : la reine dont la paix a fini en occupation](#s10)
-11. [Transmettre et trahir : *ashlem*, *masar*, *tradere*](#s11)
-12. [L'arabe : *salima*, *sallama*, *aslama*](#s12)
-13. [Une religion nommée d'un geste : entre quelles mains ?](#s13)
-14. [Conclusion — La fidélité d'une lettre abîmée](#s14)
-15. [Pour continuer](#s15)
-16. [Repères bibliographiques](#s16)
 
 ---
 

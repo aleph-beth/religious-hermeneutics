@@ -3,16 +3,12 @@ title: "Did the Jews of Medina Recognize Jesus as a Prophet?"
 lang: en
 pair: jews-medina-isa
 category: hermeneutics
-description: "Judeo-Christian permeability and Quranic prophetic logic"
+description: "If the Jews of Medina awaited a prophet after Israel, Qur'anic logic implies they had recognized Jesus: a forgotten Judeo-Christian permeability."
 order: 4
+date: 2026-04-07
 ---
 
-# Did the Jews of Medina Recognize Jesus as a Prophet?
-## Judeo-Christian Permeability and Quranic Prophetic Logic
-
-*Gregory L. — April 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 A widely held belief in the Islamic tradition asserts that the Jews of Medina knew, even before Muhammad's coming, that a prophet would arise from Arabia.
 The sources of the Sīra and the hadiths report that these Jewish communities possessed indications in their Scriptures about this imminent arrival.
@@ -21,7 +17,7 @@ This claim, often taken for granted in Muslim apologetics, deserves to be examin
 
 This article explores this hypothesis in three stages. First, the internal logical tension within the Quranic narrative. Then, the historical context of permeability between Jewish and Christian communities in Late Antiquity. Finally, the theological implications of this reading for understanding the religious environment in which the Quran emerged.
 
-## I. The Logical Tension of the Quranic Narrative
+## 2. The Logical Tension of the Quranic Narrative {#s2}
 
 ### The Expectation of an Arab Prophet
 
@@ -41,7 +37,7 @@ The resolution of this paradox is as follows: if these Jews were indeed expectin
 
 This reasoning, conducted strictly within the Quranic logic, suggests that the "Jews" the Quran speaks of were not rabbinic Jews in the classical sense, but communities whose theology encompassed ʿĪsā — what the history of religions calls Jewish Christians.
 
-## II. Judeo-Christian Permeability in Late Antiquity
+## 3. Judeo-Christian Permeability in Late Antiquity {#s3}
 
 ### Late and Gradual Boundaries
 
@@ -63,7 +59,7 @@ The 7th-century Hejaz was far removed from the great centers of doctrinal normal
 
 Several scholars have advanced the hypothesis that Muhammad's religious environment was strongly marked by a residual Jewish Christianity. Hans-Joachim Schoeps, as early as 1949, noted the striking parallels between Quranic Christology and that of the Ebionites. Shlomo Pines deepened this line of inquiry in 1966. More recently, Édouard-Marie Gallez proposed an ambitious thesis according to which the proto-Islamic movement originated from a Judeo-Nazarene current.
 
-## III. Theological Implications
+## 4. Theological Implications {#s4}
 
 ### A Christianity Without the Trinity in the Quran
 
@@ -91,13 +87,13 @@ This hypothesis would also explain why the Quran never polemicizes against Jewis
 
 If this reading is correct, some of the Prophet's earliest companions — those figures whom tradition presents simply as "believers" — may have been, before Islam, Jewish Christians whose prior religious identity was absorbed and erased by the encompassing category of *muslim*. Early Islam would not merely have been in dialogue with Jewish Christianity — it would have, in part, inherited from it.
 
-## Conclusion
+## 5. Conclusion {#s5}
 
 The expectation of an Arab prophet by the Jews of Medina, as the Islamic tradition reports it, logically implies that these communities had integrated ʿĪsā into their prophetic vision. This conclusion, drawn from within the Quranic framework, converges with historical research on Jewish Christianity in Late Antiquity.
 
 It invites us to rethink the "Jews" of the Quran not as representatives of rabbinic Judaism, but as the last witnesses of a religious continuum where the boundary between Jew and Christian had not yet been drawn. The Quran, in this perspective, does not emerge from a theological desert, but from a crossroads where the Abrahamic traditions still mingled — and where the question of prophetic succession was, precisely, open.
 
-## Selected Bibliography
+## 6. Selected Bibliography {#s6}
 
 - Boyarin, Daniel. *Border Lines: The Partition of Judaeo-Christianity*. University of Pennsylvania Press, 2004.
 - Gallez, Édouard-Marie. *Le Messie et son prophète : aux origines de l'islam*. 2 vols. Éd. de Paris, 2005.

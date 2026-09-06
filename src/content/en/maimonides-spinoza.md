@@ -3,15 +3,14 @@ title: "Maimonides, the Spinoza that the Islamic World Never Had?"
 lang: en
 pair: maimonides-spinoza
 category: philosophy
-description: "A philosophical comparison of rationalist approaches"
+description: "Why demand a Spinoza of the Muslim world? Maimonides already held that function in the twelfth century; what needs explaining is the bifurcation that followed."
 order: 2
+date: 2026-01-27
 ---
 
-# **Maimonides, the Spinoza that the Islamic world never had?**
+## 1. Introduction {#s1}
 
-## **Introduction**
-
-## Why was there no Spinoza in the Muslim world? A poorly framed question and a persistent blind spot
+## 2. Why was there no Spinoza in the Muslim world? A poorly framed question and a persistent blind spot {#s2}
 
 It has become commonplace in certain contemporary intellectual discourse to lament the absence of a “Spinoza” in the Arab or Muslim world. This complaint, often expressed in a critical or accusatory tone, is based on the implicit idea that a philosophical modernity comparable to that of Europe should have emerged in Islam, and that it failed to do so. However, such an expectation stems from a **major conceptual anachronism**: it projects onto another historical, linguistic, and theological-political world a figure—Baruch Spinoza—who is only intelligible after a long process internal to modern Europe.
 
@@ -23,15 +22,13 @@ Therefore, the relevant question is not: *“Why did the Islamic world not produ
 
 This study therefore proposes to shift the debate: it is not a question of measuring a lack or a delay, but of understanding **a historical bifurcation**, where the philosophical work inaugurated and brought to a high degree of coherence by Maimonides did not find the political and institutional conditions necessary to cross the threshold that only European modernity would make possible.
 
-## **II. Maimonides and Spinoza: structural continuity, political divergence**
+## 3. Maimonides and Spinoza: structural continuity, political divergence {#s3}
 
-
-
-### **II.1. Guiding hypothesis**
+### Guiding hypothesis
 
 Comparing Maimonides (1138–1204) and Spinoza (1632–1677) does not consist in establishing a direct filiation, but in identifying a **structural homology** : two critical rationalisms aimed at neutralizing anthropomorphism, reinterpreting prophecy, and subordinating religion to an order of intelligibility. The essential divergence does not concern “hard” metaphysical theses, but rather the **political conditions of possibility** for the autonomization of reason.
 
-### **II.2. Detailed comparative table (axes, theses, functions, sources)**
+### Detailed comparative table (axes, theses, functions, sources)
 
 | Axis | Maimonides (Guide for the Perplexed) | Spinoza (TTP / Ethics) | Epistemological consequence | Political-institutional condition |
 | ----- | ----- | ----- | ----- | ----- |
@@ -48,13 +45,13 @@ Comparing Maimonides (1138–1204) and Spinoza (1632–1677) does not consist in
 
 ---
 
-### **II.3. Discussion (historical reading)**
+### Discussion (historical reading)
 
-#### **1\) Structural continuity: rationalizing without abolishing religion**
+**1) Structural continuity: rationalizing without abolishing religion**
 
 On the central doctrinal points—anti-anthropomorphism, intelligibility of the world, distinction between registers of truth—Maimonides already accomplishes much of what modernity will attribute to Spinoza: **disenchanting the letter** to save the coherence of truth. The difference is that Maimonides remained within a strategy of **internal reconciliation**: the Law must remain the common architecture, because it is the condition for ethical and political stability.
 
-#### **2) Political divergence: the modern “threshold”**
+**2) Political divergence: the modern “threshold”**
 
 Spinoza writes after a series of institutional transformations that change the place of religion:
 
@@ -66,7 +63,7 @@ Spinoza writes after a series of institutional transformations that change the p
 
 In this new framework, criticism is no longer merely hermeneutic: it becomes **legal-political**. Spinoza can therefore treat religion as an instrument of government of the emotions and defend the autonomy of the state against the clergy.
 
-#### **3\) Operational conclusion**
+**3) Operational conclusion**
 
 The thesis can be formulated as follows:
 
@@ -75,9 +72,9 @@ The thesis can be formulated as follows:
 
 In other words, Maimonides carries out the “pre-Spinozist” work (de-anthropomorphization, hierarchization of meanings, rationalization of prophecy and miracles), **without being able—or willing—to convert this work into a theory of political sovereignty**, because the corresponding institutions do not yet exist.
 
-## **III. Internal blockages in the majority Islamic world**
+## 4. Internal blockages in the majority Islamic world {#s4}
 
-### **III.1. The weakening of causality: Acharite occasionalism and the fragility of rational “necessity”**
+### The weakening of causality: Acharite occasionalism and the fragility of rational “necessity”
 
 In mainstream Sunni Islam, the decisive turning point is not simply anti-intellectualism, but a **metaphysical reconfiguration**: causality is no longer a necessity inscribed in nature, but becomes a **habit** (*ʿāda*) established and renewed by God. This position, solidified in **Acharite** theology, aims to preserve a central principle: ** divine omnipotence** and the possibility of miracles. The world is intelligible, but **not necessary** in the strong sense: what we call “natural laws” are only contingent, “revocable” regularities. 
 
@@ -104,7 +101,7 @@ A Spinoza-type trajectory assumes that nature is understood as a **necessary ord
 
 ---
 
-### **III.2. The marginalization of symbolic reading: from legitimate *ta’wīl* to suspicion of polysemy**
+### The marginalization of symbolic reading: from legitimate *ta’wīl* to suspicion of polysemy
 
 To be precise, Sunni Islam does not ignore interpretation. It distinguishes, broadly speaking, between:
 
@@ -135,7 +132,7 @@ However, in the majority Sunni configuration, polysemy tends to be **re-closed**
 
 ---
 
-### **III.3. The disqualification of philosophy: from an internal tool to suspicion of external influence (Greek, elitist, subversive)**
+### The disqualification of philosophy: from an internal tool to suspicion of external influence (Greek, elitist, subversive)
 
 Philosophy (falsafa) did indeed exist **in** the Islamic world, and at a high level. But within the Sunni majority, it underwent a process of **delegitimization**: not because it was “reason” in general, but because it embodies a **speculative metaphysical** reason that is considered dangerous when it claims to arbitrate religion.
 
@@ -161,11 +158,11 @@ Maimonides carried out an internal rationalization of the Law (philosophy as a m
  
 The disqualification of falsafa in mainstream Sunni Islam means that this philosophical sovereignty is perceived not as an internal maturation, but as an **illegitimate rupture**.
 
-## **IV. Historical and epistemological context of philosophy in Islam: before and after the Mongol conquests**
+## 5. Historical and epistemological context of philosophy in Islam: before and after the Mongol conquests {#s5}
 
 ###
 
-### **IV.1. Before the Mongol conquests (8th–12th centuries): an age of translation, synthesis, and fruitful tension**
+### Before the Mongol conquests (8th–12th centuries): an age of translation, synthesis, and fruitful tension
 
 Between the 8th and early 13th centuries, the Islamic world was one of the most dynamic intellectual centers in the Mediterranean and Near East. This era, often referred to as the “classical age” or “golden age” of Islam, was marked by intense activity in the translation, appropriation, and transformation of ancient heritage.
 
@@ -183,9 +180,7 @@ This period is therefore characterized by a **fruitful tension**: Revelation imp
 
 ---
 
-### **IV.2. The Mongol conquests (13th century):
- 
-political rupture, civilizational trauma, and normative retreat**
+### The Mongol conquests (13th century): political rupture, civilizational trauma, and normative retreat
 
 The Mongol conquests of the 13th century (the capture of Baghdad in 1258, the collapse of the Abbasid Caliphate) constituted a major rupture, not only politically but also epistemologically. They caused a lasting shock to the intellectual structures of the Islamic world.
 
@@ -201,7 +196,7 @@ Philosophy, associated with an urban elite and a collapsed old order, is gradual
 
 ---
 
-### **IV.3. After the Mongol conquests (14th–18th centuries): closure of the philosophical field and juridification of knowledge**
+### After the Mongol conquests (14th–18th centuries): closure of the philosophical field and juridification of knowledge
 
 After the Mongol shock, the Islamic world entered a phase of **defensive recomposition**. Knowledge was reorganized around disciplines considered to be stabilizing: fiqh (law), ḥadīth, grammar, and an increasingly normative theology.
 
@@ -217,7 +212,7 @@ Unlike in modern Europe, where crisis (religious wars) led to the empowerment of
 
 ---
 
-### **IV.4. Long-term consequence: not a delay, but a historical bifurcation**
+### Long-term consequence: not a delay, but a historical bifurcation
 
 It is essential to emphasize that this development should not be interpreted as a “delay” in the Islamic world, but as a **historical bifurcation**. From the 13th century onwards, the conditions that made possible a trajectory of the Maimonides → Spinoza type disappeared.
 
@@ -229,13 +224,13 @@ The Islamic world did not “miss out” on modern philosophy; under extreme his
 
 It is therefore not the absence of genius or intellectual resources that explains the decline of philosophy, but a series of historical ruptures, with the Mongol conquests constituting the decisive turning point.
 
-## **V. Historical consequences: an interrupted trajectory and its conditions of possibility**
+## 6. Historical consequences: an interrupted trajectory and its conditions of possibility {#s6}
 
 The analysis of historical consequences cannot be limited to a factual observation or a linear narrative of the “decline of philosophy” type. On the contrary, a scientific approach requires **reconstructing the chains of transmission, institutional conditions, and political constraints** that make certain intellectual trajectories possible—and others impossible. The following three phenomena must be understood as **structural effects**, not as biographical accidents.
 
 ---
 
-### **V.1. Averroes: from philosophical centrality to institutional marginalization**
+### Averroes: from philosophical centrality to institutional marginalization
 
 Ibn Rushd (Averroes, 1126–1198) represents the culmination of Sunni *falāsifa*: defense of necessary causality, autonomy of demonstrative reason, hierarchization of modes of discourse (philosophical, theological, rhetorical) . From a strictly doctrinal point of view, his work constitutes the closest Islamic equivalent of what European modernity would later recognize as rationalism.
 
@@ -251,7 +246,7 @@ It is precisely this second dimension that is lacking. Averroes is not only refu
 
 ---
 
-### **V.2. Maimonides: a work made possible by Islam, preserved by Judaism**
+### Maimonides: a work made possible by Islam, preserved by Judaism
 
 The case of Maimonides (1138–1204) is historically decisive for understanding the mechanisms of preservation and transmission. His work is inseparable from the medieval Islamic world: language (Judeo-Arabic), philosophical categories (Aristotelianism of Avicenna), theological debates (causality, divine attributes, prophecy). Without classical Islam, Maimonides is historically unthinkable.
 
@@ -265,7 +260,7 @@ Medieval and modern Judaism can integrate Maimonides as a major authority withou
 
 ---
 
-### **V.3. The structural impossibility of the transition from Maimonides to Spinoza**
+### The structural impossibility of the transition from Maimonides to Spinoza
 
 The transition from Maimonides to Spinoza is not a simple doctrinal continuity; it presupposes a **change in the intellectual and political regime**. 
 A historical approach here requires us to reject any teleology: Spinoza is not the “natural future” of Maimonides. He is the product of another world.
@@ -286,7 +281,7 @@ In contrast, modern Europe—notably through the United Provinces—offered a un
 
 ---
 
-### **V.4. Methodological conclusion: against the myth of the intellectual “leap”**
+### Methodological conclusion: against the myth of the intellectual “leap”
 
 From a scientific point of view, it is essential to remember that **there is no direct leap in the history of ideas**. Major transformations are always mediated by institutions, crises, legal frameworks, and structures of transmission.
 
@@ -300,9 +295,9 @@ Thus:
 
 The consequence is not that the Islamic world “failed” where Europe “succeeded,” but that **distinct intellectual trajectories emerged under different constraints**. Understanding these constraints, rather than making value judgments, is at the heart of the historian's approach.
 
-## ***Conclusion — A major historical irony: bifurcation, transmission, and secularization***
+## 7. Conclusion — A major historical irony: bifurcation, transmission, and secularization {#s7}
 
-### ***1\. Methodological caution: avoiding retrospective teleology***
+### Methodological caution: avoiding retrospective teleology
 
 *A conclusion in intellectual history cannot consist of distributing successes and failures according to a modern criterion projected retrospectively. On the contrary, the method requires us to distinguish between:*
 
@@ -316,7 +311,7 @@ The consequence is not that the Islamic world “failed” where Europe “succe
 
 ---
 
-### ***2\. The Islamic world: production of conditions, functional rejection of consequences***
+### The Islamic world: production of conditions, functional rejection of consequences
 
 *From a strictly historical point of view, the medieval Islamic world produced all the intellectual conditions necessary for the emergence of Maimonides:*
 
@@ -333,7 +328,7 @@ The consequence is not that the Islamic world “failed” where Europe “succe
 
 ---
 
-### ***3\. Europe: a legacy mediated by diasporic Judaism and secularization***
+### Europe: a legacy mediated by diasporic Judaism and secularization
 
 *Modern Europe did not inherit directly from Maimonides via Islam, but **through diasporic Judaism**, whose institutional structure played a decisive role. Deprived of political sovereignty based on religion, Judaism developed forms of transmission based on study, interpretative controversy, and the plurality of scholarly authorities.*
 
@@ -349,7 +344,7 @@ The consequence is not that the Islamic world “failed” where Europe “succe
 
 ---
 
-### ***4\. Contemporary confusion: modern rupture and unfinished medieval work***
+### Contemporary confusion: modern rupture and unfinished medieval work
 
 *Complaining today about the absence of a Spinoza in the Arab or Muslim world is, methodologically, tantamount to **confusing two heterogeneous temporalities**:*
 
@@ -361,7 +356,7 @@ The consequence is not that the Islamic world “failed” where Europe “succe
 
 ---
 
-### ***5\. Closing statement (stabilized)***
+### Closing statement (stabilized)
 
 *We can therefore conclude in a rigorously historical manner:*
 
@@ -373,7 +368,7 @@ The consequence is not that the Islamic world “failed” where Europe “succe
 
 ---
 
-### **Bibliography**
+### Bibliography
 
 * Maimonides, *Guide for the Perplexed* (translation and reference edition according to your bibliography), passages on divine attributes, prophecy, and the purpose of the Law.
 * Spinoza, *Theological-Political Treatise*, chapter on prophecy, miracles, interpretation, law, and sovereignty.

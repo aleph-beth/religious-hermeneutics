@@ -4,12 +4,10 @@ lang: fr
 pair: kpr-kfr-takfir
 category: etymology
 dossier: kafir-kippour
-description: "De l'opérateur sémantique à l'instrument d'anathème : généalogie d'une rupture moderne"
+description: "Histoire courte, du XIVe au XXIe siècle, de la réduction de kāfir à l'anathème : comment une minorité doctrinale a capté l'usage public d'une racine plurielle."
 order: 3
+date: 2026-05-09
 ---
-
-# Le retournement contemporain : la modernité du *takfīr* étendu
-## De l'opérateur sémantique à l'instrument d'anathème — généalogie d'une rupture moderne
 
 > **Note méthodologique liminaire.** Cet article traite d'un sujet politiquement et religieusement sensible. Trois précautions sont à maintenir constamment :
 >
@@ -18,19 +16,6 @@ order: 3
 > 2. Ne pas confondre *Ibn Taymiyya historique* (un théologien du XIVe siècle, plus complexe que ne le donne à croire son usage contemporain) avec *Ibn Taymiyya recyclé* (la figure utilisée par les courants jihadistes). La pensée propre du premier ne fonde pas mécaniquement les opérations du second.
 >
 > 3. Ne pas reproduire le miroir islamophobe. La critique du *takfīr* étendu n'autorise en aucun cas la généralisation contre l'islam ou les musulmans. L'islamophobie occidentale qui essentialise l'islam reproduit, à front renversé, la structure même du *takfīr* qu'elle prétend dénoncer.
-
-## Table des matières
-
-1. [Position du problème](#s1)
-2. [Le tournant Ibn Taymiyya (XIIIe-XIVe s.)](#s2)
-3. [Le wahhabisme et l'extension du *takfīr* (XVIIIe s.)](#s3)
-4. [Mawdūdī, Quṭb et la *jāhiliyya* moderne](#s4)
-5. [La doctrine du *takfīr* armé (1970-2020)](#s5)
-6. [La diffusion médiatique et le miroir islamophobe](#s6)
-7. [Les voies critiques contemporaines](#s7)
-8. [Bilan synthétique : la rupture moderne](#s8)
-9. [Grille en quatre questions](#s9)
-10. [Bibliographie](#s10)
 
 ---
 
@@ -46,15 +31,15 @@ Cet article reconstitue **l'histoire courte (XIVe-XXIe siècles)** de cette réd
 
 ## 2. Le tournant Ibn Taymiyya (XIIIe-XIVe s.) {#s2}
 
-### 2.1 Le contexte
+### 1 Le contexte
 
 Taqī al-Dīn Ibn Taymiyya (m. 1328) écrit après la chute de Bagdad (1258) et dans un contexte de pression mongole sur le monde musulman. Sa réflexion s'inscrit dans un horizon de *crise civilisationnelle*. Les Mongols se sont convertis officiellement à l'islam mais continuent d'appliquer la *Yāsā* mongole comme loi parallèle à la *Sharīʿa*. Ibn Taymiyya écrit dans la Syrie mamelouke menacée, et son ton est polémique.
 
-### 2.2 La fatwā de Mardin (c. 1303)
+### 2 La fatwā de Mardin (c. 1303)
 
 Question posée : les Mongols convertis sont-ils musulmans ou *kuffār* ? Réponse d'Ibn Taymiyya : ils sont en territoire *intermédiaire* (*dār murakkaba*) ; appliquer la *Yāsā* à la place de la *Sharīʿa* peut constituer un *kufr*. **Cette fatwā devient, six siècles plus tard, l'un des textes fondateurs du *takfīr* moderne** — réinterprétée par Faraj, Quṭb, Maqdisī, Daesh comme légitimant le *takfīr* contre les gouvernants musulmans qui *« n'appliquent pas la *Sharīʿa* »*.
 
-### 2.3 Ce qu'Ibn Taymiyya dit *réellement*
+### 3 Ce qu'Ibn Taymiyya dit *réellement*
 
 Le travail de Yahya Michot (*Muslims under Non-Muslim Rule*, 2006) et de Caterina Bori a montré que la lecture jihadiste de la fatwā de Mardin est *unilatérale*. Ibn Taymiyya distingue soigneusement :
 
@@ -69,7 +54,7 @@ Mais le ton polémique de ses écrits, sa critique acerbe du soufisme spéculati
 
 ## 3. Le wahhabisme et l'extension du *takfīr* (XVIIIe s.) {#s3}
 
-### 3.1 Muḥammad ibn ʿAbd al-Wahhāb
+### 1 Muḥammad ibn ʿAbd al-Wahhāb
 
 Ibn ʿAbd al-Wahhāb (m. 1792) lit Ibn Taymiyya et radicalise. Son ouvrage central, *Kitāb al-Tawḥīd* (*« Livre de l'Unicité »*), pose une distinction tripartite :
 
@@ -79,11 +64,11 @@ Ibn ʿAbd al-Wahhāb (m. 1792) lit Ibn Taymiyya et radicalise. Son ouvrage centr
 
 Sa thèse forte : **la majorité des musulmans de son temps pratiquent un *shirk* déguisé** (visite des tombeaux des saints, intercession des prophètes, soufisme, chiisme, *mawlid* du Prophète) **et sont donc, selon une lecture stricte, *kuffār*.** Le wahhabisme étend massivement le *takfīr* à des pratiques largement répandues dans le monde musulman traditionnel.
 
-### 3.2 L'alliance avec les Saoud (1744)
+### 2 L'alliance avec les Saoud (1744)
 
 Le pacte entre Ibn ʿAbd al-Wahhāb et Muḥammad ibn Saʿūd transforme le *takfīr* en *instrument de conquête*. Les villes et tribus refusant le wahhabisme sont déclarées en *kufr* et donc à combattre. Massacres de Karbala (1802), de la Mecque (1803), de Médine (1805) — destructions des mausolées, sacs des tombeaux. **La doctrine du *takfīr* généralisé fonde une dynamique militaire-politique inédite dans l'histoire du sunnisme classique.**
 
-### 3.3 Le rejet par l'establishment sunnite
+### 3 Le rejet par l'establishment sunnite
 
 Les ulémas ottomans, l'al-Azhar du Caire, les écoles maghrébines mālikīte et les soufis contestent vivement le wahhabisme aux XVIIIe et XIXe siècles. Plusieurs fatwās le déclarent *bidʿa* (innovation hérétique). Le wahhabisme reste une *secte régionale* jusqu'à l'unification saoudienne du XXe siècle (1932), puis profite des revenus pétroliers à partir des années 1950 pour diffuser sa prédication à l'échelle mondiale (financement des mosquées, imprimerie de la Mecque, bourses d'étude à l'Université Islamique de Médine, télévisions et internet).
 
@@ -93,17 +78,17 @@ Les ulémas ottomans, l'al-Azhar du Caire, les écoles maghrébines mālikīte e
 
 La transformation conceptuelle décisive intervient avec deux penseurs du XXe siècle.
 
-### 4.1 Abū al-Aʿlā Mawdūdī (m. 1979)
+### 1 Abū al-Aʿlā Mawdūdī (m. 1979)
 
 Fondateur de la *Jamāʿat-i Islāmī* au sous-continent indien, Mawdūdī réinterprète la *jāhiliyya* (l'« ignorance » pré-islamique selon le Coran) comme une *catégorie sociologique extensible*. La *jāhiliyya* n'est plus un état historique passé : c'est *toute société qui ne reconnaît pas la souveraineté divine* (*ḥākimiyya*). Y compris les sociétés musulmanes contemporaines qui appliquent des lois positives héritées de l'Occident. **Le *kufr* devient une catégorie *politique*.**
 
-### 4.2 Sayyid Quṭb (m. 1966)
+### 2 Sayyid Quṭb (m. 1966)
 
 Idéologue des Frères Musulmans égyptiens, Quṭb radicalise Mawdūdī. Dans son livre *Maʿālim fī al-Ṭarīq* (*« Jalons sur la route »*, écrit dans la prison de Nasser et publié en 1964), il pose une thèse sans précédent dans la tradition : *« Toutes les sociétés actuelles, y compris les sociétés musulmanes, sont en jāhiliyya. »*
 
 Cela inclut les régimes nationalistes arabes (Nasser), les pétromonarchies, les régimes laïcs. Pour Quṭb, ces régimes sont gouvernés par des *kuffār* déguisés, et leurs sociétés vivent un *kufr* collectif. La voie de sortie est la formation d'une *avant-garde* (*ṭalīʿa*) qui fait *hijra* (sécession spirituelle et physique) et combat la *jāhiliyya* moderne.
 
-### 4.3 L'inversion conceptuelle décisive
+### 3 L'inversion conceptuelle décisive
 
 Le *takfīr*, qui était dans le sunnisme classique une *exception réservée à des cas extrêmes*, devient chez Quṭb une *catégorie générale appliquée à des sociétés entières*. **C'est l'inversion la plus radicale** : ce n'est plus l'exception qui doit être démontrée pour qu'il y ait *kufr*, c'est la *foi musulmane authentique* qui doit être démontrée *contre la présomption générale de kufr*.
 
@@ -113,23 +98,23 @@ Cette inversion est, philosophiquement et théologiquement, *sans précédent da
 
 ## 5. La doctrine du *takfīr* armé (1970-2020) {#s5}
 
-### 5.1 Muḥammad ʿAbd al-Salām Faraj
+### 1 Muḥammad ʿAbd al-Salām Faraj
 
 Idéologue du Jihād islamique égyptien, Faraj (m. 1982) dans *al-Farīḍa al-Ghāʾiba* (*« L'obligation absente »*, 1981) opérationnalise Quṭb. Sa thèse : le *jihād* contre les régimes musulmans en *kufr* est une *obligation individuelle* (*farḍ ʿayn*), supérieure même au pèlerinage. Il fonde la légitimation de l'assassinat de Sadate (octobre 1981).
 
-### 5.2 *al-Takfīr wa-l-Hijra*
+### 2 *al-Takfīr wa-l-Hijra*
 
 Le groupe **Jamāʿat al-Muslimīn** (*« Société des musulmans »*) de Shukrī Muṣṭafā, connu sous le nom *al-Takfīr wa-l-Hijra* (1971-1977), pratique le *takfīr* littéral : la société égyptienne est *kufr*, on en sort (*hijra*), on vit en groupe sectaire dans le désert, on combat les *kuffār*. Le mouvement est démantelé, mais sa logique survit comme *matrice*.
 
-### 5.3 Abū Muḥammad al-Maqdisī
+### 3 Abū Muḥammad al-Maqdisī
 
 Né en 1959, al-Maqdisī est le théoricien jordanien-palestinien du *takfīr* étendu. Dans *Millat Ibrāhīm* (1984), il réinterprète la fatwā de Mardin d'Ibn Taymiyya pour légitimer le *takfīr* contre les régimes du Golfe. Mentor d'al-Zarqāwī (al-Qaida en Irak), il prend ensuite des positions critiques contre les excès de Daesh — mais sa doctrine de base reste fondatrice du courant takfīrī moderne.
 
-### 5.4 al-Qāʿida
+### 4 al-Qāʿida
 
 Sous Oussama Ben Laden et Zawāhirī, al-Qaida théorise le *jihād* mondial mais reste relativement *retenue* sur le *takfīr* des musulmans ordinaires : la cible déclarée est l'« ennemi lointain » (États-Unis, Israël) et les régimes alliés. La doctrine takfīrī y est plus stratégique que populiste.
 
-### 5.5 Daesh
+### 5 Daesh
 
 L'« État islamique » (2014-2019) radicalise jusqu'à l'extrême : *takfīr* extensif des shīʿites, des soufis, des yézidis (déclarés non *ahl al-kitāb*), des sunnites *« modérés »*, des fonctionnaires des États arabes. Théologiens de référence : Abū Bakr Nājī, *Idārat al-tawaḥḥush* (*« La gestion de la barbarie »*, vers 2004) ; Turkī al-Binʿalī. **Daesh marque le point d'aboutissement de la trajectoire takfīrī** : *kufr* déclaré contre la quasi-totalité du monde musulman.
 
@@ -139,7 +124,7 @@ Daesh ne représente pas l'islam mondial. Il en représente une *fraction milita
 
 ## 6. La diffusion médiatique et le miroir islamophobe {#s6}
 
-### 6.1 Le tournant médiatique (1990-2020)
+### 1 Le tournant médiatique (1990-2020)
 
 Les chaînes satellitaires (à partir de 1991), Internet (à partir des années 2000) et les réseaux sociaux (à partir des années 2010) ont massivement *amplifié* la diffusion du *takfīr* radical et l'ont transformé en *catégorie discursive courante*. Le mot *kāfir* est devenu un terme du débat ordinaire dans certains milieux, employé contre :
 
@@ -149,13 +134,13 @@ Les chaînes satellitaires (à partir de 1991), Internet (à partir des années 
 
 L'usage médiatisé a fait du mot un *signe d'identité polémique* — souvent prononcé sans l'arrière-plan théologique du *kalām*, comme simple insulte communautaire. Cette *vulgarisation* est un phénomène *strictement contemporain*.
 
-### 6.2 L'effet de cliquet du *« clash of civilizations »*
+### 2 L'effet de cliquet du *« clash of civilizations »*
 
 Côté occidental, la diffusion d'un *kāfir* essentialisé a été reprise par les courants islamophobes qui *reproduisent en miroir* la lecture takfīrī : *« les musulmans nous appellent kuffār, donc ils nous haïssent par essence »*. Cette double captation — par les jihadistes d'une part, par leurs adversaires islamophobes de l'autre — a *figé* le mot dans un sens polémique unique, oblitérant six millénaires de richesse sémantique.
 
 **Les deux camps ont intérêt à figer le mot dans son sens polémique** : pour les uns, c'est l'arme identitaire ; pour les autres, c'est la preuve de l'altérité essentielle de l'islam. Ces deux usages se *renforcent mutuellement* (Cesari 2013, Tibi 2008).
 
-### 6.3 Trois facteurs d'amplification
+### 3 Trois facteurs d'amplification
 
 - **La concentration médiatique.** Le *kāfir* polémique fait du bruit ; le *kāfir* paysan, expiatoire, mystique ne fait pas la une (Roy, *L'islam mondialisé*, 2002).
 - **La perte de la formation classique.** Une part significative des musulmans formés depuis le XXe siècle dans des cursus modernisés (écoles d'État, universités, prédication par cassettes puis par Internet) ne reçoit plus la formation classique en *kalām*, *fiqh* avancé, philologie. Le *kāfir* leur arrive amputé de ses six autres pôles (Roy, *La sainte ignorance*, 2008 ; Lacroix 2011).
@@ -167,13 +152,13 @@ Côté occidental, la diffusion d'un *kāfir* essentialisé a été reprise par 
 
 L'inversion takfīrī n'a pas été acceptée passivement. Trois lignes critiques fortes se sont constituées au XXe-XXIe siècles.
 
-### 7.1 La critique académique-philologique
+### 1 La critique académique-philologique
 
 **Mohammed Arkoun** (m. 2010), dans *Lectures du Coran* et *La pensée arabe*, soutient que le Coran a été *« dogmatisé »* et que la lecture historico-critique doit le réouvrir. Pour Arkoun, le *kufr* coranique a été figé en catégorie ontologique alors qu'il est, dans le texte, une catégorie *éthique-relationnelle*. Position influente dans l'académie française et maghrébine.
 
 **Naṣr Ḥāmid Abū Zayd** (m. 2010), dans *Mafhūm al-naṣṣ* (*« Le concept de texte »*, 1990), applique l'herméneutique moderne au Coran. Lui-même déclaré *kāfir* par un tribunal égyptien en 1995 (forcé d'annuler son mariage et de fuir aux Pays-Bas), son cas illustre tragiquement l'arme contemporaine du *takfīr*.
 
-### 7.2 La critique théologique-réformiste
+### 2 La critique théologique-réformiste
 
 **Mohammed Ṭalbī** (m. 2017, Tunisie), dans *Plaidoyer pour un islam moderne* (1998) et *Penseur libre en islam* (2002), défend une lecture *historiciste* du *kufr* coranique, lié à la situation polémique mecquoise et médinoise, et donc *non transposable* tel quel à la modernité.
 
@@ -181,7 +166,7 @@ L'inversion takfīrī n'a pas été acceptée passivement. Trois lignes critique
 
 **Khaled Abou El Fadl** (États-Unis), dans *The Great Theft: Wrestling Islam from the Extremists* (2005), théorise un islam classique humaniste contre les *« puritains »* modernes.
 
-### 7.3 La résistance soufie et traditionnelle
+### 3 La résistance soufie et traditionnelle
 
 Le soufisme contemporain (confréries Naqshbandiyya, Tijāniyya, Qādiriyya, Shādhiliyya) maintient massivement la lecture inversive du *kufr* (cf. article 2 § 10) : *le vrai kufr est le sectarisme et le takfīr étendu*. Le *Mawlid* (célébration de la naissance du Prophète), pratique millénaire condamnée par les wahhabites comme *bidʿa*, reste massivement célébré dans le monde musulman.
 

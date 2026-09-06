@@ -3,16 +3,12 @@ title: "Secularism and Islam: The Mutazilite Misunderstanding"
 lang: en
 pair: laicite-mutazilisme
 category: philosophy
-description: "Why secularism is possible for Mutazilism and impossible for Sunnism"
+description: "Mutazilism shares the epistemological ground of secularism; orthodox Sunnism was built against it. Why the Mutazilite argument turns on those who use it."
 order: 5
+date: 2026-04-11
 ---
 
-# Secularism and Islam: The Mutazilite Misunderstanding
-## Why Secularism Is Possible for Mutazilism and Impossible for Sunnism
-
-*Gregory L. — April 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 In the contemporary debate over the compatibility between Islam and secularism, one argument recurs with insistence: Mutazilism, the rationalist current of medieval Islam, supposedly demonstrated that Islam and reason — and therefore secularism — are compatible. This tradition is invoked to refute the essentialization of Islam as a homogeneous and irrational bloc.
 
@@ -22,9 +18,9 @@ The thesis we defend is as follows: Mutazilism is indeed compatible with secular
 
 ---
 
-## I. Mutazilism: An Aborted Theological Revolution
+## 2. Mutazilism: An Aborted Theological Revolution {#s2}
 
-### 1.1 The Birth of a Theology of Reason
+### 1 The Birth of a Theology of Reason
 
 Born in Basra in the 8th century under the impetus of Wāṣil ibn ʿAṭāʾ and ʿAmr ibn ʿUbayd, Mutazilism constitutes one of the most audacious theological currents in Islamic history. Its apex corresponds to the Abbasid caliphate of Maʾmūn (813–833), who made it the official state doctrine.
 
@@ -37,7 +33,7 @@ Its central theses are revolutionary within the Islamic context:
 
 These positions are the necessary epistemological conditions for any form of secularization: an autonomous reason, a historicizable text, a real individual conscience, and a law separable from the divine.
 
-### 1.2 The Miḥna: The Reversal of 848
+### 2 The Miḥna: The Reversal of 848
 
 What makes the fate of Mutazilism tragic is that it was overturned by its own excess of power. The Miḥna (833–848), the Mutazilite inquisition imposed by Maʾmūn, compelled jurists to profess that the Quran is created. Aḥmad ibn Ḥanbal, who refused even under torture, became the popular hero of the resistance.
 
@@ -45,7 +41,7 @@ Under Caliph Mutawakkil in 848, the reversal was total and definitive. Mutazilis
 
 Mutazilism would never again be a dominant force in Sunni Islam. It survived, marginally, in Zaydī Shīʿite Islam in Yemen — a branch that Sunni orthodoxy also considers deviant.
 
-### 1.3 1258: Baghdad Burns, Mutazilism Is Buried Definitively
+### 3 1258: Baghdad Burns, Mutazilism Is Buried Definitively
 
 If 848 marks the institutional defeat of Mutazilism, the destruction of Baghdad by the Mongols in 1258 constitutes its definitive tomb. The Abbasid capital was the living heart of Arab *falsafa* — those translators and philosophers who had absorbed the Hellenistic heritage to fuse it with Islamic thought.
 
@@ -53,9 +49,9 @@ After 1258, Islam was in mourning for its own speculative capacity. *Taqlīd* �
 
 ---
 
-## II. Sunnism: An Architecture Built Against Secularism
+## 3. Sunnism: An Architecture Built Against Secularism {#s3}
 
-### 2.1 Ashʿarism: A Systematic Response to Rationalism
+### 1 Ashʿarism: A Systematic Response to Rationalism
 
 Ashʿarite theology, formulated by Abū al-Ḥasan al-Ashʿarī (873–935), is not simply an alternative to Mutazilism. It is its systematic negation, constructed point by point in response to its theses:
 
@@ -64,13 +60,13 @@ Ashʿarite theology, formulated by Abū al-Ḥasan al-Ashʿarī (873–935), is 
 - **Free will is reduced**: the concept of *kasb* (acquisition) maintains a formal human responsibility, but without genuine causal autonomy.
 - **The divine attributes are real**: the formula *bilā kayfa* — without asking how. Revelation is accepted as it is, without rational speculation.
 
-### 2.2 Wahhabism: The Radicalization of Anti-Mutazilism
+### 2 Wahhabism: The Radicalization of Anti-Mutazilism
 
 If Ashʿarism is the medieval response to Mutazilism, Wahhabism founded by Muḥammad ibn ʿAbd al-Wahhāb in the 18th century is its modern radicalization. Exported worldwide since the 1970s thanks to Saudi petrodollars, it represents today the most influential current of global Sunni Islam.
 
 Its position regarding reason is unequivocal: philosophy (*falsafa*) is a *bidʿa* — a blameworthy innovation, prohibited. Mutazilism, in this perspective, is not merely a theological error. It is heresy. Wahhabism is thus, literally, the exact theological opposite of Mutazilism.
 
-### 2.3 The Umma Against the Individual
+### 3 The Umma Against the Individual
 
 Secularism, as conceived by the republicans of 1905, rests on the primacy of individual conscience over communal belonging. This is precisely the inverse of the Sunni structure. In Sunni orthodoxy, belonging to the *Umma* — the community of believers — is constitutive of identity.
 
@@ -78,15 +74,15 @@ Apostasy (*ridda*) is juridically sanctioned not because it offends God, but bec
 
 ---
 
-## III. The Epistemological Misunderstanding
+## 4. The Epistemological Misunderstanding {#s4}
 
-### 3.1 Potentiality Versus Reality
+### 1 Potentiality Versus Reality
 
 The Mutazilite argument, as mobilized in contemporary debate, conflates two registers: what Islam was able to produce intellectually under certain historical conditions, and what institutional Sunni Islam produces as a relationship to reason, law, and the state today.
 
 To say that Mutazilite Islam contributed to the birth of European humanism is historically accurate. But this says nothing about the compatibility of contemporary majority Sunni Islam with secularism, for the simple reason that Sunnism was constructed precisely to eliminate what made Mutazilism fruitful.
 
-### 3.2 The Selective Glorious Past Argument
+### 2 The Selective Glorious Past Argument
 
 To invoke Mutazilism to demonstrate the compatibility of Islam with secularism is to choose the defeated minority tradition to represent "Islam," while ignoring that the victorious tradition precisely eliminated the first. It is a form of *argumentum ad potentiam*: one invokes what a thing might have been to justify what it is.
 
@@ -94,7 +90,7 @@ The Christian analogy illuminates the weakness of the approach: if someone wante
 
 To invoke Mutazilism to demonstrate the compatibility of Islam with secularism is to inadvertently prove that this compatibility exists — but within a minority tradition, defeated, and institutionally absent from contemporary Sunni Islam.
 
-### 3.3 The Necessary Theological Revolution
+### 3 The Necessary Theological Revolution
 
 What the contemporary debate never explicitly states is the necessary condition for the compatibility thesis: it is possible, but on the condition of accepting a theological revolution equivalent to the one Christianity took four centuries to accomplish — from the Reformation to Vatican II.
 
@@ -102,7 +98,7 @@ This revolution cannot come from outside through legislative or administrative m
 
 ---
 
-## Conclusion: Two Islams, One Incompatible Epistemology
+## 5. Conclusion: Two Islams, One Incompatible Epistemology {#s5}
 
 The conclusion of this analysis is neither a judgment on believers nor a call for the essentialization of Islam. It is of a strictly epistemological and historical order.
 
@@ -114,7 +110,7 @@ Mutazilism is the tomb in which Sunnism buried the possibility of its own secula
 
 To name this reality without complacency is not Islamophobia. It is the condition for an intellectually honest debate on the theological, historical, and institutional conditions of a possible reform of Sunni Islam — which will come, if it comes, from within its own traditions.
 
-## Selected Bibliography
+## 6. Selected Bibliography {#s6}
 
 - Gimaret, Daniel. *La doctrine d'al-Ashʿarī*. Paris: Cerf, 1990.
 - Hourani, George F. *Islamic Rationalism: The Ethics of ʿAbd al-Jabbār*. Oxford: Clarendon Press, 1971.

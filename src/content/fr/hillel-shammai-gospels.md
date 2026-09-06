@@ -3,16 +3,12 @@ title: "Hillel, Shammaï et les Évangiles"
 lang: fr
 pair: hillel-shammai-gospels
 category: hermeneutics
-description: "Au-delà du midrash : comment les disputes pharisiennes ont structuré la pensée évangélique"
+description: "Les Évangiles ne sont pas seulement midrashiques par leur forme : les disputes entre Hillel et Shammaï en structurent la pensée, jusque dans les paroles attribuées à Jésus."
 order: 5
+date: 2026-04-26
 ---
 
-# Hillel, Shammaï et les Évangiles
-## Au-delà du midrash : comment les disputes pharisiennes ont structuré la pensée évangélique
-
-*Gregory L. — Avril 2026*
-
-## Introduction
+## 1. Introduction {#s1}
 
 La critique historique des Évangiles a depuis longtemps établi que ces textes ne sont pas tombés du ciel grec dans un monde indifférent. Ils s'inscrivent dans la matrice juive du Ier siècle, et leur grammaire profonde est celle du midrash. Daniel Boyarin, Geza Vermes, David Daube, Maurice Mergui — chacun à sa manière a démontré que les Évangiles relèvent simultanément des deux grandes familles midrashiques : le **midrash halakha**, qui interprète la loi et l'enseignement, et le **midrash aggada**, qui tisse les histoires symboliques en retravaillant les figures et les récits scripturaires antérieurs.
 
@@ -24,27 +20,27 @@ Notre thèse est la suivante : les Évangiles ne sont pas seulement midrashiques
 
 ---
 
-## I. Rappel : les deux midrashim et la matrice évangélique
+## 2. Rappel : les deux midrashim et la matrice évangélique {#s2}
 
 Avant de porter le projecteur sur Hillel et Shammaï, il faut rappeler brièvement la double nature midrashique des Évangiles, car c'est sur ce socle que la dispute pharisienne va venir se greffer.
 
-### 1.1 Le midrash halakha : la loi comme enseignement vivant
+### 1 Le midrash halakha : la loi comme enseignement vivant
 
 Le midrash halakha tisse l'interprétation des prescriptions de la Torah. Il déduit, harmonise, applique. Il opère par les sept *middot* (règles herméneutiques) attribuées à Hillel — *qal va-ḥomer* (a fortiori), *gezera shava* (analogie verbale), *binyan av* (construction de catégorie), *kelal u-perat* (général-particulier), et ainsi de suite. Quand Marc 10,5-9 oppose la création (Gn 1-2) à la concession mosaïque (Dt 24,1) sur le divorce, c'est un *qal va-ḥomer* parfait. Quand Matthieu 6,30 dit « *si Dieu vêtit ainsi l'herbe... à plus forte raison vous* » (*posō mallon*), le grec est le calque exact du *qal va-ḥomer*. Quand Jésus est interrogé sur le « plus grand commandement » (Mc 12,28-34), il répond par un *klal gadol ba-Torah*, un principe condensateur de la Torah, exactement comme le fera Aqiba sur Lv 19,18. Les Évangiles font du midrash halakha sans le nommer.
 
-### 1.2 Le midrash aggada : les histoires comme retravails scripturaires
+### 2 Le midrash aggada : les histoires comme retravails scripturaires
 
 Le midrash aggada ne traite pas la loi mais les récits. Il prolonge, complète, recombine les figures du Tanakh. Et là encore, les Évangiles sont massivement aggadiques. Le récit de la Passion est tissé du Psaume 22 et d'Isaïe 53. La Transfiguration est une scène typologique mosaïque. Le récit de la Tentation au désert reprend Exode et Deutéronome. La marche sur les eaux dialogue avec Job 9,8 (« qui marche sur les vagues de la mer »). Les généalogies de Matthieu et de Luc sont des constructions numérologiques (*notarikon* et *gematria*) qui font de Yeshua le terme d'une chaîne scripturaire. Maurice Mergui a fait de cette dimension la clé d'une relecture systématique : les Évangiles sont des compositions midrashiques avant d'être des chroniques.
 
-### 1.3 La limite de la lecture purement formelle
+### 3 La limite de la lecture purement formelle
 
 Ces deux dimensions — halakha et aggada — sont solidement établies par la critique. Mais elles laissent une question ouverte. Si les Évangiles sont midrashiques par leur forme, *quel midrash* font-ils ? À quelle école parlent-ils ? Avec qui débattent-ils ? Car le midrash n'est jamais neutre. Il est toujours *situé* dans une controverse, il prend parti, il argumente contre une autre lecture. Dire « les Évangiles sont midrashiques » sans préciser dans quelle controverse ils interviennent, c'est avoir nommé le genre sans avoir entendu la phrase. Cette précision exige de descendre dans la dispute des écoles. Elle exige Hillel et Shammaï.
 
 ---
 
-## II. Hillel et Shammaï : deux maîtres, deux écoles, deux sensibilités
+## 3. Hillel et Shammaï : deux maîtres, deux écoles, deux sensibilités {#s3}
 
-### 2.1 Le portrait des deux maîtres
+### 1 Le portrait des deux maîtres
 
 Hillel ha-Zaqen (env. -60 / +10) et Shammaï ha-Zaqen (son contemporain) constituent la dernière des *zugot*, les paires de maîtres qui structurent la transmission pharisienne (*m.Avot* 1,4-12). Hillel est d'origine babylonienne, surnommé *ʿanvetan* — le patient, l'humble, l'accommodant. Shammaï est judéen, bâtisseur de profession, surnommé *qapdan* — le strict, le rigoureux, le scrupuleux.
 
@@ -54,7 +50,7 @@ Le *Bavli* a fixé pour la postérité une scène-emblème (*b.Shabbat* 31a). Tr
 
 Cette mise en scène n'est pas un fait divers : elle est un programme. Elle dit la différence des deux écoles : non pas un désaccord sur le contenu de la Torah, mais sur la **manière** de l'habiter. Hillel privilégie l'accueil, l'accessibilité, l'intention. Shammaï privilégie la rigueur, la séparation, la fidélité formelle.
 
-### 2.2 La dispute comme institution
+### 2 La dispute comme institution
 
 Les écoles fondées par les deux maîtres — *Beit Hillel* et *Beit Shammaï* — ont débattu intensément entre la mort de Hillel et la destruction du Temple en 70. La Mishna et les midrashei halakha conservent plusieurs centaines de leurs controverses. Sur l'œuf pondu un jour de fête (*m.Beitzah* 1,1), sur les bénédictions de table (*m.Berakhot* 8,1-8), sur les motifs de divorce (*m.Gittin* 9,10), sur la louange à la mariée (*b.Ketubot* 16b-17a), sur la création de l'homme (*b.Eruvin* 13b), sur les bougies de Hanouka (*b.Shabbat* 21b), sur les dix-huit décrets de séparation (*m.Shabbat* 1,4) — partout les deux écoles s'opposent.
 
@@ -64,7 +60,7 @@ Ce qui est extraordinaire, dans la culture rabbinique, c'est que **cette dispute
 
 *Elu va-elu divrei elohim ḥayyim*. Les deux voix sont vraies. La halakha pratique suit Hillel, mais Shammaï n'est pas faux. Cette structure — *deux vérités vivantes, une seule pratique* — est le génie du judaïsme rabbinique. Elle est aussi, comme nous allons le voir, la matrice intellectuelle dans laquelle baignent les évangélistes.
 
-### 2.3 Pourquoi les évangélistes connaissent cette grille
+### 3 Pourquoi les évangélistes connaissent cette grille
 
 Avant Yavné (70), Hillel et Shammaï sont des figures vivantes ou récemment mortes ; leurs disciples enseignent à Jérusalem. Yeshua prêche dans cet environnement. Paul revendique avoir été élève de Gamliel I (Ac 22,3), qui est le petit-fils de Hillel. Yoḥanan ben Zakkaï, qui fonde Yavné après 70, est lui-même un disciple de Hillel.
 
@@ -72,11 +68,11 @@ Quand Marc rédige (env. 70), Matthieu et Luc (80-95), Jean (90-110), ils écriv
 
 ---
 
-## III. Sept exemples de la grille pharisienne dans les Évangiles
+## 4. Sept exemples de la grille pharisienne dans les Évangiles {#s4}
 
 Si la thèse est juste, elle doit pouvoir être démontrée par des cas philologiquement précis. Voici sept dossiers, dans lesquels la position évangélique se laisse lire comme une prise de position dans la controverse Hillel/Shammaï.
 
-### 3.1 La Règle d'Or — un *klal* hillélite intensifié (Mt 7,12)
+### 1 La Règle d'Or — un *klal* hillélite intensifié (Mt 7,12)
 
 > *Tout ce que vous voulez que les hommes fassent pour vous, faites-le pour eux : car c'est la Loi et les Prophètes.* (Mt 7,12)
 
@@ -86,7 +82,7 @@ Trois éléments structurels coïncident. Premièrement, la règle prend pour ob
 
 La différence est révélatrice : Hillel formule au négatif (*lo taʿavid*, ne fais pas), Matthieu au positif (*houtōs poieite*, faites ainsi). Cette inversion n'est pas une rupture mais une **intensification eschatologique**. Le Yeshua matthéen prend la formule hillélite et la pousse de la prudence morale (« ne fais pas le mal ») à l'engagement actif (« fais le bien »). Le moule reste hillélite ; ce qui change, c'est le degré d'exigence. C'est exactement ce que Sanders et Allison appellent la radicalisation eschatologique de l'éthique pharisienne : non pas son abolition, mais sa surchauffe sous la pression de l'imminence du Royaume.
 
-### 3.2 Le calque shammaïte sur Judas (Mt 26,24)
+### 2 Le calque shammaïte sur Judas (Mt 26,24)
 
 > *Mieux eût valu pour cet homme qu'il ne fût pas né.* (Mt 26,24, à propos de Judas)
 > καλὸν ἦν αὐτῷ εἰ οὐκ ἐγεννήθη ὁ ἄνθρωπος ἐκεῖνος
@@ -98,7 +94,7 @@ C'est la trace philologique la plus probante d'un emprunt verbatim. Terme à ter
 
 L'opération matthéenne est précise. La sentence shammaïte porte, dans sa version rabbinique, sur l'humanité en général — c'est une thèse anthropologique pessimiste sur la condition créaturelle. Matthieu en fait un *binyan av* inversé : il prend la généralité (*la-adam* comme tous les hommes) et l'applique à un individu (*la-adam ha-hu*, *cet* homme — Judas). La radicalité shammaïte, qui dans le Talmud formule un constat universel sur la difficulté d'exister, est ici concentrée sur un cas singulier, comme la pire sentence ontologique possible. Yeshua, à ce moment précis, parle shammaïte. Et Matthieu sait ce qu'il fait.
 
-### 3.3 Le divorce — un débat de *Gittin* 9,10 (Mc 10 / Mt 19)
+### 3 Le divorce — un débat de *Gittin* 9,10 (Mc 10 / Mt 19)
 
 La Mishna *Gittin* 9,10 conserve la position des deux écoles sur l'interprétation de Dt 24,1 (« *parce qu'il a trouvé en elle quelque chose de honteux* », *ervat davar*) :
 
@@ -112,7 +108,7 @@ Marc va encore plus loin. Mc 10,9-12 ne concède *aucune* exception : « *ce que
 
 David Instone-Brewer (*Divorce and Remarriage*, 2002) en a fait la démonstration philologique exhaustive. La conclusion s'impose : sur le divorce, Matthieu se range du côté de Shammaï, et Marc le radicalise au-delà même de Shammaï. Aucune des deux positions n'est inintelligible hors de la grille pharisienne.
 
-### 3.4 Le sabbat — une thèse hillélite (Mc 2,27)
+### 4 Le sabbat — une thèse hillélite (Mc 2,27)
 
 > *Le sabbat a été fait pour l'homme, et non l'homme pour le sabbat.* (Mc 2,27)
 
@@ -124,7 +120,7 @@ E. P. Sanders a démontré dans *Jewish Law from Jesus to the Mishnah* (1990) qu
 
 Indice supplémentaire : Mt et Lc **omettent** le verset 27 de Marc. Pourquoi ? Parce qu'au moment où ils écrivent (80-95), la communauté chrétienne est en train de basculer hors de la matrice halakhique. La phrase « le sabbat a été fait pour l'homme » a un parfum trop pharisien pour leur public ; ils la jugent ambiguë et la suppriment. L'omission est elle-même la trace que Marc, plus ancien, est aussi plus juif.
 
-### 3.5 Le *qorban* — un débat hillélite contre une rigidité shammaïte (Mc 7)
+### 5 Le *qorban* — un débat hillélite contre une rigidité shammaïte (Mc 7)
 
 > *Vous rejetez le commandement de Dieu pour observer votre tradition. Car Moïse a dit : « honore ton père et ta mère »... Mais vous, vous dites : si un homme dit à son père ou à sa mère : qorban...* (Mc 7,9-13)
 
@@ -132,7 +128,7 @@ Le mot grec *korban* est la translittération de l'hébreu קרבן (« offrande
 
 La position halakhique tannaïtique finit par l'annulation de tels vœux quand ils contredisent le devoir filial. R. Eliezer (proche de Beit Shammaï dans plusieurs sources) défend même l'annulation explicite par invocation de l'honneur des parents. Daniel Boyarin l'a souligné : Yeshua argumente exactement comme R. Eliezer ou R. Tsadoq. Il dénonce une halakha rigoriste shammaïte au nom d'une halakha plus hillélite. Ce n'est pas une dénonciation du pharisaïsme — c'est une prise de position *à l'intérieur* du pharisaïsme.
 
-### 3.6 Les antithèses du Sermon — le schéma rabbinique *yakhol... talmud lomar* (Mt 5)
+### 6 Les antithèses du Sermon — le schéma rabbinique *yakhol... talmud lomar* (Mt 5)
 
 > *Vous avez entendu qu'il a été dit aux anciens... Mais moi je vous dis...* (Mt 5,21-48)
 
@@ -145,7 +141,7 @@ Ce schéma est l'un des procédés-signature de l'exégèse tannaïtique, attest
 
 C'est précisément cette signature qui révèle l'inscription pharisienne. La forme dénonce ce que le contenu polémique semble nier : Mt 5 n'est pas un manifeste anti-juif, c'est un *midrash halakha matthéen* qui fonctionne dans la grammaire des deux écoles.
 
-### 3.7 La synthèse paradoxale — le joug de Mt 11,28-30
+### 7 La synthèse paradoxale — le joug de Mt 11,28-30
 
 > *Prenez sur vous mon joug et apprenez de moi... car mon joug est aisé et mon fardeau léger.* (Mt 11,28-30)
 
@@ -157,9 +153,9 @@ Mais quelque chose se déplace. Yeshua ne dit pas « prenez le joug de la Torah 
 
 ---
 
-## IV. La synthèse évangélique : ni Hillel ni Shammaï, mais l'eschatologie
+## 5. La synthèse évangélique : ni Hillel ni Shammaï, mais l'eschatologie {#s5}
 
-### 4.1 Le profil composite de Yeshua
+### 1 Le profil composite de Yeshua
 
 Si l'on dresse le tableau récapitulatif de notre parcours, le verdict est sans appel :
 
@@ -175,7 +171,7 @@ Si l'on dresse le tableau récapitulatif de notre parcours, le verdict est sans 
 
 Yeshua n'est ni purement hillélite ni purement shammaïte. Il **sélectionne dans les deux écoles**. Sur la Règle d'Or, le sabbat, le *qorban*, les bénédictions de table, l'accueil des prosélytes — il est hillélite. Sur le divorce, sur la primauté du *maʿaseh* (faire avant dire, *Avot* 1,15), sur la formule appliquée à Judas — il est shammaïte. Sur les serments (Mt 5,33-37), il radicalise dans une direction qui ne suit ni l'une ni l'autre des deux écoles, mais converge avec les Esséniens et les hassidim galiléens.
 
-### 4.2 Le critère tiers : l'eschatologie
+### 2 Le critère tiers : l'eschatologie
 
 Comment un même personnage peut-il être tantôt hillélite, tantôt shammaïte, tantôt en surcharge des deux ? Si la sélection était purement aléatoire, on serait devant un patchwork rédactionnel. Si elle suivait une logique halakhique cohérente, Yeshua serait un troisième *zugot* à côté de Hillel et Shammaï. Mais elle ne suit ni le hasard ni la cohérence halakhique ordinaire. Elle suit un principe étranger à la halakha — l'**eschatologie**.
 
@@ -183,7 +179,7 @@ E. P. Sanders, Dale Allison, N. T. Wright ont défendu cette lecture : Yeshua es
 
 Le critère qui sélectionne dans la grille n'est donc plus halakhique. Il est eschatologique. Il y a, derrière l'oscillation Hillel/Shammaï, une troisième voix : celle d'un prédicateur galiléen qui croit que le monde tel qu'il est s'achève, que le Royaume vient, et que la Torah elle-même se transfigure dans cette imminence.
 
-### 4.3 La synthèse comme opération évangélique
+### 3 La synthèse comme opération évangélique
 
 Cette synthèse n'est pas seulement la position du Yeshua historique. Elle est l'opération **rédactionnelle** des évangélistes. Marc, Matthieu, Luc et Jean ont composé leurs récits dans des communautés qui débattaient déjà de l'identité de leur fondateur. Était-il un rabbin parmi d'autres ? Un prophète apocalyptique ? Un Messie ? Un nouveau Moïse ?
 
@@ -191,25 +187,25 @@ La grille Hillel/Shammaï leur a fourni un **outil narratif** précieux. Elle le
 
 Et chaque fois, l'évangéliste opère un **double geste** : il situe Yeshua à l'intérieur de la grille pharisienne (donc dans le judaïsme), tout en le déplaçant légèrement par rapport à elle (vers une autorité christologique nouvelle). C'est un équilibre subtil. Trop juif, et Yeshua se confond avec n'importe quel rabbin tannaïtique. Trop déraciné, et il devient inintelligible pour son public. La synthèse Hillel/Shammaï, traversée par la pression eschatologique, est précisément ce qui résout cette tension.
 
-### 4.4 Le verdict programmatique
+### 4 Le verdict programmatique
 
 Les Évangiles ne sont donc pas seulement deux midrashim — halakha et aggada — superposés. Ils sont un **midrash structuré par une dispute**. La dispute Hillel/Shammaï n'est pas un détail historique en arrière-plan : elle est la grille qui rend possible le profil composite de leur protagoniste. Sans Hillel et Shammaï, le Yeshua des Évangiles serait inintelligible. Avec eux, il devient le point d'arrivée d'une discussion juive qui durait depuis cent ans, et qui trouve dans l'eschatologie de Yeshua une issue inattendue : non plus la halakha du monde, mais l'éthique de la fin des jours.
 
 ---
 
-## V. Implications : ce que la grille Hillel/Shammaï nous apprend
+## 6. Implications : ce que la grille Hillel/Shammaï nous apprend {#s6}
 
-### 5.1 Sur la rupture chrétienne
+### 1 Sur la rupture chrétienne
 
 La rupture entre judaïsme rabbinique et christianisme primitif n'est pas une donnée originelle des Évangiles. Elle est un événement *postérieur* à leur rédaction, qui se cristallise progressivement entre 70 et 200 — entre la destruction du Temple et le concile de Yavné, puis entre la *birkat ha-minim* et les écrits de Justin. Les Évangiles eux-mêmes sont écrits *avant* cette rupture, dans des communautés où la matrice pharisienne reste l'air ambiant. Lire les Évangiles à travers la grille Hillel/Shammaï, c'est les replacer dans leur contexte d'écriture, et non dans le contexte ultérieur de leur réception.
 
-### 5.2 Sur l'antijudaïsme évangélique apparent
+### 2 Sur l'antijudaïsme évangélique apparent
 
 Les passages apparemment polémiques de Matthieu 23 (« malheur à vous, scribes et pharisiens ») ou de Jean 8 (« vous avez pour père le diable ») ne sont pas, dans leur logique propre, des dénonciations *du judaïsme*. Ce sont des disputes *internes* au judaïsme, comparables à celles que Beit Hillel et Beit Shammaï se livraient entre elles, ou à celles que les prophètes adressaient à Israël. Mt 23 reflète une rivalité de famille, non une opposition de structure.
 
 C'est l'histoire ultérieure — la christianisation de l'Empire romain au IVe siècle, l'oubli du substrat juif des Évangiles, la lecture chrétienne de ces textes en l'absence de la grille pharisienne qui les rendait intelligibles — qui a transformé ces disputes intra-juives en armes anti-juives. Les Évangiles n'ont pas été écrits anti-juifs. Ils ont été *lus* anti-juifs après avoir perdu leur contexte d'écriture.
 
-### 5.3 Sur la fécondité actuelle
+### 3 Sur la fécondité actuelle
 
 Restituer la grille Hillel/Shammaï n'est pas un exercice d'érudition rétrospective. C'est l'opération qui rend aux Évangiles leur intelligence interne. Lire Mt 26,24 sans Beit Shammaï, c'est entendre une phrase grecque détachée de sa source. Lire Mc 10 sur le divorce sans *m.Gittin* 9,10, c'est manquer la nature précise du débat. Lire Mt 5 sans le *yakhol/talmud lomar*, c'est confondre une forme rabbinique avec une innovation chrétienne.
 
@@ -217,7 +213,7 @@ L'enjeu est aussi théologique. Les chrétiens qui veulent comprendre leur propr
 
 ---
 
-## Conclusion
+## 7. Conclusion {#s7}
 
 Les Évangiles ne sont pas seulement midrashiques par leur forme ; ils sont **synthèse** par leur contenu. Ils héritent du midrash halakha (la loi comme enseignement vivant, par les sept *middot* de Hillel) et du midrash aggada (les histoires comme retravails scripturaires). Mais à ces deux types de midrashim, ils ajoutent une troisième opération : **la sélection délibérée dans la grille Hillel/Shammaï**, sous la pression d'une logique eschatologique propre.
 
@@ -231,7 +227,7 @@ Sans Hillel et Shammaï, on n'a pas compris les Évangiles. Avec eux, on a enten
 
 ---
 
-## Bibliographie sélective
+## 8. Bibliographie sélective {#s8}
 
 ### Sources primaires
 

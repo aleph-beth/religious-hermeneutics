@@ -4,15 +4,17 @@ lang: en
 pair: pointed-arch-cordoba
 category: philosophy
 dossier: cordoue-lumieres
-description: "The pointed arch and ribbed vaults of the Mezquita precede Gothic architecture by three centuries"
+description: "The pointed arch appears in the Great Mosque of Cordoba three centuries before the Gothic cathedrals. A debated transmission, convergences too systematic to be chance."
 order: 12
+date: 2026-08-28
 ---
+
 **Type**: Strategic analysis — architectural transfer
 **Thesis**: The pointed arch (*ogive*), the structural element of European Gothic, appears in the Great Mosque of Cordoba (785) three centuries before the first Gothic cathedrals. The thesis of direct transmission is debated, but the convergences — chronological, technical, geographical — are too systematic to be coincidental. Beyond the arch, Andalusian Islamic architecture irrigates the Romanesque, Gothic, and Renaissance through multiple channels.
 
 ---
 
-## The Great Mosque of Cordoba: the laboratory
+## 1. The Great Mosque of Cordoba: the laboratory {#s1}
 
 ### Technical innovations (785-987)
 
@@ -31,9 +33,9 @@ The Mezquita of Cordoba, built in four phases (Abd al-Rahman I, 785 -> al-Mansur
 
 The domes of the maqsura in Cordoba feature **intersecting ribs** forming geometric stars. These ribs are **structural** — they bear weight, not merely decorative. This is exactly the principle that Gothic architecture would develop two centuries later with the rib vault.
 
-## The channels of transmission
+## 2. The channels of transmission {#s2}
 
-### 1. The direct Iberian channel
+### The direct Iberian channel
 
 | Building | Date | Islamic elements |
 |----------|------|-----------------|
@@ -44,19 +46,19 @@ The domes of the maqsura in Cordoba feature **intersecting ribs** forming geomet
 
 The **Mudejar** style is living proof of transmission: these were Muslim architects and artisans who remained in Christian lands (*mudejares*) and built for Christian patrons using Islamic techniques. Christian churches have minarets as bell towers (Teruel, Zaragoza).
 
-### 2. The Sicilian and Norman channel
+### The Sicilian and Norman channel
 
 Roger II of Sicily (1130-1154) employed Arab architects. The **Palatine Chapel** of Palermo (1132-1143) combines a Romanesque basilical nave, an Islamic *muqarnas* (stalactite) ceiling, and Byzantine mosaics. The Normans of Sicily transmitted these techniques to England and France.
 
-### 3. The Crusades channel
+### The Crusades channel
 
 The Crusaders encountered Islamic architecture in the Holy Land. The pointed arch is ubiquitous in Ayyubid and Fatimid architecture. The military orders (Templars, Hospitallers) built hybrid fortresses (Krak des Chevaliers) and brought techniques back to Europe.
 
-### 4. The commercial channel
+### The commercial channel
 
 Amalfi, Pisa, Genoa, and Venice traded with the Islamic world. Merchants brought back not only goods but also architectural models. The **Duomo of Pisa** (1063) with its alternating arches is directly influenced by Arab aesthetics.
 
-## The transmission thesis: state of the debate
+## 3. The transmission thesis: state of the debate {#s3}
 
 ### For transmission
 
@@ -81,7 +83,7 @@ Amalfi, Pisa, Genoa, and Venice traded with the Islamic world. Merchants brought
 
 The current historiographical position (Bony, Dodds, Menocal) tends toward a **model of stimulation rather than copying**: European architects did not copy mosques, but contact with Islamic architecture — through Spain, Sicily, and the Crusades — stimulated technical solutions that Europeans then developed autonomously. Without this contact, the Gothic might have emerged later, or differently.
 
-## Mudejar: proof through architecture
+## 4. Mudejar: proof through architecture {#s4}
 
 The **Mudejar** style is the strongest argument for transmission, because it is not a hypothesis but a documented fact:
 
@@ -94,7 +96,7 @@ The **Mudejar** style is the strongest argument for transmission, because it is 
 
 The very existence of the Mudejar — an *Islamic* style practiced in *Christian* lands for four centuries — proves that architectural transmission is not hypothetical: it is institutional.
 
-## The colonial irony
+## 5. The colonial irony {#s5}
 
 When the French built the **Sacre-Coeur Cathedral of Algiers** (1872, now the Ketchaoua Mosque), they imported Gothic — a style that owes a structural debt to Islamic architecture — into a Muslim country, as a symbol of "superior Christian civilization."
 

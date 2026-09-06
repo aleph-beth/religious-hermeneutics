@@ -6,17 +6,19 @@ category: philosophy
 dossier: cordoue-lumieres
 description: "Irrigation, rice, sugar, cotton, saffron: the Islamic green revolution transforms Europe's landscape and economy"
 order: 10
+date: 2026-08-28
 ---
+
 **Type**: Strategic analysis — agronomic transfer
 **Thesis**: Spain and Portugal are not merely heirs to the nautical science and philosophy of Cordoba — they also inherit an **agricultural revolution** that transforms the landscape, diet, and economy of southern Europe. Andalusian crops, irrigation techniques, and agronomic knowledge are the invisible foundation of Iberian and then European prosperity.
 
 ---
 
-## The Islamic "Green Revolution" (Andrew Watson, 1974)
+## 1. The Islamic "Green Revolution" (Andrew Watson, 1974) {#s1}
 
 Historian Andrew Watson identifies a genuine agricultural revolution in the medieval Islamic world, of which Al-Andalus is the western epicenter. This revolution rests on three pillars:
 
-### 1. The introduction of new crops
+### The introduction of new crops
 
 The Arabs transported plants from India, Persia, and East Africa to the western Mediterranean. Al-Andalus became the laboratory for this acclimatization:
 
@@ -34,7 +36,7 @@ The Arabs transported plants from India, Persia, and East Africa to the western 
 | **Apricot** | China/Persia | *albaricoque* < *al-barquq* | Mediterranean arboriculture |
 | **Watermelon** | Africa | *sandia* (from Arabic *sindiyya*) | Summer diet |
 
-### 2. Systematic irrigation
+### Systematic irrigation
 
 Al-Andalus transformed the inherited Roman irrigation systems into a sophisticated network:
 
@@ -49,7 +51,7 @@ Al-Andalus transformed the inherited Roman irrigation systems into a sophisticat
 
 The **Tribunal de las Aguas** of Valencia, which meets every Thursday in front of the cathedral since the 10th century, is a juridical institution directly inherited from Islamic water law. It is inscribed on the UNESCO Intangible Cultural Heritage list.
 
-### 3. Agronomy as a science
+### Agronomy as a science
 
 Al-Andalus produced the first systematic agronomy treatises of Western Europe:
 
@@ -62,7 +64,7 @@ Al-Andalus produced the first systematic agronomy treatises of Western Europe:
 
 Ibn al-'Awwam's *Kitab al-Filaha* was not translated into Spanish until **1802** — seven centuries after it was written. Throughout that time, his techniques were practiced without their source being acknowledged.
 
-## The colonial paradox: sugarcane
+## 2. The colonial paradox: sugarcane {#s2}
 
 The sugarcane chain is the most striking example of the reception-expulsion-conquest mechanism applied to agriculture:
 
@@ -80,7 +82,7 @@ India (sugarcane cultivation)
 
 Sugar — the product that justified the slave trade and plantation slavery — is an Islamic agronomic knowledge, transmitted through Al-Andalus, turned back as an instrument of colonial domination.
 
-## The Spanish landscape as memory
+## 3. The Spanish landscape as memory {#s3}
 
 Present-day Spain is an Andalusian agricultural palimpsest:
 
@@ -93,7 +95,7 @@ Present-day Spain is an Andalusian agricultural palimpsest:
 
 Tourists who admire the "Spanish Mediterranean landscape" are contemplating an Arab landscape.
 
-## Summary: what Andalusian agriculture changed in Europe
+## 4. Summary: what Andalusian agriculture changed in Europe {#s4}
 
 | Before Al-Andalus | After Al-Andalus |
 |--------------------|-----------------|

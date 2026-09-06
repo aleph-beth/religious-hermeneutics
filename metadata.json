@@ -1,8 +1,0 @@
-{
-  "name": "Religious Hermeneutics",
-  "description": "Comparative studies and hermeneutic essays exploring Semitic reason, Maimonides, Spinoza, and Islamic philosophy.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}

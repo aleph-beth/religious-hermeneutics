@@ -4,12 +4,10 @@ lang: en
 pair: kpr-kfr-voile
 category: etymology
 dossier: kafir-kippour
-description: "The Qur'anic grammar of the veil and the modern capture of a protective gesture"
+description: "The Qur'anic khimār is a gesture of protection and dignity; the contemporary niqāb is its capture. A philological and theological reading of the veil."
 order: 4
+date: 2026-05-09
 ---
-
-# Veil and Recovering: the Qur'anic *Khimār* and the Contemporary *Niqāb*
-## The Qur'anic grammar of the veil and the modern capture of a protective gesture
 
 > **Methodological note.** This article addresses a politically sensitive subject. Four precautions are to be maintained throughout:
 >
@@ -20,19 +18,6 @@ order: 4
 > 3. Recognize the plurality of positions: Saba Mahmood's phenomenological reading remains an important voice, which forbids reducing veiled women to passive figures.
 >
 > 4. Reject Islamophobic instrumentalizations that would use the critique of the face veil to stigmatize Muslims wholesale. The mirror between rigorism and Islamophobia would *freeze the word again*.
-
-## Table of Contents
-
-1. [Introduction: two correlated theses](#s1)
-2. [The key verses and their philological reading](#s2)
-3. [The Arabic constellation of recovering](#s3)
-4. [Position of the classical juridical schools](#s4)
-5. [The rigorist turn: genealogy of the obligatory face veil](#s5)
-6. [The central theorem: the *niqāb* inverts Qur'anic grammar](#s6)
-7. [Trajectory parallel to extended *takfīr*](#s7)
-8. [Competing readings](#s8)
-9. [Conclusion: a critique internal to the Qur'an](#s9)
-10. [Bibliography](#s10)
 
 ---
 
@@ -50,7 +35,7 @@ The stake is philological, theological and historical. It is not a matter of jud
 
 ## 2. The key verses and their philological reading {#s2}
 
-### 2.1 The *khimār* verse — Q 24:30-31
+### 1 The *khimār* verse — Q 24:30-31
 
 > Tell the believing men to lower their gaze and guard their private parts… And tell the believing women to lower their gaze and guard their private parts and not display their adornment (*zīna*) except what appears thereof, **and let them draw their *khumur* over their *juyūb***.
 
@@ -60,7 +45,7 @@ The clarification *"except what appears thereof"* (*illā mā ẓahara minhā*) 
 
 A structural remark is here decisive: the verse opens with the injunction to *men* to lower their gaze (*"qul li-l-muʾminīn"*). The prescription of modesty is *reciprocal*. It bears not only on the female body but on the male gaze. It is the common ethics of *ghaḍḍ al-baṣar* — shared modesty of gaze.
 
-### 2.2 The *jilbāb* verse — Q 33:59
+### 2 The *jilbāb* verse — Q 33:59
 
 > O Prophet, tell your wives, your daughters and the women of the believers to bring down upon themselves [a part] of their *jalābīb*. **That is more apt that they should be *known and not be molested*.**
 
@@ -68,7 +53,7 @@ A structural remark is here decisive: the verse opens with the injunction to *me
 
 **The *jilbāb* is an *identification marker*, not a device of invisibilization.** That is why, structurally, it belongs to the economy of *good recovering* — like the cuirass (*kāfir*) that *signals* the warrior, like the light that *manifests*. To cover, here, is to *make identifiable*, not to *efface*.
 
-### 2.3 The *ḥijāb*-curtain verse — Q 33:53
+### 3 The *ḥijāb*-curtain verse — Q 33:53
 
 > And when you ask of them anything, ask them **from behind a *ḥijāb***.
 
@@ -76,13 +61,13 @@ A structural remark is here decisive: the verse opens with the injunction to *me
 
 Fatima Mernissi, in *Le Voile et l'élite masculine* (1991), has shown, on the basis of the texts themselves, that **the extension of the word *ḥijāb* to a general garment for all Muslim women is an *abusive metonymy* that effaces the difference between bedroom curtain and public garment**. Yet it is this metonymic extension that structures the contemporary vocabulary of the veil (*"wearing the hijab"*).
 
-### 2.4 General modesty — Q 33:32-33
+### 4 General modesty — Q 33:32-33
 
 > O wives of the Prophet, you are not like other women… and stay in your houses.
 
 **Precise philological reading.** A verse *specific* to the Prophet's wives, which establishes a particular status for them (*"you are not like other women"*). The extension of this prescription to all Muslim women is, again, the result of a late exegetical operation, contested by Muslim feminist theology.
 
-### 2.5 Internal Qur'anic link: *kufr* and textile imagery
+### 5 Internal Qur'anic link: *kufr* and textile imagery
 
 The Qur'an itself articulates *kufr* and textile-architectural imagery, as article 1 of the dossier has established:
 
@@ -116,13 +101,13 @@ Qur'anic Arabic deploys around the idea of covering a *family* of mutually reinf
 
 ## 4. Position of the classical juridical schools {#s4}
 
-### 4.1 The female *ʿawra*
+### 1 The female *ʿawra*
 
 Majority position of the three great Sunni schools (Ḥanafī, Mālikī, Shāfiʿī): the *ʿawra* (zone of the body to be covered) of the free woman excludes the face and the hands, which may remain uncovered in public. Minority position (some Hanbalite readings): the *ʿawra* includes the face and the hands. **The Hanbalite school is itself divided and the "face covered" position becomes dominant only *late* in certain milieus.**
 
 For references: Ibn Rushd, *Bidāyat al-Mujtahid*, which summarizes the positions; Ibn Qudāma, *Mughnī*. Ibn Rushd's *Bidāyat al-Mujtahid* is particularly precious because it organizes systematically the inter-school divergences: it confirms the *non-univocal* character of classical jurisprudence on this question.
 
-### 4.2 Pre-modern regional plurality
+### 2 Pre-modern regional plurality
 
 The actual wearing of the veil has been *regionally very diverse* in the pre-modern Muslim world. Head veil in Mediterranean and Persian urban milieus; bare head or light veil among nomads, peasant women, and women of popular classes; particular practices in sub-Saharan, Indonesian, Chinese or Indian societies. **The contemporary standardization of the veil is a modern phenomenon**, as Leila Ahmed has documented in *A Quiet Revolution* (2011).
 
@@ -130,23 +115,23 @@ The actual wearing of the veil has been *regionally very diverse* in the pre-mod
 
 ## 5. The rigorist turn: genealogy of the obligatory face veil {#s5}
 
-### 5.1 Ibn Taymiyya (14th century)
+### 1 Ibn Taymiyya (14th century)
 
 Ibn Taymiyya (d. 1328) hardens the Hanbalite position and tends to extend the *ʿawra* to the face. Ibn al-Qayyim al-Jawziyya prolongs the current. The neo-Hanbalite turn is here parallel to that seen on *takfīr* (article 3 § 2).
 
-### 5.2 Wahhabism (18th century)
+### 2 Wahhabism (18th century)
 
 Ibn ʿAbd al-Wahhāb (d. 1792) imposes the face veil in the territories under Saudi control. The extension to the entire Arabian peninsula is a fact of the 20th century (Saudi unification 1932). Before that, even in Arabia, the face veil was by no means universal.
 
-### 5.3 The Islamic Revival (1970-2020)
+### 3 The Islamic Revival (1970-2020)
 
 The post-1970 "Islamic revival" (*ṣaḥwa*) generalizes the *ḥijāb* (head veil) in Muslim societies in which it had receded under the effect of national modernisms (Nasser's Egypt, the Shah's Iran, Bourguiba's Tunisia, Kemalist Turkey). The *niqāb* spreads through Salafi and Deobandi networks from the 1980s-1990s, particularly after Saudi money was injected into global preaching.
 
-### 5.4 State imposition
+### 4 State imposition
 
 State imposition of the veil (Iran 1979-, Taliban Afghanistan 1996-2001 and 2021-, Saudi Arabia until the partial 2018 reform) marks the high point. The Iranian protests of 2022-2023 ("Woman, Life, Freedom"), in which women remove their veil in public, are *philologically* interesting: they refuse to be *non-recognized* — that is, they refuse the contemporary inversion of Qur'anic *yuʿrafna*. Their gesture is, in a sense, *closer to the Qur'an* than the governmental imposition.
 
-### 5.5 Dating of the trajectory
+### 5 Dating of the trajectory
 
 | Stage | Date | Key actor | Effect |
 |---|---|---|---|
@@ -162,7 +147,7 @@ State imposition of the veil (Iran 1979-, Taliban Afghanistan 1996-2001 and 2021
 
 ## 6. The central theorem: the *niqāb* inverts Qur'anic grammar {#s6}
 
-### 6.1 The double inversion
+### 1 The double inversion
 
 The contemporary face veil (*niqāb*, *burqaʿ*) **philologically inverts** the Qur'anic grammar of the veil. This inversion operates at *two levels*:
 
@@ -178,7 +163,7 @@ The contemporary face veil (*niqāb*, *burqaʿ*) **philologically inverts** the 
 - Where the Qur'an reproaches the *kāfir* for having a covered gaze, the face veil covers the believer's face.
 - **The structure of the modern face veil reproduces, on the body of the believer, the gesture that the Qur'an reproaches in the unbeliever.**
 
-### 6.2 The theorem
+### 2 The theorem
 
 The theorem may be formulated in one sentence:
 
@@ -188,7 +173,7 @@ With the difference that the Qur'anic *ghishāwa* is *over the eyes of the *kāf
 
 This philological inversion is *one of the most striking operations* of radical Islamic religious modernity. It is not perceived as such, because the memory of the root *k-f-r* has been impoverished (cf. article 3); but it is, structurally, manifest to anyone mobilizing comparative philology.
 
-### 6.3 Internal articulation with the Semitic sisters
+### 3 Internal articulation with the Semitic sisters
 
 The Hebrew *kapporet* (Lev 16) — gold lid that *covers* the Ark of the Covenant — is set in place to *protect* the encounter of the holy and the human; it is never a matter of effacing the human. The *parokhet* of the Jerusalem Temple separates the Holy of Holies from the ordinary sanctuary, but it is also not a matter of effacing the high priest's face. The tearing of this *parokhet* at the death of Christ (Matt 27:51; Mark 15:38; Luke 23:45) is, in the Synoptics, *an opening*, not a closure. **The entire Semitic tradition of the cultic veil is protective, never occultative.** The modern face veil is, in this sense, *exorbitant* to the shared Semitic grammar.
 
@@ -212,27 +197,27 @@ Article 3 of the dossier has demonstrated that extensive *takfīr* is a modern i
 
 ## 8. Competing readings {#s8}
 
-### 8.1 Muslim feminist reading (Mernissi, Lamrabet, Wadud, Barlas, Hassan, Ahmed)
+### 1 Muslim feminist reading (Mernissi, Lamrabet, Wadud, Barlas, Hassan, Ahmed)
 
 The Qur'anic veil is a prescription of modesty inscribed in precise historical conditions (Medina, 7th century, urban harassment of women), modulated by a general ethical horizon (the reciprocal modesty of men and women, underlined by Q 24:30 *before* Q 24:31). The *khimār* and *jilbāb* are devices of *signalling* and *protection*, not of occultation. The face veil is a late innovation, heterogeneous to Qur'anic grammar itself, diffused by modern rigorist currents. **The Muslim feminist position thus rejects the *niqāb* and *burqaʿ* *in the name of the Qur'an itself*, without need for external arguments.** A dominant position in contemporary progressive Muslim theology, particularly in the Maghreb, Indonesia and Western diasporas.
 
-### 8.2 Phenomenological-pious reading (Mahmood, Bullock)
+### 2 Phenomenological-pious reading (Mahmood, Bullock)
 
 Saba Mahmood (*Politics of Piety*, 2005), on the basis of an ethnographic inquiry in the Egyptian pious movement, defends the practice of the veil (including the *niqāb* in some cases) as **a form of female religious *agency***, irreducible to the liberal grid of emancipation. For her, judging the veil as *"occultation"* is still a colonial-liberal gesture that misunderstands the religious temporality proper to the pious subject. This position is philosophically important (heir to Foucault and Talal Asad); it does not *defend* the face veil but *resists its external critique*. A dominant position in postcolonial anthropology. It does not contradict the Muslim feminist reading on the philological plane but shifts it to the level of effective practices.
 
-### 8.3 Radical critical reading (El Saadawi, Chebel)
+### 3 Radical critical reading (El Saadawi, Chebel)
 
 Nawal El Saadawi (*The Hidden Face of Eve*, 1980) and Malek Chebel defend a frontal critique: the veil, in all its forms, is the expression of a patriarchy to be combated. This position does not finely distinguish *khimār* / *niqāb* and tends to reject wholesale. A minoritarian but influential position in secular Maghrebi and Egyptian milieus. It has contributed to public discourse but is rejected by the majority of Muslim feminist theologians, who hold that one can *defend Qur'anic modesty* while *rejecting the modern face veil*.
 
-### 8.4 Conservative-traditional reading
+### 4 Conservative-traditional reading
 
 Position of the classical juridical schools, which maintains *plurality* (face and hands visible according to Ḥanafī, Mālikī, Shāfiʿī; face covered for some minoritarian Ḥanbalī readings), and which historically *coexisted peacefully* with very diverse social practices across regions of the Muslim world. This pre-modern position is now present only in traditional currents (Azhar, Zaytuna, Qarawiyyīn, moderate Deobandi) and has been marginalized by the Salafi revival.
 
-### 8.5 Contemporary Salafi-rigorist reading
+### 5 Contemporary Salafi-rigorist reading
 
 Position issued from Ibn Taymiyya and radicalized by Wahhabism: the woman's *ʿawra* includes *her entire body, including face and hands*. The *niqāb* is obligatory. A position **doctrinally minoritarian** in Islamic history but **discursively hegemonic** in some contemporary spheres (Saudi Arabia until 2018, global Salafi currents, jihadism).
 
-### 8.6 Levels of certainty
+### 6 Levels of certainty
 
 | Claim | Degree |
 |---|---|

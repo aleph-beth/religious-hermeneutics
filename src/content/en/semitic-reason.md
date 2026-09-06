@@ -3,13 +3,12 @@ title: "Secularism and Reason in the Semitic World"
 lang: en
 pair: semitic-reason
 category: philosophy
-description: "Al-Farabi and Midrash as keys to rethinking the debate"
+description: "Al-Farabi makes the angel a figure of reason, the Gospels rewrite Scripture as midrash: two Semitic rationalities that French secularism has never read."
 order: 1
+date: 2026-02-11
 ---
 
-# **Secularism and reason in the Semitic world: Al-Fārābī and Midrash as keys to rethinking the debate**
-
-# **Introduction**
+## 1. Introduction {#s1}
 
 **Hook**: *“In France, secularism is often perceived as a bulwark against religious irrationality. However, this opposition ignores a thousand-year-old heritage: that of Semitic philosophers and exegetes who made reason a universal language for understanding sacred texts. What if the solution to contemporary tensions lay in rediscovering Al-Fārābī and the Midrash?”*
 
@@ -31,9 +30,9 @@ order: 1
 
 **Outline**: We will first explore how Al-Fārābī and the Midrash offer models of rationality, then analyze the shortcomings of French secularism, before proposing concrete solutions for an “enlightened” approach.
 
-# **1\. Reason at the heart of Semitic traditions: Al-Fārābī and the Midrash, two models of rationality**
+## 2. Reason at the heart of Semitic traditions: Al-Fārābī and the Midrash, two models of rationality {#s2}
 
-## **1.1. Al-Fārābī: the angel as a representation of reason**
+### Al-Fārābī: the angel as a representation of reason
 
 In the Sunni tradition, the angel Gabriel is often perceived as a heavenly messenger transmitting the Quran in a literal sense. **For Al-Fārābī, the angel is not a supernatural entity, but reason itself.** Here's why:
 
@@ -50,7 +49,7 @@ In the Sunni tradition, the angel Gabriel is often perceived as a heavenly messe
 
 ---
 
-## **1.2. The Gospels as Midrash: a combination of Halakha and Agada**
+### The Gospels as Midrash: a combination of Halakha and Agada
 
 **Midrash** (מדרש) is a Jewish method of interpreting Scripture, divided into two branches:
 
@@ -80,7 +79,7 @@ The Gospels are not simply a historical account or a work of fiction. They can b
 
 ---
 
-## **1.3. An ignored common heritage**
+### An ignored common heritage
 
 Al-Fārābī and the Midrash show that **reason and revelation are not opposed**:
 
@@ -93,9 +92,9 @@ Al-Fārābī and the Midrash show that **reason and revelation are not opposed**
 
 *If these traditions offer keys to reconciling faith and reason, why does French secularism ignore them? And how does this ignorance fuel current tensions?*
 
-# ***2\. French secularism: a legacy of the Enlightenment at odds with Semitic traditions***
+## 3. French secularism: a legacy of the Enlightenment at odds with Semitic traditions {#s3}
 
-## ***2.1. A structural misunderstanding of rational currents***
+### A structural misunderstanding of rational currents
 
 *French secularism, heir to the Enlightenment, was built on a binary opposition between **reason** and **religion**, ignoring the philosophical and exegetical traditions of Semitic monotheisms. This misunderstanding has profound consequences:*
 
@@ -120,7 +119,7 @@ Al-Fārābī and the Midrash show that **reason and revelation are not opposed**
 
 ---
 
-## ***2.2. The consequences of this ignorance***
+### The consequences of this ignorance
 
 *This lack of knowledge fuels tensions and misunderstandings:*
 
@@ -139,7 +138,7 @@ Al-Fārābī and the Midrash show that **reason and revelation are not opposed**
 
 ---
 
-## ***2.3. “Blind” secularism in the face of contemporary challenges***
+### “Blind” secularism in the face of contemporary challenges
 
 *By refusing to teach religions (for fear of proselytism), French secularism produces generations that **understand neither their own religious history nor that of others**:*
 
@@ -151,7 +150,7 @@ Al-Fārābī and the Midrash show that **reason and revelation are not opposed**
 
 ---
 
-## ***2.4. The risks of dogmatic secularism***
+### The risks of dogmatic secularism
 
 * ***Reinforcing divisions**: By ignoring the rational traditions of religions, French secularism contributes to **polarizing debates** (e.g., the opposition between “Islam” and “the republic”).* 
 * ***Political instrumentalization**: Discourse on “radicalization” or “communitarianism” focuses on symbols, without ever addressing the **texts** or **interpretations** that could shed light on these phenomena.*
@@ -162,7 +161,7 @@ Al-Fārābī and the Midrash show that **reason and revelation are not opposed**
 
 ---
 
-# **Conclusion**
+## 4. Conclusion {#s4}
 
 **Summary**:
 

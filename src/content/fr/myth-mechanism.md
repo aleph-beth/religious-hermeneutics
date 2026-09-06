@@ -3,21 +3,16 @@ title: "Le mythe comme mécanisme"
 lang: fr
 pair: myth-mechanism
 category: philosophy
-description: "Contre le bruit de l'information, pour une intelligence des structures profondes"
+description: "La religion entretient une croyance, le mythe raconte une structure. De Caïn à Rome, lire les mythes comme des mécanismes contre le bruit de l'information."
 order: 4
+date: 2026-04-06
 ---
-
-# **Le mythe comme mécanisme**
-
-## Contre le bruit de l'information, pour une intelligence des structures profondes
-
-*Mythologie comparée · Midrash · Histoire des empires*
 
 Nous vivons dans une époque convaincue que plus d'information produit plus de compréhension. Cette conviction est fausse. Ce qui manque au monde n'est pas la donnée, mais le mécanisme. Et ce mécanisme, nous l'avons déjà — il dort dans les mythes que nous avons cessé de lire sérieusement.
 
 ---
 
-# **I. Mythe et religion — une confusion fatale**
+## 1. Mythe et religion — une confusion fatale {#s1}
 
 Il existe une distinction fondamentale, et pourtant constamment abolie, entre le mythe et la religion. La religion, dans ses formes majoritaires, est littéraliste : elle exige une adhésion au récit comme fait historique, comme vérité de premier degré. Le mythe, lui, n'a jamais prétendu à la littéralité. Il est une écriture imagée, une compression de vérités sur la mécanique profonde de l'humanité.
 
@@ -29,7 +24,7 @@ C'est dans cet espace que s'inscrit ce que j'appelle le midrash — non comme si
 
 ---
 
-# **II. Caïn — la matrice de l'empire**
+## 2. Caïn — la matrice de l'empire {#s2}
 
 Prenons le mythe de Caïn. Après le meurtre d'Abel le berger, cet agriculteur condamné à errer fonde la première ville, qu'il nomme du nom de son fils. Et sa descendance produit exactement les trois piliers de la civilisation humaine :
 
@@ -48,7 +43,7 @@ La tradition islamique ajoute une couche d'une densité rare : un corbeau enseig
 
 ---
 
-# **III. Rome — le sanglier sur l'autel**
+## 3. Rome — le sanglier sur l'autel {#s3}
 
 Le même mécanisme traverse Rome. Romulus tue Remus pour tracer le premier sillon de la cité. Tous deux fils de Mars — dieu de la guerre, certes, mais également dieu de l'agriculture. La destruction précède la fondation. L'un doit mourir pour que l'autre construise.
 
@@ -60,7 +55,7 @@ Cette identification du porc à Rome irrigue ensuite la tradition islamique de f
 
 ---
 
-# **IV. Détruire pour re-signifier**
+## 4. Détruire pour re-signifier {#s4}
 
 Antiochus Épiphane, en 167 avant notre ère, sacrifie un porc sur l'autel du Temple — c'est l'abomination de la désolation dans le livre de Daniel. Les textes apocalyptiques juifs voient ensuite en Rome la répétition d'Antiochus à plus grande échelle. L'empire se répète avec le même symbole, à travers les siècles, parce qu'il accomplit la même fonction.
 
@@ -70,7 +65,7 @@ Ce mécanisme ne s'est pas éteint à l'Antiquité. Après Gaza, des équipes am
 
 ---
 
-# **V. L'information est du bruit**
+## 5. L'information est du bruit {#s5}
 
 Revenons à la question de fond. Nous vivons dans une époque obscédément accumulative : plus de données, plus de sources, plus de fact-checking, plus de rapports d'analyse. Et pourtant, la compréhension du monde ne progresse pas. Elle régresse.
 
