@@ -390,3 +390,31 @@ div[data-lang-block].active {
     padding: 0 var(--space-md);
   }
 }
+
+/* ---- Figures (inline SVG diagrams) ---- */
+.article-content .article-figure {
+  margin: var(--space-xl) auto;
+  max-width: 30rem;
+  text-align: center;
+  color: var(--text);
+}
+
+.article-content .article-figure svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  font-family: var(--font-body);
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  padding: var(--space-sm);
+}
+
+.article-content .article-figure figcaption {
+  margin-top: var(--space-sm);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+  text-align: left;
+}
