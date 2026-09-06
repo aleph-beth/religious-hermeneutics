@@ -4,7 +4,7 @@ lang: fr
 pair: etymological-irony
 category: philosophy
 dossier: cordoue-lumieres
-description: "Le vocabulaire technique de la puissance européenne, maritime, militaire, scientifique et commerciale, est massivement d'origine arabe : chaque mot est une trace fossile de la dette."
+description: "Le vocabulaire technique de la puissance européenne, maritime, militaire, scientifique, commerciale, est massivement d'origine arabe : chaque mot est une trace fossile de la dette."
 order: 3
 date: 2026-08-28
 ---
