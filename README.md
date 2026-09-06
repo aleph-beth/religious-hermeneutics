@@ -21,6 +21,7 @@ Etudes comparatives explorant les courants interpretatifs, philosophiques et cul
 | [Midrashic Water](https://aleph-beth.github.io/religious-hermeneutics/articles/midrash-water/) | [Eaux midrashiques](https://aleph-beth.github.io/religious-hermeneutics/articles/midrash-water/) | [EN](midrash-water-EN.md) / [FR](midrash-water-FR.md) |
 | [Stones, Trees, and the Law](https://aleph-beth.github.io/religious-hermeneutics/articles/stones-trees-law/) | [Pierres, arbres et la Loi](https://aleph-beth.github.io/religious-hermeneutics/articles/stones-trees-law/) | [EN](stones-trees-law-EN.md) / [FR](stones-trees-law-FR.md) |
 | [God, Rationality, and Mediation](https://aleph-beth.github.io/religious-hermeneutics/articles/who-is-god/) | [Dieu, rationalite et mediation](https://aleph-beth.github.io/religious-hermeneutics/articles/who-is-god/) | [EN](who-is-god-EN.md) / [FR](who-is-god-FR.md) |
+| [The Flame and Its Shadow: A Physics of Origin](https://aleph-beth.github.io/religious-hermeneutics/articles/zohar-flame-microgravity/) | [La flamme et son ombre : une physique de l'origine](https://aleph-beth.github.io/religious-hermeneutics/articles/zohar-flame-microgravity/) | [EN](src/content/en/zohar-flame-microgravity.md) / [FR](src/content/fr/zohar-flame-microgravity.md) |
 
 ### Philosophy & History / Philosophie & Histoire
 
