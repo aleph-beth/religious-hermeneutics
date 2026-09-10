@@ -28,6 +28,13 @@ export const dossiers: Record<string, DossierMeta> = {
     descFr: 'Réception, expulsion, conquête : comment al-Andalus a bâti la modernité européenne (philosophie, optique, médecine, papier, musique) avant d\'être effacée de son récit.',
     icon: '🕌',
   },
+  'origine-litteraire-hadith': {
+    titleEn: 'The literary origins of the hadith',
+    titleFr: "L'origine littéraire des hadiths",
+    descEn: 'The hadith read as literature: ancient materials rearranged under a new guarantor, and the migration of the guarantor of truth from verse to chain.',
+    descFr: 'Le hadith lu comme littérature : des matériaux antiques réagencés sous un garant nouveau, et la migration du garant de vérité du verset à la chaîne.',
+    icon: '🔗',
+  },
 };
 
 export const categories = [

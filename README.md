@@ -103,6 +103,14 @@ Le déploiement sur GitHub Pages se fait automatiquement à chaque fusion dans `
 | 16 | [La colonisation du Maghreb — Quand l'Andalousie revient en armes](https://aleph-beth.github.io/religious-hermeneutics/articles/maghreb-colonization/) | [The Colonization of the Maghreb — When Al-Andalus Returns in Arms](https://aleph-beth.github.io/religious-hermeneutics/articles/maghreb-colonization/) |
 | 17 | [L'occultation de la dette — Comment l'Europe a effacé Cordoue de son récit](https://aleph-beth.github.io/religious-hermeneutics/articles/debt-concealment/) | [The Concealment of the Debt — How Europe Erased Cordoba from Its Narrative](https://aleph-beth.github.io/religious-hermeneutics/articles/debt-concealment/) |
 | 18 | [Décolonisation — Le retour du boomerang](https://aleph-beth.github.io/religious-hermeneutics/articles/decolonization-boomerang/) | [Decolonization — The Boomerang Effect](https://aleph-beth.github.io/religious-hermeneutics/articles/decolonization-boomerang/) |
+
+### Dossier — L
+
+[https://aleph-beth.github.io/religious-hermeneutics/dossiers/origine-litteraire-hadith/](https://aleph-beth.github.io/religious-hermeneutics/dossiers/origine-litteraire-hadith/)
+
+| Volet | FR | EN |
+|---|---|---|
+| 1 | [Le hadith comme Mishna : enquête sur la fabrication de la tradition islamique](https://aleph-beth.github.io/religious-hermeneutics/articles/hadith-as-mishna/) | [The Hadith as Mishnah: An Inquiry into the Making of Islamic Tradition](https://aleph-beth.github.io/religious-hermeneutics/articles/hadith-as-mishna/) |
 <!-- ARTICLES:END -->
 
 ## Licence
