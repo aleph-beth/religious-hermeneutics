@@ -35,6 +35,13 @@ export const dossiers: Record<string, DossierMeta> = {
     descFr: 'Le hadith lu comme littérature : des matériaux antiques réagencés sous un garant nouveau, et la migration du garant de vérité du verset à la chaîne.',
     icon: '🔗',
   },
+  'ephese': {
+    titleEn: 'Ephesus: the feminine and the sacred',
+    titleFr: 'Éphèse : le féminin et le sacré',
+    descEn: 'A valley, two mountains and one persistent feminine: from Artemis and the Amazons to Mary and the Seven Sleepers, through the emperors.',
+    descFr: 'Une vallée, deux montagnes et un féminin qui demeure : d\'Artémis et des Amazones à Marie et aux Sept Dormants, en passant par les empereurs.',
+    icon: '🏛️',
+  },
 };
 
 export const categories = [

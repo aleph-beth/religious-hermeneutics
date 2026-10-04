@@ -104,13 +104,24 @@ Le déploiement sur GitHub Pages se fait automatiquement à chaque fusion dans `
 | 17 | [L'occultation de la dette — Comment l'Europe a effacé Cordoue de son récit](https://aleph-beth.github.io/religious-hermeneutics/articles/debt-concealment/) | [The Concealment of the Debt — How Europe Erased Cordoba from Its Narrative](https://aleph-beth.github.io/religious-hermeneutics/articles/debt-concealment/) |
 | 18 | [Décolonisation — Le retour du boomerang](https://aleph-beth.github.io/religious-hermeneutics/articles/decolonization-boomerang/) | [Decolonization — The Boomerang Effect](https://aleph-beth.github.io/religious-hermeneutics/articles/decolonization-boomerang/) |
 
-### Dossier — L
+### Dossier — L'origine littéraire des hadiths
 
 [https://aleph-beth.github.io/religious-hermeneutics/dossiers/origine-litteraire-hadith/](https://aleph-beth.github.io/religious-hermeneutics/dossiers/origine-litteraire-hadith/)
 
 | Volet | FR | EN |
 |---|---|---|
 | 1 | [Le hadith comme Mishna : enquête sur la fabrication de la tradition islamique](https://aleph-beth.github.io/religious-hermeneutics/articles/hadith-as-mishna/) | [The Hadith as Mishnah: An Inquiry into the Making of Islamic Tradition](https://aleph-beth.github.io/religious-hermeneutics/articles/hadith-as-mishna/) |
+
+### Dossier — Éphèse : le féminin et le sacré
+
+[https://aleph-beth.github.io/religious-hermeneutics/dossiers/ephese/](https://aleph-beth.github.io/religious-hermeneutics/dossiers/ephese/)
+
+| Volet | FR | EN |
+|---|---|---|
+| 1 | [Géographie sacrée d'Éphèse : une vallée, deux montagnes, trois niveaux](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-sacred-geography/) | [The Sacred Geography of Ephesus: One Valley, Two Mountains, Three Levels](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-sacred-geography/) |
+| 2 | [Les empereurs à Éphèse et leurs rapports au féminin](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-emperors-feminine/) | [The Emperors at Ephesus and Their Relation to the Feminine](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-emperors-feminine/) |
+| 3 | [Artémis, Amazones et Marie : le féminin, la fondation et la virginité](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-artemis-amazons-mary/) | [Artemis, the Amazons and Mary: the Feminine, Foundation and Virginity](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-artemis-amazons-mary/) |
+| 4 | [Les Sept Dormants d'Éphèse et le féminin](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-seven-sleepers/) | [The Seven Sleepers of Ephesus and the Feminine](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-seven-sleepers/) |
 <!-- ARTICLES:END -->
 
 ## Licence
