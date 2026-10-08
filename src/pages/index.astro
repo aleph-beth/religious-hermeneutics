@@ -59,6 +59,13 @@ const dossierCards = Object.entries(dossiers).map(([id, meta]) => {
         </span>
       </p>
 
+      <p class="hero-method">
+        <a href={`${base}articles/method-sheet/`}>
+          <span data-lang="en" class="active">How we work: read the method sheet →</span>
+          <span data-lang="fr">Comment nous travaillons : lire la fiche méthode →</span>
+        </a>
+      </p>
+
       <div class="search-box-wrapper">
         <div class="search-input-group">
           <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -352,6 +359,23 @@ const dossierCards = Object.entries(dossiers).map(([id, meta]) => {
     margin-bottom: var(--space-xl);
     font-family: var(--font-heading);
     font-style: italic;
+  }
+
+  .hero-method {
+    margin: calc(-1 * var(--space-md)) 0 var(--space-xl);
+    font-size: 0.92rem;
+  }
+
+  .hero-method a {
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease;
+  }
+
+  .hero-method a:hover {
+    border-bottom-color: var(--accent);
   }
 
   .search-box-wrapper {
