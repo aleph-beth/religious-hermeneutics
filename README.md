@@ -36,6 +36,7 @@ Le déploiement sur GitHub Pages se fait automatiquement à chaque fusion dans `
 
 | Date | FR | EN | Catégorie |
 |---|---|---|---|
+| 2026-10-08 | [Le doré et le voilé : ce que les mots kāfir et dajjāl disent de la violence du 7 octobre](https://aleph-beth.github.io/religious-hermeneutics/articles/kafir-dajjal-october-7/) | [The Gilded and the Veiled: What the Words Kāfir and Dajjāl Say About the Violence of October 7](https://aleph-beth.github.io/religious-hermeneutics/articles/kafir-dajjal-october-7/) | Étymologie |
 | 2026-09-06 | [Falsafa et Califat : une chronologie parallèle de la pensée arabe](https://aleph-beth.github.io/religious-hermeneutics/articles/falsafa-caliphate/) | [Falsafa and Caliphate: A Parallel Chronology of Arab Thought](https://aleph-beth.github.io/religious-hermeneutics/articles/falsafa-caliphate/) | Philosophie & Histoire |
 | 2026-09-06 | [La flamme et son ombre : une physique de l'origine](https://aleph-beth.github.io/religious-hermeneutics/articles/zohar-flame-microgravity/) | [The Flame and Its Shadow: A Physics of Origin](https://aleph-beth.github.io/religious-hermeneutics/articles/zohar-flame-microgravity/) | Herméneutique |
 | 2026-08-06 | [Shalom : la lettre cassée](https://aleph-beth.github.io/religious-hermeneutics/articles/shalom-shillem/) | [Shalom: The Broken Letter](https://aleph-beth.github.io/religious-hermeneutics/articles/shalom-shillem/) | Étymologie |
