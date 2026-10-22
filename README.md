@@ -36,6 +36,7 @@ Le déploiement sur GitHub Pages se fait automatiquement à chaque fusion dans `
 
 | Date | FR | EN | Catégorie |
 |---|---|---|---|
+| 2026-10-22 | [Morris « Two-Gun » Cohen, la Chine et Esther](https://aleph-beth.github.io/religious-hermeneutics/articles/morris-cohen-esther/) | [Morris “Two-Gun” Cohen, China and Esther](https://aleph-beth.github.io/religious-hermeneutics/articles/morris-cohen-esther/) | Analyse culturelle |
 | 2026-10-08 | [Le doré et le voilé : ce que les mots kāfir et dajjāl disent de la violence du 7 octobre](https://aleph-beth.github.io/religious-hermeneutics/articles/kafir-dajjal-october-7/) | [The Gilded and the Veiled: What the Words Kāfir and Dajjāl Say About the Violence of October 7](https://aleph-beth.github.io/religious-hermeneutics/articles/kafir-dajjal-october-7/) | Étymologie |
 | 2026-10-08 | [Fiche méthode](https://aleph-beth.github.io/religious-hermeneutics/articles/method-sheet/) | [Method Sheet](https://aleph-beth.github.io/religious-hermeneutics/articles/method-sheet/) | Herméneutique |
 | 2026-09-06 | [Falsafa et Califat : une chronologie parallèle de la pensée arabe](https://aleph-beth.github.io/religious-hermeneutics/articles/falsafa-caliphate/) | [Falsafa and Caliphate: A Parallel Chronology of Arab Thought](https://aleph-beth.github.io/religious-hermeneutics/articles/falsafa-caliphate/) | Philosophie & Histoire |
