@@ -42,6 +42,20 @@ export const dossiers: Record<string, DossierMeta> = {
     descFr: 'Une vallée, deux montagnes et un féminin qui demeure : d\'Artémis et des Amazones à Marie et aux Sept Dormants, en passant par les empereurs.',
     icon: '🏛️',
   },
+  'eschatologie-islam': {
+    titleEn: 'The Eschatology of Islam: the root S-L-M',
+    titleFr: 'Eschatologie de l\'islam : la racine S-L-M',
+    descEn: 'Two parts on the root S-L-M: war and peace as the two hands of a single demand for wholeness, and the death-by-fulfilment of a name turned empire.',
+    descFr: 'Deux volets sur la racine S-L-M : la guerre et la paix comme deux mains d\'une même exigence de totalité, et la mort par accomplissement d\'un nom devenu empire.',
+    icon: '⏳',
+  },
+  'evangiles-midrash-histoire': {
+    titleEn: 'The Gospels: Midrash Text or Historical Account?',
+    titleFr: 'Les Évangiles : texte midrash ou récit historique ?',
+    descEn: 'One corpus, two regimes of truth: what happens to a text when the language that carried its genre is replaced by another.',
+    descFr: 'Un même corpus, deux régimes de vérité : ce qui arrive à un texte quand la langue qui portait son genre est remplacée par une autre.',
+    icon: '📖',
+  },
 };
 
 export const categories = [

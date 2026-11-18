@@ -127,6 +127,23 @@ Le déploiement sur GitHub Pages se fait automatiquement à chaque fusion dans `
 | 2 | [Les empereurs à Éphèse et leurs rapports au féminin](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-emperors-feminine/) | [The Emperors at Ephesus and Their Relation to the Feminine](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-emperors-feminine/) |
 | 3 | [Artémis, Amazones et Marie : le féminin, la fondation et la virginité](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-artemis-amazons-mary/) | [Artemis, the Amazons and Mary: the Feminine, Foundation and Virginity](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-artemis-amazons-mary/) |
 | 4 | [Les Sept Dormants d'Éphèse et le féminin](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-seven-sleepers/) | [The Seven Sleepers of Ephesus and the Feminine](https://aleph-beth.github.io/religious-hermeneutics/articles/ephesus-seven-sleepers/) |
+
+### Dossier — Eschatologie de l'islam : la racine S-L-M
+
+[https://aleph-beth.github.io/religious-hermeneutics/dossiers/eschatologie-islam/](https://aleph-beth.github.io/religious-hermeneutics/dossiers/eschatologie-islam/)
+
+| Volet | FR | EN |
+|---|---|---|
+| 1 | [L'islam, religion de guerre ou de paix ?](https://aleph-beth.github.io/religious-hermeneutics/articles/slm-war-or-peace/) | [Islam: A Religion of War or of Peace?](https://aleph-beth.github.io/religious-hermeneutics/articles/slm-war-or-peace/) |
+| 2 | [L'islam dominera-t-il le monde pour mourir le lendemain ?](https://aleph-beth.github.io/religious-hermeneutics/articles/slm-dominate-then-die/) | [Will Islam Dominate the World Only to Die the Next Day?](https://aleph-beth.github.io/religious-hermeneutics/articles/slm-dominate-then-die/) |
+
+### Dossier — Les Évangiles : texte midrash ou récit historique ?
+
+[https://aleph-beth.github.io/religious-hermeneutics/dossiers/evangiles-midrash-histoire/](https://aleph-beth.github.io/religious-hermeneutics/dossiers/evangiles-midrash-histoire/)
+
+| Volet | FR | EN |
+|---|---|---|
+| 1 | [Les Évangiles : du midrash à l'histoire](https://aleph-beth.github.io/religious-hermeneutics/articles/gospels-midrash-to-history/) | [The Gospels: From Midrash to History](https://aleph-beth.github.io/religious-hermeneutics/articles/gospels-midrash-to-history/) |
 <!-- ARTICLES:END -->
 
 ## Licence
