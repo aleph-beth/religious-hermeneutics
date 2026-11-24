@@ -45,8 +45,8 @@ export const dossiers: Record<string, DossierMeta> = {
   'eschatologie-islam': {
     titleEn: 'The Eschatology of Islam: the root S-L-M',
     titleFr: 'Eschatologie de l\'islam : la racine S-L-M',
-    descEn: 'Three parts on the root S-L-M and its history: war and peace as two hands of a single demand for wholeness, the death-by-fulfilment of a name turned empire, and the mechanism by which expansion manufactured internal divisions.',
-    descFr: 'Trois volets sur la racine S-L-M et son histoire : la guerre et la paix comme deux mains d\'une même exigence de totalité, la mort par accomplissement d\'un nom devenu empire, et le mécanisme par lequel l\'expansion a fabriqué les divisions internes.',
+    descEn: 'Four parts on eschatology and its mechanisms: war and peace as two hands of a single demand for wholeness, the death-by-fulfilment of a name turned empire, the mechanism by which expansion manufactured internal divisions, and Sodom, Babel and the two ends of time read through blood, the gate and money.',
+    descFr: 'Quatre volets sur l\'eschatologie et ses mécanismes : la guerre et la paix comme deux mains d\'une même exigence de totalité, la mort par accomplissement d\'un nom devenu empire, le mécanisme par lequel l\'expansion a fabriqué les divisions internes, et Sodome, Babel et les deux fins des temps lus à travers le sang, la porte et l\'argent.',
     icon: '⏳',
   },
   'evangiles-midrash-histoire': {
